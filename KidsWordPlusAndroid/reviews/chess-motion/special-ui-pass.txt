@@ -1,0 +1,1 @@
+Promotion to queen and en passant verified via UI; saved move notation checked.

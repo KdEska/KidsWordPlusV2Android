@@ -1,0 +1,4595 @@
+[
+  {
+    "audioPath": "audio/slide_animals_calf_tr.mp3",
+    "sha256": "e788f46e9abb0fe84620a148455303e5876e6cf4521165274c74e35e8ac7cd5b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:7"
+    ],
+    "transcript": "Dana!",
+    "segments": [
+      {
+        "text": " Dana!",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6153960227966309,
+        "noSpeechProbability": 0.1285271793603897
+      }
+    ],
+    "duration": 0.936,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_dolphin_tr.mp3",
+    "sha256": "b4bd0f71d63dc91a7be1319d9499e0d2c79240d39fbc3923b5dd48328bb50455",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:21"
+    ],
+    "transcript": "Yunus Balığı",
+    "segments": [
+      {
+        "text": " Yunus Balığı",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6379474231175014,
+        "noSpeechProbability": 0.6903130412101746
+      }
+    ],
+    "duration": 1.272,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_dragonfly_tr.mp3",
+    "sha256": "050f746defa2de2fc8414ce2c6a420603747ad949fb12050336421aade08d21a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:23"
+    ],
+    "transcript": "Helikopter böceği",
+    "segments": [
+      {
+        "text": " Helikopter böceği",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.3690083384513855,
+        "noSpeechProbability": 0.23281535506248474
+      }
+    ],
+    "duration": 1.704,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_housefly_tr.mp3",
+    "sha256": "610e1fc12550d408ba67644bb3a445bf1357f48b8d5f3797542d66d070593ede",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:42"
+    ],
+    "transcript": "Sinek",
+    "segments": [
+      {
+        "text": " Sinek",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6794537544250489,
+        "noSpeechProbability": 0.28223150968551636
+      }
+    ],
+    "duration": 0.864,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_jellyfish_tr.mp3",
+    "sha256": "e70636a23c4396199f66629e3e26fc8c860ed848518293e66af6ddc8d3cf8970",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:46"
+    ],
+    "transcript": "Deniz Anası",
+    "segments": [
+      {
+        "text": " Deniz Anası",
+        "start": 0.0,
+        "end": 1.42,
+        "avgLogprob": -0.4721984011786325,
+        "noSpeechProbability": 0.32220208644866943
+      }
+    ],
+    "duration": 1.416,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_ladybug_tr.mp3",
+    "sha256": "9cf61c1f024892933d926ec187974e98ef25411a150bfde6066df8bd79baa609",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:48"
+    ],
+    "transcript": "Uçuş Pöce'yi.",
+    "segments": [
+      {
+        "text": " Uçuş Pöce'yi.",
+        "start": 0.0,
+        "end": 1.46,
+        "avgLogprob": -0.888358602921168,
+        "noSpeechProbability": 0.11119061708450317
+      }
+    ],
+    "duration": 1.416,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_rabbit_tr.mp3",
+    "sha256": "a3ed48dbe64c62e40104e2ff0962fc79d0caec0f3d17a8f93d2e34a6ed9d5a52",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:67"
+    ],
+    "transcript": "Zafşan",
+    "segments": [
+      {
+        "text": " Zafşan",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6696208374840873,
+        "noSpeechProbability": 0.09479792416095734
+      }
+    ],
+    "duration": 1.064,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_seahorse_tr.mp3",
+    "sha256": "3f8f6da39838a8a360ffd64e5a8f827630494bf2fb2965464e3f713ffdb85bf5",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:71"
+    ],
+    "transcript": "Deniz Atı",
+    "segments": [
+      {
+        "text": " Deniz Atı",
+        "start": 0.0,
+        "end": 1.28,
+        "avgLogprob": -0.4642752068383353,
+        "noSpeechProbability": 0.3696786165237427
+      }
+    ],
+    "duration": 1.248,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_seal_tr.mp3",
+    "sha256": "8365bdaae9fbd6a40ce5135101343c16b6739b784289d9a7551a54612c35f2f6",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:72"
+    ],
+    "transcript": "Fok",
+    "segments": [
+      {
+        "text": " Fok",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.49352569580078126,
+        "noSpeechProbability": 0.11296077072620392
+      }
+    ],
+    "duration": 0.912,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_squid_tr.mp3",
+    "sha256": "dfca9a2cfd02bec3058a64f4fd3e909dd38eb4f23adfbaab705ab5bec3e77fd9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:78"
+    ],
+    "transcript": "Mürekkep balığı",
+    "segments": [
+      {
+        "text": " Mürekkep balığı",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5777898894415961,
+        "noSpeechProbability": 0.33217352628707886
+      }
+    ],
+    "duration": 1.416,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_starfish_tr.mp3",
+    "sha256": "a759328bd723d0d04282b2f062b456af1b1f8df1daeaf0f03b606de489d53301",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:79"
+    ],
+    "transcript": "Deniz Yıldızı",
+    "segments": [
+      {
+        "text": " Deniz Yıldızı",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.3037186728583442,
+        "noSpeechProbability": 0.36640581488609314
+      }
+    ],
+    "duration": 1.512,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_animals_walrus_tr.mp3",
+    "sha256": "5ef62b11d511c0da90044e50563ee92fbe532d4745daff741e5175c7a2e74cbe",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "animals:86"
+    ],
+    "transcript": "Deniz Aygarı",
+    "segments": [
+      {
+        "text": " Deniz Aygarı",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.4648953825235367,
+        "noSpeechProbability": 0.6476714611053467
+      }
+    ],
+    "duration": 1.224,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_airport_tr.mp3",
+    "sha256": "f5ab4787655e1a5dad5fdbd088deab5b46ca35bb402effc776f5fd18224f54e1",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:101"
+    ],
+    "transcript": "Havaalan",
+    "segments": [
+      {
+        "text": " Havaalan",
+        "start": 0.0,
+        "end": 1.1400000000000001,
+        "avgLogprob": -0.6316278874874115,
+        "noSpeechProbability": 0.32217326760292053
+      }
+    ],
+    "duration": 1.156,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_beach_tr.mp3",
+    "sha256": "1ea3fbf9893f9164456be3d56497e86ab9a5f7b476c7fbaf5f110f88de0c0212",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:104"
+    ],
+    "transcript": "Sahil.",
+    "segments": [
+      {
+        "text": " Sahil.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5240625639756521,
+        "noSpeechProbability": 0.357418417930603
+      }
+    ],
+    "duration": 1.056,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_castle_tr.mp3",
+    "sha256": "8fe1c57fdd41b71f9f56aa324ff1ef117c2da0656b01aa947e0b00e108ab1d7b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:108"
+    ],
+    "transcript": "Şato, Kale",
+    "segments": [
+      {
+        "text": " Şato, Kale",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.8850525915622711,
+        "noSpeechProbability": 0.22148537635803223
+      }
+    ],
+    "duration": 1.5093125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_hotel_tr.mp3",
+    "sha256": "e625a99f29a88c933ac4b850207913a2d29ed178a08778748222cebee380e828",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:121"
+    ],
+    "transcript": "Hotel",
+    "segments": [
+      {
+        "text": " Hotel",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.33531367778778076,
+        "noSpeechProbability": 0.11496774852275848
+      }
+    ],
+    "duration": 0.968,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_jungle_tr.mp3",
+    "sha256": "c843855d8cf3155bcafa6ce1285cba67ccbbb38d93c357b3ffc67a131f6eb737",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:122"
+    ],
+    "transcript": "Yağmur ormanı.",
+    "segments": [
+      {
+        "text": " Yağmur ormanı.",
+        "start": 0.0,
+        "end": 1.34,
+        "avgLogprob": -0.5268870700489391,
+        "noSpeechProbability": 0.1876956820487976
+      }
+    ],
+    "duration": 1.328,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_street_tr.mp3",
+    "sha256": "e61fda9acac8d9b8365315433d959de65048d63d719346cd8de8e48e67a75985",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:137"
+    ],
+    "transcript": "Çatı",
+    "segments": [
+      {
+        "text": " Çatı",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7114197313785553,
+        "noSpeechProbability": 0.17807890474796295
+      }
+    ],
+    "duration": 0.972,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_super_market_tr.mp3",
+    "sha256": "53196af838aa07114ec2103ee3ea42904abe6e34dc0ce96adb7b10147bed9009",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:138"
+    ],
+    "transcript": "Süpermarket",
+    "segments": [
+      {
+        "text": " Süpermarket",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.7761065165201823,
+        "noSpeechProbability": 0.3640301823616028
+      }
+    ],
+    "duration": 1.496,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_synagogue_tr.mp3",
+    "sha256": "4cb54dc6eef9538606f557fa92ca7c330f0c7ba62ceecbeb8e41b4d6867473f9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:139"
+    ],
+    "transcript": "Havra",
+    "segments": [
+      {
+        "text": " Havra",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.4068171977996826,
+        "noSpeechProbability": 0.24695776402950287
+      }
+    ],
+    "duration": 0.992,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_volcano_tr.mp3",
+    "sha256": "449888858a9c390de58519a6222b224b89638a7878fb2929ad421e831e830944",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:141"
+    ],
+    "transcript": "Volkan",
+    "segments": [
+      {
+        "text": " Volkan",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.8912135124206543,
+        "noSpeechProbability": 0.06591487675905228
+      }
+    ],
+    "duration": 1.0666875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_workplace_tr.mp3",
+    "sha256": "642fe27b6dd31ab6f933114cf1e6e86e9f07f0fced39b9fb816f97140f6bfa93",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:143"
+    ],
+    "transcript": "İşleri",
+    "segments": [
+      {
+        "text": " İşleri",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.527957534790039,
+        "noSpeechProbability": 0.22686924040317535
+      }
+    ],
+    "duration": 1.0693125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_halicarnassus_tr.mp3",
+    "sha256": "29bd9198fc91ae495557a609864bd121f4336d0760b6081c3091023f6db4ca66",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:152"
+    ],
+    "transcript": "Harikarnas Moselesi",
+    "segments": [
+      {
+        "text": " Harikarnas Moselesi",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6226151097904552,
+        "noSpeechProbability": 0.3713805079460144
+      }
+    ],
+    "duration": 1.877375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_petrol_station_tr.mp3",
+    "sha256": "204402e43a69ceb95166d9d62451cc47baa93d1952f01f8a4768de6e852fd51b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:153"
+    ],
+    "transcript": "Petrol istasyon",
+    "segments": [
+      {
+        "text": " Petrol istasyon",
+        "start": 0.0,
+        "end": 1.54,
+        "avgLogprob": -0.4588639736175537,
+        "noSpeechProbability": 0.45460161566734314
+      }
+    ],
+    "duration": 1.556,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_akashi_kaikyo_bridge_japan_tr.mp3",
+    "sha256": "0fbd37db6a5ab11668793ea1c3a167cead95ea4d4d111fc9a18356e22a78d66e",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:160"
+    ],
+    "transcript": "Akashi kai kyou köprüsü Japonya",
+    "segments": [
+      {
+        "text": " Akashi kai kyou köprüsü Japonya",
+        "start": 0.0,
+        "end": 2.8000000000000003,
+        "avgLogprob": -0.6831629435221355,
+        "noSpeechProbability": 0.196750670671463
+      }
+    ],
+    "duration": 2.7893125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_great_wall_of_china_tr.mp3",
+    "sha256": "13c1f65ca6d368f1edbb306f939b24374254cd3d731597dea5463ac22037d82e",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:168"
+    ],
+    "transcript": "cin seti cin",
+    "segments": [
+      {
+        "text": " cin seti cin",
+        "start": 0.0,
+        "end": 1.74,
+        "avgLogprob": -0.7099502256938389,
+        "noSpeechProbability": 0.1900632679462433
+      }
+    ],
+    "duration": 1.744,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_hanging_gardens_of_babylon_tr.mp3",
+    "sha256": "e1dc74c03f6763141196a2edd1b4a411ce0d3b34840d1da72ebf1907e88f65b2",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:170"
+    ],
+    "transcript": "Babilenin asma bahçeleri",
+    "segments": [
+      {
+        "text": " Babilenin asma bahçeleri",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5009868470105258,
+        "noSpeechProbability": 0.6744532585144043
+      }
+    ],
+    "duration": 1.973375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_lighthouse_of_alexandria_tr.mp3",
+    "sha256": "271fe7df570a092e5e1b9afa8f0bc003c4bc5df0cb75a6bb3cbf15c5f3b00afd",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:171"
+    ],
+    "transcript": "İskenderi Efeneri",
+    "segments": [
+      {
+        "text": " İskenderi Efeneri",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5211582541465759,
+        "noSpeechProbability": 0.27155256271362305
+      }
+    ],
+    "duration": 1.696,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_oresund_bridge_malmo_sweden_and_denmark_tr.mp3",
+    "sha256": "ff80d30824b356d158d968aa9bf99ba24b897639b2daf6d812afc6d0471066b8",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:174"
+    ],
+    "transcript": "Öresund Köprüsü Malmö, İsveç ve Danimarka",
+    "segments": [
+      {
+        "text": " Öresund Köprüsü Malmö, İsveç ve Danimarka",
+        "start": 0.0,
+        "end": 3.6,
+        "avgLogprob": -0.38735581121661444,
+        "noSpeechProbability": 0.5362152457237244
+      }
+    ],
+    "duration": 3.744,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_ponte_vecchio_italy_tr.mp3",
+    "sha256": "61805f9478f802bd0b431d8b015fcd92b57cc07c13ac5bb73404ce90c378a0e0",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:178"
+    ],
+    "transcript": "Ponte Vido Italia",
+    "segments": [
+      {
+        "text": " Ponte Vido Italia",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6376982256770134,
+        "noSpeechProbability": 0.0491967611014843
+      }
+    ],
+    "duration": 2.0,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_sultanahmet_mosque_turkey_tr.mp3",
+    "sha256": "d7ae895e3401d040c2275b771992dd10db631440f5dcea7984e5de0a73f86b2f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:184"
+    ],
+    "transcript": "Sultanahmet Camii Türkiye",
+    "segments": [
+      {
+        "text": " Sultanahmet Camii Türkiye",
+        "start": 0.0,
+        "end": 2.32,
+        "avgLogprob": -0.45129969120025637,
+        "noSpeechProbability": 0.5893078446388245
+      }
+    ],
+    "duration": 2.308,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_sydney_harbor_bridge_australia_tr.mp3",
+    "sha256": "ef59a87231232dcf04fbf49d37ad09a7bedc299729bcb03e062ffca943b8be6a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:185"
+    ],
+    "transcript": "Sedne'yi limanı köprüsü, Avustralya",
+    "segments": [
+      {
+        "text": " Sedne'yi limanı köprüsü, Avustralya",
+        "start": 0.0,
+        "end": 2.8000000000000003,
+        "avgLogprob": -0.44635506802135044,
+        "noSpeechProbability": 0.5778197646141052
+      }
+    ],
+    "duration": 2.752,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_buildings_taj_mahal_india_tr.mp3",
+    "sha256": "18ecbe0e5af09f072366fd36cf7af60dab6a990e563b56bad162020936bb3df9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "buildings:186"
+    ],
+    "transcript": "Taj Mahal, Hindistan",
+    "segments": [
+      {
+        "text": " Taj Mahal, Hindistan",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.4084475305345323,
+        "noSpeechProbability": 0.09433496743440628
+      }
+    ],
+    "duration": 1.944,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_clock_11_tr.mp3",
+    "sha256": "0a1791ca3c3c3eda19dda74e29f88a9e1751f8f483de3849869d7f80233bdd9e",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "clocks:192"
+    ],
+    "transcript": "Saat on bir",
+    "segments": [
+      {
+        "text": " Saat on bir",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.7372793299811227,
+        "noSpeechProbability": 0.3570961356163025
+      }
+    ],
+    "duration": 1.5684375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_angola_tr.mp3",
+    "sha256": "3fb99361c3b63c6bd2026379d595b02f4578975b92641ca41f87cb1bddf37edc",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:245",
+      "flags:595"
+    ],
+    "transcript": "Angora",
+    "segments": [
+      {
+        "text": " Angora",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6370195388793946,
+        "noSpeechProbability": 0.24768701195716858
+      }
+    ],
+    "duration": 1.128,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_azerbaijan_tr.mp3",
+    "sha256": "efd509fea206877760ab16e922155f77d64c29da8f5c57d3b40d82e7d519234e",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:250",
+      "flags:600"
+    ],
+    "transcript": "Azerbaycan",
+    "segments": [
+      {
+        "text": " Azerbaycan",
+        "start": 0.0,
+        "end": 1.42,
+        "avgLogprob": -0.5129413803418478,
+        "noSpeechProbability": 0.12231631577014923
+      }
+    ],
+    "duration": 1.432,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_eswatini_swaziland_tr.mp3",
+    "sha256": "d571c5173d217c454c4aa47124985b87fd0e6c6afcad4eaa790797f4d0284f92",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:283",
+      "flags:633"
+    ],
+    "transcript": "Eswatini, Sivasilant",
+    "segments": [
+      {
+        "text": " Eswatini, Sivasilant",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.8418229493227872,
+        "noSpeechProbability": 0.20001858472824097
+      }
+    ],
+    "duration": 2.4106875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_macedonia_tr.mp3",
+    "sha256": "dc6f520bc627af8ec72a63afd1e80147d18acb83fb1e575a93b3ffc97c18c40b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:326",
+      "flags:676"
+    ],
+    "transcript": "Makedonya.",
+    "segments": [
+      {
+        "text": " Makedonya.",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.672926494053432,
+        "noSpeechProbability": 0.049256980419158936
+      }
+    ],
+    "duration": 1.237375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_malawi_tr.mp3",
+    "sha256": "83e73117269cec3c1a4dad5fad5efd952c13ed9f4908faacee444f71b64c51d1",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:328",
+      "flags:678"
+    ],
+    "transcript": "Malavi",
+    "segments": [
+      {
+        "text": " Malavi",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5541719436645508,
+        "noSpeechProbability": 0.1797449290752411
+      }
+    ],
+    "duration": 1.053375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_myanmar_burma_tr.mp3",
+    "sha256": "2289f67fb02cf58b2185ea2c8371a1cf7522ae413618bfd849c590250d96854f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:343",
+      "flags:693"
+    ],
+    "transcript": "Bir an march burma.",
+    "segments": [
+      {
+        "text": " Bir an march burma.",
+        "start": 0.0,
+        "end": 1.7,
+        "avgLogprob": -0.8429092831081815,
+        "noSpeechProbability": 0.11223799735307693
+      }
+    ],
+    "duration": 1.6746875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_palestine_tr.mp3",
+    "sha256": "5cb0d6e3de7c215758d00c15698f8f0203a830f82a0c85ec9f8341b737d376d9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:356",
+      "flags:706"
+    ],
+    "transcript": "Filistin",
+    "segments": [
+      {
+        "text": " Filistin",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6426125268141428,
+        "noSpeechProbability": 0.11838497966527939
+      }
+    ],
+    "duration": 1.168,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_spain_tr.mp3",
+    "sha256": "ac776a4f6462b64d471bf98508d4338da319ef0b585077231c9315f8311cb4e7",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:376",
+      "flags:726"
+    ],
+    "transcript": "İspanya",
+    "segments": [
+      {
+        "text": " İspanya",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.4957631230354309,
+        "noSpeechProbability": 0.09116549789905548
+      }
+    ],
+    "duration": 1.1946875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_united_kingdom_tr.mp3",
+    "sha256": "6e9734661724d848ff36d907433eb15ae5f09cd3179473725e8d5d3939a0dcaa",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:393",
+      "flags:743"
+    ],
+    "transcript": "Birleşik Kralık, İngiltere",
+    "segments": [
+      {
+        "text": " Birleşik Kralık, İngiltere",
+        "start": 0.0,
+        "end": 2.22,
+        "avgLogprob": -0.32594770405973705,
+        "noSpeechProbability": 0.63529372215271
+      }
+    ],
+    "duration": 2.212,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_liechtenstein_tr.mp3",
+    "sha256": "c8bd4699068ca36c0e8a075e83bb3944896fbd98b0e98703a9a6124bd77994cc",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:407",
+      "flags:757"
+    ],
+    "transcript": "Liechtenstein",
+    "segments": [
+      {
+        "text": " Liechtenstein",
+        "start": 0.0,
+        "end": 1.6,
+        "avgLogprob": -0.5619668960571289,
+        "noSpeechProbability": 0.032527416944503784
+      }
+    ],
+    "duration": 1.5306875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_bosnia_and_herzegovina_tr.mp3",
+    "sha256": "7c941bd274ae08ce0b91a35d25d4e8d0e8ef889dd64d370042aa9870a814e628",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:410",
+      "flags:760"
+    ],
+    "transcript": "Vosna her seki.",
+    "segments": [
+      {
+        "text": " Vosna her seki.",
+        "start": 0.0,
+        "end": 1.4000000000000001,
+        "avgLogprob": -0.736574774980545,
+        "noSpeechProbability": 0.3127635717391968
+      }
+    ],
+    "duration": 1.4,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_cabo_verde_tr.mp3",
+    "sha256": "43c51075ef65ca7dc647562d6be0217f2bdd3625d6afdc9ca30502ffb489f801",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:412",
+      "flags:762"
+    ],
+    "transcript": "Çabuk ver de.",
+    "segments": [
+      {
+        "text": " Çabuk ver de.",
+        "start": 0.0,
+        "end": 1.34,
+        "avgLogprob": -1.0786785549587674,
+        "noSpeechProbability": 0.0310202706605196
+      }
+    ],
+    "duration": 1.304,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_cote_divoire_tr.mp3",
+    "sha256": "1a7bffef3add6f63c0c94b8a59f7e6ae3aa7802b56d15988ed43d9293bfe933b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:415",
+      "flags:765"
+    ],
+    "transcript": "Fildişe Sahili",
+    "segments": [
+      {
+        "text": " Fildişe Sahili",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6766833729214139,
+        "noSpeechProbability": 0.4657095968723297
+      }
+    ],
+    "duration": 1.525375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_czech_republic_tr.mp3",
+    "sha256": "82bf0b7d542f91baf658d4441bd6ad72725b5bd6e1538fd36a92fd90d5f93c25",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:416",
+      "flags:766"
+    ],
+    "transcript": "Çek Cumhuriyeti",
+    "segments": [
+      {
+        "text": " Çek Cumhuriyeti",
+        "start": 0.0,
+        "end": 1.52,
+        "avgLogprob": -0.38602060741848415,
+        "noSpeechProbability": 0.28886085748672485
+      }
+    ],
+    "duration": 1.488,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_democratic_republic_of_the_congo_tr.mp3",
+    "sha256": "9338efbcb23abf9ebcbbbe01179a2e34a86e75e68ad703bd4856ffb1bf3b80f8",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:417",
+      "flags:767"
+    ],
+    "transcript": "KONGO DEMOKRATİK ÇUM HOLUYETİ",
+    "segments": [
+      {
+        "text": " KONGO DEMOKRATİK ÇUM HOLUYETİ",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6517727602095831,
+        "noSpeechProbability": 0.29021918773651123
+      }
+    ],
+    "duration": 2.264,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_marshall_islands_tr.mp3",
+    "sha256": "8c4351723a442246030461546ab04b4d0aea73215f40bbd41aaa9abb6dacc942",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:422",
+      "flags:772"
+    ],
+    "transcript": "Marşaladaları",
+    "segments": [
+      {
+        "text": " Marşaladaları",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6376657336950302,
+        "noSpeechProbability": 0.6603142023086548
+      }
+    ],
+    "duration": 1.413375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_countries_republic_of_the_congo_tr.mp3",
+    "sha256": "4114bd458ba1c71cd9d9dc4d93301c9d47dad77f4e55c7149fc2e04643dc9d38",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "countries:425",
+      "flags:775"
+    ],
+    "transcript": "Kanka Cumhuriyeti",
+    "segments": [
+      {
+        "text": " Kanka Cumhuriyeti",
+        "start": 0.0,
+        "end": 1.62,
+        "avgLogprob": -0.5189584096272787,
+        "noSpeechProbability": 0.26014381647109985
+      }
+    ],
+    "duration": 1.6206875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_astroid_tr.mp3",
+    "sha256": "62bb66dd2722d4899bb90899515cf724eccfb70a50dd25f0b4babc081d9c76be",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:441"
+    ],
+    "transcript": "ASTROIT",
+    "segments": [
+      {
+        "text": " ASTROIT",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7977528742381504,
+        "noSpeechProbability": 0.10637456923723221
+      }
+    ],
+    "duration": 1.248,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_capsule_tr.mp3",
+    "sha256": "7176fc2bbe9f30371041c4829e339fb7b3b316112998ecc2c4859bda32888c91",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:445"
+    ],
+    "transcript": "Kapsül",
+    "segments": [
+      {
+        "text": " Kapsül",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.456173171599706,
+        "noSpeechProbability": 0.13611143827438354
+      }
+    ],
+    "duration": 1.056,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_observatory_tr.mp3",
+    "sha256": "a57439ea0046fd9f0702d124c7eadb90aa65a1d66edadebd647db7dff2379811",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:458"
+    ],
+    "transcript": "Rasa tane gözlemevi",
+    "segments": [
+      {
+        "text": " Rasa tane gözlemevi",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.46354781256781685,
+        "noSpeechProbability": 0.2500985264778137
+      }
+    ],
+    "duration": 2.04,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_quasar_tr.mp3",
+    "sha256": "240d2eee1de2f2eda5880e37ed9e9f6ad7ce56971645c576c01ff7a2d47b8a40",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:463"
+    ],
+    "transcript": "Kua sar",
+    "segments": [
+      {
+        "text": " Kua sar",
+        "start": 0.0,
+        "end": 1.2,
+        "avgLogprob": -0.7741639018058777,
+        "noSpeechProbability": 0.15931273996829987
+      }
+    ],
+    "duration": 1.152,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_big_dipper_tr.mp3",
+    "sha256": "55e89fffea2c28993c72c2b2a89c3f6f74cbc0450d95d0cd82fc25a8ba1f98ad",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:473"
+    ],
+    "transcript": "Tıkayı",
+    "segments": [
+      {
+        "text": " Tıkayı",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.9872238636016846,
+        "noSpeechProbability": 0.06169351935386658
+      }
+    ],
+    "duration": 1.248,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_black_hole_tr.mp3",
+    "sha256": "538198c566cfaab22ea4545c59383f3b3c05c615b318728f5fe99daa2eeea390",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:474"
+    ],
+    "transcript": "Karadelik",
+    "segments": [
+      {
+        "text": " Karadelik",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.512299929346357,
+        "noSpeechProbability": 0.49245595932006836
+      }
+    ],
+    "duration": 1.056,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_space_station_tr.mp3",
+    "sha256": "2f0476f26a0398e0a6204ceb840b4e714e9a678416ebae69922470be6b0fe8cd",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:481"
+    ],
+    "transcript": "Uzayı stasyonu",
+    "segments": [
+      {
+        "text": " Uzayı stasyonu",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5266693890094757,
+        "noSpeechProbability": 0.14865674078464508
+      }
+    ],
+    "duration": 1.56,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_ursa_minor_tr.mp3",
+    "sha256": "7015be6361ad24e055c658d2627385b1f8ad732e5bc8734712b44a65d7b33695",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:482"
+    ],
+    "transcript": "Küçük ayı",
+    "segments": [
+      {
+        "text": " Küçük ayı",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.4429628252983093,
+        "noSpeechProbability": 0.12664978206157684
+      }
+    ],
+    "duration": 1.32,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_discover_space_hubble_telescope_tr.mp3",
+    "sha256": "78c705fa539a953f935bcc2ee23539e42367041543b4945e39ef4ec1a1b25ae9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "space:496"
+    ],
+    "transcript": "Hubble Telescope",
+    "segments": [
+      {
+        "text": " Hubble Telescope",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5700069665908813,
+        "noSpeechProbability": 0.5335819721221924
+      }
+    ],
+    "duration": 1.7459375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_barn_tr.mp3",
+    "sha256": "cb2b23915169c04c6d0107b9490f44dc7c492c678ac50326fa0c4e2ef57e248a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:504"
+    ],
+    "transcript": "Ahir.",
+    "segments": [
+      {
+        "text": " Ahir.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7258368531862894,
+        "noSpeechProbability": 0.07298392802476883
+      }
+    ],
+    "duration": 1.152,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_barrel_tr.mp3",
+    "sha256": "3d45c8423a8b48e95db8783caff2fc239b5cdedb976650c2ceba16eafb1694ed",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:505"
+    ],
+    "transcript": "Füçü",
+    "segments": [
+      {
+        "text": " Füçü",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6874977350234985,
+        "noSpeechProbability": 0.14139273762702942
+      }
+    ],
+    "duration": 1.032,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_beans_tr.mp3",
+    "sha256": "efbfa399584fb2f6bfdbd559f7ded62968869b9ce178bf10c25fad981c30e637",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:506"
+    ],
+    "transcript": "Posunye.",
+    "segments": [
+      {
+        "text": " Posunye.",
+        "start": 0.0,
+        "end": 1.22,
+        "avgLogprob": -0.9774169921875,
+        "noSpeechProbability": 0.13020753860473633
+      }
+    ],
+    "duration": 1.224,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_body_tr.mp3",
+    "sha256": "2af282342803ed5a8279bf81a92d3a8c97996729a153e1bf5bcca5ae617ee2c1",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:507"
+    ],
+    "transcript": "Gördü",
+    "segments": [
+      {
+        "text": " Gördü",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.4411984980106354,
+        "noSpeechProbability": 0.052680324763059616
+      }
+    ],
+    "duration": 1.032,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_calf_tr.mp3",
+    "sha256": "e788f46e9abb0fe84620a148455303e5876e6cf4521165274c74e35e8ac7cd5b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:513"
+    ],
+    "transcript": "Dana!",
+    "segments": [
+      {
+        "text": " Dana!",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6153960227966309,
+        "noSpeechProbability": 0.1285271793603897
+      }
+    ],
+    "duration": 0.936,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_grass_tr.mp3",
+    "sha256": "44432e81bedf1373f3a694690ae70a3bec01a02b21f2686b252a0e8ac4e2d3b3",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:536"
+    ],
+    "transcript": "Ot.",
+    "segments": [
+      {
+        "text": " Ot.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6725410461425781,
+        "noSpeechProbability": 0.08551475405693054
+      }
+    ],
+    "duration": 0.864,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_ox_car_tr.mp3",
+    "sha256": "900658c00db5999137c7376fe36b44eb7387d99870d2791ab09e6def97ca26b3",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:544"
+    ],
+    "transcript": "Öküz Arabası",
+    "segments": [
+      {
+        "text": " Öküz Arabası",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.42356691136956215,
+        "noSpeechProbability": 0.6498660445213318
+      }
+    ],
+    "duration": 1.272,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_pathway_tr.mp3",
+    "sha256": "c07a868c715688b3fb34082efa03890b330e1cd9234177e1af6c34d76cdc5878",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:546"
+    ],
+    "transcript": "Fatih Koyol",
+    "segments": [
+      {
+        "text": " Fatih Koyol",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7128958851099014,
+        "noSpeechProbability": 0.5186911225318909
+      }
+    ],
+    "duration": 1.224,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_pig_tr.mp3",
+    "sha256": "273d45e40c1d79a4335bbf82b35c916b486bc9236e72db98d0fa2d22125c0498",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:549"
+    ],
+    "transcript": "Domoz.",
+    "segments": [
+      {
+        "text": " Domoz.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.9801950454711914,
+        "noSpeechProbability": 0.13125532865524292
+      }
+    ],
+    "duration": 1.056,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_sunflower_tr.mp3",
+    "sha256": "3dd38a5cde3178722d53ca276d8601c9fc065639bde78932c3933fe33c35d9a5",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:566"
+    ],
+    "transcript": "Ay çiçeği.",
+    "segments": [
+      {
+        "text": " Ay çiçeği.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8576191266377767,
+        "noSpeechProbability": 0.13350950181484222
+      }
+    ],
+    "duration": 1.152,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_trailer_tr.mp3",
+    "sha256": "dbbf0760c744279f6a6417758165be2de257c4043de08f5bb05f57e4ad705bb7",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:568"
+    ],
+    "transcript": "Römürk",
+    "segments": [
+      {
+        "text": " Römürk",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -1.0907061440604073,
+        "noSpeechProbability": 0.05427407845854759
+      }
+    ],
+    "duration": 1.152,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_farmer_tr.mp3",
+    "sha256": "8c15f7b15e84c21970656e9eeed5aedd0679ee5187373580d5690c31c4343ab8",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:576"
+    ],
+    "transcript": "Çiftçi",
+    "segments": [
+      {
+        "text": " Çiftçi",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.36623701453208923,
+        "noSpeechProbability": 0.09480424970388412
+      }
+    ],
+    "duration": 1.012,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_feeding_trough_tr.mp3",
+    "sha256": "0327f9c2beea8b6c1750252cc266e06e19be6dd177778b7d3f49dc05f2e40759",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:583"
+    ],
+    "transcript": "Yalak.",
+    "segments": [
+      {
+        "text": " Yalak.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7084562608173915,
+        "noSpeechProbability": 0.031010417267680168
+      }
+    ],
+    "duration": 1.128,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_straw_bales_tr.mp3",
+    "sha256": "028fe718b45dd47da9f7312fa658249ae898bf57624df92208ca13f169faa551",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:585"
+    ],
+    "transcript": "Saman Bayes",
+    "segments": [
+      {
+        "text": " Saman Bayes",
+        "start": 0.0,
+        "end": 1.54,
+        "avgLogprob": -0.7703823872974941,
+        "noSpeechProbability": 0.2506827712059021
+      }
+    ],
+    "duration": 1.512,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_farm_water_feeding_trough_tr.mp3",
+    "sha256": "2299e2a659530b2b4ab6c3de1bd607598dc8f034b004f81c2837558e4eff37c3",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "farm:590"
+    ],
+    "transcript": "Süya da.",
+    "segments": [
+      {
+        "text": " Süya da.",
+        "start": 0.0,
+        "end": 1.3,
+        "avgLogprob": -0.8942336695534843,
+        "noSpeechProbability": 0.172096386551857
+      }
+    ],
+    "duration": 1.1765625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_candy_tr.mp3",
+    "sha256": "b9d471ff42f3e42da273524e4ba26f568018867cb075ce26148cea8a2814e9af",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "food:795"
+    ],
+    "transcript": "Şeker",
+    "segments": [
+      {
+        "text": " Şeker",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5245023727416992,
+        "noSpeechProbability": 0.17194709181785583
+      }
+    ],
+    "duration": 1.1175625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_milkshake_tr.mp3",
+    "sha256": "e4aed6ac8bd2a0dd2b4e5e329025ff005f509829ecdfb09ab0ad5efc903bde2a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "food:812"
+    ],
+    "transcript": "Aromalı süt",
+    "segments": [
+      {
+        "text": " Aromalı süt",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.3171863630414009,
+        "noSpeechProbability": 0.1576259881258011
+      }
+    ],
+    "duration": 1.0885,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_pepperoni_tr.mp3",
+    "sha256": "128476a5ea4a99f347288c45d9345868ca8edcc89a09cdc992af4a4719a8b03a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "food:814"
+    ],
+    "transcript": "Sucuk",
+    "segments": [
+      {
+        "text": " Sucuk",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7879325747489929,
+        "noSpeechProbability": 0.37914735078811646
+      }
+    ],
+    "duration": 1.19575,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_turmeric_tr.mp3",
+    "sha256": "d1fa8ad3d0a414ee502b6f7d049d3ecbbcb1e8f2c63abd41ed7c352b4a9a5441",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "food:828"
+    ],
+    "transcript": "Zerde çav.",
+    "segments": [
+      {
+        "text": " Zerde çav.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6538617875840929,
+        "noSpeechProbability": 0.06131373345851898
+      }
+    ],
+    "duration": 1.152625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_acorn_tr.mp3",
+    "sha256": "252a64656219b6da6d82a8b970f038f56e1df5fbc85b0b8cb6f84943a546df2c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:841"
+    ],
+    "transcript": "Palamut",
+    "segments": [
+      {
+        "text": " Palamut",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5751870572566986,
+        "noSpeechProbability": 0.23729000985622406
+      }
+    ],
+    "duration": 1.1765625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_basil_tr.mp3",
+    "sha256": "84a0e49b54f9940b855024b6ba1634245ced7c366f63c5ed4c13d70f18d29694",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:849"
+    ],
+    "transcript": "Reyhan, Feslan",
+    "segments": [
+      {
+        "text": " Reyhan, Feslan",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5208666059705946,
+        "noSpeechProbability": 0.2271774709224701
+      }
+    ],
+    "duration": 2.376,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_cranberry_tr.mp3",
+    "sha256": "ed6a14d434b63ac271c5b90bcb86cbd2fa9aa4201e1a5779c4b813df1675e3a7",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:861"
+    ],
+    "transcript": "Kızılcık.",
+    "segments": [
+      {
+        "text": " Kızılcık.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.42835235595703125,
+        "noSpeechProbability": 0.3395698070526123
+      }
+    ],
+    "duration": 1.1765625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_peanut_tr.mp3",
+    "sha256": "bd49bc5eed7c557d4611d7a5a1439f33a668625d4224677b7be73c2cdc2904ab",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:886"
+    ],
+    "transcript": "Fıstık",
+    "segments": [
+      {
+        "text": " Fıstık",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.47282327924455914,
+        "noSpeechProbability": 0.13741067051887512
+      }
+    ],
+    "duration": 1.032,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_scallion_tr.mp3",
+    "sha256": "83ad63bee89957cbedfffa1effb9ef1ac712dc26999eea8d48d1348b019010e5",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:898"
+    ],
+    "transcript": "Yeşil soğan.",
+    "segments": [
+      {
+        "text": " Yeşil soğan.",
+        "start": 0.0,
+        "end": 1.4000000000000001,
+        "avgLogprob": -0.6786830690171983,
+        "noSpeechProbability": 0.048351533710956573
+      }
+    ],
+    "duration": 1.392,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_black_grape_tr.mp3",
+    "sha256": "2381fce224b3e3837da3c728f2804c2ca2dd6b89b2d2e084562458354e3c7d27",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:909"
+    ],
+    "transcript": "Karoğuzum",
+    "segments": [
+      {
+        "text": " Karoğuzum",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.555517815053463,
+        "noSpeechProbability": 0.41206908226013184
+      }
+    ],
+    "duration": 1.248,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_cashew_nut_tr.mp3",
+    "sha256": "11aec39c99f014306ec3a0d2d8f36d8ab15bed56c96253467489bfeb7d2133cf",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:911"
+    ],
+    "transcript": "Koşufıstı",
+    "segments": [
+      {
+        "text": " Koşufıstı",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -1.0307530297173395,
+        "noSpeechProbability": 0.19541026651859283
+      }
+    ],
+    "duration": 1.44,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_dragon_fruit_tr.mp3",
+    "sha256": "a4a3806b618fdab8101762a001b39349e0dc4d46adb5898fccdaec3d7ef54cf2",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:912"
+    ],
+    "transcript": "Tragon meyvesi",
+    "segments": [
+      {
+        "text": " Tragon meyvesi",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.8018170416355133,
+        "noSpeechProbability": 0.2523806691169739
+      }
+    ],
+    "duration": 1.464,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_green_bean_tr.mp3",
+    "sha256": "53b577ffc8b061135c5bef4fd7e6cf9c7ee5fea4f027032b1bca5e337f7606e8",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:915"
+    ],
+    "transcript": "Taze fasulye",
+    "segments": [
+      {
+        "text": " Taze fasulye",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6025534272193909,
+        "noSpeechProbability": 0.2141382396221161
+      }
+    ],
+    "duration": 1.584,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_kaki_persimmon_tr.mp3",
+    "sha256": "3c7bafc5e1e40f5a021b507fef861134756bd72a97e78db72a9b4212aa7a2f06",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:916"
+    ],
+    "transcript": "Cennet Horması",
+    "segments": [
+      {
+        "text": " Cennet Horması",
+        "start": 0.0,
+        "end": 1.54,
+        "avgLogprob": -0.6541795200771756,
+        "noSpeechProbability": 0.36319854855537415
+      }
+    ],
+    "duration": 1.608,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_tiger_nut_tr.mp3",
+    "sha256": "2c9b8fd7f2ea546a41da0c72197c28d2251d593964bc1df67ae40a5642e6b1da",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:917"
+    ],
+    "transcript": "Kaplan tındı.",
+    "segments": [
+      {
+        "text": " Kaplan tındı.",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6416434182061089,
+        "noSpeechProbability": 0.06530684977769852
+      }
+    ],
+    "duration": 1.728,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_fruits_vegetables_brussels_sprout_tr.mp3",
+    "sha256": "5261e8386d7cdaa1e3830ea0d63f56d2881aaf35111d7b45a696794fac605215",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "fruits_vegetables:919"
+    ],
+    "transcript": "Bülükselli Hanası",
+    "segments": [
+      {
+        "text": " Bülükselli Hanası",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5071603953838348,
+        "noSpeechProbability": 0.8310742974281311
+      }
+    ],
+    "duration": 1.776,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_baloon_tr.mp3",
+    "sha256": "62b815cb25c3039dd30cf413946ff570f740c4bccc8c31961cea1b73496305da",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:922"
+    ],
+    "transcript": "Balon",
+    "segments": [
+      {
+        "text": " Balon",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.482009220123291,
+        "noSpeechProbability": 0.07581502199172974
+      }
+    ],
+    "duration": 1.08,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_boat_tr.mp3",
+    "sha256": "112f80743e215737afd264267a3633520c7422b817139ff04006209d37681e49",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:924"
+    ],
+    "transcript": "PUT",
+    "segments": [
+      {
+        "text": " PUT",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5997451782226563,
+        "noSpeechProbability": 0.03749556466937065
+      }
+    ],
+    "duration": 1.008,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_bulldozer_tr.mp3",
+    "sha256": "aaa668d01e665d349c0c7ce41bc22b565a2ca10c329d6f636b41c7013490e282",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:926"
+    ],
+    "transcript": "Tozaj",
+    "segments": [
+      {
+        "text": " Tozaj",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8415436744689941,
+        "noSpeechProbability": 0.11747537553310394
+      }
+    ],
+    "duration": 1.128,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_chisel_tr.mp3",
+    "sha256": "003c965f42ef1625963ea07baf7d8dff90a97684c0000ed1086b394349636445",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:928"
+    ],
+    "transcript": "Oymak Alemi",
+    "segments": [
+      {
+        "text": " Oymak Alemi",
+        "start": 0.0,
+        "end": 1.36,
+        "avgLogprob": -0.7403440475463867,
+        "noSpeechProbability": 0.4325636029243469
+      }
+    ],
+    "duration": 1.368,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_clamp_tr.mp3",
+    "sha256": "a05e2941b9002553f553dd0b337673db5460de15e9915244882741122415462c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:929"
+    ],
+    "transcript": "Menge ne?",
+    "segments": [
+      {
+        "text": " Menge ne?",
+        "start": 0.0,
+        "end": 1.2,
+        "avgLogprob": -0.769502980368478,
+        "noSpeechProbability": 0.29352712631225586
+      }
+    ],
+    "duration": 1.2,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_crusher_tr.mp3",
+    "sha256": "57cf10a84f2c317187ca42453f640217611ea75979542b1fb0debfbdf01aaa5c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:932"
+    ],
+    "transcript": "Tanışkırıcı",
+    "segments": [
+      {
+        "text": " Tanışkırıcı",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5808269182840983,
+        "noSpeechProbability": 0.2551002502441406
+      }
+    ],
+    "duration": 1.032,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_cutter_tr.mp3",
+    "sha256": "e03fdba87745c439442794528941a5de3a316452059af34243ffba790609925f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:933"
+    ],
+    "transcript": "Keski",
+    "segments": [
+      {
+        "text": " Keski",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6278548240661621,
+        "noSpeechProbability": 0.06690050661563873
+      }
+    ],
+    "duration": 1.008,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_cylinder_tr.mp3",
+    "sha256": "879a94d67a86fbd6471410140788f30e967dabb62491025931204a82f125f8fa",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:934"
+    ],
+    "transcript": "Silindir.",
+    "segments": [
+      {
+        "text": " Silindir.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5353744881493705,
+        "noSpeechProbability": 0.23412732779979706
+      }
+    ],
+    "duration": 1.104,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_dragline_tr.mp3",
+    "sha256": "1eb19255cf51bc88a8798c5cdf09d13a8ce45695f0db223c42f61d31a97a83d8",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:935"
+    ],
+    "transcript": "Direkt line.",
+    "segments": [
+      {
+        "text": " Direkt line.",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.9714198793683734,
+        "noSpeechProbability": 0.07548895478248596
+      }
+    ],
+    "duration": 1.368,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_drone_tr.mp3",
+    "sha256": "7583a1aca000f1b72d043c221c8c3db6b2a04dce66bcdc72ae9d50351b6afca7",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:937"
+    ],
+    "transcript": "Drone",
+    "segments": [
+      {
+        "text": " Drone",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.4204226493835449,
+        "noSpeechProbability": 0.12508125603199005
+      }
+    ],
+    "duration": 0.888,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_finisher_tr.mp3",
+    "sha256": "e93c5d17281e8f4290f5dd08359d775f2dd22e3ee2434a53f77dd790a40b119b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:939"
+    ],
+    "transcript": "Finişler",
+    "segments": [
+      {
+        "text": " Finişler",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6143536667029063,
+        "noSpeechProbability": 0.12944315373897552
+      }
+    ],
+    "duration": 1.152,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_fire_truck_tr.mp3",
+    "sha256": "68f7c4fabdbb9afe5da2cc7f13f570b7bed23cb32a7771ba9213f087f86842a4",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:940"
+    ],
+    "transcript": "İtfaiye!",
+    "segments": [
+      {
+        "text": " İtfaiye!",
+        "start": 0.0,
+        "end": 1.28,
+        "avgLogprob": -0.5232151879204644,
+        "noSpeechProbability": 0.1623973399400711
+      }
+    ],
+    "duration": 1.32,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_loader_tr.mp3",
+    "sha256": "bfbc5a46d8d89984bd329fe13d4da07b4d00ff8109789db2e702a16a7cf3918a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:945"
+    ],
+    "transcript": "Kepçe",
+    "segments": [
+      {
+        "text": " Kepçe",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7880728443463644,
+        "noSpeechProbability": 0.10362973809242249
+      }
+    ],
+    "duration": 0.984,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_mixer_tr.mp3",
+    "sha256": "39e03ccf1248a18f0f9ce72c4f6a1c04637195328db82c6258d133ddbc1ffd39",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:947"
+    ],
+    "transcript": "Miksaj",
+    "segments": [
+      {
+        "text": " Miksaj",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.363315815726916,
+        "noSpeechProbability": 0.2711566984653473
+      }
+    ],
+    "duration": 1.128,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_nut_tr.mp3",
+    "sha256": "c570e8ebcc4e5eaf175a78febd7b6a81bec95bdd8dc7a9f275352d017d1618c0",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:949"
+    ],
+    "transcript": "BİTA",
+    "segments": [
+      {
+        "text": " BİTA",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.7732683916886648,
+        "noSpeechProbability": 0.07594503462314606
+      }
+    ],
+    "duration": 0.936,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_trailer_tr.mp3",
+    "sha256": "8f29a7d78b6cc531d607b2b4351204d6e4088cfe3cf01d68f3f17e3d404090a5",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:967"
+    ],
+    "transcript": "Dorse",
+    "segments": [
+      {
+        "text": " Dorse",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.73275146484375,
+        "noSpeechProbability": 0.1762404441833496
+      }
+    ],
+    "duration": 1.128,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_locking_pliers_tr.mp3",
+    "sha256": "ce36976b7e5b4f38dd25678caed7ab434a63b4d13176ef90e588e6ab037f6d39",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:977"
+    ],
+    "transcript": "Kiritli Pense",
+    "segments": [
+      {
+        "text": " Kiritli Pense",
+        "start": 0.0,
+        "end": 1.54,
+        "avgLogprob": -0.538589283823967,
+        "noSpeechProbability": 0.23119015991687775
+      }
+    ],
+    "duration": 1.584,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_measuring_reel_tr.mp3",
+    "sha256": "edf5e59defde512442204dc0a937e54ee54408ab75b5ee59d59266e0cbfbf4ce",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:978"
+    ],
+    "transcript": "Makaralı metri.",
+    "segments": [
+      {
+        "text": " Makaralı metri.",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5045865376790365,
+        "noSpeechProbability": 0.242665097117424
+      }
+    ],
+    "duration": 1.464,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_breaker_exacavator_tr.mp3",
+    "sha256": "84074623d5fe89dfdb924f19425d53e24b238c1163a1c713116075cd4ae8a531",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:986"
+    ],
+    "transcript": "Kırıcı Excavator",
+    "segments": [
+      {
+        "text": " Kırıcı Excavator",
+        "start": 0.0,
+        "end": 1.78,
+        "avgLogprob": -0.5822161110964689,
+        "noSpeechProbability": 0.6736758351325989
+      }
+    ],
+    "duration": 1.68,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_measuring_stick_tr.mp3",
+    "sha256": "fa89506d90de7b13e245e523b6a85af9a027fec9d43dc0490461d11893f098d9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:987"
+    ],
+    "transcript": "Çubuk metre.",
+    "segments": [
+      {
+        "text": " Çubuk metre.",
+        "start": 0.0,
+        "end": 1.34,
+        "avgLogprob": -0.45726680755615234,
+        "noSpeechProbability": 0.29936301708221436
+      }
+    ],
+    "duration": 1.344,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_heavy_equipments_working_clothes_tr.mp3",
+    "sha256": "1629a370de2fb4c8af7f750bea85fd7eb6b2706b3e7c48ceb029c819c3efbc26",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "heavy_equipment:990"
+    ],
+    "transcript": "İş Elbisesi",
+    "segments": [
+      {
+        "text": " İş Elbisesi",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6669498756527901,
+        "noSpeechProbability": 0.35229653120040894
+      }
+    ],
+    "duration": 1.536,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_arteries_tr.mp3",
+    "sha256": "3d4cb91a4e73e1ee43a7b1e960270e7a79254de3f60b46e58674b50cfe5fcef0",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:995"
+    ],
+    "transcript": "Arçaylar",
+    "segments": [
+      {
+        "text": " Arçaylar",
+        "start": 0.0,
+        "end": 1.28,
+        "avgLogprob": -0.6583375249590192,
+        "noSpeechProbability": 0.21086636185646057
+      }
+    ],
+    "duration": 1.312,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_chin_tr.mp3",
+    "sha256": "6591bdadca832a3e0cbf6b305511a7aab34c292de5f56122d01f396dfc67cf56",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1002"
+    ],
+    "transcript": "Çenek",
+    "segments": [
+      {
+        "text": " Çenek",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6196981171766917,
+        "noSpeechProbability": 0.15179124474525452
+      }
+    ],
+    "duration": 0.912,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_fingernail_tr.mp3",
+    "sha256": "3fdaf5ae1b07927c90ec6d5257e220704a2e68f8fd12c64ac7340f20bd577cd2",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1009"
+    ],
+    "transcript": "Zırnak.",
+    "segments": [
+      {
+        "text": " Zırnak.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5511407681873867,
+        "noSpeechProbability": 0.12077200412750244
+      }
+    ],
+    "duration": 1.013375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_head_tr.mp3",
+    "sha256": "5fb68da3f57fc40bc2fbea842650a4861715971adaaca584409e6ca0db9c25c3",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1014"
+    ],
+    "transcript": "Kıfa",
+    "segments": [
+      {
+        "text": " Kıfa",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6017857293287913,
+        "noSpeechProbability": 0.18598708510398865
+      }
+    ],
+    "duration": 0.908,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_iris_tr.mp3",
+    "sha256": "42c29affb83672b10a30c931b920e898f8ea5ba8467adc6a87e7fe19431b2353",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1017"
+    ],
+    "transcript": "İRİS",
+    "segments": [
+      {
+        "text": " İRİS",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6673470905848912,
+        "noSpeechProbability": 0.24582910537719727
+      }
+    ],
+    "duration": 0.981375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_lungs_tr.mp3",
+    "sha256": "439f18db8f1190e26874f232ffc4900fb8294b7c456a45b33f09d6ddbccf4c3f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1024"
+    ],
+    "transcript": "Akciyaj",
+    "segments": [
+      {
+        "text": " Akciyaj",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6380358593804496,
+        "noSpeechProbability": 0.1412077248096466
+      }
+    ],
+    "duration": 1.168,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_navel_tr.mp3",
+    "sha256": "d96bc3972ad1d018cd180c55e571759523c589a1edbb6cadff612fb37aa7c061",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1027"
+    ],
+    "transcript": "Göbek",
+    "segments": [
+      {
+        "text": " Göbek",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.44704179763793944,
+        "noSpeechProbability": 0.13003309071063995
+      }
+    ],
+    "duration": 0.976,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_skeleton_tr.mp3",
+    "sha256": "eab2a6fce14902c402433ecb3e1dcdb56e396b91228ad170d19b665b43cd3d28",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1035"
+    ],
+    "transcript": "İskilit",
+    "segments": [
+      {
+        "text": " İskilit",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6412328779697418,
+        "noSpeechProbability": 0.16291655600070953
+      }
+    ],
+    "duration": 1.136,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_veins_tr.mp3",
+    "sha256": "267280bfacaf7c6419469ace9f602a69add92fc82b605f1afa8176aa843e4ee7",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1042"
+    ],
+    "transcript": "Tamarlar",
+    "segments": [
+      {
+        "text": " Tamarlar",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.519273579120636,
+        "noSpeechProbability": 0.4867880940437317
+      }
+    ],
+    "duration": 1.2106875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_wrist_tr.mp3",
+    "sha256": "d905bc7ce228a33b41a11631119e3708a0debb6568c7fc36b57fddcafb720056",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1043"
+    ],
+    "transcript": "Bilek",
+    "segments": [
+      {
+        "text": " Bilek",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.3452711800734202,
+        "noSpeechProbability": 0.293969064950943
+      }
+    ],
+    "duration": 0.944,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_human_body_tr.mp3",
+    "sha256": "15bc8e7c0760c02cc40c3b8c190944eb747cda6dc5f461194519d156d8d02068",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1046"
+    ],
+    "transcript": "İnsan Vücudu",
+    "segments": [
+      {
+        "text": " İnsan Vücudu",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.4465217649936676,
+        "noSpeechProbability": 0.06976616382598877
+      }
+    ],
+    "duration": 1.477375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_index_finger_tr.mp3",
+    "sha256": "a00ea2be91994598e5653c6b8ab3c5899a81df49a10425823be473600711e29d",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1047"
+    ],
+    "transcript": "İşaret Farma",
+    "segments": [
+      {
+        "text": " İşaret Farma",
+        "start": 0.0,
+        "end": 1.54,
+        "avgLogprob": -0.47582382815224783,
+        "noSpeechProbability": 0.29177600145339966
+      }
+    ],
+    "duration": 1.5423125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_little_finger_pinkie_tr.mp3",
+    "sha256": "e82fb061c901692a5277cb26aa8a30786604d1a018e13cf7ab3a6b276b4eec65",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1055"
+    ],
+    "transcript": "Küçük parmak, serçe parmak.",
+    "segments": [
+      {
+        "text": " Küçük parmak, serçe parmak.",
+        "start": 0.0,
+        "end": 2.38,
+        "avgLogprob": -0.36212673783302307,
+        "noSpeechProbability": 0.6613674163818359
+      }
+    ],
+    "duration": 2.416,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_skeletal_system_tr.mp3",
+    "sha256": "998fc629828bd68a6ef5f174311aaafc43434673afdeef608719ade69b8ec37d",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1057"
+    ],
+    "transcript": "İskelet Sistemi",
+    "segments": [
+      {
+        "text": " İskelet Sistemi",
+        "start": 0.0,
+        "end": 1.52,
+        "avgLogprob": -0.6566912862989638,
+        "noSpeechProbability": 0.15909883379936218
+      }
+    ],
+    "duration": 1.493375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_human_body_small_intestine_tr.mp3",
+    "sha256": "efc15e2f0b5d93768a8fcd610bc30497a6e75bd18ea83a55cc96904c037f6814",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "human_body:1058"
+    ],
+    "transcript": "İnce bağırsak",
+    "segments": [
+      {
+        "text": " İnce bağırsak",
+        "start": 0.0,
+        "end": 1.46,
+        "avgLogprob": -0.42271529303656685,
+        "noSpeechProbability": 0.2984371781349182
+      }
+    ],
+    "duration": 1.4826875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_musical_instruments_cello_tr.mp3",
+    "sha256": "e8bcd126d2cd62d36ca0596889c5ae764c8f18b35fa2420328b51e2988a48a35",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "musical_instruments:1063"
+    ],
+    "transcript": "Çello",
+    "segments": [
+      {
+        "text": " Çello",
+        "start": 0.0,
+        "end": 0.5,
+        "avgLogprob": -0.6194536209106445,
+        "noSpeechProbability": 0.37177640199661255
+      }
+    ],
+    "duration": 0.676,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_musical_instruments_conga_tr.mp3",
+    "sha256": "9d3a5191593412e1c09ec822a0273184491550ba33c76f755a4bd5582665ed21",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "musical_instruments:1065"
+    ],
+    "transcript": "Tumba",
+    "segments": [
+      {
+        "text": " Tumba",
+        "start": 0.0,
+        "end": 0.5,
+        "avgLogprob": -0.612469482421875,
+        "noSpeechProbability": 0.32845738530158997
+      }
+    ],
+    "duration": 0.636,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_blackboard_tr.mp3",
+    "sha256": "501739478e1621243a53d9faa17dcdfc5954ece20caef7cfcf0eae4a88697e00",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1101"
+    ],
+    "transcript": "Sahta",
+    "segments": [
+      {
+        "text": " Sahta",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.49497556686401367,
+        "noSpeechProbability": 0.06614907830953598
+      }
+    ],
+    "duration": 1.024,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_blender_tr.mp3",
+    "sha256": "b679fde398d31d891f8e597cc0d56e0f326df53e28f84a15251168cdbe09fc0e",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1102"
+    ],
+    "transcript": "LENDERJ",
+    "segments": [
+      {
+        "text": " LENDERJ",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8922673293522426,
+        "noSpeechProbability": 0.4846160113811493
+      }
+    ],
+    "duration": 1.06,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_bowl_tr.mp3",
+    "sha256": "52b8d242862bba7730174faf24e3bac979873eb2b975ff3c592716ae4d29279c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1108"
+    ],
+    "transcript": "Kâse",
+    "segments": [
+      {
+        "text": " Kâse",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8564692735671997,
+        "noSpeechProbability": 0.13842597603797913
+      }
+    ],
+    "duration": 1.016,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_boxers_tr.mp3",
+    "sha256": "54657c08e5876e0e4d3685c9d934973d6b602f6676ef4c654653cb4afb7112d2",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1109"
+    ],
+    "transcript": "Baksız.",
+    "segments": [
+      {
+        "text": " Baksız.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6124794653483799,
+        "noSpeechProbability": 0.09124550968408585
+      }
+    ],
+    "duration": 1.064,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_desk_tr.mp3",
+    "sha256": "657c9bfea2063391af4fe44bc09c7a3f8f8411c3ca6ab472ced481f9b0800edc",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1131"
+    ],
+    "transcript": "Mazda",
+    "segments": [
+      {
+        "text": " Mazda",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7672185897827148,
+        "noSpeechProbability": 0.1541900336742401
+      }
+    ],
+    "duration": 0.896,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_earmuffs_tr.mp3",
+    "sha256": "89a842028b405d596ff1ff8fca950ea646cbaafffc552e7516f1a4842013b5f8",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1141"
+    ],
+    "transcript": "Kulaklık.",
+    "segments": [
+      {
+        "text": " Kulaklık.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5630592927336693,
+        "noSpeechProbability": 0.22020946443080902
+      }
+    ],
+    "duration": 1.104,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_globe_tr.mp3",
+    "sha256": "909f13377b378f4295b870f69bf07278a4aa04be4f9e31f3aaa084250747333f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1150"
+    ],
+    "transcript": "Dünya",
+    "segments": [
+      {
+        "text": " Dünya",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.20951242446899415,
+        "noSpeechProbability": 0.08124711364507675
+      }
+    ],
+    "duration": 0.984,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_hood_tr.mp3",
+    "sha256": "c15d38408a8e06aa323a1a997ef633f0e70e69f19ff576bfce20aa646afc280f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1156"
+    ],
+    "transcript": "Kapşon",
+    "segments": [
+      {
+        "text": " Kapşon",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5432205895582835,
+        "noSpeechProbability": 0.10068175941705704
+      }
+    ],
+    "duration": 1.112,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_mop_tr.mp3",
+    "sha256": "79ef00a76ca3f1a49e26336825d7f1898be9242ac085cbcd0dc6528b7fb5d036",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1165"
+    ],
+    "transcript": "Çek Pus",
+    "segments": [
+      {
+        "text": " Çek Pus",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7691021817071098,
+        "noSpeechProbability": 0.18192356824874878
+      }
+    ],
+    "duration": 1.168,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_nailfile_tr.mp3",
+    "sha256": "053bcb6ae58ce706d31437476af42e8f4255fc20574fbb1640b50961d6c0c8ff",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1166"
+    ],
+    "transcript": "Çarpı",
+    "segments": [
+      {
+        "text": " Çarpı",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.45754005511601764,
+        "noSpeechProbability": 0.11964218318462372
+      }
+    ],
+    "duration": 1.0,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_necklace_tr.mp3",
+    "sha256": "059edb5bfbdaf025dee78ddbe243ffc98d2fd06e4823907e088ae07a51f83b84",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1167"
+    ],
+    "transcript": "Gerdanlık",
+    "segments": [
+      {
+        "text": " Gerdanlık",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5370742934090751,
+        "noSpeechProbability": 0.1577860713005066
+      }
+    ],
+    "duration": 1.232,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_paper_tr.mp3",
+    "sha256": "5fe299fe8326b6832c342f19ffcaa451ff71d1f42b1840662450c2a75c807196",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1176"
+    ],
+    "transcript": "Kağıt!",
+    "segments": [
+      {
+        "text": " Kağıt!",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.674575924873352,
+        "noSpeechProbability": 0.06804199516773224
+      }
+    ],
+    "duration": 1.0,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_pencil_tr.mp3",
+    "sha256": "3b86dedaae5ffe95dd08ae00288da94e73d89dc42d74b46040483209a1d2e50f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1177"
+    ],
+    "transcript": "Kalem",
+    "segments": [
+      {
+        "text": " Kalem",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.3437172889709473,
+        "noSpeechProbability": 0.27751049399375916
+      }
+    ],
+    "duration": 0.944,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_pin_tr.mp3",
+    "sha256": "1fa6891a5baa051d6ab192dfe9016e0117e3553e18bc2136f38b090a93dfd940",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1179"
+    ],
+    "transcript": "İyine.",
+    "segments": [
+      {
+        "text": " İyine.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.431270956993103,
+        "noSpeechProbability": 0.14481031894683838
+      }
+    ],
+    "duration": 0.952,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_purse_tr.mp3",
+    "sha256": "0607b7e1ecf38bcb3b5961208a2b0118ba100059da235a5d30e688755a35a274",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1183"
+    ],
+    "transcript": "Çanta",
+    "segments": [
+      {
+        "text": " Çanta",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6597373962402344,
+        "noSpeechProbability": 0.18396241962909698
+      }
+    ],
+    "duration": 1.012,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_scarf_tr.mp3",
+    "sha256": "c91fd7c14bc97009f6f1a737980d83137530f597af37dce54796393e024d30c0",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1190"
+    ],
+    "transcript": "Başörtüsü",
+    "segments": [
+      {
+        "text": " Başörtüsü",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.46403115136282785,
+        "noSpeechProbability": 0.33365753293037415
+      }
+    ],
+    "duration": 1.284,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_scooter_tr.mp3",
+    "sha256": "628fe8991eaac459421391b412603804fa8cb899bfd54dc49d7ad1a67836d012",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1192"
+    ],
+    "transcript": "Sıkıltır.",
+    "segments": [
+      {
+        "text": " Sıkıltır.",
+        "start": 0.0,
+        "end": 1.2,
+        "avgLogprob": -1.024990611606174,
+        "noSpeechProbability": 0.17977046966552734
+      }
+    ],
+    "duration": 1.192,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_shower_tr.mp3",
+    "sha256": "8194c108210ea5de799e761e503addad605c4d5690d99791a74093b924f0629f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1197"
+    ],
+    "transcript": "Tuşa Kabin.",
+    "segments": [
+      {
+        "text": " Tuşa Kabin.",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.7464186880323622,
+        "noSpeechProbability": 0.17451871931552887
+      }
+    ],
+    "duration": 1.232,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_spinwheel_tr.mp3",
+    "sha256": "8b4444ebf4cfaa8a784f3e8aaaffb09a71fb3ddd10e9d7cca3034473ad0f2377",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1203"
+    ],
+    "transcript": "Rüzgar Gülü.",
+    "segments": [
+      {
+        "text": " Rüzgar Gülü.",
+        "start": 0.0,
+        "end": 1.34,
+        "avgLogprob": -0.4840917348861694,
+        "noSpeechProbability": 0.4920830726623535
+      }
+    ],
+    "duration": 1.312,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_sweats_tr.mp3",
+    "sha256": "92d27af2d999cde4e2721cb0687fb3c196bd95e244244f797b64bdd0ac38ef15",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1212"
+    ],
+    "transcript": "Sıvıt!",
+    "segments": [
+      {
+        "text": " Sıvıt!",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7985662892460823,
+        "noSpeechProbability": 0.16573801636695862
+      }
+    ],
+    "duration": 1.056,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_tie_tr.mp3",
+    "sha256": "1720d389e6a605a657f963b08572f61e93a6cf941da18c14b17de51e57120092",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1219"
+    ],
+    "transcript": "Kravat",
+    "segments": [
+      {
+        "text": " Kravat",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.35992210110028583,
+        "noSpeechProbability": 0.180154487490654
+      }
+    ],
+    "duration": 1.044,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_washcloth_tr.mp3",
+    "sha256": "61f5e63f2d45cab643eb923dc24eccd39b0d6b10a1fd68c7b967651ca84417db",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1231"
+    ],
+    "transcript": "Elbezi.",
+    "segments": [
+      {
+        "text": " Elbezi.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6327323402677264,
+        "noSpeechProbability": 0.6242729425430298
+      }
+    ],
+    "duration": 1.132,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_yoyo_tr.mp3",
+    "sha256": "60f188cf3ba9354ec901b14b03cc185a829fe4979c51af2a13e9788e4f3da8aa",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1233"
+    ],
+    "transcript": "Yo yo!",
+    "segments": [
+      {
+        "text": " Yo yo!",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5420237282911936,
+        "noSpeechProbability": 0.2004684954881668
+      }
+    ],
+    "duration": 1.028,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_skipping_rope_tr.mp3",
+    "sha256": "3d98e350577e19e794908e30b8c087ac17cf37b6ea51d6479e1b9b7f8967a492",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1258"
+    ],
+    "transcript": "İP",
+    "segments": [
+      {
+        "text": " İP",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5393229484558105,
+        "noSpeechProbability": 0.21397581696510315
+      }
+    ],
+    "duration": 0.82,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_stick_horse_tr.mp3",
+    "sha256": "5369e600f78e5323e6731c97b92959f02dfb97cad4b9c3321f01ae0079064366",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1260"
+    ],
+    "transcript": "Oyuncakat",
+    "segments": [
+      {
+        "text": " Oyuncakat",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.7593116589954921,
+        "noSpeechProbability": 0.2355472445487976
+      }
+    ],
+    "duration": 1.308,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_tennis_table_tr.mp3",
+    "sha256": "d39b6e720f21edad32955111b652bb20a228f892fe5067b1555b3125ba19ed38",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1263"
+    ],
+    "transcript": "TENİSMA SÖYLÜ",
+    "segments": [
+      {
+        "text": " TENİSMA SÖYLÜ",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7798479520357572,
+        "noSpeechProbability": 0.6826492547988892
+      }
+    ],
+    "duration": 1.348,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_toilet_brush_tr.mp3",
+    "sha256": "68ab2dd8273f20e92b80822a1bf060ee85274509c8b34e7a9ca0e6e38ae4935f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1264"
+    ],
+    "transcript": "Banyo Fırçes",
+    "segments": [
+      {
+        "text": " Banyo Fırçes",
+        "start": 0.0,
+        "end": 1.46,
+        "avgLogprob": -0.6909277081489563,
+        "noSpeechProbability": 0.4815380275249481
+      }
+    ],
+    "duration": 1.48,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_home_pencil_sharpener_tr.mp3",
+    "sha256": "f98ecb9292b3479e69ad3244bff032c56d154188263fd9f53a10392eba7d3d55",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "home:1268"
+    ],
+    "transcript": "Kalin Trash",
+    "segments": [
+      {
+        "text": " Kalin Trash",
+        "start": 0.0,
+        "end": 1.28,
+        "avgLogprob": -0.7321569749287197,
+        "noSpeechProbability": 0.1571594774723053
+      }
+    ],
+    "duration": 1.288,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_a_tr.mp3",
+    "sha256": "ee7531ed53bb9cc3b2b4296b3b813c4f0c9a24a769c77c61ca41036bb674d18d",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1271"
+    ],
+    "transcript": "ƒ",
+    "segments": [
+      {
+        "text": " ƒ",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -1.0515157381693523,
+        "noSpeechProbability": 0.14245817065238953
+      }
+    ],
+    "duration": 1.0068125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_b_tr.mp3",
+    "sha256": "5160e35ea374678c44e900ca4720d8e9b46fe8f41840ddf02a85104bd1e51526",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1272"
+    ],
+    "transcript": "B",
+    "segments": [
+      {
+        "text": " B",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5054795891046524,
+        "noSpeechProbability": 0.4651239812374115
+      }
+    ],
+    "duration": 0.818875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_c_tr.mp3",
+    "sha256": "a961a2986385b0b2121d7b359f2a587b1c0c230f58a7d5167bd8a49c8edc01ac",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1276"
+    ],
+    "transcript": "J",
+    "segments": [
+      {
+        "text": " J",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.4647623151540756,
+        "noSpeechProbability": 0.1962098628282547
+      }
+    ],
+    "duration": 0.8529375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_colon_tr.mp3",
+    "sha256": "b4658e303ce696954ef7cbdf9499af5c31f70082923d744472b5d716aef61131",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1278"
+    ],
+    "transcript": "İki noktaya üst üste.",
+    "segments": [
+      {
+        "text": " İki noktaya üst üste.",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6350345810254415,
+        "noSpeechProbability": 0.3429109454154968
+      }
+    ],
+    "duration": 2.0255625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_d_tr.mp3",
+    "sha256": "60fabb31e804addbe77cf6b8c294d460911c5007196e48f30a03405c9465904a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1283"
+    ],
+    "transcript": "De.",
+    "segments": [
+      {
+        "text": " De.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5354707717895508,
+        "noSpeechProbability": 0.14104482531547546
+      }
+    ],
+    "duration": 0.892,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_diomand_tr.mp3",
+    "sha256": "95d74a83a4a27fe260e4586f52bcbf259621cba81c7e87c4a0f1d4b60f0960dd",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1285"
+    ],
+    "transcript": "Baklava şekli.",
+    "segments": [
+      {
+        "text": " Baklava şekli.",
+        "start": 0.0,
+        "end": 1.42,
+        "avgLogprob": -0.5150437355041504,
+        "noSpeechProbability": 0.4706469476222992
+      }
+    ],
+    "duration": 1.42,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_e_tr.mp3",
+    "sha256": "826135e5c7c2aae844311699d3756c8c0ba1f81184e25761549ece850ed373f9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1287"
+    ],
+    "transcript": "Evet.",
+    "segments": [
+      {
+        "text": " Evet.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7144021034240723,
+        "noSpeechProbability": 0.34130939841270447
+      }
+    ],
+    "duration": 0.8689375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_f_tr.mp3",
+    "sha256": "004e54f52b9cf1471912e8827e07fc75b227d74cea94b90e0a47b86e4f95d1f8",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1296"
+    ],
+    "transcript": "P.",
+    "segments": [
+      {
+        "text": " P.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6650272369384765,
+        "noSpeechProbability": 0.3224521279335022
+      }
+    ],
+    "duration": 0.817875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_g_tr.mp3",
+    "sha256": "4b2d945e8ba709b1232c0fb2f2d1329a6388bccfd2a2a8cb278994a7082180bd",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1308"
+    ],
+    "transcript": "Gay.",
+    "segments": [
+      {
+        "text": " Gay.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8818446159362793,
+        "noSpeechProbability": 0.17440223693847656
+      }
+    ],
+    "duration": 0.7918125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_h_tr.mp3",
+    "sha256": "bd3a12d7b0e9ef39f95c0f6d49225ed1345ef9c36cab3426a6039390b5a3bb4e",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1311"
+    ],
+    "transcript": "Hey!",
+    "segments": [
+      {
+        "text": " Hey!",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6682888031005859,
+        "noSpeechProbability": 0.16040615737438202
+      }
+    ],
+    "duration": 0.9020625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_ii_tr.mp3",
+    "sha256": "8f5ecbfd3ce45c8fd06bebe33ba7e9837c0aa36c4a80458cbd129860aff7b79f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1314"
+    ],
+    "transcript": "Evet.",
+    "segments": [
+      {
+        "text": " Evet.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5738965988159179,
+        "noSpeechProbability": 0.25336891412734985
+      }
+    ],
+    "duration": 0.8619375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_j_tr.mp3",
+    "sha256": "675fdb672bea9968901872adb9250c0064ea38f4891627de4c61f735bb393cca",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1315"
+    ],
+    "transcript": "Şey",
+    "segments": [
+      {
+        "text": " Şey",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.33920442312955856,
+        "noSpeechProbability": 0.12720981240272522
+      }
+    ],
+    "duration": 0.879,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_k_tr.mp3",
+    "sha256": "f13f30a2de84449423a66d55526877416a9a0562e38d8a716c367148e136a12f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1316"
+    ],
+    "transcript": "K.",
+    "segments": [
+      {
+        "text": " K.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6062432289123535,
+        "noSpeechProbability": 0.2502063810825348
+      }
+    ],
+    "duration": 0.811875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_l_tr.mp3",
+    "sha256": "0566ba465becc2170a801760749937b82e23e5a7b816e09cd63b4999517af39c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1317"
+    ],
+    "transcript": "Le",
+    "segments": [
+      {
+        "text": " Le",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6487244367599487,
+        "noSpeechProbability": 0.3308439254760742
+      }
+    ],
+    "duration": 0.925125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_m_tr.mp3",
+    "sha256": "e467efbd2f76aff08f38b3291ee3bf977c86c801f85dd05e25c0ea274af77408",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1319"
+    ],
+    "transcript": "Me.",
+    "segments": [
+      {
+        "text": " Me.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8059125900268554,
+        "noSpeechProbability": 0.2345210611820221
+      }
+    ],
+    "duration": 0.9110625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_n_tr.mp3",
+    "sha256": "30f30041090f9a0905f71c988981f2e7e8078ed0a212c10b1b7ebde3bd57e195",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1322"
+    ],
+    "transcript": "Ne?",
+    "segments": [
+      {
+        "text": " Ne?",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.4734965324401855,
+        "noSpeechProbability": 0.12147387862205505
+      }
+    ],
+    "duration": 0.8138125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_o_tr.mp3",
+    "sha256": "7de1390d7d99a8d5dab6a8e407fa604ea1d9a670f7f97039bdcb1666a2864686",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1328"
+    ],
+    "transcript": "O.",
+    "segments": [
+      {
+        "text": " O.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6218827247619629,
+        "noSpeechProbability": 0.2444474697113037
+      }
+    ],
+    "duration": 0.827875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_orange_tr.mp3",
+    "sha256": "c3ebd696d5f1d64509e607ac60292d693c0958751f2011504995b55b588cf66d",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1331"
+    ],
+    "transcript": "Toruncu",
+    "segments": [
+      {
+        "text": " Toruncu",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8044179280598959,
+        "noSpeechProbability": 0.19117532670497894
+      }
+    ],
+    "duration": 1.072125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_p_tr.mp3",
+    "sha256": "e0aa703262846631f754c6da025d55f61f440b8b90085db31aaa6bbb99e90aba",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1333"
+    ],
+    "transcript": "P.",
+    "segments": [
+      {
+        "text": " P.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.928838062286377,
+        "noSpeechProbability": 0.2744056284427643
+      }
+    ],
+    "duration": 0.9641875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_r_tr.mp3",
+    "sha256": "6a5993f4332d5d998b4b56abde2104e025f77c5936149d5aae15244ddf6dedfd",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1343"
+    ],
+    "transcript": "J",
+    "segments": [
+      {
+        "text": " J",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6633059978485107,
+        "noSpeechProbability": 0.08597006648778915
+      }
+    ],
+    "duration": 0.8088125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_s_tr.mp3",
+    "sha256": "fc1326963f4d0d9a5e717c3972fb625001818755819d86faf61bb806914241f5",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1346"
+    ],
+    "transcript": "S.",
+    "segments": [
+      {
+        "text": " S.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.9625215530395508,
+        "noSpeechProbability": 0.3238946497440338
+      }
+    ],
+    "duration": 0.858,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_t_tr.mp3",
+    "sha256": "c7a25895d65acac1e87c93357dade966de9875ae1359b1c0ebbceaa762b83a69",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1361"
+    ],
+    "transcript": "T",
+    "segments": [
+      {
+        "text": " T",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -1.1194978952407837,
+        "noSpeechProbability": 0.34879636764526367
+      }
+    ],
+    "duration": 1.0664375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_twentieth_tr.mp3",
+    "sha256": "d7f0677f6515b993eb4f03342231e1d8c7ae1843a4a160d77825c7c2823eb305",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1375"
+    ],
+    "transcript": "Yirminci",
+    "segments": [
+      {
+        "text": " Yirminci",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.5951274931430817,
+        "noSpeechProbability": 0.26944246888160706
+      }
+    ],
+    "duration": 0.872,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_u_tr.mp3",
+    "sha256": "b02691a874180bccb9c4c687823f365fbdec2a97af281ac6f452ed4f985a182f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1378"
+    ],
+    "transcript": "U",
+    "segments": [
+      {
+        "text": " U",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6592741012573242,
+        "noSpeechProbability": 0.3214617371559143
+      }
+    ],
+    "duration": 0.9581875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_v_tr.mp3",
+    "sha256": "9048a4cd8cfe5c069521673c255f207a5b23fd3bc95c94a74ea691b2bf88ae78",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1379"
+    ],
+    "transcript": "De.",
+    "segments": [
+      {
+        "text": " De.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5497207641601562,
+        "noSpeechProbability": 0.2301805317401886
+      }
+    ],
+    "duration": 0.98525,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_y_tr.mp3",
+    "sha256": "dde2c8271661d97cbec6dca122f3f7965e90a2b255ae65fe17a4cdf1499a033c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1383"
+    ],
+    "transcript": "Ye!",
+    "segments": [
+      {
+        "text": " Ye!",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8751139640808105,
+        "noSpeechProbability": 0.25591662526130676
+      }
+    ],
+    "duration": 0.8068125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_z_tr.mp3",
+    "sha256": "8e812307b56ddee80bb6a4f50a4b4e903a24f09c7c70c6f92d5e1ae56616719e",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1385"
+    ],
+    "transcript": "Z.",
+    "segments": [
+      {
+        "text": " Z.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5429802894592285,
+        "noSpeechProbability": 0.2710801959037781
+      }
+    ],
+    "duration": 0.829875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_school_pencil_tr.mp3",
+    "sha256": "3b86dedaae5ffe95dd08ae00288da94e73d89dc42d74b46040483209a1d2e50f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1390"
+    ],
+    "transcript": "Kalem",
+    "segments": [
+      {
+        "text": " Kalem",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.3437172889709473,
+        "noSpeechProbability": 0.27751049399375916
+      }
+    ],
+    "duration": 0.944,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_school_ruler_tr.mp3",
+    "sha256": "3908a79a8a351c5ee901cd5179283092bb0e24fb83b63f1878746b81c4770d9f",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1391"
+    ],
+    "transcript": "JTW",
+    "segments": [
+      {
+        "text": " JTW",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8916249871253967,
+        "noSpeechProbability": 0.07684887945652008
+      }
+    ],
+    "duration": 1.104,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_quotation_mark_tr.mp3",
+    "sha256": "b73d1534575ac61f8765110581edebede1ef17dcfe9872fb07e3569450b8b25b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1399"
+    ],
+    "transcript": "Tırnak",
+    "segments": [
+      {
+        "text": " Tırnak",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.9359427293141683,
+        "noSpeechProbability": 0.0938630923628807
+      }
+    ],
+    "duration": 1.0133125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_exclamation_mark_tr.mp3",
+    "sha256": "f320fa722a7c248042118350600c307347daa1053d132846210e3690905bccba",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:1400"
+    ],
+    "transcript": "Ünlem işareti.",
+    "segments": [
+      {
+        "text": " Ünlem işareti.",
+        "start": 0.0,
+        "end": 2.0,
+        "avgLogprob": -0.6089292526245117,
+        "noSpeechProbability": 0.24531503021717072
+      }
+    ],
+    "duration": 1.709875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_artist_tr.mp3",
+    "sha256": "5ac750ba2272a4f7d60293605d94ac15f1d3b3fca8b64ac494baa3fa7dd25131",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1402"
+    ],
+    "transcript": "Resem",
+    "segments": [
+      {
+        "text": " Resem",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6235697746276856,
+        "noSpeechProbability": 0.13585706055164337
+      }
+    ],
+    "duration": 1.1146875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_businessman_tr.mp3",
+    "sha256": "ea5be0345a77a22d2a54a3e0cc3fc0f23646cbb2501ef207e19f2f4a5c323f34",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1404"
+    ],
+    "transcript": "İş adamı.",
+    "segments": [
+      {
+        "text": " İş adamı.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.6187843424933297,
+        "noSpeechProbability": 0.356009304523468
+      }
+    ],
+    "duration": 1.0986875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_chef_tr.mp3",
+    "sha256": "c1a0169505fdb92472b7143856931bd5786a5f029ad4e8258059222ecec2b52b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1407"
+    ],
+    "transcript": "Şif",
+    "segments": [
+      {
+        "text": " Şif",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.35404129028320314,
+        "noSpeechProbability": 0.07201731204986572
+      }
+    ],
+    "duration": 1.008,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_dentist_tr.mp3",
+    "sha256": "af5340e91b8f215123e125d9bca516d19745a0c296927c26f1087cc9273faff6",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1409"
+    ],
+    "transcript": "Dişçi",
+    "segments": [
+      {
+        "text": " Dişçi",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7615054647127787,
+        "noSpeechProbability": 0.1708286702632904
+      }
+    ],
+    "duration": 0.997375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_driver_tr.mp3",
+    "sha256": "6815c1b8095debcaccb5e8ec84baa58a2c6987579cb5dc7768e5b86c2ab7e36c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1411"
+    ],
+    "transcript": "Şoför",
+    "segments": [
+      {
+        "text": " Şoför",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.4319640000661214,
+        "noSpeechProbability": 0.06906921416521072
+      }
+    ],
+    "duration": 1.112,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_judge_tr.mp3",
+    "sha256": "99870431928cfa1efd7de3a27d02a3597b1941f8100411d04bd7b2e17c52cd18",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1418"
+    ],
+    "transcript": "Hakim",
+    "segments": [
+      {
+        "text": " Hakim",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.43430185317993164,
+        "noSpeechProbability": 0.1839512437582016
+      }
+    ],
+    "duration": 0.992,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_painter_tr.mp3",
+    "sha256": "3ea9e5e2c045f32206bbc2e0d79870d515de5ddf2b67532c6e86041ed269ede9",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1423"
+    ],
+    "transcript": "Boyeci",
+    "segments": [
+      {
+        "text": " Boyeci",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.7591345409552256,
+        "noSpeechProbability": 0.1915106624364853
+      }
+    ],
+    "duration": 1.056,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_plumber_tr.mp3",
+    "sha256": "587b10c9f54a2ee2832e2b4c5028e71b7fddb3617b63abc9175e28264b2ecd9a",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1426"
+    ],
+    "transcript": "Sutecis Açs",
+    "segments": [
+      {
+        "text": " Sutecis Açs",
+        "start": 0.0,
+        "end": 1.7,
+        "avgLogprob": -1.1118448376655579,
+        "noSpeechProbability": 0.23016993701457977
+      }
+    ],
+    "duration": 1.6746875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_politician_tr.mp3",
+    "sha256": "56a2573364e26b27833d5d958806c8c1211cc679267eee253fc2a07a46881bab",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1428"
+    ],
+    "transcript": "politikacı",
+    "segments": [
+      {
+        "text": " politikacı",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8296840886274973,
+        "noSpeechProbability": 0.3224691152572632
+      }
+    ],
+    "duration": 1.156,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_scientist_tr.mp3",
+    "sha256": "63155523f5bbe4f65ef2c7e70cafa44b2e9d9443d60778e03face611e039af29",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1431"
+    ],
+    "transcript": "Bilim adamı.",
+    "segments": [
+      {
+        "text": " Bilim adamı.",
+        "start": 0.0,
+        "end": 1.2,
+        "avgLogprob": -0.5014519914984703,
+        "noSpeechProbability": 0.3315277099609375
+      }
+    ],
+    "duration": 1.168,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_astronaut_tr.mp3",
+    "sha256": "667f8fdb385f67f5633d22e1c16bd18aa17597659b94c944bac80c4f1ad050fb",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1437"
+    ],
+    "transcript": "Astronaut",
+    "segments": [
+      {
+        "text": " Astronaut",
+        "start": 0.0,
+        "end": 1.32,
+        "avgLogprob": -0.650387954711914,
+        "noSpeechProbability": 0.1683148443698883
+      }
+    ],
+    "duration": 1.224,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_delivery_man_tr.mp3",
+    "sha256": "5acc0e1e9bc04bdcb0a7c1bd42ef96db91de67d92aaf050e86cf0442791053dc",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1442"
+    ],
+    "transcript": "Kargoju",
+    "segments": [
+      {
+        "text": " Kargoju",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5965426564216614,
+        "noSpeechProbability": 0.261368989944458
+      }
+    ],
+    "duration": 1.0826875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_receptionist_tr.mp3",
+    "sha256": "23263b58187aab466a22962ae39006319a7faac92a427ba80f439f98f3223749",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1444"
+    ],
+    "transcript": "Recepcionist",
+    "segments": [
+      {
+        "text": " Recepcionist",
+        "start": 0.0,
+        "end": 1.52,
+        "avgLogprob": -0.7498898506164551,
+        "noSpeechProbability": 0.16284731030464172
+      }
+    ],
+    "duration": 1.5346875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_professions_taxi_driver_tr.mp3",
+    "sha256": "0f58e6797d8568b9f86bee28a5d4ad7975679a6372b53cc14ee17a5581ad5c32",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "professions:1445"
+    ],
+    "transcript": "Taksi şoför",
+    "segments": [
+      {
+        "text": " Taksi şoför",
+        "start": 0.0,
+        "end": 1.4000000000000001,
+        "avgLogprob": -0.5974465012550354,
+        "noSpeechProbability": 0.3555302321910858
+      }
+    ],
+    "duration": 1.3866875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_cc_tr.mp3",
+    "sha256": "d690244e80c1c6c4a117422da1b70f71fb7a125f3236dadd9a6254b0a812c7f1",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:tr-letter-00c7"
+    ],
+    "transcript": "C",
+    "segments": [
+      {
+        "text": " C",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5918208360671997,
+        "noSpeechProbability": 0.1896134465932846
+      }
+    ],
+    "duration": 0.825875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_gg_tr.mp3",
+    "sha256": "583da69b28dbab42831df7e8b2ee7e0533509195d866be31a864728bc0bf0fe7",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:tr-letter-011e"
+    ],
+    "transcript": "Yumuşak ki.",
+    "segments": [
+      {
+        "text": " Yumuşak ki.",
+        "start": 0.0,
+        "end": 1.42,
+        "avgLogprob": -0.5833554118871689,
+        "noSpeechProbability": 0.061181072145700455
+      }
+    ],
+    "duration": 1.2388125,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_i_tr.mp3",
+    "sha256": "04764878367cfb8c6534c6d89b744cc2796dcb3d02362a604be6bfe02e1c3456",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:tr-letter-0130"
+    ],
+    "transcript": "İ.",
+    "segments": [
+      {
+        "text": " İ.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.5787941932678222,
+        "noSpeechProbability": 0.5351576805114746
+      }
+    ],
+    "duration": 0.8359375,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_oo_tr.mp3",
+    "sha256": "5b828c9b6f1c7838b11841a63f1448f55f3beb779bccdb9aacdbe8dace08896c",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:tr-letter-00d6"
+    ],
+    "transcript": "Evet.",
+    "segments": [
+      {
+        "text": " Evet.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.8502293586730957,
+        "noSpeechProbability": 0.26515862345695496
+      }
+    ],
+    "duration": 0.808875,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_ss_tr.mp3",
+    "sha256": "a0ecfdb288c5a636aee87bea55f513e1e985ef3aad948bea37fd02196534d67b",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:tr-letter-015e"
+    ],
+    "transcript": "Şey.",
+    "segments": [
+      {
+        "text": " Şey.",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.9369609832763672,
+        "noSpeechProbability": 0.2043796181678772
+      }
+    ],
+    "duration": 0.9110625,
+    "humanListeningVerified": false
+  },
+  {
+    "audioPath": "audio/slide_my_school_alphabets_uu_tr.mp3",
+    "sha256": "e6c1127205dff59d974241a838160bb165a187ef1cb4872e7da44d8052d0fefc",
+    "model": "faster-whisper-small",
+    "language": "tr",
+    "initialPrompt": null,
+    "conceptIds": [
+      "school:tr-letter-00dc"
+    ],
+    "transcript": "Ü",
+    "segments": [
+      {
+        "text": " Ü",
+        "start": 0.0,
+        "end": 1.0,
+        "avgLogprob": -0.736549124121666,
+        "noSpeechProbability": 0.20584017038345337
+      }
+    ],
+    "duration": 0.9050625,
+    "humanListeningVerified": false
+  }
+]

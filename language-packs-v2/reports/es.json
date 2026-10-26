@@ -1,0 +1,70 @@
+{
+  "language": "es",
+  "wordCount": 1701,
+  "activeWordCount": 1451,
+  "missingAudio": [],
+  "missingRequiredAudio": [],
+  "missingImages": [],
+  "inactiveConceptIds": [],
+  "missingInactiveImages": [],
+  "reviewRecords": [],
+  "editorialReviewRequired": false,
+  "contentReview": {
+    "status": "regional_adaptation_review_pending",
+    "scope": "46 Latin American vocabulary adaptations; prior content approval retained below",
+    "previousApproval": {
+      "status": "user_approved",
+      "scope": "learning_text_and_alphabet_images",
+      "approvedAt": "2026-09-27T14:36:49.756974+00:00"
+    }
+  },
+  "sharedImageCount": 1672,
+  "localImageCount": 27,
+  "locale": "es-419",
+  "audioReview": {
+    "status": "sample_approved_bulk_generated",
+    "voiceId": "NUEuVCKSYxEA5YrK3kmx",
+    "voiceName": "Daniela - Warm, Professional, Persuasive",
+    "model": "eleven_v4",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    },
+    "languageCode": "es",
+    "targetLocale": "es-419",
+    "generatedRecordings": 1206,
+    "installedFiles": 1254,
+    "approvedWords": [
+      "Gato",
+      "Oruga",
+      "Ciervo",
+      "Perro",
+      "Libélula",
+      "Águila",
+      "Pez"
+    ],
+    "bulkGenerationAuthorized": true,
+    "allPronunciationsHumanReviewed": false,
+    "source": "production/es-daniela-v4/ledger.json"
+  },
+  "regionalAdaptation": {
+    "locale": "es-419",
+    "status": "assistant_adapted",
+    "note": "General Latin American educational vocabulary; regional synonyms vary by country.",
+    "changedRecords": 46
+  },
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "14-es-chess-5265b6a427ce",
+    "archive": "archives/es-14-es-chess-5265b6a427ce.zip"
+  }
+}

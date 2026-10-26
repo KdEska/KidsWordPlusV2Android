@@ -1,0 +1,1186 @@
+[
+  {
+    "character": "bibi",
+    "pose": "wave-out",
+    "path": "ui/greetings/bibi/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 58128,
+    "sha256": "969588ca779a139eb9e40fc6c1ea366be5dcbdf4daf24586a8d2702ad1daf18c",
+    "reference": "design/splash/bibi",
+    "sourceHashes": {
+      "atlas.png": "9334a51a465fcf8e63ca7076daf2eec775f5668a0cbf09390b13229a4cf19050",
+      "frames.json": "5b207a2effa82a5a6b989efe9f25a473e0cc7d709502c422f0959d3b275cce8d"
+    }
+  },
+  {
+    "character": "bibi",
+    "pose": "wave-middle",
+    "path": "ui/greetings/bibi/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56828,
+    "sha256": "8e628b72748f74a1102c0c3603451e7e99ae7de9c6bc49228888c29bcb09fe32",
+    "reference": "design/splash/bibi",
+    "sourceHashes": {
+      "atlas.png": "9334a51a465fcf8e63ca7076daf2eec775f5668a0cbf09390b13229a4cf19050",
+      "frames.json": "5b207a2effa82a5a6b989efe9f25a473e0cc7d709502c422f0959d3b275cce8d"
+    }
+  },
+  {
+    "character": "bibi",
+    "pose": "wave-in",
+    "path": "ui/greetings/bibi/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 48842,
+    "sha256": "19fc5ae51a2bd5d5f227a775df52011b7bcead779a73a23f7bdfb1a624c48ae6",
+    "reference": "design/splash/bibi",
+    "sourceHashes": {
+      "atlas.png": "9334a51a465fcf8e63ca7076daf2eec775f5668a0cbf09390b13229a4cf19050",
+      "frames.json": "5b207a2effa82a5a6b989efe9f25a473e0cc7d709502c422f0959d3b275cce8d"
+    }
+  },
+  {
+    "character": "bibi",
+    "pose": "wink",
+    "path": "ui/greetings/bibi/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56506,
+    "sha256": "9e712fb1c9c1f38c2eddd3afe3b16744f7bf134a262e717e4b02d2e99229642b",
+    "reference": "design/splash/bibi",
+    "sourceHashes": {
+      "atlas.png": "9334a51a465fcf8e63ca7076daf2eec775f5668a0cbf09390b13229a4cf19050",
+      "frames.json": "5b207a2effa82a5a6b989efe9f25a473e0cc7d709502c422f0959d3b275cce8d"
+    }
+  },
+  {
+    "character": "bruno",
+    "pose": "wave-out",
+    "path": "ui/greetings/bruno/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47530,
+    "sha256": "bbeeb06d878fb94f66534a230e394ab140685a0c89f05d66479dd10f37a29930",
+    "reference": "design/splash/bruno",
+    "sourceHashes": {
+      "atlas.png": "e61a34d26d4123b7b843fd841336e07aea36d657b5106186763ab0a89663c766",
+      "frames.json": "90b601a4d2641ffcbe10445f79f20c32a73ceec7f7f1f3e6bfd6a5c404418f35"
+    }
+  },
+  {
+    "character": "bruno",
+    "pose": "wave-middle",
+    "path": "ui/greetings/bruno/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 43702,
+    "sha256": "92de4a99b04b7cd3a02cb4139458246ab73d9b7157b4d2b1e0a7b6353760c164",
+    "reference": "design/splash/bruno",
+    "sourceHashes": {
+      "atlas.png": "e61a34d26d4123b7b843fd841336e07aea36d657b5106186763ab0a89663c766",
+      "frames.json": "90b601a4d2641ffcbe10445f79f20c32a73ceec7f7f1f3e6bfd6a5c404418f35"
+    }
+  },
+  {
+    "character": "bruno",
+    "pose": "wave-in",
+    "path": "ui/greetings/bruno/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 41764,
+    "sha256": "8439d7c040059a89c110dc3d6a51fb9a53e1521e548cb8bd545355b04fc32ef4",
+    "reference": "design/splash/bruno",
+    "sourceHashes": {
+      "atlas.png": "e61a34d26d4123b7b843fd841336e07aea36d657b5106186763ab0a89663c766",
+      "frames.json": "90b601a4d2641ffcbe10445f79f20c32a73ceec7f7f1f3e6bfd6a5c404418f35"
+    }
+  },
+  {
+    "character": "bruno",
+    "pose": "wink",
+    "path": "ui/greetings/bruno/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 46126,
+    "sha256": "e3d2f391f260e595daac43cddd086f119e3e69b7a7b8fca9260499ee903644be",
+    "reference": "design/splash/bruno",
+    "sourceHashes": {
+      "atlas.png": "e61a34d26d4123b7b843fd841336e07aea36d657b5106186763ab0a89663c766",
+      "frames.json": "90b601a4d2641ffcbe10445f79f20c32a73ceec7f7f1f3e6bfd6a5c404418f35"
+    }
+  },
+  {
+    "character": "elly",
+    "pose": "wave-out",
+    "path": "ui/greetings/elly/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 49408,
+    "sha256": "2091c8b6104d8ae7e95ea48a366ef4cbae428eb0cdbfd6e26e1cd0441417fc8b",
+    "reference": "design/splash/elly",
+    "sourceHashes": {
+      "atlas.png": "31186a5780c29230df7c452d914b730f8e5166d27f37ed4c05910f8ce6bdfaf1",
+      "frames.json": "6ca2dae0750c06ecc80c87ed16c8dd539ca3809932b733e4d5494909b41447fd"
+    }
+  },
+  {
+    "character": "elly",
+    "pose": "wave-middle",
+    "path": "ui/greetings/elly/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 49146,
+    "sha256": "33e202facbcdfab012bd02e8b14a5ea77b9c361d5125dd56257e3dd852ab9bae",
+    "reference": "design/splash/elly",
+    "sourceHashes": {
+      "atlas.png": "31186a5780c29230df7c452d914b730f8e5166d27f37ed4c05910f8ce6bdfaf1",
+      "frames.json": "6ca2dae0750c06ecc80c87ed16c8dd539ca3809932b733e4d5494909b41447fd"
+    }
+  },
+  {
+    "character": "elly",
+    "pose": "wave-in",
+    "path": "ui/greetings/elly/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 49004,
+    "sha256": "015b7a572b61595cc5f6a73c28346ddcbc5cf6ef3ed13b54704e268b9acc480b",
+    "reference": "design/splash/elly",
+    "sourceHashes": {
+      "atlas.png": "31186a5780c29230df7c452d914b730f8e5166d27f37ed4c05910f8ce6bdfaf1",
+      "frames.json": "6ca2dae0750c06ecc80c87ed16c8dd539ca3809932b733e4d5494909b41447fd"
+    }
+  },
+  {
+    "character": "elly",
+    "pose": "wink",
+    "path": "ui/greetings/elly/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47654,
+    "sha256": "0f2082d8d3b179eb1f3d156a708bf85fce73203e211d483ea483dd95c88a92f8",
+    "reference": "design/splash/elly",
+    "sourceHashes": {
+      "atlas.png": "31186a5780c29230df7c452d914b730f8e5166d27f37ed4c05910f8ce6bdfaf1",
+      "frames.json": "6ca2dae0750c06ecc80c87ed16c8dd539ca3809932b733e4d5494909b41447fd"
+    }
+  },
+  {
+    "character": "foxy",
+    "pose": "wave-out",
+    "path": "ui/greetings/foxy/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 51392,
+    "sha256": "c44440bca20cb5c7f8d1ae69be1cb9ed55356367bcc51ff1a94cbdff826d3fd2",
+    "reference": "design/splash/foxy",
+    "sourceHashes": {
+      "atlas.png": "70b269f9809ad1568149bf8122d6637ff9a5b6e354cf459c9a40d9ff70e85c4e",
+      "frames.json": "e6b0569a4f79d7b77145267ea2f5b8b8c26f1d9796fc393a67df0103448f44e4"
+    }
+  },
+  {
+    "character": "foxy",
+    "pose": "wave-middle",
+    "path": "ui/greetings/foxy/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 50062,
+    "sha256": "b017e9fdcf7b3757b21f0a896eb2fb4efe665fd31d1cc8ff577f17e85a3e0204",
+    "reference": "design/splash/foxy",
+    "sourceHashes": {
+      "atlas.png": "70b269f9809ad1568149bf8122d6637ff9a5b6e354cf459c9a40d9ff70e85c4e",
+      "frames.json": "e6b0569a4f79d7b77145267ea2f5b8b8c26f1d9796fc393a67df0103448f44e4"
+    }
+  },
+  {
+    "character": "foxy",
+    "pose": "wave-in",
+    "path": "ui/greetings/foxy/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 49866,
+    "sha256": "2c3568ce2d518e7d5b0fcd760b520afa2c3844b0021bc35351bebf0515b85150",
+    "reference": "design/splash/foxy",
+    "sourceHashes": {
+      "atlas.png": "70b269f9809ad1568149bf8122d6637ff9a5b6e354cf459c9a40d9ff70e85c4e",
+      "frames.json": "e6b0569a4f79d7b77145267ea2f5b8b8c26f1d9796fc393a67df0103448f44e4"
+    }
+  },
+  {
+    "character": "foxy",
+    "pose": "wink",
+    "path": "ui/greetings/foxy/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 50256,
+    "sha256": "b5e44d37ccddc45e5d0805f6fd80c3b725b3e7640d7b701d7aa28a31f0969c4e",
+    "reference": "design/splash/foxy",
+    "sourceHashes": {
+      "atlas.png": "70b269f9809ad1568149bf8122d6637ff9a5b6e354cf459c9a40d9ff70e85c4e",
+      "frames.json": "e6b0569a4f79d7b77145267ea2f5b8b8c26f1d9796fc393a67df0103448f44e4"
+    }
+  },
+  {
+    "character": "gigi",
+    "pose": "wave-out",
+    "path": "ui/greetings/gigi/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47182,
+    "sha256": "5bbdf2251aec42e08f0fe76143d45d7322243b61b94bbb9a5d46af50845287ac",
+    "reference": "design/splash/gigi",
+    "sourceHashes": {
+      "atlas.png": "5b4dfd53b8d42ecb83cd4c318350e368a5bbd457a92ce0dc2e6d919efa47a0fc",
+      "frames.json": "f013cee2ec32be44bd3aa5bcef5d7b649b16002162e4571d52e889f2bcb95049"
+    }
+  },
+  {
+    "character": "gigi",
+    "pose": "wave-middle",
+    "path": "ui/greetings/gigi/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47524,
+    "sha256": "f5307407a7cef4a35f66127f0dfed26683c60f9603566e1f8ed129e309862fb7",
+    "reference": "design/splash/gigi",
+    "sourceHashes": {
+      "atlas.png": "5b4dfd53b8d42ecb83cd4c318350e368a5bbd457a92ce0dc2e6d919efa47a0fc",
+      "frames.json": "f013cee2ec32be44bd3aa5bcef5d7b649b16002162e4571d52e889f2bcb95049"
+    }
+  },
+  {
+    "character": "gigi",
+    "pose": "wave-in",
+    "path": "ui/greetings/gigi/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47638,
+    "sha256": "b8959fd1ebb52453b9a083e91b4dc7c061367a765056200324d70bf6f4295cb7",
+    "reference": "design/splash/gigi",
+    "sourceHashes": {
+      "atlas.png": "5b4dfd53b8d42ecb83cd4c318350e368a5bbd457a92ce0dc2e6d919efa47a0fc",
+      "frames.json": "f013cee2ec32be44bd3aa5bcef5d7b649b16002162e4571d52e889f2bcb95049"
+    }
+  },
+  {
+    "character": "gigi",
+    "pose": "wink",
+    "path": "ui/greetings/gigi/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47868,
+    "sha256": "5828b90ef440cdd82e77134dda07175ae9a160119d1c702305b36a2f19d5e096",
+    "reference": "design/splash/gigi",
+    "sourceHashes": {
+      "atlas.png": "5b4dfd53b8d42ecb83cd4c318350e368a5bbd457a92ce0dc2e6d919efa47a0fc",
+      "frames.json": "f013cee2ec32be44bd3aa5bcef5d7b649b16002162e4571d52e889f2bcb95049"
+    }
+  },
+  {
+    "character": "hugo",
+    "pose": "wave-out",
+    "path": "ui/greetings/hugo/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56290,
+    "sha256": "b6066b5747b26ae40f72e3650d6337a942dffd631f4d06dc0bd34b7ac05de717",
+    "reference": "design/splash/hugo",
+    "sourceHashes": {
+      "atlas.png": "0b3e54c9f414144f90d5ee3182a843cffece4b7be0cc56273a7ca3f42a74ccb8",
+      "frames.json": "ca19ca734a20e5b597aa2aadc194c5c6d405d9ee2f5b1d06dea3ebdc504b5d23"
+    }
+  },
+  {
+    "character": "hugo",
+    "pose": "wave-middle",
+    "path": "ui/greetings/hugo/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56976,
+    "sha256": "67c4fe7830f2563850262b13e0f1cd9a8d5314760afe8fc71b7b18b41c641def",
+    "reference": "design/splash/hugo",
+    "sourceHashes": {
+      "atlas.png": "0b3e54c9f414144f90d5ee3182a843cffece4b7be0cc56273a7ca3f42a74ccb8",
+      "frames.json": "ca19ca734a20e5b597aa2aadc194c5c6d405d9ee2f5b1d06dea3ebdc504b5d23"
+    }
+  },
+  {
+    "character": "hugo",
+    "pose": "wave-in",
+    "path": "ui/greetings/hugo/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56856,
+    "sha256": "67a0e1709b7eb7159675f89fa068b4af395af5c22f0c3780b6f8e83158f77b64",
+    "reference": "design/splash/hugo",
+    "sourceHashes": {
+      "atlas.png": "0b3e54c9f414144f90d5ee3182a843cffece4b7be0cc56273a7ca3f42a74ccb8",
+      "frames.json": "ca19ca734a20e5b597aa2aadc194c5c6d405d9ee2f5b1d06dea3ebdc504b5d23"
+    }
+  },
+  {
+    "character": "hugo",
+    "pose": "wink",
+    "path": "ui/greetings/hugo/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56160,
+    "sha256": "03420f0cde667defb6234f1c5b3529dd714705d0682bdde75afaf1445dce5cbe",
+    "reference": "design/splash/hugo",
+    "sourceHashes": {
+      "atlas.png": "0b3e54c9f414144f90d5ee3182a843cffece4b7be0cc56273a7ca3f42a74ccb8",
+      "frames.json": "ca19ca734a20e5b597aa2aadc194c5c6d405d9ee2f5b1d06dea3ebdc504b5d23"
+    }
+  },
+  {
+    "character": "koko",
+    "pose": "wave-out",
+    "path": "ui/greetings/koko/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 53824,
+    "sha256": "03cf3b42387de5bdc9330654f39ce4da4ac8d121273e09ebcaa40e5b4f048b9c",
+    "reference": "design/splash/koko",
+    "sourceHashes": {
+      "atlas.png": "3249452fc19c22f38d9c7b9eedb97b09818c4b5ba36b7f20f17cf1ade5444a6c",
+      "frames.json": "9cbb325a9c452fca0413af5ac278a39615d871a0d0bff4638b74b22aee44d966"
+    }
+  },
+  {
+    "character": "koko",
+    "pose": "wave-middle",
+    "path": "ui/greetings/koko/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 52848,
+    "sha256": "7ac3aff84b4d7302f9f1d6b932ae35504b7f0ee4fc3bcffe0e15749126a9d614",
+    "reference": "design/splash/koko",
+    "sourceHashes": {
+      "atlas.png": "3249452fc19c22f38d9c7b9eedb97b09818c4b5ba36b7f20f17cf1ade5444a6c",
+      "frames.json": "9cbb325a9c452fca0413af5ac278a39615d871a0d0bff4638b74b22aee44d966"
+    }
+  },
+  {
+    "character": "koko",
+    "pose": "wave-in",
+    "path": "ui/greetings/koko/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 52330,
+    "sha256": "cc7e723fbfe402602c14bf8f9613c708658a7ab14b8541eeca83381ea295db12",
+    "reference": "design/splash/koko",
+    "sourceHashes": {
+      "atlas.png": "3249452fc19c22f38d9c7b9eedb97b09818c4b5ba36b7f20f17cf1ade5444a6c",
+      "frames.json": "9cbb325a9c452fca0413af5ac278a39615d871a0d0bff4638b74b22aee44d966"
+    }
+  },
+  {
+    "character": "koko",
+    "pose": "wink",
+    "path": "ui/greetings/koko/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54470,
+    "sha256": "45274f136250c63e7765c0b4ee5b6cfa2a63d3f6998c832c0424429be0d901af",
+    "reference": "design/splash/koko",
+    "sourceHashes": {
+      "atlas.png": "3249452fc19c22f38d9c7b9eedb97b09818c4b5ba36b7f20f17cf1ade5444a6c",
+      "frames.json": "9cbb325a9c452fca0413af5ac278a39615d871a0d0bff4638b74b22aee44d966"
+    }
+  },
+  {
+    "character": "leo",
+    "pose": "wave-out",
+    "path": "ui/greetings/leo/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 57284,
+    "sha256": "041cddc1f8eba48019b92705ef28f42c5e1dcd4d8be58f7b495d535e1f02fcd8",
+    "reference": "design/splash/leo",
+    "sourceHashes": {
+      "atlas.png": "38bd4ab3aa71397853018007b0d8ccd3bc7dad5c9b8e9eb5406b1d0a9f99f357",
+      "frames.json": "6dded9ebf603cfa9936c2dd82c8a987b3ca9114a91e422bcdef7d36b94482e9b"
+    }
+  },
+  {
+    "character": "leo",
+    "pose": "wave-middle",
+    "path": "ui/greetings/leo/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56882,
+    "sha256": "db7f542b5a11fda85e9331aa71c79eb9d13d444764de8c65459e8eadc5f47a18",
+    "reference": "design/splash/leo",
+    "sourceHashes": {
+      "atlas.png": "38bd4ab3aa71397853018007b0d8ccd3bc7dad5c9b8e9eb5406b1d0a9f99f357",
+      "frames.json": "6dded9ebf603cfa9936c2dd82c8a987b3ca9114a91e422bcdef7d36b94482e9b"
+    }
+  },
+  {
+    "character": "leo",
+    "pose": "wave-in",
+    "path": "ui/greetings/leo/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 57500,
+    "sha256": "dfbaca3a90b9599172d32dc9d7254fa0bbfcfa56905716e487a76e8c210cbdc0",
+    "reference": "design/splash/leo",
+    "sourceHashes": {
+      "atlas.png": "38bd4ab3aa71397853018007b0d8ccd3bc7dad5c9b8e9eb5406b1d0a9f99f357",
+      "frames.json": "6dded9ebf603cfa9936c2dd82c8a987b3ca9114a91e422bcdef7d36b94482e9b"
+    }
+  },
+  {
+    "character": "leo",
+    "pose": "wink",
+    "path": "ui/greetings/leo/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 58542,
+    "sha256": "3dc5625f92b91903facd78226b58f5095e4f8d8154895ee05c33a805ddf029b0",
+    "reference": "design/splash/leo",
+    "sourceHashes": {
+      "atlas.png": "38bd4ab3aa71397853018007b0d8ccd3bc7dad5c9b8e9eb5406b1d0a9f99f357",
+      "frames.json": "6dded9ebf603cfa9936c2dd82c8a987b3ca9114a91e422bcdef7d36b94482e9b"
+    }
+  },
+  {
+    "character": "luna",
+    "pose": "wave-out",
+    "path": "ui/greetings/luna/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 42340,
+    "sha256": "fbfd9142be231933ad753ef845dbf4eada8232b2e838ae9823b2f3e89b2eaf59",
+    "reference": "design/splash/luna",
+    "sourceHashes": {
+      "atlas.png": "2427def03eb758243d64d7ab990865f2a3435847eb3e692d073c2c9377636416",
+      "frames.json": "16d066e161dae81e39a4348eecee0de81d55af8935f6649c817d6a14a4d32e10"
+    }
+  },
+  {
+    "character": "luna",
+    "pose": "wave-middle",
+    "path": "ui/greetings/luna/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 39122,
+    "sha256": "5aa27a24cb420de24506ec73eadb903166750a164905b34148b64fc631b78a95",
+    "reference": "design/splash/luna",
+    "sourceHashes": {
+      "atlas.png": "2427def03eb758243d64d7ab990865f2a3435847eb3e692d073c2c9377636416",
+      "frames.json": "16d066e161dae81e39a4348eecee0de81d55af8935f6649c817d6a14a4d32e10"
+    }
+  },
+  {
+    "character": "luna",
+    "pose": "wave-in",
+    "path": "ui/greetings/luna/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 40102,
+    "sha256": "393eed0e3942b175d4a691e903d5bcfac98d6f177b08a36eaee3fa754ea744da",
+    "reference": "design/splash/luna",
+    "sourceHashes": {
+      "atlas.png": "2427def03eb758243d64d7ab990865f2a3435847eb3e692d073c2c9377636416",
+      "frames.json": "16d066e161dae81e39a4348eecee0de81d55af8935f6649c817d6a14a4d32e10"
+    }
+  },
+  {
+    "character": "luna",
+    "pose": "wink",
+    "path": "ui/greetings/luna/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 40468,
+    "sha256": "078b3b99a999939d2859f02867d22d661e32eb7e0c2b9c3d342f14aa3ba81f91",
+    "reference": "design/splash/luna",
+    "sourceHashes": {
+      "atlas.png": "2427def03eb758243d64d7ab990865f2a3435847eb3e692d073c2c9377636416",
+      "frames.json": "16d066e161dae81e39a4348eecee0de81d55af8935f6649c817d6a14a4d32e10"
+    }
+  },
+  {
+    "character": "max-dog",
+    "pose": "wave-out",
+    "path": "ui/greetings/max-dog/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56810,
+    "sha256": "23d140e58fc993e9563e1b61e699c34808d4c77345a459179a069e70bf2f7bb2",
+    "reference": "design/splash/max-dog",
+    "sourceHashes": {
+      "atlas.png": "ffc0e61903aa576435a2884ba7764c4b291ef0722914d14c8afd5d7cd4ef6d39",
+      "frames.json": "d2388754559ccb0ecb64de29c125cfd98a7e29164d7d73fb40612c7d2b1c35e9"
+    }
+  },
+  {
+    "character": "max-dog",
+    "pose": "wave-middle",
+    "path": "ui/greetings/max-dog/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54782,
+    "sha256": "a74aea10a987b11e295788c33d4450f2bf25d7adcc84b645273b499a54cb4d48",
+    "reference": "design/splash/max-dog",
+    "sourceHashes": {
+      "atlas.png": "ffc0e61903aa576435a2884ba7764c4b291ef0722914d14c8afd5d7cd4ef6d39",
+      "frames.json": "d2388754559ccb0ecb64de29c125cfd98a7e29164d7d73fb40612c7d2b1c35e9"
+    }
+  },
+  {
+    "character": "max-dog",
+    "pose": "wave-in",
+    "path": "ui/greetings/max-dog/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54128,
+    "sha256": "2a954061c52fefcbd4c1f15e3c86dd4ff211b0e1acb6de1bb4fee249bf6a04e2",
+    "reference": "design/splash/max-dog",
+    "sourceHashes": {
+      "atlas.png": "ffc0e61903aa576435a2884ba7764c4b291ef0722914d14c8afd5d7cd4ef6d39",
+      "frames.json": "d2388754559ccb0ecb64de29c125cfd98a7e29164d7d73fb40612c7d2b1c35e9"
+    }
+  },
+  {
+    "character": "max-dog",
+    "pose": "wink",
+    "path": "ui/greetings/max-dog/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54484,
+    "sha256": "4e1161de209ba0e5bbccdbc8e1c165ceba08cf34f95bdeb447b40f468b085385",
+    "reference": "design/splash/max-dog",
+    "sourceHashes": {
+      "atlas.png": "ffc0e61903aa576435a2884ba7764c4b291ef0722914d14c8afd5d7cd4ef6d39",
+      "frames.json": "d2388754559ccb0ecb64de29c125cfd98a7e29164d7d73fb40612c7d2b1c35e9"
+    }
+  },
+  {
+    "character": "mia",
+    "pose": "wave-out",
+    "path": "ui/greetings/mia/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 52246,
+    "sha256": "f84986dd0424f22ee329d73281d1c060a4fb7dd07a4b7159e7225dcc8ffc067a",
+    "reference": "design/splash/mia",
+    "sourceHashes": {
+      "atlas.png": "b50ff899f8933b94dd822af645d7c2b90e1ea0f6e587822b57ae1d11c72df45d",
+      "frames.json": "fffcbc977771f051d5359bb82d2e5bdb9afd54441b2cb669f4b884894aae65a7"
+    }
+  },
+  {
+    "character": "mia",
+    "pose": "wave-middle",
+    "path": "ui/greetings/mia/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 51174,
+    "sha256": "1f435c18cd9dac020d01e524908807cf5ff2dd5ef13924e48e47d18835b9f9cd",
+    "reference": "design/splash/mia",
+    "sourceHashes": {
+      "atlas.png": "b50ff899f8933b94dd822af645d7c2b90e1ea0f6e587822b57ae1d11c72df45d",
+      "frames.json": "fffcbc977771f051d5359bb82d2e5bdb9afd54441b2cb669f4b884894aae65a7"
+    }
+  },
+  {
+    "character": "mia",
+    "pose": "wave-in",
+    "path": "ui/greetings/mia/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 49808,
+    "sha256": "7003be9cee7c6e7d12e81019381de062200b2d4907dce6d60df35db6ff4b733d",
+    "reference": "design/splash/mia",
+    "sourceHashes": {
+      "atlas.png": "b50ff899f8933b94dd822af645d7c2b90e1ea0f6e587822b57ae1d11c72df45d",
+      "frames.json": "fffcbc977771f051d5359bb82d2e5bdb9afd54441b2cb669f4b884894aae65a7"
+    }
+  },
+  {
+    "character": "mia",
+    "pose": "wink",
+    "path": "ui/greetings/mia/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 53904,
+    "sha256": "d82d97fe95937b9d0e4c56c30f8d8be11857b9fde86dbd68e8ddccb3402e2bee",
+    "reference": "design/splash/mia",
+    "sourceHashes": {
+      "atlas.png": "b50ff899f8933b94dd822af645d7c2b90e1ea0f6e587822b57ae1d11c72df45d",
+      "frames.json": "fffcbc977771f051d5359bb82d2e5bdb9afd54441b2cb669f4b884894aae65a7"
+    }
+  },
+  {
+    "character": "momo",
+    "pose": "wave-out",
+    "path": "ui/greetings/momo/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54732,
+    "sha256": "5304e751948956e0eeec9769744af2b6d4392917e24f177b4458f695c3e4e2c3",
+    "reference": "design/splash/momo",
+    "sourceHashes": {
+      "atlas.png": "b72363c3da927a628d37d6d783e1c97f8bfdb4929984371b5bf0b4219712081c",
+      "frames.json": "42c2fad2e540222e061dd41ae8c04b53b826110c2474943d3b1967e561fb59dc"
+    }
+  },
+  {
+    "character": "momo",
+    "pose": "wave-middle",
+    "path": "ui/greetings/momo/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 52332,
+    "sha256": "6b5a51f85c2c852129dbce70595c678d3ac65ab46de3444cb088b726840ebbed",
+    "reference": "design/splash/momo",
+    "sourceHashes": {
+      "atlas.png": "b72363c3da927a628d37d6d783e1c97f8bfdb4929984371b5bf0b4219712081c",
+      "frames.json": "42c2fad2e540222e061dd41ae8c04b53b826110c2474943d3b1967e561fb59dc"
+    }
+  },
+  {
+    "character": "momo",
+    "pose": "wave-in",
+    "path": "ui/greetings/momo/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 50872,
+    "sha256": "8e6fac06e9c2acc7f7af64bb6a3a3f9b4000a63e800dcb01f343e2c1c428b9e8",
+    "reference": "design/splash/momo",
+    "sourceHashes": {
+      "atlas.png": "b72363c3da927a628d37d6d783e1c97f8bfdb4929984371b5bf0b4219712081c",
+      "frames.json": "42c2fad2e540222e061dd41ae8c04b53b826110c2474943d3b1967e561fb59dc"
+    }
+  },
+  {
+    "character": "momo",
+    "pose": "wink",
+    "path": "ui/greetings/momo/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 53206,
+    "sha256": "25cb7b02b0250a028c2e4b016fd13e1f3dd69b323ffdbcf26da7dcebb0923906",
+    "reference": "design/splash/momo",
+    "sourceHashes": {
+      "atlas.png": "b72363c3da927a628d37d6d783e1c97f8bfdb4929984371b5bf0b4219712081c",
+      "frames.json": "42c2fad2e540222e061dd41ae8c04b53b826110c2474943d3b1967e561fb59dc"
+    }
+  },
+  {
+    "character": "nova",
+    "pose": "wave-out",
+    "path": "ui/greetings/nova/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 50412,
+    "sha256": "2b4bfb6d1c31876be6bd26f5a5d1c9d6b82c940625d7f67f5b9c8630579bd8f4",
+    "reference": "design/splash/nova",
+    "sourceHashes": {
+      "atlas.png": "49da8f69984b3c23bb8a8d7bb8c0b8ff19fbae8739d69e41bc8d61fc5985100f",
+      "frames.json": "180140ad75565c3b32e81942a2dbc826305cec54d3849f0f9b623f6d7ff0595a"
+    }
+  },
+  {
+    "character": "nova",
+    "pose": "wave-middle",
+    "path": "ui/greetings/nova/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 51648,
+    "sha256": "c3b16f8ee0fbb815a50b680257154a415b3d0782dd290660a2a795483356ebe1",
+    "reference": "design/splash/nova",
+    "sourceHashes": {
+      "atlas.png": "49da8f69984b3c23bb8a8d7bb8c0b8ff19fbae8739d69e41bc8d61fc5985100f",
+      "frames.json": "180140ad75565c3b32e81942a2dbc826305cec54d3849f0f9b623f6d7ff0595a"
+    }
+  },
+  {
+    "character": "nova",
+    "pose": "wave-in",
+    "path": "ui/greetings/nova/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 51540,
+    "sha256": "f3e43aacb43fcd4bc19b4702bbd6cf6c2c7d8c407e986a637674e37c9482a9bd",
+    "reference": "design/splash/nova",
+    "sourceHashes": {
+      "atlas.png": "49da8f69984b3c23bb8a8d7bb8c0b8ff19fbae8739d69e41bc8d61fc5985100f",
+      "frames.json": "180140ad75565c3b32e81942a2dbc826305cec54d3849f0f9b623f6d7ff0595a"
+    }
+  },
+  {
+    "character": "nova",
+    "pose": "wink",
+    "path": "ui/greetings/nova/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 50648,
+    "sha256": "8564c49650c15f6c8284917f82fa56e033be7025336f85ed8d233e0bb8a04fc1",
+    "reference": "design/splash/nova",
+    "sourceHashes": {
+      "atlas.png": "49da8f69984b3c23bb8a8d7bb8c0b8ff19fbae8739d69e41bc8d61fc5985100f",
+      "frames.json": "180140ad75565c3b32e81942a2dbc826305cec54d3849f0f9b623f6d7ff0595a"
+    }
+  },
+  {
+    "character": "nuki",
+    "pose": "wave-out",
+    "path": "ui/greetings/nuki/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 60432,
+    "sha256": "8710cd26d4b4c7b702f5c705a9a5b0f10d879d3f7f768a980c23dbdc77230db9",
+    "reference": "design/splash/nuki",
+    "sourceHashes": {
+      "atlas.png": "6be1ab2ba6065d291a1db624601d4f4e7a634bc0b45230de4806b60393d2c886",
+      "frames.json": "7babe8da96bf966a8ed991061d2e749b3a7da37be549bd1b3edc8d6eb96b45fd"
+    }
+  },
+  {
+    "character": "nuki",
+    "pose": "wave-middle",
+    "path": "ui/greetings/nuki/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56914,
+    "sha256": "97d86d44644b5b2c2912c0321022c582e106ffc99275ba9b671bc7bb543ef5b5",
+    "reference": "design/splash/nuki",
+    "sourceHashes": {
+      "atlas.png": "6be1ab2ba6065d291a1db624601d4f4e7a634bc0b45230de4806b60393d2c886",
+      "frames.json": "7babe8da96bf966a8ed991061d2e749b3a7da37be549bd1b3edc8d6eb96b45fd"
+    }
+  },
+  {
+    "character": "nuki",
+    "pose": "wave-in",
+    "path": "ui/greetings/nuki/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 56964,
+    "sha256": "3d3f376419272b4c691cc44143234bf8478a14069fd4f938e61df3a4dc28fa9b",
+    "reference": "design/splash/nuki",
+    "sourceHashes": {
+      "atlas.png": "6be1ab2ba6065d291a1db624601d4f4e7a634bc0b45230de4806b60393d2c886",
+      "frames.json": "7babe8da96bf966a8ed991061d2e749b3a7da37be549bd1b3edc8d6eb96b45fd"
+    }
+  },
+  {
+    "character": "nuki",
+    "pose": "wink",
+    "path": "ui/greetings/nuki/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 58094,
+    "sha256": "1394962bef5a799b0c0545a772a6c1d76c614d5e7f239bab64fb104aa3fac426",
+    "reference": "design/splash/nuki",
+    "sourceHashes": {
+      "atlas.png": "6be1ab2ba6065d291a1db624601d4f4e7a634bc0b45230de4806b60393d2c886",
+      "frames.json": "7babe8da96bf966a8ed991061d2e749b3a7da37be549bd1b3edc8d6eb96b45fd"
+    }
+  },
+  {
+    "character": "ollie",
+    "pose": "wave-out",
+    "path": "ui/greetings/ollie/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 55882,
+    "sha256": "3f8e4123356615382fcd3ea4bede00a897beb33db7b2082f22832061989cc606",
+    "reference": "design/splash/ollie",
+    "sourceHashes": {
+      "atlas.png": "56b17e6882754ec66239938d8c10114bad3c126501d04cf0d1333cd1dd345927",
+      "frames.json": "0c300b6a364cab2ba3a7d4d861d072936d3cc7393d9920586d326de4eb66762c"
+    }
+  },
+  {
+    "character": "ollie",
+    "pose": "wave-middle",
+    "path": "ui/greetings/ollie/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 52936,
+    "sha256": "ac4484d3bf2590649a89ec30ead49624c11c551627e79f50a8a0bfd965b60e41",
+    "reference": "design/splash/ollie",
+    "sourceHashes": {
+      "atlas.png": "56b17e6882754ec66239938d8c10114bad3c126501d04cf0d1333cd1dd345927",
+      "frames.json": "0c300b6a364cab2ba3a7d4d861d072936d3cc7393d9920586d326de4eb66762c"
+    }
+  },
+  {
+    "character": "ollie",
+    "pose": "wave-in",
+    "path": "ui/greetings/ollie/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 51776,
+    "sha256": "d6049d3bf5ef3f57bd4000f8e8383217f981c3da84f5dc5b1c51edb85044df48",
+    "reference": "design/splash/ollie",
+    "sourceHashes": {
+      "atlas.png": "56b17e6882754ec66239938d8c10114bad3c126501d04cf0d1333cd1dd345927",
+      "frames.json": "0c300b6a364cab2ba3a7d4d861d072936d3cc7393d9920586d326de4eb66762c"
+    }
+  },
+  {
+    "character": "ollie",
+    "pose": "wink",
+    "path": "ui/greetings/ollie/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54856,
+    "sha256": "b39be6e0c2b9ca5ff2dc02d52482b85f465c33cc43385f83e5984dad80d284df",
+    "reference": "design/splash/ollie",
+    "sourceHashes": {
+      "atlas.png": "56b17e6882754ec66239938d8c10114bad3c126501d04cf0d1333cd1dd345927",
+      "frames.json": "0c300b6a364cab2ba3a7d4d861d072936d3cc7393d9920586d326de4eb66762c"
+    }
+  },
+  {
+    "character": "otti",
+    "pose": "wave-out",
+    "path": "ui/greetings/otti/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 55472,
+    "sha256": "73318274e2efff6ee702c17bd0dd22b00ed28907640b8108e2a28a56143cc93f",
+    "reference": "design/splash/otti",
+    "sourceHashes": {
+      "atlas.png": "f6de056cda3f109fdf77f38d5dfbc333844e0cdcacec594e53b9721500c86609",
+      "frames.json": "a2fdcc4b853aff6c561afb3a9bacd6c5ed5518c194543e7e21cc4356c3d9802f"
+    }
+  },
+  {
+    "character": "otti",
+    "pose": "wave-middle",
+    "path": "ui/greetings/otti/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 53494,
+    "sha256": "1426651b50f0909ae71266b0daedb3f01bf3874e9dfc54d3528247fa7bd5816e",
+    "reference": "design/splash/otti",
+    "sourceHashes": {
+      "atlas.png": "f6de056cda3f109fdf77f38d5dfbc333844e0cdcacec594e53b9721500c86609",
+      "frames.json": "a2fdcc4b853aff6c561afb3a9bacd6c5ed5518c194543e7e21cc4356c3d9802f"
+    }
+  },
+  {
+    "character": "otti",
+    "pose": "wave-in",
+    "path": "ui/greetings/otti/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 51526,
+    "sha256": "dc96f5aa79a391c69189d95bedc053ba6ab0227e752239c2026480f4a606affc",
+    "reference": "design/splash/otti",
+    "sourceHashes": {
+      "atlas.png": "f6de056cda3f109fdf77f38d5dfbc333844e0cdcacec594e53b9721500c86609",
+      "frames.json": "a2fdcc4b853aff6c561afb3a9bacd6c5ed5518c194543e7e21cc4356c3d9802f"
+    }
+  },
+  {
+    "character": "otti",
+    "pose": "wink",
+    "path": "ui/greetings/otti/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54304,
+    "sha256": "fecaf24f783e98ad29432ebf97623684241120e07cfcfdab28ab8808c785ab22",
+    "reference": "design/splash/otti",
+    "sourceHashes": {
+      "atlas.png": "f6de056cda3f109fdf77f38d5dfbc333844e0cdcacec594e53b9721500c86609",
+      "frames.json": "a2fdcc4b853aff6c561afb3a9bacd6c5ed5518c194543e7e21cc4356c3d9802f"
+    }
+  },
+  {
+    "character": "piko-default",
+    "pose": "wave-out",
+    "path": "ui/greetings/piko-default/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 49928,
+    "sha256": "58017a691da7ff9cf9e5c030a253fc56d84d7d8ddf591fdaf671a38b7c16cbc2",
+    "reference": "design/splash/piko",
+    "sourceHashes": {
+      "wave-out.png": "b9ed6ef9a602af0c3d20fa4fb97b7e7fa90f61e252dee54fd0567cc52a049a6a",
+      "wave-middle.png": "fe4af263c09d263c7531acce00816dff3943e1c6dd738d74012a108773c0ce27",
+      "wave-in.png": "6822d5efe8f33dd08d034d34991636fe96ba5027112202af37bcd57a6a7b28bb",
+      "wink.png": "ad34cd2dd519df658e0b1033ab0f0c8cb87776d3e8290eef368cb54f7082da72"
+    }
+  },
+  {
+    "character": "piko-default",
+    "pose": "wave-middle",
+    "path": "ui/greetings/piko-default/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 44892,
+    "sha256": "2ccb4792b05901829668d6f8bc65a7e894533334a3fbb630adf1007f86975866",
+    "reference": "design/splash/piko",
+    "sourceHashes": {
+      "wave-out.png": "b9ed6ef9a602af0c3d20fa4fb97b7e7fa90f61e252dee54fd0567cc52a049a6a",
+      "wave-middle.png": "fe4af263c09d263c7531acce00816dff3943e1c6dd738d74012a108773c0ce27",
+      "wave-in.png": "6822d5efe8f33dd08d034d34991636fe96ba5027112202af37bcd57a6a7b28bb",
+      "wink.png": "ad34cd2dd519df658e0b1033ab0f0c8cb87776d3e8290eef368cb54f7082da72"
+    }
+  },
+  {
+    "character": "piko-default",
+    "pose": "wave-in",
+    "path": "ui/greetings/piko-default/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 44246,
+    "sha256": "6dc96aa5114de7de90bf57b023c7ef318fdb46ba71c991760eca8176ab1a6f61",
+    "reference": "design/splash/piko",
+    "sourceHashes": {
+      "wave-out.png": "b9ed6ef9a602af0c3d20fa4fb97b7e7fa90f61e252dee54fd0567cc52a049a6a",
+      "wave-middle.png": "fe4af263c09d263c7531acce00816dff3943e1c6dd738d74012a108773c0ce27",
+      "wave-in.png": "6822d5efe8f33dd08d034d34991636fe96ba5027112202af37bcd57a6a7b28bb",
+      "wink.png": "ad34cd2dd519df658e0b1033ab0f0c8cb87776d3e8290eef368cb54f7082da72"
+    }
+  },
+  {
+    "character": "piko-default",
+    "pose": "wink",
+    "path": "ui/greetings/piko-default/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 46426,
+    "sha256": "481e36e15265279f9aa2b30b5bffb3237f4795db0d35d7bfb92af3254abb1f3e",
+    "reference": "design/splash/piko",
+    "sourceHashes": {
+      "wave-out.png": "b9ed6ef9a602af0c3d20fa4fb97b7e7fa90f61e252dee54fd0567cc52a049a6a",
+      "wave-middle.png": "fe4af263c09d263c7531acce00816dff3943e1c6dd738d74012a108773c0ce27",
+      "wave-in.png": "6822d5efe8f33dd08d034d34991636fe96ba5027112202af37bcd57a6a7b28bb",
+      "wink.png": "ad34cd2dd519df658e0b1033ab0f0c8cb87776d3e8290eef368cb54f7082da72"
+    }
+  },
+  {
+    "character": "pingu",
+    "pose": "wave-out",
+    "path": "ui/greetings/pingu/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47752,
+    "sha256": "1a79612739389181981a2b43dac1b8cd6553de4a652af613a0a82a5a5680229c",
+    "reference": "design/splash/pingu",
+    "sourceHashes": {
+      "atlas.png": "e736f66822480dd19a65898495661693658b98187cd088f900cc2571d99b95d5",
+      "frames.json": "9f7e6bf40e3229dc6d2c819fef8567b1692b139f6b89480f454b03315e6c6b0d"
+    }
+  },
+  {
+    "character": "pingu",
+    "pose": "wave-middle",
+    "path": "ui/greetings/pingu/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47386,
+    "sha256": "17466376748a11df0d70d2eafc56a56ebb21ee502704874da9e7b1791e810026",
+    "reference": "design/splash/pingu",
+    "sourceHashes": {
+      "atlas.png": "e736f66822480dd19a65898495661693658b98187cd088f900cc2571d99b95d5",
+      "frames.json": "9f7e6bf40e3229dc6d2c819fef8567b1692b139f6b89480f454b03315e6c6b0d"
+    }
+  },
+  {
+    "character": "pingu",
+    "pose": "wave-in",
+    "path": "ui/greetings/pingu/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 46410,
+    "sha256": "f6beb06173fcb9794ef6aa9e972db68603f4bdbd797c7bacb882ca69fd616560",
+    "reference": "design/splash/pingu",
+    "sourceHashes": {
+      "atlas.png": "e736f66822480dd19a65898495661693658b98187cd088f900cc2571d99b95d5",
+      "frames.json": "9f7e6bf40e3229dc6d2c819fef8567b1692b139f6b89480f454b03315e6c6b0d"
+    }
+  },
+  {
+    "character": "pingu",
+    "pose": "wink",
+    "path": "ui/greetings/pingu/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47130,
+    "sha256": "ff46c7d05998141ceda7db6cc5a0759edaaa96820a1830bf423344992197e234",
+    "reference": "design/splash/pingu",
+    "sourceHashes": {
+      "atlas.png": "e736f66822480dd19a65898495661693658b98187cd088f900cc2571d99b95d5",
+      "frames.json": "9f7e6bf40e3229dc6d2c819fef8567b1692b139f6b89480f454b03315e6c6b0d"
+    }
+  },
+  {
+    "character": "riko",
+    "pose": "wave-out",
+    "path": "ui/greetings/riko/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47768,
+    "sha256": "64bf56d3a71fe9a575d3126ec8c0bb68cd1ce8501c0f222d31b119601f3d72d8",
+    "reference": "design/splash/riko",
+    "sourceHashes": {
+      "atlas.png": "3fe2177f3fa2c1ad7139f3aec61a9160416b205728bb048eba07a34851b76d9d",
+      "frames.json": "a99db0bc82df24b4fca1c5e61634035e1835cbbb3523a30e807eb14760872a67"
+    }
+  },
+  {
+    "character": "riko",
+    "pose": "wave-middle",
+    "path": "ui/greetings/riko/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47328,
+    "sha256": "9f28bc6d6673f408adf24359500a0581f09bf0b32c03316546aec9bbb5da8914",
+    "reference": "design/splash/riko",
+    "sourceHashes": {
+      "atlas.png": "3fe2177f3fa2c1ad7139f3aec61a9160416b205728bb048eba07a34851b76d9d",
+      "frames.json": "a99db0bc82df24b4fca1c5e61634035e1835cbbb3523a30e807eb14760872a67"
+    }
+  },
+  {
+    "character": "riko",
+    "pose": "wave-in",
+    "path": "ui/greetings/riko/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 45870,
+    "sha256": "91524a2223e2c79a2d8ad141ee6e523480af0ff757ebc8159e1f0e0d51f6d1a7",
+    "reference": "design/splash/riko",
+    "sourceHashes": {
+      "atlas.png": "3fe2177f3fa2c1ad7139f3aec61a9160416b205728bb048eba07a34851b76d9d",
+      "frames.json": "a99db0bc82df24b4fca1c5e61634035e1835cbbb3523a30e807eb14760872a67"
+    }
+  },
+  {
+    "character": "riko",
+    "pose": "wink",
+    "path": "ui/greetings/riko/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47810,
+    "sha256": "43f6fb3491dab17a32068330a2cda7037b3c69253e0cec653b7b03763a247677",
+    "reference": "design/splash/riko",
+    "sourceHashes": {
+      "atlas.png": "3fe2177f3fa2c1ad7139f3aec61a9160416b205728bb048eba07a34851b76d9d",
+      "frames.json": "a99db0bc82df24b4fca1c5e61634035e1835cbbb3523a30e807eb14760872a67"
+    }
+  },
+  {
+    "character": "tigo",
+    "pose": "wave-out",
+    "path": "ui/greetings/tigo/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 58914,
+    "sha256": "8369676fd3d077081dfbb511a497ff6a83dbd01690db2ef768ac9d1267977d53",
+    "reference": "design/splash/tigo",
+    "sourceHashes": {
+      "atlas.png": "e9da483559c3ce252eb84f6d76170a4d5a7fa78dff13520ed3d5c679b799aafc",
+      "frames.json": "64e6e0631f33ed32e5d41665378486b91ad5a6dc694cf63cfc7ffc289d63d390"
+    }
+  },
+  {
+    "character": "tigo",
+    "pose": "wave-middle",
+    "path": "ui/greetings/tigo/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 54548,
+    "sha256": "097a295e4a979cf1fb4fad52ffb8cd0f7f2a4e895190f3ab5595129f15b80f2a",
+    "reference": "design/splash/tigo",
+    "sourceHashes": {
+      "atlas.png": "e9da483559c3ce252eb84f6d76170a4d5a7fa78dff13520ed3d5c679b799aafc",
+      "frames.json": "64e6e0631f33ed32e5d41665378486b91ad5a6dc694cf63cfc7ffc289d63d390"
+    }
+  },
+  {
+    "character": "tigo",
+    "pose": "wave-in",
+    "path": "ui/greetings/tigo/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 55330,
+    "sha256": "a0eb5de517d9e3c5a0995c283aba9148a9367455027fa0738ab11aaddc4ee528",
+    "reference": "design/splash/tigo",
+    "sourceHashes": {
+      "atlas.png": "e9da483559c3ce252eb84f6d76170a4d5a7fa78dff13520ed3d5c679b799aafc",
+      "frames.json": "64e6e0631f33ed32e5d41665378486b91ad5a6dc694cf63cfc7ffc289d63d390"
+    }
+  },
+  {
+    "character": "tigo",
+    "pose": "wink",
+    "path": "ui/greetings/tigo/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 58694,
+    "sha256": "576d301f5b90d7d01fb75287b7744bdefebcdee8e88bb44b6909341118a5ee35",
+    "reference": "design/splash/tigo",
+    "sourceHashes": {
+      "atlas.png": "e9da483559c3ce252eb84f6d76170a4d5a7fa78dff13520ed3d5c679b799aafc",
+      "frames.json": "64e6e0631f33ed32e5d41665378486b91ad5a6dc694cf63cfc7ffc289d63d390"
+    }
+  },
+  {
+    "character": "toto",
+    "pose": "wave-out",
+    "path": "ui/greetings/toto/wave-out.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 49142,
+    "sha256": "bde54d4bdca8bcf391581afcd8d393d960170c7d9516ba76078b4368d2f3d9eb",
+    "reference": "design/splash/toto",
+    "sourceHashes": {
+      "atlas.png": "0104037429300f2c0f1d057aac97151eab56694bdb2751816c8c440017d4127a",
+      "frames.json": "e7ac07bf81a0302e974bf714067b82034992eed2c8436832a7c5935c95a6358f"
+    }
+  },
+  {
+    "character": "toto",
+    "pose": "wave-middle",
+    "path": "ui/greetings/toto/wave-middle.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47154,
+    "sha256": "76d78f8012006b1617849d6e96f1a7ca378c0bb090b6f8866efbe6e93a8e0d89",
+    "reference": "design/splash/toto",
+    "sourceHashes": {
+      "atlas.png": "0104037429300f2c0f1d057aac97151eab56694bdb2751816c8c440017d4127a",
+      "frames.json": "e7ac07bf81a0302e974bf714067b82034992eed2c8436832a7c5935c95a6358f"
+    }
+  },
+  {
+    "character": "toto",
+    "pose": "wave-in",
+    "path": "ui/greetings/toto/wave-in.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 46554,
+    "sha256": "dbfa79fd082990e329cdaae5ac594cebd89023b5c2ad098c21324f17b6c5523f",
+    "reference": "design/splash/toto",
+    "sourceHashes": {
+      "atlas.png": "0104037429300f2c0f1d057aac97151eab56694bdb2751816c8c440017d4127a",
+      "frames.json": "e7ac07bf81a0302e974bf714067b82034992eed2c8436832a7c5935c95a6358f"
+    }
+  },
+  {
+    "character": "toto",
+    "pose": "wink",
+    "path": "ui/greetings/toto/wink.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 47354,
+    "sha256": "f0e7d06e933cc0ddd7c0408712ac6726b7b962a00ab9ab871c4399404b2a5162",
+    "reference": "design/splash/toto",
+    "sourceHashes": {
+      "atlas.png": "0104037429300f2c0f1d057aac97151eab56694bdb2751816c8c440017d4127a",
+      "frames.json": "e7ac07bf81a0302e974bf714067b82034992eed2c8436832a7c5935c95a6358f"
+    }
+  }
+]

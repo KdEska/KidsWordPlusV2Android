@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "language": "fr",
+  "locale": "fr-FR",
+  "textDirection": "ltr",
+  "contentSha256": "6e24fa60694efa676235d96dfafa6d0b380ccd93fb2f66dd9d573e0314b7719c",
+  "contentPath": "chess/content.json",
+  "interfacePath": "chess/interface.json",
+  "historyPath": "chess/history.json",
+  "audioIndexPath": "chess/audio-index.json",
+  "creditsPath": "chess/credits.json",
+  "audioBasePath": "chess",
+  "sharedVisuals": "bundled_application_assets",
+  "translationReview": "assistant_authored_pending_editorial_review",
+  "audioReview": "generated_technical_checks_passed"
+}

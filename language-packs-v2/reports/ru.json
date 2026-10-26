@@ -1,0 +1,82 @@
+{
+  "language": "ru",
+  "wordCount": 1733,
+  "activeWordCount": 1457,
+  "missingRequiredAudio": [],
+  "missingImages": [],
+  "editorialReviewRequired": true,
+  "contentReview": {
+    "status": "pending",
+    "scope": "learning_text_and_alphabet_images"
+  },
+  "inactiveConceptIds": [
+    "school:1271",
+    "school:1272",
+    "school:1276",
+    "school:1283",
+    "school:1287",
+    "school:1296",
+    "school:1308",
+    "school:1311",
+    "school:1314",
+    "school:1315",
+    "school:1316",
+    "school:1317",
+    "school:1319",
+    "school:1322",
+    "school:1328",
+    "school:1333",
+    "school:1342",
+    "school:1343",
+    "school:1346",
+    "school:1361",
+    "school:1378",
+    "school:1379",
+    "school:1380",
+    "school:1382",
+    "school:1383",
+    "school:1385"
+  ],
+  "missingAudio": [],
+  "audioReview": {
+    "status": "sample_approved_bulk_generated",
+    "voiceId": "AB9XsbSA4eLG12t2myjN",
+    "voiceName": "Larisa Actrisa - Confident and Clear",
+    "model": "eleven_v4",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75
+    },
+    "languageCode": "ru",
+    "targetLocale": "ru-RU",
+    "generatedRecordings": 1220,
+    "installedFiles": 1457,
+    "approvedWords": [
+      "Кошка",
+      "Гусеница",
+      "Олень",
+      "Собака",
+      "Стрекоза",
+      "Орёл",
+      "Рыба",
+      "Сейчас половина второго",
+      "ё",
+      "ща"
+    ],
+    "bulkGenerationAuthorized": true,
+    "allPronunciationsHumanReviewed": false,
+    "source": "production/ru-larisa-v4/ledger.json"
+  },
+  "sharedImageCount": 1650,
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "14-ru-chess-2dcc1230d2e9",
+    "archive": "archives/ru-14-ru-chess-2dcc1230d2e9.zip"
+  }
+}

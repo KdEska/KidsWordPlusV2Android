@@ -1,0 +1,1351 @@
+{
+  "voice_id": "QtQamNJjpordEbNFIlz3",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "a1.",
+      "normalized": "a1",
+      "file": "audio/f55ff16f66f43360266b95db.mp3"
+    },
+    {
+      "text": "a1 إلى",
+      "normalized": "a1 إلى",
+      "file": "audio/32a7f5c3e3aca2b7ae90bdb5.mp3"
+    },
+    {
+      "text": "a2.",
+      "normalized": "a2",
+      "file": "audio/2c3a4249d77070058649dbd8.mp3"
+    },
+    {
+      "text": "a2 إلى",
+      "normalized": "a2 إلى",
+      "file": "audio/87cb7872a07a1573c2a10242.mp3"
+    },
+    {
+      "text": "a3.",
+      "normalized": "a3",
+      "file": "audio/f46dd28a5499d8efef0b8fb8.mp3"
+    },
+    {
+      "text": "a3 إلى",
+      "normalized": "a3 إلى",
+      "file": "audio/452d586ea39976746f304fca.mp3"
+    },
+    {
+      "text": "a4.",
+      "normalized": "a4",
+      "file": "audio/4539e4b4889079c2a00afeae.mp3"
+    },
+    {
+      "text": "a4 إلى",
+      "normalized": "a4 إلى",
+      "file": "audio/f8694d2be1bc5a29fbcdb5f3.mp3"
+    },
+    {
+      "text": "a5.",
+      "normalized": "a5",
+      "file": "audio/66220e71591b2d933c0e935c.mp3"
+    },
+    {
+      "text": "a5 إلى",
+      "normalized": "a5 إلى",
+      "file": "audio/056e1a4b093a282a6bfa65ec.mp3"
+    },
+    {
+      "text": "a6.",
+      "normalized": "a6",
+      "file": "audio/730bea4ff16f200fb931b06c.mp3"
+    },
+    {
+      "text": "a6 إلى",
+      "normalized": "a6 إلى",
+      "file": "audio/4d641df7d838f2534f6e6f1d.mp3"
+    },
+    {
+      "text": "a7.",
+      "normalized": "a7",
+      "file": "audio/20377cec9f51f6bf5ba1fa64.mp3"
+    },
+    {
+      "text": "a7 إلى",
+      "normalized": "a7 إلى",
+      "file": "audio/dd5527a50505dd5f89962d92.mp3"
+    },
+    {
+      "text": "a8.",
+      "normalized": "a8",
+      "file": "audio/ce609b5bf3b974a84907e237.mp3"
+    },
+    {
+      "text": "a8 إلى",
+      "normalized": "a8 إلى",
+      "file": "audio/719f32d42d88b744be7a5c32.mp3"
+    },
+    {
+      "text": "b1.",
+      "normalized": "b1",
+      "file": "audio/7dc96f776c8423e57a278548.mp3"
+    },
+    {
+      "text": "b1 إلى",
+      "normalized": "b1 إلى",
+      "file": "audio/9b47fc22bce71d06b06f213c.mp3"
+    },
+    {
+      "text": "b2.",
+      "normalized": "b2",
+      "file": "audio/4814d92093ac8a0f4a2163ab.mp3"
+    },
+    {
+      "text": "b2 إلى",
+      "normalized": "b2 إلى",
+      "file": "audio/ac22452f51c24cb5f07a2827.mp3"
+    },
+    {
+      "text": "b3.",
+      "normalized": "b3",
+      "file": "audio/76a8277347f52530e1cf9791.mp3"
+    },
+    {
+      "text": "b3 إلى",
+      "normalized": "b3 إلى",
+      "file": "audio/82aad00284eabcb5bd21adcf.mp3"
+    },
+    {
+      "text": "b4.",
+      "normalized": "b4",
+      "file": "audio/486bacc5c2d8a71a73d51bf8.mp3"
+    },
+    {
+      "text": "b4 إلى",
+      "normalized": "b4 إلى",
+      "file": "audio/20d6a3987c31dfc8d6b64b05.mp3"
+    },
+    {
+      "text": "b5.",
+      "normalized": "b5",
+      "file": "audio/3c5661974942379614b943d0.mp3"
+    },
+    {
+      "text": "b5 إلى",
+      "normalized": "b5 إلى",
+      "file": "audio/101f73b90d1bc3baa5c3f669.mp3"
+    },
+    {
+      "text": "b6.",
+      "normalized": "b6",
+      "file": "audio/2f5da6e9921baa794759ee9f.mp3"
+    },
+    {
+      "text": "b6 إلى",
+      "normalized": "b6 إلى",
+      "file": "audio/3502de6b70d27c8b002b8633.mp3"
+    },
+    {
+      "text": "b7.",
+      "normalized": "b7",
+      "file": "audio/e1b0acf86b9621b8c13ca17b.mp3"
+    },
+    {
+      "text": "b7 إلى",
+      "normalized": "b7 إلى",
+      "file": "audio/4c4811f2f1226a7f37d4f190.mp3"
+    },
+    {
+      "text": "b8.",
+      "normalized": "b8",
+      "file": "audio/92ee93de02ea87db530298f4.mp3"
+    },
+    {
+      "text": "b8 إلى",
+      "normalized": "b8 إلى",
+      "file": "audio/54b602402eb3bd284cd4886f.mp3"
+    },
+    {
+      "text": "c1.",
+      "normalized": "c1",
+      "file": "audio/d0f631ca1ddba8db3bcfcb9e.mp3"
+    },
+    {
+      "text": "c1 إلى",
+      "normalized": "c1 إلى",
+      "file": "audio/c799613dd7f9f93dac94102b.mp3"
+    },
+    {
+      "text": "c2.",
+      "normalized": "c2",
+      "file": "audio/9c0abe51c6e6655d81de2d04.mp3"
+    },
+    {
+      "text": "c2 إلى",
+      "normalized": "c2 إلى",
+      "file": "audio/f70d0799a47558d4e169f67a.mp3"
+    },
+    {
+      "text": "c3.",
+      "normalized": "c3",
+      "file": "audio/7c1c97df17c066924822b0af.mp3"
+    },
+    {
+      "text": "c3 إلى",
+      "normalized": "c3 إلى",
+      "file": "audio/22b7096f4386b67c98950ea9.mp3"
+    },
+    {
+      "text": "c4.",
+      "normalized": "c4",
+      "file": "audio/0012a3fa000c5dc26ee658c3.mp3"
+    },
+    {
+      "text": "c4 إلى",
+      "normalized": "c4 إلى",
+      "file": "audio/75f305cd8890622f32dc08b3.mp3"
+    },
+    {
+      "text": "c5.",
+      "normalized": "c5",
+      "file": "audio/d0bf3e6ee1d668de18c9ca20.mp3"
+    },
+    {
+      "text": "c5 إلى",
+      "normalized": "c5 إلى",
+      "file": "audio/8a8528501675c53f0a23da6b.mp3"
+    },
+    {
+      "text": "c6.",
+      "normalized": "c6",
+      "file": "audio/6db53c9d5a2ca72a85ddf3a6.mp3"
+    },
+    {
+      "text": "c6 إلى",
+      "normalized": "c6 إلى",
+      "file": "audio/9d9b6599abf0c7d49ae1008f.mp3"
+    },
+    {
+      "text": "c7.",
+      "normalized": "c7",
+      "file": "audio/f28d5b0d6f8be0da8446dabe.mp3"
+    },
+    {
+      "text": "c7 إلى",
+      "normalized": "c7 إلى",
+      "file": "audio/93d10ec329394b493e0440aa.mp3"
+    },
+    {
+      "text": "c8.",
+      "normalized": "c8",
+      "file": "audio/7ed6a8377b92b49472195f12.mp3"
+    },
+    {
+      "text": "c8 إلى",
+      "normalized": "c8 إلى",
+      "file": "audio/03140422a0eccc1146d67654.mp3"
+    },
+    {
+      "text": "d1.",
+      "normalized": "d1",
+      "file": "audio/8b53639f152c8fc6ef30802f.mp3"
+    },
+    {
+      "text": "d1 إلى",
+      "normalized": "d1 إلى",
+      "file": "audio/448d30260f22cbf6efe60c5b.mp3"
+    },
+    {
+      "text": "d2.",
+      "normalized": "d2",
+      "file": "audio/e788103ee15318fcd2af9b73.mp3"
+    },
+    {
+      "text": "d2 إلى",
+      "normalized": "d2 إلى",
+      "file": "audio/9046148de419cad7f439880f.mp3"
+    },
+    {
+      "text": "d3.",
+      "normalized": "d3",
+      "file": "audio/f451a61749c611ba0fa0e16c.mp3"
+    },
+    {
+      "text": "d3 إلى",
+      "normalized": "d3 إلى",
+      "file": "audio/6a623ccf70d0f54bbb2c419b.mp3"
+    },
+    {
+      "text": "d4.",
+      "normalized": "d4",
+      "file": "audio/af327a6478537246e0d9f0c5.mp3"
+    },
+    {
+      "text": "d4 إلى",
+      "normalized": "d4 إلى",
+      "file": "audio/81e33c2106b1a69fb531b0c9.mp3"
+    },
+    {
+      "text": "d5.",
+      "normalized": "d5",
+      "file": "audio/25f682044b5badaff8b296bf.mp3"
+    },
+    {
+      "text": "d5 إلى",
+      "normalized": "d5 إلى",
+      "file": "audio/485efdb11cb1538d8697bb4d.mp3"
+    },
+    {
+      "text": "d6.",
+      "normalized": "d6",
+      "file": "audio/79b98f273c175489f40b682a.mp3"
+    },
+    {
+      "text": "d6 إلى",
+      "normalized": "d6 إلى",
+      "file": "audio/dbcf6e8868609f92b2959be4.mp3"
+    },
+    {
+      "text": "d7.",
+      "normalized": "d7",
+      "file": "audio/82396aa34d3d216d4a545cf6.mp3"
+    },
+    {
+      "text": "d7 إلى",
+      "normalized": "d7 إلى",
+      "file": "audio/9166ec2db645758cbc7793f9.mp3"
+    },
+    {
+      "text": "d8.",
+      "normalized": "d8",
+      "file": "audio/56f8921507e0f67c48d43947.mp3"
+    },
+    {
+      "text": "d8 إلى",
+      "normalized": "d8 إلى",
+      "file": "audio/0a5a19873e4cf3696bce75d3.mp3"
+    },
+    {
+      "text": "e1.",
+      "normalized": "e1",
+      "file": "audio/8b5cc4df7eec7d32a7814eca.mp3"
+    },
+    {
+      "text": "e1 إلى",
+      "normalized": "e1 إلى",
+      "file": "audio/5cd5d3d12c47f40d13c1f21e.mp3"
+    },
+    {
+      "text": "e2.",
+      "normalized": "e2",
+      "file": "audio/ac0f09c0f8bf5e7a4b063d86.mp3"
+    },
+    {
+      "text": "e2 إلى",
+      "normalized": "e2 إلى",
+      "file": "audio/5acf89d1ed4dfaeda87ababf.mp3"
+    },
+    {
+      "text": "e3.",
+      "normalized": "e3",
+      "file": "audio/cef7fc13a38180936ffa2635.mp3"
+    },
+    {
+      "text": "e3 إلى",
+      "normalized": "e3 إلى",
+      "file": "audio/c8dd5137726c7456d59d535d.mp3"
+    },
+    {
+      "text": "e4.",
+      "normalized": "e4",
+      "file": "audio/449777124b1466a8ed667d0d.mp3"
+    },
+    {
+      "text": "e4 إلى",
+      "normalized": "e4 إلى",
+      "file": "audio/ace0d683f3f8f060cbadc8b5.mp3"
+    },
+    {
+      "text": "e5.",
+      "normalized": "e5",
+      "file": "audio/43700797e2f9d4ad38ccf135.mp3"
+    },
+    {
+      "text": "e5 إلى",
+      "normalized": "e5 إلى",
+      "file": "audio/7dd28f3c824901970bd0f3ed.mp3"
+    },
+    {
+      "text": "e6.",
+      "normalized": "e6",
+      "file": "audio/f33422b95e3b98310adedc93.mp3"
+    },
+    {
+      "text": "e6 إلى",
+      "normalized": "e6 إلى",
+      "file": "audio/8abfe63d6086f665c3022633.mp3"
+    },
+    {
+      "text": "e7.",
+      "normalized": "e7",
+      "file": "audio/f3e2e400523c506868ca413b.mp3"
+    },
+    {
+      "text": "e7 إلى",
+      "normalized": "e7 إلى",
+      "file": "audio/fafed7738fb3f7e1f64826db.mp3"
+    },
+    {
+      "text": "e8.",
+      "normalized": "e8",
+      "file": "audio/c33352e36a529830a19080a8.mp3"
+    },
+    {
+      "text": "e8 إلى",
+      "normalized": "e8 إلى",
+      "file": "audio/55dc84b98cb7896105e37576.mp3"
+    },
+    {
+      "text": "f1.",
+      "normalized": "f1",
+      "file": "audio/3f524cdc07a11d7c6220bdb0.mp3"
+    },
+    {
+      "text": "f1 إلى",
+      "normalized": "f1 إلى",
+      "file": "audio/00a06855b8830622ec529ea0.mp3"
+    },
+    {
+      "text": "f2.",
+      "normalized": "f2",
+      "file": "audio/e4ab4e3b1493d5a997b4e51c.mp3"
+    },
+    {
+      "text": "f2 إلى",
+      "normalized": "f2 إلى",
+      "file": "audio/61c9cdd1984bcc1007e58970.mp3"
+    },
+    {
+      "text": "f3.",
+      "normalized": "f3",
+      "file": "audio/625e0f649de27800fc3bcf4c.mp3"
+    },
+    {
+      "text": "f3 إلى",
+      "normalized": "f3 إلى",
+      "file": "audio/376dbee1faac1c3b0d845d99.mp3"
+    },
+    {
+      "text": "f4.",
+      "normalized": "f4",
+      "file": "audio/608cdb524384f5ee06edc283.mp3"
+    },
+    {
+      "text": "f4 إلى",
+      "normalized": "f4 إلى",
+      "file": "audio/911fd49534c9cbd3a4540dc7.mp3"
+    },
+    {
+      "text": "f5.",
+      "normalized": "f5",
+      "file": "audio/b6e1288527a6032c0f29c9da.mp3"
+    },
+    {
+      "text": "f5 إلى",
+      "normalized": "f5 إلى",
+      "file": "audio/083fae4ee410a099543d0526.mp3"
+    },
+    {
+      "text": "f6.",
+      "normalized": "f6",
+      "file": "audio/3efda6ee78c31bab6995b112.mp3"
+    },
+    {
+      "text": "f6 إلى",
+      "normalized": "f6 إلى",
+      "file": "audio/1944be2c24af570498af8ec7.mp3"
+    },
+    {
+      "text": "f7.",
+      "normalized": "f7",
+      "file": "audio/9327ca99aaea2b8f025e61e5.mp3"
+    },
+    {
+      "text": "f7 إلى",
+      "normalized": "f7 إلى",
+      "file": "audio/f28305c32d139659740d771a.mp3"
+    },
+    {
+      "text": "f8.",
+      "normalized": "f8",
+      "file": "audio/0c079a153e26951fcda0fa12.mp3"
+    },
+    {
+      "text": "f8 إلى",
+      "normalized": "f8 إلى",
+      "file": "audio/3a643c9451239fca77a86f61.mp3"
+    },
+    {
+      "text": "g1.",
+      "normalized": "g1",
+      "file": "audio/711430f6164e93803d93428b.mp3"
+    },
+    {
+      "text": "g1 إلى",
+      "normalized": "g1 إلى",
+      "file": "audio/459ffb637a227a63986d257f.mp3"
+    },
+    {
+      "text": "g2.",
+      "normalized": "g2",
+      "file": "audio/4d2f4b668cfc48e6059d36e9.mp3"
+    },
+    {
+      "text": "g2 إلى",
+      "normalized": "g2 إلى",
+      "file": "audio/3e2472514310e79a111354cc.mp3"
+    },
+    {
+      "text": "g3.",
+      "normalized": "g3",
+      "file": "audio/3921871aa0881e3e94830142.mp3"
+    },
+    {
+      "text": "g3 إلى",
+      "normalized": "g3 إلى",
+      "file": "audio/3a7afbd8a94c605f58edf852.mp3"
+    },
+    {
+      "text": "g4.",
+      "normalized": "g4",
+      "file": "audio/c874bc29e99f2e67290d6cdb.mp3"
+    },
+    {
+      "text": "g4 إلى",
+      "normalized": "g4 إلى",
+      "file": "audio/b6a97c0ffd1fcc2b0a395d6d.mp3"
+    },
+    {
+      "text": "g5.",
+      "normalized": "g5",
+      "file": "audio/239261316e505a034abae9a2.mp3"
+    },
+    {
+      "text": "g5 إلى",
+      "normalized": "g5 إلى",
+      "file": "audio/a9dcbb5b50fe3db34828dc7b.mp3"
+    },
+    {
+      "text": "g6.",
+      "normalized": "g6",
+      "file": "audio/044e727fa3783fcfe21d54fe.mp3"
+    },
+    {
+      "text": "g6 إلى",
+      "normalized": "g6 إلى",
+      "file": "audio/844669f02d0ded2d3611928e.mp3"
+    },
+    {
+      "text": "g7.",
+      "normalized": "g7",
+      "file": "audio/7935bb0b6876b05d24574bd9.mp3"
+    },
+    {
+      "text": "g7 إلى",
+      "normalized": "g7 إلى",
+      "file": "audio/719a96b4b865074d3c5ae73d.mp3"
+    },
+    {
+      "text": "g8.",
+      "normalized": "g8",
+      "file": "audio/0fcd4ac08fa092197d9a11df.mp3"
+    },
+    {
+      "text": "g8 إلى",
+      "normalized": "g8 إلى",
+      "file": "audio/2340b4ebbac5f8304e16658a.mp3"
+    },
+    {
+      "text": "h1.",
+      "normalized": "h1",
+      "file": "audio/33112ee14ee469c3eb52fe90.mp3"
+    },
+    {
+      "text": "h1 إلى",
+      "normalized": "h1 إلى",
+      "file": "audio/88855bbaa5bc9e5acbe1ec6c.mp3"
+    },
+    {
+      "text": "h2.",
+      "normalized": "h2",
+      "file": "audio/f998fe06afa0cfbe73e0449d.mp3"
+    },
+    {
+      "text": "h2 إلى",
+      "normalized": "h2 إلى",
+      "file": "audio/a1eccac44132a9e6ffb327ca.mp3"
+    },
+    {
+      "text": "h3.",
+      "normalized": "h3",
+      "file": "audio/97fb5f8538b89f6c1accfd19.mp3"
+    },
+    {
+      "text": "h3 إلى",
+      "normalized": "h3 إلى",
+      "file": "audio/ccd95c3c9e1df6388904e46c.mp3"
+    },
+    {
+      "text": "h4.",
+      "normalized": "h4",
+      "file": "audio/e9590c04cea54beb769a9614.mp3"
+    },
+    {
+      "text": "h4 إلى",
+      "normalized": "h4 إلى",
+      "file": "audio/2bae81db90558a5adce80e6b.mp3"
+    },
+    {
+      "text": "h5.",
+      "normalized": "h5",
+      "file": "audio/acea77fd89c7fb586c8c7c61.mp3"
+    },
+    {
+      "text": "h5 إلى",
+      "normalized": "h5 إلى",
+      "file": "audio/335fe82969c0359994e5c836.mp3"
+    },
+    {
+      "text": "h6.",
+      "normalized": "h6",
+      "file": "audio/fa37de9da4b13b3a18882ece.mp3"
+    },
+    {
+      "text": "h6 إلى",
+      "normalized": "h6 إلى",
+      "file": "audio/c53afa738d48aa531d0287d1.mp3"
+    },
+    {
+      "text": "h7.",
+      "normalized": "h7",
+      "file": "audio/f254a1e7d56840a4f2faa65b.mp3"
+    },
+    {
+      "text": "h7 إلى",
+      "normalized": "h7 إلى",
+      "file": "audio/e8a6e30d55e354207c8c3198.mp3"
+    },
+    {
+      "text": "h8.",
+      "normalized": "h8",
+      "file": "audio/9f095ecf60fdfca89c7c42f4.mp3"
+    },
+    {
+      "text": "h8 إلى",
+      "normalized": "h8 إلى",
+      "file": "audio/9f99464930e1ec342c96751f.mp3"
+    },
+    {
+      "text": "أكملت جميع المهام! يمكنك لعبها مرة أخرى.",
+      "normalized": "أكملت جميع المهام يمكنك لعبها مرة أخرى",
+      "file": "audio/252d7807ed34ec348378ccfb.mp3"
+    },
+    {
+      "text": "اختر قطعتك أولًا، ثم اضغط على مربع محدد.",
+      "normalized": "اختر قطعتك أولًا ثم اضغط على مربع محدد",
+      "file": "audio/fd7bd11d62bfbfd364fb8a63.mp3"
+    },
+    {
+      "text": "اضغط مطولًا على القطعة واسحبها إلى المربع المحدد. يمكنك أيضًا الضغط على القطعة ثم المربع.",
+      "normalized": "اضغط مطولًا على القطعة واسحبها إلى المربع المحدد يمكنك أيضًا الضغط على القطعة ثم المربع",
+      "file": "audio/3830ba902b38431834ecb22f.mp3"
+    },
+    {
+      "text": "اكتشف كيف تتحرك قطعتك. هذا تدريب على الحركة.",
+      "normalized": "اكتشف كيف تتحرك قطعتك هذا تدريب على الحركة",
+      "file": "audio/6eb13cee8c725a9cfe8d2ea5.mp3"
+    },
+    {
+      "text": "الأبيض",
+      "normalized": "الأبيض",
+      "file": "audio/46f0c543bf2fbbc01ad06242.mp3"
+    },
+    {
+      "text": "الأبيض: نقلة بقطعة بيدق من",
+      "normalized": "الأبيض نقلة بقطعة بيدق من",
+      "file": "audio/7a3e1c8ca9d2728553a5bb0b.mp3"
+    },
+    {
+      "text": "الأبيض: نقلة بقطعة حصان من",
+      "normalized": "الأبيض نقلة بقطعة حصان من",
+      "file": "audio/dbc5cf64307e04a8d41cbeb7.mp3"
+    },
+    {
+      "text": "الأبيض: نقلة بقطعة رخ من",
+      "normalized": "الأبيض نقلة بقطعة رخ من",
+      "file": "audio/912d059c595c8a5500a9d2e5.mp3"
+    },
+    {
+      "text": "الأبيض: نقلة بقطعة فيل من",
+      "normalized": "الأبيض نقلة بقطعة فيل من",
+      "file": "audio/7ed60c4207f7e40d6f4154d6.mp3"
+    },
+    {
+      "text": "الأبيض: نقلة بقطعة ملك من",
+      "normalized": "الأبيض نقلة بقطعة ملك من",
+      "file": "audio/34b4ded05d1a523b12a41079.mp3"
+    },
+    {
+      "text": "الأبيض: نقلة بقطعة وزير من",
+      "normalized": "الأبيض نقلة بقطعة وزير من",
+      "file": "audio/8b5fc68dbf210a46bf6098cc.mp3"
+    },
+    {
+      "text": "الأسود",
+      "normalized": "الأسود",
+      "file": "audio/6444f538b0c9d4bbe9c17ef8.mp3"
+    },
+    {
+      "text": "الأسود: نقلة بقطعة بيدق من",
+      "normalized": "الأسود نقلة بقطعة بيدق من",
+      "file": "audio/d841a65abcc65204e73972c4.mp3"
+    },
+    {
+      "text": "الأسود: نقلة بقطعة حصان من",
+      "normalized": "الأسود نقلة بقطعة حصان من",
+      "file": "audio/94d5271b9e6304aad6f3b225.mp3"
+    },
+    {
+      "text": "الأسود: نقلة بقطعة رخ من",
+      "normalized": "الأسود نقلة بقطعة رخ من",
+      "file": "audio/c63f43e4f8291c38fa441374.mp3"
+    },
+    {
+      "text": "الأسود: نقلة بقطعة فيل من",
+      "normalized": "الأسود نقلة بقطعة فيل من",
+      "file": "audio/220c9bbcd364170e45320737.mp3"
+    },
+    {
+      "text": "الأسود: نقلة بقطعة ملك من",
+      "normalized": "الأسود نقلة بقطعة ملك من",
+      "file": "audio/dbb4a20aeaf00074bfabcabb.mp3"
+    },
+    {
+      "text": "الأسود: نقلة بقطعة وزير من",
+      "normalized": "الأسود نقلة بقطعة وزير من",
+      "file": "audio/e4839d351596386103f576e5.mp3"
+    },
+    {
+      "text": "الدور للأبيض. اختر حالة الملك الأبيض.",
+      "normalized": "الدور للأبيض اختر حالة الملك الأبيض",
+      "file": "audio/2bad92061756b8391beb92be.mp3"
+    },
+    {
+      "text": "الدور للأبيض. اختر قطعة بيضاء وحقق كش مات للملك الأسود في نقلة واحدة.",
+      "normalized": "الدور للأبيض اختر قطعة بيضاء وحقق كش مات للملك الأسود في نقلة واحدة",
+      "file": "audio/1b26d953bdf4ec25445581d2.mp3"
+    },
+    {
+      "text": "الرقعة جاهزة! لكل طرف 16 قطعة. يبدأ الأبيض.",
+      "normalized": "الرقعة جاهزة لكل طرف 16 قطعة يبدأ الأبيض",
+      "file": "audio/d2d09d157d1ddc25e4ef5b60.mp3"
+    },
+    {
+      "text": "القطع البيضاء",
+      "normalized": "القطع البيضاء",
+      "file": "audio/22896ad4a26dd21d37b66545.mp3"
+    },
+    {
+      "text": "القطع السوداء",
+      "normalized": "القطع السوداء",
+      "file": "audio/be598e648aa057dea837abce.mp3"
+    },
+    {
+      "text": "الملك غير مهدد لكن لا توجد نقلة قانونية. تعادل بالخنق! تنتهي اللعبة بالتعادل.",
+      "normalized": "الملك غير مهدد لكن لا توجد نقلة قانونية تعادل بالخنق تنتهي اللعبة بالتعادل",
+      "file": "audio/a101688e630b1a6add30b984.mp3"
+    },
+    {
+      "text": "الملك مهدد لكن توجد نقلة آمنة. تستمر اللعبة.",
+      "normalized": "الملك مهدد لكن توجد نقلة آمنة تستمر اللعبة",
+      "file": "audio/7b3237135d35ea6fe4bd804b.mp3"
+    },
+    {
+      "text": "الملك مهدد ولا توجد نقلة قانونية. كش مات! تنتهي اللعبة.",
+      "normalized": "الملك مهدد ولا توجد نقلة قانونية كش مات تنتهي اللعبة",
+      "file": "audio/38a313c514d20bca008d20a2.mp3"
+    },
+    {
+      "text": "الهدف هو كش مات لملك الخصم. عندما يتعرض الملك للهجوم يكون في حالة كش. إذا لم توجد حركة قانونية تخلصه من الكش، فهي كش مات. لا يؤخذ الملك.",
+      "normalized": "الهدف هو كش مات لملك الخصم عندما يتعرض الملك للهجوم يكون في حالة كش إذا لم توجد حركة قانونية تخلصه من الكش فهي كش مات لا يؤخذ الملك",
+      "file": "audio/a55b8af834015956610c0b81.mp3"
+    },
+    {
+      "text": "انظر مجددًا: هل الملك مهدد؟ هل توجد نقلة قانونية؟",
+      "normalized": "انظر مجددًا هل الملك مهدد هل توجد نقلة قانونية",
+      "file": "audio/9368549ecbcba0819827d0c7.mp3"
+    },
+    {
+      "text": "انقل هذه القطعة إلى d4: بيدق.",
+      "normalized": "انقل هذه القطعة إلى d4 بيدق",
+      "file": "audio/db4eeb7301fc619ebf191e86.mp3"
+    },
+    {
+      "text": "انقل هذه القطعة إلى e5: ملك.",
+      "normalized": "انقل هذه القطعة إلى e5 ملك",
+      "file": "audio/c0156dfad5cce9d8b34a684b.mp3"
+    },
+    {
+      "text": "انقل هذه القطعة إلى e6: حصان.",
+      "normalized": "انقل هذه القطعة إلى e6 حصان",
+      "file": "audio/570d1d13e1883d1ebaf32920.mp3"
+    },
+    {
+      "text": "انقل هذه القطعة إلى g4: رخ.",
+      "normalized": "انقل هذه القطعة إلى g4 رخ",
+      "file": "audio/c98db446cabf3f2f2fb0516b.mp3"
+    },
+    {
+      "text": "انقل هذه القطعة إلى g7: فيل.",
+      "normalized": "انقل هذه القطعة إلى g7 فيل",
+      "file": "audio/1957be7a842d5472e1edf17d.mp3"
+    },
+    {
+      "text": "انقل هذه القطعة إلى g7: وزير.",
+      "normalized": "انقل هذه القطعة إلى g7 وزير",
+      "file": "audio/565960d5391626f3d87680f2.mp3"
+    },
+    {
+      "text": "بيدق",
+      "normalized": "بيدق",
+      "file": "audio/39621d308e45e2f4eec7d5a5.mp3"
+    },
+    {
+      "text": "تتكون رقعة الشطرنج من 8 صفوف و8 أعمدة، أي 64 مربعًا. يجب أن يكون المربع في الزاوية اليمنى القريبة منك فاتح اللون.",
+      "normalized": "تتكون رقعة الشطرنج من 8 صفوف و8 أعمدة أي 64 مربعًا يجب أن يكون المربع في الزاوية اليمنى القريبة منك فاتح اللون",
+      "file": "audio/c0f7abe3943bfddb414008dc.mp3"
+    },
+    {
+      "text": "ترقى البيدق إلى: حصان.",
+      "normalized": "ترقى البيدق إلى حصان",
+      "file": "audio/1101023793a350b1de6764cd.mp3"
+    },
+    {
+      "text": "ترقى البيدق إلى: رخ.",
+      "normalized": "ترقى البيدق إلى رخ",
+      "file": "audio/dc811625f8ff2dab2e555357.mp3"
+    },
+    {
+      "text": "ترقى البيدق إلى: فيل.",
+      "normalized": "ترقى البيدق إلى فيل",
+      "file": "audio/3c40d49bab7e87493c5ee346.mp3"
+    },
+    {
+      "text": "ترقى البيدق إلى: وزير.",
+      "normalized": "ترقى البيدق إلى وزير",
+      "file": "audio/75311813a38a2b10702e0638.mp3"
+    },
+    {
+      "text": "تعادل",
+      "normalized": "تعادل",
+      "file": "audio/8b961e873e8fef89713230e6.mp3"
+    },
+    {
+      "text": "تعادل بالخنق",
+      "normalized": "تعادل بالخنق",
+      "file": "audio/fe33def60c184192c8690841.mp3"
+    },
+    {
+      "text": "تم أخذ قطعة بيدق.",
+      "normalized": "تم أخذ قطعة بيدق",
+      "file": "audio/8c0824cef7f877768fe18b2d.mp3"
+    },
+    {
+      "text": "تم أخذ قطعة حصان.",
+      "normalized": "تم أخذ قطعة حصان",
+      "file": "audio/06c18c63b2d87b56f2cb4955.mp3"
+    },
+    {
+      "text": "تم أخذ قطعة رخ.",
+      "normalized": "تم أخذ قطعة رخ",
+      "file": "audio/a2196c4727dce517da8710fe.mp3"
+    },
+    {
+      "text": "تم أخذ قطعة فيل.",
+      "normalized": "تم أخذ قطعة فيل",
+      "file": "audio/52e33b73747eae6de84d7f52.mp3"
+    },
+    {
+      "text": "تم أخذ قطعة ملك.",
+      "normalized": "تم أخذ قطعة ملك",
+      "file": "audio/a7a7a2e012429eeb9e196757.mp3"
+    },
+    {
+      "text": "تم أخذ قطعة وزير.",
+      "normalized": "تم أخذ قطعة وزير",
+      "file": "audio/1e1a341b8d0050a998f8a1bc.mp3"
+    },
+    {
+      "text": "حاول مرة أخرى. تحقق من اسم القطعة واضغط على المربع المحدد.",
+      "normalized": "حاول مرة أخرى تحقق من اسم القطعة واضغط على المربع المحدد",
+      "file": "audio/38b548d6a3cc1ab5fcf009da.mp3"
+    },
+    {
+      "text": "حصان",
+      "normalized": "حصان",
+      "file": "audio/7d82449e4687ffa471d76d01.mp3"
+    },
+    {
+      "text": "خذ قطعة الخصم على e5 بهذه القطعة: بيدق.",
+      "normalized": "خذ قطعة الخصم على e5 بهذه القطعة بيدق",
+      "file": "audio/72156740bb0b8df6ee3bcae8.mp3"
+    },
+    {
+      "text": "خذ قطعة الخصم على g4 بهذه القطعة: رخ.",
+      "normalized": "خذ قطعة الخصم على g4 بهذه القطعة رخ",
+      "file": "audio/94ed97eccc5d074bbd037186.mp3"
+    },
+    {
+      "text": "رائع! أكملت المهمة.",
+      "normalized": "رائع أكملت المهمة",
+      "file": "audio/ba4cd801f86c4b6aaeb90f80.mp3"
+    },
+    {
+      "text": "رائع! القطعة في مكانها الصحيح.",
+      "normalized": "رائع القطعة في مكانها الصحيح",
+      "file": "audio/ea399c2bfeea5f0343558524.mp3"
+    },
+    {
+      "text": "رائع! الملك الأسود مهدد ولا توجد نقلة قانونية تنقذه. كش مات!",
+      "normalized": "رائع الملك الأسود مهدد ولا توجد نقلة قانونية تنقذه كش مات",
+      "file": "audio/29ee93faca54dc2029b45e37.mp3"
+    },
+    {
+      "text": "رخ",
+      "normalized": "رخ",
+      "file": "audio/2c6061fa455fb531cd88a576.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على a1: رخ.",
+      "normalized": "ضع هذه القطعة على a1 رخ",
+      "file": "audio/8472a1ec353836d9bfbcc426.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على a2: بيدق.",
+      "normalized": "ضع هذه القطعة على a2 بيدق",
+      "file": "audio/b817602d3fe1d8174295ca11.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على a7: بيدق.",
+      "normalized": "ضع هذه القطعة على a7 بيدق",
+      "file": "audio/aec2657d5cd905193cda95ce.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على a8: رخ.",
+      "normalized": "ضع هذه القطعة على a8 رخ",
+      "file": "audio/dc496745dcdfafe51b83dc9b.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على b1: حصان.",
+      "normalized": "ضع هذه القطعة على b1 حصان",
+      "file": "audio/821d5ae0b4a83fe51d598828.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على b2: بيدق.",
+      "normalized": "ضع هذه القطعة على b2 بيدق",
+      "file": "audio/498c822288e295d0110ccca4.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على b7: بيدق.",
+      "normalized": "ضع هذه القطعة على b7 بيدق",
+      "file": "audio/98333f8cff85a62e80db3447.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على b8: حصان.",
+      "normalized": "ضع هذه القطعة على b8 حصان",
+      "file": "audio/1959336037ba2225a9b4ce6c.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على c1: فيل.",
+      "normalized": "ضع هذه القطعة على c1 فيل",
+      "file": "audio/06b38470b5de7b3c07f3f06e.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على c2: بيدق.",
+      "normalized": "ضع هذه القطعة على c2 بيدق",
+      "file": "audio/36e0f122b98d251b61c8c081.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على c7: بيدق.",
+      "normalized": "ضع هذه القطعة على c7 بيدق",
+      "file": "audio/e92edb6f8006855a4e611ff1.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على c8: فيل.",
+      "normalized": "ضع هذه القطعة على c8 فيل",
+      "file": "audio/1266c1e0eec4e1e33403c57d.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على d1: وزير.",
+      "normalized": "ضع هذه القطعة على d1 وزير",
+      "file": "audio/256b1847b63a7378b40fef22.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على d2: بيدق.",
+      "normalized": "ضع هذه القطعة على d2 بيدق",
+      "file": "audio/c48c1f9e44107713487d1a8f.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على d7: بيدق.",
+      "normalized": "ضع هذه القطعة على d7 بيدق",
+      "file": "audio/be227ebb791ab675a47297b1.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على d8: وزير.",
+      "normalized": "ضع هذه القطعة على d8 وزير",
+      "file": "audio/cf5b934f40efd6f1c584412d.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على e1: ملك.",
+      "normalized": "ضع هذه القطعة على e1 ملك",
+      "file": "audio/c951c92fffde1b4ef6b7cdb3.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على e2: بيدق.",
+      "normalized": "ضع هذه القطعة على e2 بيدق",
+      "file": "audio/59c36fbd32e134a827c33e88.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على e7: بيدق.",
+      "normalized": "ضع هذه القطعة على e7 بيدق",
+      "file": "audio/7313da4dede8fa93b96403c7.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على e8: ملك.",
+      "normalized": "ضع هذه القطعة على e8 ملك",
+      "file": "audio/d31780530735820104b0bc70.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على f1: فيل.",
+      "normalized": "ضع هذه القطعة على f1 فيل",
+      "file": "audio/916849a124cc3e7d485a2de8.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على f2: بيدق.",
+      "normalized": "ضع هذه القطعة على f2 بيدق",
+      "file": "audio/aa5a130f3298ad0923fc1aa8.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على f7: بيدق.",
+      "normalized": "ضع هذه القطعة على f7 بيدق",
+      "file": "audio/0d0067f31a4d2157fc964f69.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على f8: فيل.",
+      "normalized": "ضع هذه القطعة على f8 فيل",
+      "file": "audio/bdfd137c1bed222f86fb3f1e.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على g1: حصان.",
+      "normalized": "ضع هذه القطعة على g1 حصان",
+      "file": "audio/7a3578e78b40b296deb9c708.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على g2: بيدق.",
+      "normalized": "ضع هذه القطعة على g2 بيدق",
+      "file": "audio/0c16f9ac081a1a9dfdc58d76.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على g7: بيدق.",
+      "normalized": "ضع هذه القطعة على g7 بيدق",
+      "file": "audio/b3c726ffe5e6d5d71a058d4c.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على g8: حصان.",
+      "normalized": "ضع هذه القطعة على g8 حصان",
+      "file": "audio/726592fbfb618ab5bb3957eb.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على h1: رخ.",
+      "normalized": "ضع هذه القطعة على h1 رخ",
+      "file": "audio/9d3bfe62e87bcee82c14ecf1.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على h2: بيدق.",
+      "normalized": "ضع هذه القطعة على h2 بيدق",
+      "file": "audio/a8b17223e0ef2a5b4785f862.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على h7: بيدق.",
+      "normalized": "ضع هذه القطعة على h7 بيدق",
+      "file": "audio/95d5d8c57431a041df3810fe.mp3"
+    },
+    {
+      "text": "ضع هذه القطعة على h8: رخ.",
+      "normalized": "ضع هذه القطعة على h8 رخ",
+      "file": "audio/a4ece806e8a04573d3a1f8db.mp3"
+    },
+    {
+      "text": "عند الكش يجب إزالة التهديد. اختر الملك على e1 وانقله إلى المربع الآمن d1.",
+      "normalized": "عند الكش يجب إزالة التهديد اختر الملك على e1 وانقله إلى المربع الآمن d1",
+      "file": "audio/13e7b236266947903aa89f0a.mp3"
+    },
+    {
+      "text": "عندما يتعرض الملك للهجوم يكون في حالة كش. ابحث عن القطعة السوداء التي تهاجم الملك الأبيض واضغط عليها.",
+      "normalized": "عندما يتعرض الملك للهجوم يكون في حالة كش ابحث عن القطعة السوداء التي تهاجم الملك الأبيض واضغط عليها",
+      "file": "audio/f097292a92c6fa94c5d429d7.mp3"
+    },
+    {
+      "text": "فاز الكمبيوتر",
+      "normalized": "فاز الكمبيوتر",
+      "file": "audio/5ee2049ef4a7f1d5ce26b5ae.mp3"
+    },
+    {
+      "text": "فزت!",
+      "normalized": "فزت",
+      "file": "audio/1c4d98f5a5f4f1bf9af51be4.mp3"
+    },
+    {
+      "text": "فيل",
+      "normalized": "فيل",
+      "file": "audio/2cd48f8428ec92e9776451a2.mp3"
+    },
+    {
+      "text": "كش مات",
+      "normalized": "كش مات",
+      "file": "audio/4b31622fa42529e5081bca9e.mp3"
+    },
+    {
+      "text": "كش مات في نقلة واحدة",
+      "normalized": "كش مات في نقلة واحدة",
+      "file": "audio/ea88dc48b70b868286b5d603.mp3"
+    },
+    {
+      "text": "كش مات والتعادل بالخنق",
+      "normalized": "كش مات والتعادل بالخنق",
+      "file": "audio/d4589c33afe0becb0bd3ec6d.mp3"
+    },
+    {
+      "text": "كش مع إمكانية النجاة",
+      "normalized": "كش مع إمكانية النجاة",
+      "file": "audio/2fbc467c5627e21eb444fae5.mp3"
+    },
+    {
+      "text": "لنحاول مرة أخرى. اختر قطعتك، ثم انتقل إلى المربع الهدف.",
+      "normalized": "لنحاول مرة أخرى اختر قطعتك ثم انتقل إلى المربع الهدف",
+      "file": "audio/eebf8259b3e0ee7f25396ab4.mp3"
+    },
+    {
+      "text": "لنحاول مرة أخرى. انظر إلى الملك ذي الإطار الأحمر واستمع إلى التعليمات.",
+      "normalized": "لنحاول مرة أخرى انظر إلى الملك ذي الإطار الأحمر واستمع إلى التعليمات",
+      "file": "audio/47ec8674eed45ee181ab7d0b.mp3"
+    },
+    {
+      "text": "ملك",
+      "normalized": "ملك",
+      "file": "audio/b3caeaa7a392d6d76c663879.mp3"
+    },
+    {
+      "text": "نرى الرقعة من جهة الأبيض. المربع أسفل اليمين فاتح اللون. ضع القطع البيضاء أولًا، ثم السوداء.",
+      "normalized": "نرى الرقعة من جهة الأبيض المربع أسفل اليمين فاتح اللون ضع القطع البيضاء أولًا ثم السوداء",
+      "file": "audio/952bfce02fce10036d533115.mp3"
+    },
+    {
+      "text": "هذه النقلة لا تحقق كش مات. جرّب نقلة أخرى.",
+      "normalized": "هذه النقلة لا تحقق كش مات جرّب نقلة أخرى",
+      "file": "audio/454d20d2e72153c77db4a6eb.mp3"
+    },
+    {
+      "text": "وزير",
+      "normalized": "وزير",
+      "file": "audio/8ccf4141505396216a7609ec.mp3"
+    },
+    {
+      "text": "وصل البيدق إلى الصف الأخير وتحول إلى وزير في هذا التدريب.",
+      "normalized": "وصل البيدق إلى الصف الأخير وتحول إلى وزير في هذا التدريب",
+      "file": "audio/44ab359d0d786a8828d2deef.mp3"
+    },
+    {
+      "text": "يبدأ الوزير على مربع من لونه: الوزير الأبيض على مربع فاتح، والأسود على مربع داكن.",
+      "normalized": "يبدأ الوزير على مربع من لونه الوزير الأبيض على مربع فاتح والأسود على مربع داكن",
+      "file": "audio/3b6dda9b4accfafe9b37d432.mp3"
+    },
+    {
+      "text": "يبدأ كل لاعب بـ16 قطعة. يتحرك الأبيض أولًا، ثم يتناوب اللاعبان على القيام بحركة واحدة.",
+      "normalized": "يبدأ كل لاعب بـ16 قطعة يتحرك الأبيض أولًا ثم يتناوب اللاعبان على القيام بحركة واحدة",
+      "file": "audio/e652ded1dcf7c423171e37a2.mp3"
+    },
+    {
+      "text": "يتحرك الحصان مربعين في اتجاه ثم مربعًا إلى الجانب، على شكل حرف L. يمكنه القفز فوق القطع.",
+      "normalized": "يتحرك الحصان مربعين في اتجاه ثم مربعًا إلى الجانب على شكل حرف l يمكنه القفز فوق القطع",
+      "file": "audio/f32af6fe5a5ca41a922b03b9.mp3"
+    },
+    {
+      "text": "يتحرك الرخ أي عدد من المربعات أفقيًا أو عموديًا. لا يمكنه القفز فوق القطع.",
+      "normalized": "يتحرك الرخ أي عدد من المربعات أفقيًا أو عموديًا لا يمكنه القفز فوق القطع",
+      "file": "audio/5f17b24a59dd79b9960f16dc.mp3"
+    },
+    {
+      "text": "يتحرك الفيل قطريًا أي عدد من المربعات. يبقى على مربعات من اللون نفسه ولا يقفز فوق القطع.",
+      "normalized": "يتحرك الفيل قطريًا أي عدد من المربعات يبقى على مربعات من اللون نفسه ولا يقفز فوق القطع",
+      "file": "audio/920ea5e19416e35db3549ede.mp3"
+    },
+    {
+      "text": "يتحرك الملك مربعًا واحدًا في أي اتجاه. لا يمكنه الانتقال إلى مربع تتعرض فيه القطعة للهجوم.",
+      "normalized": "يتحرك الملك مربعًا واحدًا في أي اتجاه لا يمكنه الانتقال إلى مربع تتعرض فيه القطعة للهجوم",
+      "file": "audio/b4b61d020dab5487735139fb.mp3"
+    },
+    {
+      "text": "يتحرك الوزير أي عدد من المربعات أفقيًا أو عموديًا أو قطريًا. لا يمكنه القفز فوق القطع.",
+      "normalized": "يتحرك الوزير أي عدد من المربعات أفقيًا أو عموديًا أو قطريًا لا يمكنه القفز فوق القطع",
+      "file": "audio/44c04a85c986dc7e7b58e3b3.mp3"
+    },
+    {
+      "text": "يتقدم البيدق مربعًا واحدًا. في حركته الأولى يمكنه التقدم مربعين إذا كان الطريق خاليًا. يأخذ قطعة على مربع واحد قطريًا إلى الأمام. في الصف الأخير يتحول إلى وزير أو رخ أو فيل أو حصان.",
+      "normalized": "يتقدم البيدق مربعًا واحدًا في حركته الأولى يمكنه التقدم مربعين إذا كان الطريق خاليًا يأخذ قطعة على مربع واحد قطريًا إلى الأمام في الصف الأخير يتحول إلى وزير أو رخ أو فيل أو حصان",
+      "file": "audio/7d742c39974c9091ec414d03.mp3"
+    },
+    {
+      "text": "يمكنك حماية الملك بأخذ القطعة المهاجمة. اختر الفيل على h1 وخذ الرخ الأسود على e4.",
+      "normalized": "يمكنك حماية الملك بأخذ القطعة المهاجمة اختر الفيل على h1 وخذ الرخ الأسود على e4",
+      "file": "audio/b191b4322b1580d10dfb59f1.mp3"
+    },
+    {
+      "text": "يمكنك صد هجوم بعيد بوضع قطعة في الطريق. اختر الرخ على a2 وانقله إلى e2 لحماية ملكك.",
+      "normalized": "يمكنك صد هجوم بعيد بوضع قطعة في الطريق اختر الرخ على a2 وانقله إلى e2 لحماية ملكك",
+      "file": "audio/524d328b15016e9ba3a8cb7f.mp3"
+    },
+    {
+      "text": "الافتتاح هو بداية المباراة. تعلّم الأفكار أولًا، ثم اكتشف أمثلة مشهورة على الرقعة.",
+      "normalized": "الافتتاح هو بداية المباراة تعلّم الأفكار أولًا ثم اكتشف أمثلة مشهورة على الرقعة",
+      "file": "audio/5cbfeabe2a36d10f9754366e.mp3"
+    },
+    {
+      "text": "سيطر على الوسط ببيادق المركز والقطع. مربعات المركز الأربعة هي e4 وd4 وe5 وd5.",
+      "normalized": "سيطر على الوسط ببيادق المركز والقطع مربعات المركز الأربعة هي e4 وd4 وe5 وd5",
+      "file": "audio/b9d39bc2aa6b55b775e9c249.mp3"
+    },
+    {
+      "text": "أدخل الأحصنة والفيلة إلى اللعب. طوّر عادةً عدة قطع بدلًا من تحريك القطعة نفسها مرارًا.",
+      "normalized": "أدخل الأحصنة والفيلة إلى اللعب طوّر عادةً عدة قطع بدلًا من تحريك القطعة نفسها مرارًا",
+      "file": "audio/516bfa895646b15296f77206.mp3"
+    },
+    {
+      "text": "استعد للتبييت عندما يكون قانونيًا وآمنًا. صِل بين رخّيك وتجنّب كشف ملكك.",
+      "normalized": "استعد للتبييت عندما يكون قانونيًا وآمنًا صِل بين رخّيك وتجنّب كشف ملكك",
+      "file": "audio/0002b9ed9ea233523f3731a9.mp3"
+    },
+    {
+      "text": "قبل كل نقلة، افحص الكش والأخذ والتهديدات لدى الطرفين. اسم الافتتاح لا يجعل النقلة آمنة.",
+      "normalized": "قبل كل نقلة افحص الكش والأخذ والتهديدات لدى الطرفين اسم الافتتاح لا يجعل النقلة آمنة",
+      "file": "audio/e5d18abd106d50a0ad607e84.mp3"
+    },
+    {
+      "text": "الافتتاح الإيطالي",
+      "normalized": "الافتتاح الإيطالي",
+      "file": "audio/f0f371ce1a1e430f5e2c6ee7.mp3"
+    },
+    {
+      "text": "طوّر الحصان إلى f3 والفيل إلى c4. يتجه الفيل نحو f7 بينما يستعد الأبيض للتبييت. وللأسود ردود مختلفة.",
+      "normalized": "طوّر الحصان إلى f3 والفيل إلى c4 يتجه الفيل نحو f7 بينما يستعد الأبيض للتبييت وللأسود ردود مختلفة",
+      "file": "audio/8487ec8eaebe150af3aced1a.mp3"
+    },
+    {
+      "text": "الافتتاح الإسباني (روي لوبيز)",
+      "normalized": "الافتتاح الإسباني روي لوبيز",
+      "file": "audio/bf5e420f118787b000e8f826.mp3"
+    },
+    {
+      "text": "ينتقل الفيل إلى b5 ويضغط على الحصان الذي يحمي e5. في المثال يلعب الأسود a6 ليطلب من الفيل اختيار وجهته التالية.",
+      "normalized": "ينتقل الفيل إلى b5 ويضغط على الحصان الذي يحمي e5 في المثال يلعب الأسود a6 ليطلب من الفيل اختيار وجهته التالية",
+      "file": "audio/2de4d3f600f29792831ec3a1.mp3"
+    },
+    {
+      "text": "الافتتاح الاسكتلندي",
+      "normalized": "الافتتاح الاسكتلندي",
+      "file": "audio/03c647d16dbe40a9f889f77d.mp3"
+    },
+    {
+      "text": "يتحدى الأبيض المركز مبكرًا بنقلة d4. وبعد تبادل البيادق يستعيد الحصان على d4 ويحتل مربعًا مركزيًا نشطًا.",
+      "normalized": "يتحدى الأبيض المركز مبكرًا بنقلة d4 وبعد تبادل البيادق يستعيد الحصان على d4 ويحتل مربعًا مركزيًا نشطًا",
+      "file": "audio/17dbcda848fe8358800751f5.mp3"
+    },
+    {
+      "text": "غامبيت الوزير",
+      "normalized": "غامبيت الوزير",
+      "file": "audio/565d5bd5316c80cd99706869.mp3"
+    },
+    {
+      "text": "يعرض الأبيض بيدق c لمهاجمة بيدق الأسود في d5. يمكن للأسود القبول أو الرفض؛ وفي المثال يرفض بنقلة e6 ويطوّر قطعه.",
+      "normalized": "يعرض الأبيض بيدق c لمهاجمة بيدق الأسود في d5 يمكن للأسود القبول أو الرفض وفي المثال يرفض بنقلة e6 ويطوّر قطعه",
+      "file": "audio/44533e42179251c005647136.mp3"
+    },
+    {
+      "text": "نظام لندن",
+      "normalized": "نظام لندن",
+      "file": "audio/73df2faf1eb20cab3a1a1e7b.mp3"
+    },
+    {
+      "text": "يطوّر الأبيض فيل المربعات الداكنة إلى f4 قبل لعب e3. ابنِ مركزًا متينًا، لكن عدّل خطتك بحسب نقلات الأسود.",
+      "normalized": "يطوّر الأبيض فيل المربعات الداكنة إلى f4 قبل لعب e3 ابنِ مركزًا متينًا لكن عدّل خطتك بحسب نقلات الأسود",
+      "file": "audio/6dca6f6dc8c3f631d2280dfb.mp3"
+    },
+    {
+      "text": "الدفاع الصقلي",
+      "normalized": "الدفاع الصقلي",
+      "file": "audio/143586bb3107fd5b342d550f.mp3"
+    },
+    {
+      "text": "يرد الأسود على e4 بنقلة c5 لينافس على d4 من الجانب. في مثال الصقلي المفتوح تتبادل البيادق ويصل حصان الأبيض إلى d4.",
+      "normalized": "يرد الأسود على e4 بنقلة c5 لينافس على d4 من الجانب في مثال الصقلي المفتوح تتبادل البيادق ويصل حصان الأبيض إلى d4",
+      "file": "audio/613b15f2b370e33f715e6a01.mp3"
+    },
+    {
+      "text": "الدفاع الفرنسي",
+      "normalized": "الدفاع الفرنسي",
+      "file": "audio/6aa72e4e8a5bc52aff704445.mp3"
+    },
+    {
+      "text": "يحضّر الأسود d5 بنقلة e6. في تفريع التقدم هذا، يكسب الأبيض مساحة بنقلة e5 ويتحدى الأسود المركز بنقلة c5.",
+      "normalized": "يحضّر الأسود d5 بنقلة e6 في تفريع التقدم هذا يكسب الأبيض مساحة بنقلة e5 ويتحدى الأسود المركز بنقلة c5",
+      "file": "audio/9017765ab59c7745ee4c16f7.mp3"
+    },
+    {
+      "text": "دفاع كارو-كان",
+      "normalized": "دفاع كارو كان",
+      "file": "audio/83680842ec81b9abbb57eced.mp3"
+    },
+    {
+      "text": "يحضّر الأسود d5 بنقلة c6. هنا يأخذ على e4 ويستعيد الأبيض بالحصان؛ وما زال الطرفان بحاجة إلى تطوير قطعهما.",
+      "normalized": "يحضّر الأسود d5 بنقلة c6 هنا يأخذ على e4 ويستعيد الأبيض بالحصان وما زال الطرفان بحاجة إلى تطوير قطعهما",
+      "file": "audio/15150ccb419989c2ea430672.mp3"
+    },
+    {
+      "text": "تنافس نقلة البيدق هذه على المركز وتفتح مساحة أكبر للقطع.",
+      "normalized": "تنافس نقلة البيدق هذه على المركز وتفتح مساحة أكبر للقطع",
+      "file": "audio/95bb637f3feb535bc859efd5.mp3"
+    },
+    {
+      "text": "تدخل قطعة خفيفة إلى اللعب وتؤثر في مربعات مهمة.",
+      "normalized": "تدخل قطعة خفيفة إلى اللعب وتؤثر في مربعات مهمة",
+      "file": "audio/c374e05b8f2b552b6352ee5f.mp3"
+    },
+    {
+      "text": "تتحدى هذه النقلة قطعة للخصم أو سيطرته على المركز.",
+      "normalized": "تتحدى هذه النقلة قطعة للخصم أو سيطرته على المركز",
+      "file": "audio/1fd3aca7c3464de969ef074d.mp3"
+    },
+    {
+      "text": "تدعم نقلة البيدق هذه بنية المركز أو تحضّر نقلة بيدق مركزي آخر.",
+      "normalized": "تدعم نقلة البيدق هذه بنية المركز أو تحضّر نقلة بيدق مركزي آخر",
+      "file": "audio/6292072f3a8802ef48790dbf.mp3"
+    },
+    {
+      "text": "تغيّر نقلة الأخذ المركز. لاحظ أي قطعة أو بيدق يحلّ في المكان.",
+      "normalized": "تغيّر نقلة الأخذ المركز لاحظ أي قطعة أو بيدق يحلّ في المكان",
+      "file": "audio/e02a4840a31c736311335d84.mp3"
+    },
+    {
+      "text": "يتقدم البيدق لكسب مساحة. افحص كيف يستطيع الخصم مهاجمة سلسلة البيادق.",
+      "normalized": "يتقدم البيدق لكسب مساحة افحص كيف يستطيع الخصم مهاجمة سلسلة البيادق",
+      "file": "audio/a5eca2359bf9e308acc6f2fc.mp3"
+    }
+  ]
+}

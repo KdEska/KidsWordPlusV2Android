@@ -1,0 +1,58 @@
+{
+  "language": "de",
+  "wordCount": 1704,
+  "activeWordCount": 1454,
+  "missingAudio": [],
+  "missingRequiredAudio": [],
+  "missingImages": [],
+  "inactiveConceptIds": [],
+  "missingInactiveImages": [],
+  "reviewRecords": [],
+  "editorialReviewRequired": false,
+  "contentReview": {
+    "status": "user_approved",
+    "scope": "learning_text_and_alphabet_images",
+    "approvedAt": "2026-09-27T14:36:49.756974+00:00"
+  },
+  "sharedImageCount": 1672,
+  "localImageCount": 30,
+  "audioReview": {
+    "status": "sample_approved_bulk_generated",
+    "voiceId": "N8RXoLEWQWUCCrT8uDK7",
+    "voiceName": "Emilia - Positive and Thoughtful",
+    "model": "eleven_v4",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    },
+    "languageCode": "de",
+    "generatedRecordings": 1212,
+    "installedFiles": 1257,
+    "approvedWords": [
+      "Katze",
+      "Raupe",
+      "Hirsch",
+      "Hund",
+      "Libelle",
+      "Adler",
+      "Fisch"
+    ],
+    "bulkGenerationAuthorized": true,
+    "allPronunciationsHumanReviewed": false,
+    "source": "production/de-emilia-v4/ledger.json"
+  },
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "14-de-chess-1d797194ee17",
+    "archive": "archives/de-14-de-chess-1d797194ee17.zip"
+  }
+}

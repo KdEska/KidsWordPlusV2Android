@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.KidsWordPlus" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#E4F5FF</item>
+        <item name="android:navigationBarColor">#F4FFF3</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowSplashScreenBackground">#E4F5FF</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowBackground">#E4F5FF</item>
+    </style>
+</resources>

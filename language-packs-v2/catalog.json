@@ -1,0 +1,649 @@
+{
+  "schemaVersion": "2.3",
+  "catalogVersion": "6-thirteen-language-chess-openings-v1-no-beer-v1",
+  "uiLanguages": [
+    "tr",
+    "en"
+  ],
+  "packages": [
+    {
+      "packageId": "shared.base",
+      "language": "base",
+      "nativeName": "Temel dil paketi",
+      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/base-2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1.zip",
+      "downloadBytes": 100736084,
+      "archiveSha256": "125accfb84883c6304bf1ac88fb661563d143cc53290bd27b9547d5086464632",
+      "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da",
+      "installedBytes": 102572335,
+      "dependencies": []
+    },
+    {
+      "packageId": "learning.en",
+      "language": "en",
+      "nativeName": "English",
+      "version": "15-en-chess-a0b5ed498511-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/en-15-en-chess-a0b5ed498511-no-beer-v1.zip",
+      "downloadBytes": 22280214,
+      "archiveSha256": "3da44d5a942ef693f1e50d0847fb2624e2c864e03538e5d76b44aea04e547429",
+      "manifestSha256": "45c5d324a42be045020582a3ceafe198de167511c6ac1911ae8233fd4267a5dc",
+      "installedBytes": 25996074,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1699,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0
+    },
+    {
+      "packageId": "learning.tr",
+      "language": "tr",
+      "nativeName": "Türkçe",
+      "version": "21-tr-chess-37243b2d7f53-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/tr-21-tr-chess-37243b2d7f53-no-beer-v1.zip",
+      "downloadBytes": 27989128,
+      "archiveSha256": "9839737a9c38853546f90c46be82af2ce14351564edaf0e23e8944cd8b64d8f2",
+      "manifestSha256": "9c8f1011f79b390b3c110c49289974def303b5ff4d0aab1d8b154fcb134477d9",
+      "installedBytes": 33314213,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1705,
+      "missingAudioCount": 3,
+      "missingImageCount": 0,
+      "reviewRecordCount": 2
+    },
+    {
+      "packageId": "learning.de",
+      "language": "de",
+      "nativeName": "Deutsch",
+      "version": "14-de-chess-1d797194ee17-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/de-14-de-chess-1d797194ee17-no-beer-v1.zip",
+      "downloadBytes": 38209151,
+      "archiveSha256": "f7dc4bc2e83421fe33db88704026dea3306cbd30e6710cfd6f09e7f49178cfae",
+      "manifestSha256": "c4a12c4514d293afac261907f5b9d3463544f737b8550e386287ff59277c06fc",
+      "installedBytes": 41032751,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1703,
+      "activeWordCount": 1453,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "N8RXoLEWQWUCCrT8uDK7",
+        "voiceName": "Emilia - Positive and Thoughtful",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75,
+          "style": 0.0,
+          "speed": 1.0,
+          "use_speaker_boost": true
+        },
+        "languageCode": "de",
+        "generatedRecordings": 1212,
+        "installedFiles": 1257,
+        "approvedWords": [
+          "Katze",
+          "Raupe",
+          "Hirsch",
+          "Hund",
+          "Libelle",
+          "Adler",
+          "Fisch"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/de-emilia-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.fr",
+      "language": "fr",
+      "nativeName": "Français",
+      "version": "14-fr-chess-6e24fa60694e-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/fr-14-fr-chess-6e24fa60694e-no-beer-v1.zip",
+      "downloadBytes": 38401692,
+      "archiveSha256": "3e98808d2e226556b54c819fe9e7540aa075680d49b8744fa2b94b9f05d3b331",
+      "manifestSha256": "5c4fce6bb387672bff32fe43e56e1c0420edf024af7eebcebc4c02c9558134ac",
+      "installedBytes": 41329856,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1715,
+      "activeWordCount": 1465,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "m5U7XCsc8v988k2RJAqN",
+        "voiceName": "Manon - Serious & spontaneous French voice",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 1.0,
+          "style": 0.0,
+          "speed": 1.0,
+          "use_speaker_boost": true
+        },
+        "languageCode": "fr",
+        "generatedRecordings": 1217,
+        "installedFiles": 1269,
+        "approvedWords": [
+          "Chat",
+          "Chenille",
+          "Cerf",
+          "Chien",
+          "Libellule",
+          "Aigle",
+          "Poisson"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/fr-manon-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.es",
+      "language": "es",
+      "nativeName": "Español (Latinoamérica)",
+      "version": "14-es-chess-5265b6a427ce-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/es-14-es-chess-5265b6a427ce-no-beer-v1.zip",
+      "downloadBytes": 40499115,
+      "archiveSha256": "e7de31061697cc5d82e9fece56956a208238392e4cd68c8cb5542ddb4c5b5774",
+      "manifestSha256": "d40420601b959486449e32ce016f16d6871fd3889ebcf622079c9afb9eb5cb8c",
+      "installedBytes": 43361202,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1700,
+      "activeWordCount": 1450,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "NUEuVCKSYxEA5YrK3kmx",
+        "voiceName": "Daniela - Warm, Professional, Persuasive",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75,
+          "style": 0.0,
+          "speed": 1.0,
+          "use_speaker_boost": true
+        },
+        "languageCode": "es",
+        "targetLocale": "es-419",
+        "generatedRecordings": 1206,
+        "installedFiles": 1254,
+        "approvedWords": [
+          "Gato",
+          "Oruga",
+          "Ciervo",
+          "Perro",
+          "Libélula",
+          "Águila",
+          "Pez"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/es-daniela-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.zh",
+      "language": "zh",
+      "nativeName": "简体中文",
+      "version": "14-zh-chess-a5b10bee4d80-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/zh-14-zh-chess-a5b10bee4d80-no-beer-v1.zip",
+      "downloadBytes": 38285631,
+      "archiveSha256": "715c7a64b09c675b37d7d89edc581af955147939d4d3c996c5d0512bdc3c59e0",
+      "manifestSha256": "ff75cd54715cc1ef1a33968b9364119fbc31b6433276212273b47b16475ad491",
+      "installedBytes": 41310858,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1751,
+      "activeWordCount": 1475,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "GgmlugwQ4LYXBbEXENWm",
+        "voiceName": "Maya - Young, Calm and Smooth",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75
+        },
+        "languageCode": "zh",
+        "targetLocale": "zh-Hans-CN",
+        "generatedRecordings": 1234,
+        "installedFiles": 1279,
+        "approvedWords": [
+          "猫",
+          "毛毛虫",
+          "鹿",
+          "狗",
+          "蜻蜓",
+          "鹰",
+          "鱼"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/zh-maya-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.ja",
+      "language": "ja",
+      "nativeName": "日本語",
+      "version": "14-ja-chess-0eb24c7aff4a-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/ja-14-ja-chess-0eb24c7aff4a-no-beer-v1.zip",
+      "downloadBytes": 47703750,
+      "archiveSha256": "27fc25ece7d0858318fbf8a8ea111ee7acd9d69f07d1e9b8e5e2c95d481f8301",
+      "manifestSha256": "6001c79295d9b818ea212aaec3b40fb2f0985165078028a3b0f23acf3133e277",
+      "installedBytes": 51671313,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1860,
+      "activeWordCount": 1584,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "8kgj5469z1URcH4MB2G4",
+        "voiceName": "Sakuya - Cheerful and Clear",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75
+        },
+        "languageCode": "ja",
+        "targetLocale": "ja-JP",
+        "generatedRecordings": 1341,
+        "installedFiles": 1388,
+        "approvedWords": [
+          "ネコ",
+          "イモムシ",
+          "シカ",
+          "イヌ",
+          "トンボ",
+          "ワシ",
+          "魚"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/ja-sakuya-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.ko",
+      "language": "ko",
+      "nativeName": "한국어",
+      "version": "14-ko-chess-1f7359190823-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/ko-14-ko-chess-1f7359190823-no-beer-v1.zip",
+      "downloadBytes": 37837714,
+      "archiveSha256": "429eaab4ca8fad38c102512352ff0d879ca6f0e1d243310d57bec07031878518",
+      "manifestSha256": "c22ee335723d6a724c08392faecac0263a794725345439c9be48278b93f686da",
+      "installedBytes": 40961241,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1739,
+      "activeWordCount": 1463,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "iWLjl1zCuqXRkW6494ve",
+        "voiceName": "Jisoo - Inviting, Clear and Measured",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75
+        },
+        "languageCode": "ko",
+        "targetLocale": "ko-KR",
+        "generatedRecordings": 1211,
+        "installedFiles": 1267,
+        "approvedWords": [
+          "고양이",
+          "애벌레",
+          "사슴",
+          "개",
+          "잠자리",
+          "독수리",
+          "물고기"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/ko-jisoo-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.it",
+      "language": "it",
+      "nativeName": "Italiano",
+      "version": "14-it-chess-415b9091a820-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/it-14-it-chess-415b9091a820-no-beer-v1.zip",
+      "downloadBytes": 37330886,
+      "archiveSha256": "aafd391e24bd0c78bee0095aed071f6fc67a2141796295ede9d519c8fb5c93d8",
+      "manifestSha256": "e5349b304af2d0078cf47953d9782cd5e1703ad03f1babe5be7ddbb43ada6b9c",
+      "installedBytes": 40178491,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1706,
+      "activeWordCount": 1456,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "RZ9oBlQ97k7Ug7uU1Ij0",
+        "voiceName": "Giulia Pro - Clear, Upbeat and Nuanced",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75
+        },
+        "languageCode": "it",
+        "targetLocale": "it-IT",
+        "generatedRecordings": 1216,
+        "installedFiles": 1260,
+        "approvedWords": [
+          "Gatto",
+          "Bruco",
+          "Cervo",
+          "Cane",
+          "Libellula",
+          "Aquila",
+          "Pesce"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/it-giulia-pro-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.pt",
+      "language": "pt",
+      "nativeName": "Português (Brasil)",
+      "version": "14-pt-chess-afccc4e3ae20-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/pt-14-pt-chess-afccc4e3ae20-no-beer-v1.zip",
+      "downloadBytes": 42852392,
+      "archiveSha256": "bbce28d5563dc3fadf83399e4cd234154669518c090cc4468f9fed0b3d8454f7",
+      "manifestSha256": "c0bf105cc81f3ada4a1a4dd6be85601d9359d510da93e734ba17fc8859680894",
+      "installedBytes": 45777629,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1711,
+      "activeWordCount": 1461,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "ORgG8rwdAiMYRug8RJwR",
+        "voiceName": "Ana Alice - Friendly & Clear",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75,
+          "style": 0.0,
+          "speed": 1.0,
+          "use_speaker_boost": true
+        },
+        "languageCode": "pt",
+        "targetLocale": "pt-BR",
+        "generatedRecordings": 1218,
+        "installedFiles": 1265,
+        "approvedWords": [
+          "Gato",
+          "Lagarta",
+          "Veado",
+          "Cachorro",
+          "Libélula",
+          "Águia",
+          "Peixe"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/pt-ana-alice-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.hi",
+      "language": "hi",
+      "nativeName": "हिन्दी",
+      "version": "14-hi-chess-2e57a8d40682-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/hi-14-hi-chess-2e57a8d40682-no-beer-v1.zip",
+      "downloadBytes": 42966900,
+      "archiveSha256": "0d93a55dd2384186a5d2e78f58e2c17ed57fef6c674a7295c1e1cd5237858c2d",
+      "manifestSha256": "4b34777f86dfc56136e56c734c9b676c3665565219b7cd5eb2c0723176f4df4a",
+      "installedBytes": 46294703,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1757,
+      "activeWordCount": 1481,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "24dlQ7ON1LVwBihIiCBg",
+        "voiceName": "Tara - Massy Brand Ad",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75
+        },
+        "languageCode": "hi",
+        "targetLocale": "hi-IN",
+        "generatedRecordings": 1236,
+        "installedFiles": 1285,
+        "approvedWords": [
+          "बिल्ली",
+          "इल्ली",
+          "हिरण",
+          "कुत्ता",
+          "व्याध पतंग",
+          "गरुड़",
+          "मछली"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/hi-tara-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.ar",
+      "language": "ar",
+      "nativeName": "العربية",
+      "version": "14-ar-chess-e3b8deed6459-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/ar-14-ar-chess-e3b8deed6459-no-beer-v1.zip",
+      "downloadBytes": 48722485,
+      "archiveSha256": "2b1425e336d4e0557068e9b2e64c431783a28b5cbcba5999fa484502569e6238",
+      "manifestSha256": "cce6ff3421e22fe10c87bc85baf7c9b7cf26d88dc02a9220f4243f233d0a024d",
+      "installedBytes": 52866172,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1743,
+      "activeWordCount": 1467,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "QtQamNJjpordEbNFIlz3",
+        "voiceName": "Amal - Rich & Sophisticated",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75
+        },
+        "languageCode": "ar",
+        "targetLocale": "ar-SA",
+        "generatedRecordings": 1230,
+        "installedFiles": 1468,
+        "approvedWords": [
+          "قطة",
+          "يرقة",
+          "أيل",
+          "كلب",
+          "يعسوب",
+          "عقاب",
+          "سمكة",
+          "الساعة الواحدة والنصف",
+          "عين",
+          "غين"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/ar-amal-v4/ledger.json"
+      }
+    },
+    {
+      "packageId": "learning.ru",
+      "language": "ru",
+      "nativeName": "Русский",
+      "version": "14-ru-chess-2dcc1230d2e9-no-beer-v1",
+      "availability": "draft",
+      "downloadUrl": null,
+      "localArchive": "archives/ru-14-ru-chess-2dcc1230d2e9-no-beer-v1.zip",
+      "downloadBytes": 45436932,
+      "archiveSha256": "a91406d973a6d5a57570030370a5981e0466fd55317ba1729647001f8a9ddc43",
+      "manifestSha256": "df8be6a4c3a526378df011e3eae7f72fa499a5bdfb23ddb3fe7a998cf4bd40ae",
+      "installedBytes": 49429407,
+      "dependencies": [
+        {
+          "language": "base",
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+        }
+      ],
+      "wordCount": 1732,
+      "activeWordCount": 1456,
+      "missingAudioCount": 0,
+      "missingImageCount": 0,
+      "reviewRecordCount": 0,
+      "audioReview": {
+        "status": "sample_approved_bulk_generated",
+        "voiceId": "AB9XsbSA4eLG12t2myjN",
+        "voiceName": "Larisa Actrisa - Confident and Clear",
+        "model": "eleven_v4",
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.75
+        },
+        "languageCode": "ru",
+        "targetLocale": "ru-RU",
+        "generatedRecordings": 1220,
+        "installedFiles": 1457,
+        "approvedWords": [
+          "Кошка",
+          "Гусеница",
+          "Олень",
+          "Собака",
+          "Стрекоза",
+          "Орёл",
+          "Рыба",
+          "Сейчас половина второго",
+          "ё",
+          "ща"
+        ],
+        "bulkGenerationAuthorized": true,
+        "allPronunciationsHumanReviewed": false,
+        "source": "production/ru-larisa-v4/ledger.json"
+      }
+    }
+  ]
+}

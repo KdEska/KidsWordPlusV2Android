@@ -1,0 +1,74 @@
+[
+  {
+    "source": "design/audio-effects/effect_congratulations_tr.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_congratulations_tr.mp3",
+    "sha256": "f3c13d4319fd1b353a8e4dcf16fce8e5aa1b8ab20dab0109d5700e5913fc8280",
+    "bytes": 9030
+  },
+  {
+    "source": "design/audio-effects/effect_perfect_tr.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_perfect_tr.mp3",
+    "sha256": "8d5ef9cf2bedeafa6235cc24fa93f975d0081688401310dcdee30df968dead1b",
+    "bytes": 9657
+  },
+  {
+    "source": "design/audio-effects/effect_well_done_tr.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_well_done_tr.mp3",
+    "sha256": "1fa7531169880038adc1c9af7b14d6884664174c1ee9ba5583c23a82f664c5a5",
+    "bytes": 9921
+  },
+  {
+    "source": "design/audio-effects/effect_youaregreat_tr.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_youaregreat_tr.mp3",
+    "sha256": "4c2a93f5e46b65a53bbc13f6c545c70013acabdfa10faaa46444e3550ba5094c",
+    "bytes": 8612
+  },
+  {
+    "source": "design/audio-effects/effect_youareperfect_tr.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_youareperfect_tr.mp3",
+    "sha256": "153d41a7838c80c1f2c82be2d0ecf964eabe5f9659e411c25a3175956db3d7c2",
+    "bytes": 9866
+  },
+  {
+    "source": "design/audio-effects/effect_youknowright_tr.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_youknowright_tr.mp3",
+    "sha256": "5e24b8e63844e9d0ed3410c3e4f80d08f6a73c6a5ed5d56a6e473b6a95d4d532",
+    "bytes": 10075
+  },
+  {
+    "source": "design/audio-effects/effect_congratulations_en.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_congratulations_en.mp3",
+    "sha256": "6bcf70cdc6cec45079848f81b9725bba35c9aa0e13bb15ffb94366e2b936d31d",
+    "bytes": 14463
+  },
+  {
+    "source": "design/audio-effects/effect_perfect_en.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_perfect_en.mp3",
+    "sha256": "63a20ae9276ee44be00f5220423bd09d5283640ff964717aa0fb2b610e8371cc",
+    "bytes": 10701
+  },
+  {
+    "source": "design/audio-effects/effect_well_done_en.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_well_done_en.mp3",
+    "sha256": "7b5c92b85a6784bc51b19444fa73fffda2b46510266c6f3962b6470c41c445de",
+    "bytes": 9657
+  },
+  {
+    "source": "design/audio-effects/effect_youaregreat_en.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_youaregreat_en.mp3",
+    "sha256": "19dc2359a5e13d160b5c54a657e88d053e94bc356380b1af62dcfe3ed8b8d860",
+    "bytes": 14672
+  },
+  {
+    "source": "design/audio-effects/effect_youareperfect_en.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_youareperfect_en.mp3",
+    "sha256": "fc9a7530290a4ed7e6f36a4d392095e87b2e99fa362ab00a6305eb419ccad217",
+    "bytes": 15090
+  },
+  {
+    "source": "design/audio-effects/effect_youknowright_en.mp3",
+    "destination": "KidsWordPlusAndroid/app/src/main/assets/effects/effect_youknowright_en.mp3",
+    "sha256": "17f0a9fe7b4507de009c5c6091046d1bac21ec758dad8271726eced4cdf45f19",
+    "bytes": 11955
+  }
+]

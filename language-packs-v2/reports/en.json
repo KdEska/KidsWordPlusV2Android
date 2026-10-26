@@ -1,0 +1,22 @@
+{
+  "language": "en",
+  "wordCount": 1700,
+  "missingAudio": [],
+  "missingImages": [],
+  "missingRequiredAudio": [],
+  "inactiveConceptIds": [],
+  "reviewRecords": [],
+  "sharedImageCount": 1672,
+  "localImageCount": 26,
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "15-en-chess-a0b5ed498511",
+    "archive": "archives/en-15-en-chess-a0b5ed498511.zip"
+  }
+}

@@ -1,0 +1,1453 @@
+{
+  "date": "2026-10-20",
+  "screenStates": 68,
+  "source": "KidsWordPlusV2/App",
+  "visualApproval": "incomplete",
+  "issues": [
+    {
+      "id": "U01",
+      "title": "Karakterli splash",
+      "status": "implemented and phone/tablet smoke verified",
+      "ios": "WelcomeSplashView.swift",
+      "android": "WelcomeSplash.kt",
+      "detail": "İlk karede logo/bahçe/karakter hazır, soğuk açılışta bir kez, 2750ms hareket, atla ve azaltılmış hareket."
+    },
+    {
+      "id": "U12",
+      "title": "Satranç menü ve ekran metinleri",
+      "status": "menu, puzzles, setup and custom editor implemented; Android verified; paired visual review pending",
+      "ios": "Chess/interface.json",
+      "android": "ChessScreen.kt / ChessPuzzlesScreen.kt / ChessSetupScreen.kt / ChessCustomScreen.kt / ChessDesign.kt",
+      "detail": "Menü/görev düzenleri yanında tahta hazırlama yönerge/sayaç/hedef ve özel konum araçları/yatay görünüm eşlendi. Tam çift platform piksel onayı açık."
+    },
+    {
+      "id": "U06",
+      "title": "Ders tamamlandı",
+      "status": "implemented; Android phone/tablet verified; full pixel comparison pending",
+      "ios": "KidsWordPlusApp.swift",
+      "android": "MainActivity.kt",
+      "detail": "Kutlama, çalışılan kelime görselleri, sonraki ders, tekrar ve aile paylaşımını eşle."
+    },
+    {
+      "id": "U04",
+      "title": "Tüm sayfalarda ortak yardım",
+      "status": "implemented; Android phone/tablet verified; full pixel comparison pending",
+      "ios": "PageHelp.swift",
+      "android": "PageHelp.kt / PageHelpCatalog.kt / MainActivity.kt",
+      "detail": "27 TR/EN bağlamsal yardım; daireli simge, büyük alt panel, kart/ses/tahta örnekleri; görünürlük tercihi ortak."
+    },
+    {
+      "id": "U05",
+      "title": "Kelime ve oyun ses durumu",
+      "status": "implemented; Android phone/tablet smoke verified; paired iOS review pending",
+      "ios": "HomeViews.swift: WordAudioPlaybackEffect",
+      "android": "WordAudioEffect.kt / MainActivity.kt / IosDesign.kt / GameDesign.kt",
+      "detail": "Gerçek ses başlangıcı/bitişine bağlı dalga ve camgöbeği vurgu; kelime, Dinle ve Seç/Tekrar, eşleştirme ve tek hafıza kartı. Hareket azaltıldığında sabit vurgu."
+    },
+    {
+      "id": "U07",
+      "title": "Oyun sonuçlarında aile paylaşımı",
+      "status": "implemented; Android result/gate/PNG verified; paired iOS pixel review pending",
+      "ios": "HomeViews.swift: FamilyShareButton",
+      "android": "GameDesign.kt / GameShareInfo.kt / FamilyShareCard.kt",
+      "detail": "Doğrudan metin paylaşımı kaldırıldı. Oyun sonuçları ortak yetişkin doğrulama, önizleme ve PNG kart paylaşımına bağlandı; oyun simgeleri ve tamamlanma sayıları eşlendi. Günlük ödül kazanılınca paylaşım açılır."
+    },
+    {
+      "id": "U08",
+      "title": "Ebeveyn raporu paylaşımı",
+      "status": "implemented; Android phone/tablet verified; paired iOS pixel review pending",
+      "ios": "HomeViews.swift: LearningReportView",
+      "android": "ParentDesign.kt / FamilyShare.kt / FamilyShareCard.kt",
+      "detail": "Rapor sonunda Paylaş; ebeveyn yetkisiyle doğrudan önizleme, dil ve çalışılan kelime sayısı, sütun grafik simgesi. Arka planda yeniden kilitlenir."
+    },
+    {
+      "id": "U09",
+      "title": "Ebeveyn ayarlarının içeriği",
+      "status": "photo, daily goal and app sharing implemented; sound/animation implemented by U10; setup/reminders tracked by U15",
+      "ios": "HomeViews.swift: ParentSettingsView",
+      "android": "ParentDesign.kt / ParentPhoto.kt / AppModel.kt / FamilyShare.kt",
+      "detail": "Fotoğraf galerisi/kamera, yerel avatar kaydı, 20/40/60/80/100 günlük hedef, kalpli uygulama paylaşımı. Ses/animasyon U10, hatırlatma/kurulum U15 kapsamında açık."
+    },
+    {
+      "id": "U10",
+      "title": "Genel hareket/ses tercihleri",
+      "status": "implemented; Android sound/motion/system override verified; paired iOS pixel review pending",
+      "ios": "KidsWordPlusApp.swift / ParentSettingsView",
+      "android": "AppModel.kt / MainActivity.kt / ChessAudio.kt / GreetingMotion.kt / ParentDesign.kt",
+      "detail": "Ebeveyn Ses/Animasyon anahtarları kalıcı; tüm ses girişleri kapatma tercihine bağlı. Özel hareketler uygulama ve cihaz tercihi birlikte açıksa çalışır."
+    },
+    {
+      "id": "U11",
+      "title": "Gizlilik içeriği",
+      "status": "implemented; Android TR phone/tablet and EN phone verified; paired iOS pixel review pending",
+      "ios": "HomeViews.swift: PrivacyView",
+      "android": "ParentPrivacyScreen.kt / ParentDesign.kt / MainActivity.kt",
+      "detail": "Altı seçilebilir TR/EN bölüm, iOS başlık ve kart düzeni; Android mevcut davranışını anlatır. Olmayan konuşma/hatırlatma hizmetleri vaat edilmez. Üst geri tuşu ebeveyn ayarlarına döner."
+    },
+    {
+      "id": "U03",
+      "title": "Kurulum, diller ve paket görünümü",
+      "status": "kısmi",
+      "ios": "SetupViews.swift / LanguagePreferencesView / PackageLibraryView",
+      "android": "IosDesign.kt / MainActivity.kt / ParentDesign.kt",
+      "detail": "Kurulum, ortak 21 karakter dünyası, ebeveyn dil seçimleri ve paket boyut/sürüm durumları uygulandı. Cihazda boyutu doğrulanmış kurulu manifestten alınır; güncel pakette güncelleme gizlenir. TR/EN tablet ve EN telefon kontrol edildi. Sistem dili/ek diller ve tam iOS görsel eşleştirmesi açık."
+    },
+    {
+      "id": "U13",
+      "title": "Satranç maç içeriği",
+      "status": "uygulandı; görsel eşleştirme kısmi",
+      "ios": "ChessKingSafetyView.swift",
+      "android": "ChessScreen.kt",
+      "detail": "Alınan taşlar, son hamle, kişisel istatistik kartı, eylem düğmeleri ve düzenlemeye dönüş uygulandı. Eski oyuncu rengi bilinmeyen istatistikler korunur. Tam iOS görsel eşleştirmesi açık."
+    },
+    {
+      "id": "U14",
+      "title": "Satranç oyun ayarları",
+      "status": "uygulandı; doğrulama kısmi",
+      "ios": "ChessKingSafetyView.swift: matchSettings",
+      "android": "ChessScreen.kt",
+      "detail": "Ayar paneli, kalıcı hamle efekti, saat aç/kapat ve süre değişikliği uygulandı; kapalı saat kalan süreyi korur. Özel oyun taraf/zorluk kalıcılığı eklendi. Tablet saat kontrolü geçti; özel tercih yeniden açılış kontrolü geçti. Tam iOS görsel eşleştirmesi açık."
+    },
+    {
+      "id": "U15",
+      "title": "İsteğe bağlı ebeveyn kurulumu/hatırlatma",
+      "status": "açık, özellik kapsamı",
+      "ios": "WelcomeSplashView.swift / LearningInvitation.swift",
+      "android": "yok",
+      "detail": "iOS davet, hızlı kurulum ve hatırlatma ekranları var. Konuşma pratiği önceki kararla ertelenmiş durumda; bu turda sessizce etkinleştirilmedi."
+    },
+    {
+      "id": "U02",
+      "title": "Ortak görünüm ölçüleri ve koyu tema",
+      "status": "partial: edge-to-edge fixed; dark theme and measurements remain",
+      "ios": "HomeViews.swift: LearningBackdrop / KidActionButtonStyle",
+      "android": "DesignArtwork.kt / IosDesign.kt / MainActivity.kt",
+      "detail": "Android açık temaya sabit. Bahçe sistem çubuklarının arkasına bu turda taşındı; son doğrulama bekleniyor. Buton/başlık/kart/alt menü genişlik ve güvenli alan ölçüleri aynı cihaz oranlarında ölçülecek."
+    }
+  ],
+  "screens": [
+    {
+      "id": "S01",
+      "group": "Açılış",
+      "screen": "Sistem açılışı",
+      "ios": "AppInfo.plist",
+      "android": "res/values-v31/themes.xml",
+      "issues": [
+        "U02"
+      ],
+      "finding": "Android sistem açılış simgesi işletim sistemine ait; uygulama splash ekranından ayrı incelenecek.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S02",
+      "group": "Açılış",
+      "screen": "Karakterli splash",
+      "ios": "WelcomeSplashView.swift",
+      "android": "WelcomeSplash.kt",
+      "issues": [
+        "U01"
+      ],
+      "finding": "Bu turda eklendi: logo, seçili karakter, selamlama, yıldız, Başlayalım, otomatik geçiş.",
+      "review": "source reviewed",
+      "visual": "phone/tablet smoke verified; iOS phone reference captured; complete pixel comparison pending"
+    },
+    {
+      "id": "S03",
+      "group": "Kurulum",
+      "screen": "Arayüz dili",
+      "ios": "SetupViews.swift",
+      "android": "IosDesign.kt",
+      "issues": [
+        "U03"
+      ],
+      "finding": "iOS sistem dili ve çok dilli seçim; Android TR/EN, seçili kart rengi/işareti ve zemin farklı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S04",
+      "group": "Kurulum",
+      "screen": "Öğrenme dili",
+      "ios": "SetupViews.swift",
+      "android": "IosDesign.kt",
+      "issues": [
+        "U03"
+      ],
+      "finding": "iOS çok dilli seçim ve indirme boyutu; Android TR/EN.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S05",
+      "group": "Kurulum",
+      "screen": "Paket hazırlama",
+      "ios": "SetupViews.swift",
+      "android": "IosDesign.kt",
+      "issues": [
+        "U03"
+      ],
+      "finding": "iOS adım içinde hazırla/ilerleme/iptal; Android ayrı paket ekranına yönlendiriyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S06",
+      "group": "Kurulum",
+      "screen": "Ad veya takma ad",
+      "ios": "SetupViews.swift",
+      "android": "IosDesign.kt",
+      "issues": [
+        "U03"
+      ],
+      "finding": "iOS özel kalemli ProfileNameField; Android standart OutlinedTextField.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S07",
+      "group": "Kurulum",
+      "screen": "Karakter seçimi",
+      "ios": "SetupViews.swift",
+      "android": "IosDesign.kt",
+      "issues": [
+        "U03"
+      ],
+      "finding": "iOS ortak CompanionPicker; Android kurulumda farklı basit kart ve iki sütun.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S08",
+      "group": "Kurulum",
+      "screen": "Kurulum özeti",
+      "ios": "SetupViews.swift",
+      "android": "IosDesign.kt",
+      "issues": [
+        "U03"
+      ],
+      "finding": "iOS etiket/değer satırları; Android düz metin. Alt eylem zemini ve içerik genişliği de farklı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S09",
+      "group": "Kurulum",
+      "screen": "Ebeveyn kurulum daveti",
+      "ios": "WelcomeSplashView.swift",
+      "android": "yok",
+      "issues": [
+        "U15"
+      ],
+      "finding": "Yeni kurulum sonrası isteğe bağlı davet ve hızlı kurulum Android’de yok. Konuşma pratiği önceki kararla kapsam dışı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S10",
+      "group": "Ana Sayfa",
+      "screen": "Ana sayfa",
+      "ios": "HomeViews.swift: HomeDashboardView",
+      "android": "IosDesign.kt: IosHome",
+      "issues": [
+        "U02"
+      ],
+      "finding": "Logo, balon, karakter, ders kartı, altı kategori mevcut; ölçüler aynı veri/dil ve ekran oranında tekrar karşılaştırılmalı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S11",
+      "group": "Öğren",
+      "screen": "Kategori listesi",
+      "ios": "HomeViews.swift: CategoryLibraryView",
+      "android": "MainActivity.kt / IosCategoryGrid",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Kategori yardım düğmesi yok; kartlar ve renk ailesi mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S12",
+      "group": "Öğren",
+      "screen": "Alt kategori listesi",
+      "ios": "HomeViews.swift: SubcategoryLibraryView",
+      "android": "MainActivity.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Yardım düğmesi yok; görselli yatay kartlar mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S13",
+      "group": "Öğren",
+      "screen": "Ders listesi",
+      "ios": "KidsWordPlusApp.swift: LessonListView",
+      "android": "MainActivity.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Yardım düğmesi yok; ders kartları tekrar görsel kontrol bekliyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S14",
+      "group": "Öğren",
+      "screen": "Kelime kartı / önceki / sonraki",
+      "ios": "KidsWordPlusApp.swift: WordLessonView",
+      "android": "MainActivity.kt",
+      "issues": [
+        "U04",
+        "U05"
+      ],
+      "finding": "Sayfa yardımı ve iOS dinleme dalgası/hareketli ses düğmesi eksik.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S15",
+      "group": "Öğren",
+      "screen": "Ders tamamlandı",
+      "ios": "KidsWordPlusApp.swift: WordLessonView",
+      "android": "MainActivity.kt",
+      "issues": [
+        "U06"
+      ],
+      "finding": "iOS completion structure implemented: celebration, real star delta, thumbnails, gated share, next/repeat/back.",
+      "review": "source reviewed",
+      "visual": "Android phone/tablet smoke verified; full paired iOS pixel review pending"
+    },
+    {
+      "id": "S16",
+      "group": "Öğren",
+      "screen": "Paket bulunamadı",
+      "ios": "HomeViews.swift: MissingLearningPackView",
+      "android": "MainActivity.kt",
+      "issues": [],
+      "finding": "Paket açma eylemi var; boş durum ölçüleri görsel kontrol bekliyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S17",
+      "group": "Oyunlar",
+      "screen": "Oyun seçimi",
+      "ios": "HomeViews.swift: GamesLibraryView",
+      "android": "GamesScreen.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Yardım yok. Konuşma kartı bilerek kapsam dışı; diğer beş kart mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S18",
+      "group": "Oyunlar",
+      "screen": "Dinle ve Seç / soru",
+      "ios": "HomeViews.swift: ListeningGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U04",
+        "U05"
+      ],
+      "finding": "Soru/yanlış/doğru ve alt eylemler var; yardım ve ses çalma göstergesi eksik.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S19",
+      "group": "Oyunlar",
+      "screen": "Dinle ve Seç / sonuç",
+      "ios": "HomeViews.swift: ListeningGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U07"
+      ],
+      "finding": "iOS ebeveyn doğrulamalı resimli paylaşım; Android GameShare metin paylaşımı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S20",
+      "group": "Oyunlar",
+      "screen": "Tekrar / boş",
+      "ios": "HomeViews.swift: ListeningGameView",
+      "android": "GamesScreen.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Boş durum ve öğrenmeye yönlendirme var; yardım yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S21",
+      "group": "Oyunlar",
+      "screen": "Tekrar / soru",
+      "ios": "HomeViews.swift: ListeningGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U04",
+        "U05"
+      ],
+      "finding": "Soru akışı mevcut; yardım ve ses çalma göstergesi eksik.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S22",
+      "group": "Oyunlar",
+      "screen": "Tekrar / sonuç",
+      "ios": "HomeViews.swift: ListeningGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U07"
+      ],
+      "finding": "Oyun sonuçlarının ortak paylaşım farkı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S23",
+      "group": "Oyunlar",
+      "screen": "Eşleştir / seviye",
+      "ios": "HomeViews.swift: MatchingGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Kelime sayısı ve erişilebilir/kapalı seçenekler var; yardım yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S24",
+      "group": "Oyunlar",
+      "screen": "Eşleştir / oyun",
+      "ios": "HomeViews.swift: MatchingGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U04",
+        "U05"
+      ],
+      "finding": "Bağlantı çizgileri ve geri bildirim mevcut; ses hareketi ve yardım farkı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S25",
+      "group": "Oyunlar",
+      "screen": "Eşleştir / sonuç",
+      "ios": "HomeViews.swift: MatchingGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U07"
+      ],
+      "finding": "Ortak paylaşım farkı; düğme sırası/tonları yeniden görsel kontrol edilecek.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S26",
+      "group": "Oyunlar",
+      "screen": "Hafıza / seviye",
+      "ios": "HomeViews.swift: MemoryGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Dört seviye ve kart sayıları var; yardım yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S27",
+      "group": "Oyunlar",
+      "screen": "Hafıza / oyun",
+      "ios": "HomeViews.swift: MemoryGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Kart açma/eşleşme/tur akışı mevcut; yardım yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S28",
+      "group": "Oyunlar",
+      "screen": "Hafıza / sonuç",
+      "ios": "HomeViews.swift: MemoryGameView",
+      "android": "GameDesign.kt",
+      "issues": [
+        "U07"
+      ],
+      "finding": "Ortak paylaşım farkı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S29",
+      "group": "Oyunlar",
+      "screen": "Bugünün görevleri",
+      "ios": "HomeViews.swift: DailyTasksView",
+      "android": "GameDesign.kt / GamesScreen.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Ayrı sayfa, ödül, üç hedef ve seri var; yardım ve başlıktaki yıldız rozeti kontrol edilecek.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S30",
+      "group": "Oyunlar",
+      "screen": "Skor tablosu",
+      "ios": "HomeViews.swift: ScoreboardView",
+      "android": "GamesScreen.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "Ayrı sayfa, 180dp görsel, yıldız sayacı mevcut; yardım yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S31",
+      "group": "Profil",
+      "screen": "Profil / ad düzenleme",
+      "ios": "SetupViews.swift: ProfileEditorView",
+      "android": "ProfileDesign.kt",
+      "issues": [],
+      "finding": "Karakter, ad alanı ve otomatik kayıt mevcut. Boş/dolu/klavye/büyük yazı görsel onayı bekliyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S32",
+      "group": "Profil",
+      "screen": "Karakter dünyası / açık kartlar",
+      "ios": "SetupViews.swift: CompanionPicker",
+      "android": "ProfileDesign.kt",
+      "issues": [],
+      "finding": "21 karakter, başlangıç/yeni arkadaş bölümleri ve ilerleme mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S33",
+      "group": "Profil",
+      "screen": "Kilitli kart / Nova",
+      "ios": "SetupViews.swift: CompanionChoiceCard",
+      "android": "ProfileDesign.kt",
+      "issues": [],
+      "finding": "Kilitli/siluet/seçili durumlar mevcut; koşulların ekran metni ve görünümü yeniden karşılaştırılacak.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S34",
+      "group": "Ebeveyn",
+      "screen": "Ebeveyn kapısı / basılı tut",
+      "ios": "HomeViews.swift: ParentGateView",
+      "android": "FamilyScreens.kt",
+      "issues": [],
+      "finding": "Üç saniye basılı tutma mevcut; arka planda tekrar kilitleniyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S35",
+      "group": "Ebeveyn",
+      "screen": "Ebeveyn kapısı / alternatif",
+      "ios": "HomeViews.swift: ParentGateView",
+      "android": "FamilyScreens.kt",
+      "issues": [],
+      "finding": "Alternatif doğrulama var; hata/büyük yazı durumları görsel kontrol bekliyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S36",
+      "group": "Ebeveyn",
+      "screen": "Haftalık panel",
+      "ios": "HomeViews.swift: ParentDashboardView",
+      "android": "ParentDesign.kt",
+      "issues": [],
+      "finding": "Dört metrik, grafik ve alt sekmeler mevcut; aynı veriyle görsel onay gerekli.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S37",
+      "group": "Ebeveyn",
+      "screen": "Öğrenme raporu",
+      "ios": "HomeViews.swift: LearningReportView",
+      "android": "ParentDesign.kt",
+      "issues": [
+        "U08"
+      ],
+      "finding": "Kategori ve metrikler mevcut; iOS rapor aile paylaşımı Android’de yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S38",
+      "group": "Ebeveyn",
+      "screen": "Ebeveyn profili",
+      "ios": "SetupViews.swift: ProfileEditorView",
+      "android": "ProfileDesign.kt",
+      "issues": [],
+      "finding": "Çocuk profiliyle aynı düzenleyici kullanılıyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S39",
+      "group": "Ebeveyn",
+      "screen": "Ayarlar",
+      "ios": "HomeViews.swift: ParentSettingsView",
+      "android": "ParentDesign.kt",
+      "issues": [
+        "U09",
+        "U10",
+        "U15"
+      ],
+      "finding": "Profil fotoğrafı değiştirme, günlük hedef, ses/animasyon, hatırlatma/kurulum ve uygulama paylaşımı gibi iOS bölümleri eksik.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S40",
+      "group": "Ebeveyn",
+      "screen": "Dil tercihleri",
+      "ios": "HomeViews.swift: LanguagePreferencesView",
+      "android": "ParentDesign.kt",
+      "issues": [
+        "U03",
+        "U04"
+      ],
+      "finding": "iOS anında kaydeden seçiciler ve sistem dili; Android TR/EN radyo + Kaydet.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S41",
+      "group": "Ebeveyn",
+      "screen": "Dil paketleri / liste",
+      "ios": "KidsWordPlusApp.swift: PackageLibraryView",
+      "android": "MainActivity.kt",
+      "issues": [
+        "U03",
+        "U04"
+      ],
+      "finding": "iOS bölüm/list görünümü; Android kartlar. Android yalnız TR/EN listeliyor, yardım yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S42",
+      "group": "Ebeveyn",
+      "screen": "Dil paketleri / kurulum-iptal",
+      "ios": "KidsWordPlusApp.swift: PackageLibraryView",
+      "android": "MainActivity.kt",
+      "issues": [],
+      "finding": "İlerleme/iptal mevcut; hata/çevrimdışı/yenileme görsel kontrol bekliyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S43",
+      "group": "Ebeveyn",
+      "screen": "Dil paketi / silme onayı",
+      "ios": "KidsWordPlusApp.swift: PackageLibraryView",
+      "android": "MainActivity.kt",
+      "issues": [],
+      "finding": "İlerlemenin korunacağı onay mevcut; Android yerel diyalog görünümü farklı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S44",
+      "group": "Ebeveyn",
+      "screen": "Gizlilik",
+      "ios": "HomeViews.swift: PrivacyView",
+      "android": "ParentDesign.kt",
+      "issues": [
+        "U11"
+      ],
+      "finding": "iOS ayrıntılı sayfaya karşı Android kısa tek kart açıklama.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S45",
+      "group": "Satranç",
+      "screen": "Satranç menüsü",
+      "ios": "ChessViews.swift: ChessWorldView",
+      "android": "ChessScreen.kt",
+      "issues": [
+        "U12"
+      ],
+      "finding": "Bu turda başlıklar/karşılama/dil rozeti iOS TR/EN metinlerine eşlendi. Kart kırpması/ölçüleri görsel kontrol bekliyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S46",
+      "group": "Satranç",
+      "screen": "Genel Bilgiler / tarih",
+      "ios": "ChessViews.swift: ChessIntroductionView",
+      "android": "ChessIntroduction.kt",
+      "issues": [],
+      "finding": "Tarih kartları, özgün görseller ve dinleme mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S47",
+      "group": "Satranç",
+      "screen": "Genel Bilgiler / temel kurallar",
+      "ios": "ChessViews.swift: ChessIntroductionView",
+      "android": "ChessIntroduction.kt",
+      "issues": [],
+      "finding": "Temel kurallar sekmesi mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S48",
+      "group": "Satranç",
+      "screen": "Genel Bilgiler / ustalar ve kaynaklar",
+      "ios": "ChessViews.swift: ChessIntroductionView",
+      "android": "ChessIntroduction.kt",
+      "issues": [],
+      "finding": "İki dönem, on fotoğraf, lisans/kaynak bağlantıları mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S49",
+      "group": "Satranç",
+      "screen": "Taşları Tanı / liste",
+      "ios": "ChessViews.swift: ChessPiecesView",
+      "android": "ChessLessonsScreen.kt",
+      "issues": [
+        "U12"
+      ],
+      "finding": "Başlık eşlendi; 2D/3D kart düzeni mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S50",
+      "group": "Satranç",
+      "screen": "Taş ayrıntısı",
+      "ios": "ChessViews.swift: ChessPieceLessonView",
+      "android": "ChessLessonsScreen.kt",
+      "issues": [],
+      "finding": "Ad/kural sesi, örnek ve deneme geçişi mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S51",
+      "group": "Satranç",
+      "screen": "Tahtayı Hazırla",
+      "ios": "ChessBoardSetupView.swift",
+      "android": "ChessAcademyScreen.kt",
+      "issues": [
+        "U12"
+      ],
+      "finding": "Başlık eşlendi; beyaz/siyah yerleştirme ve paylaşım mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S52",
+      "group": "Satranç",
+      "screen": "Alıştırma / serbest",
+      "ios": "ChessTrainingView.swift",
+      "android": "ChessLessonsScreen.kt",
+      "issues": [],
+      "finding": "Altı taş, yasal hedef, sürükleme ve sıfırlama mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S53",
+      "group": "Satranç",
+      "screen": "Alıştırma / görev ve tur sonu",
+      "ios": "ChessTrainingView.swift",
+      "android": "ChessLessonsScreen.kt",
+      "issues": [],
+      "finding": "Dengeli on görev ve aile paylaşımı mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S54",
+      "group": "Satranç",
+      "screen": "Açılış listesi / ilkeler",
+      "ios": "ChessOpeningsView.swift",
+      "android": "ChessOpeningLibrary.kt",
+      "issues": [],
+      "finding": "Dört açılır ilke ve sekiz açılış önizlemesi mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S55",
+      "group": "Satranç",
+      "screen": "Açılış dersi / izle",
+      "ios": "ChessOpeningsView.swift",
+      "android": "ChessOpeningLesson.kt",
+      "issues": [],
+      "finding": "Hamle önizlemesi, ileri/geri/sıfırla ve ses mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S56",
+      "group": "Satranç",
+      "screen": "Açılış dersi / dene",
+      "ios": "ChessOpeningsView.swift",
+      "android": "ChessOpeningLesson.kt",
+      "issues": [],
+      "finding": "Beklenen hamle, ipucu ve ilerleme mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S57",
+      "group": "Satranç",
+      "screen": "Şahını Koru",
+      "ios": "ChessKingSafetyView.swift",
+      "android": "ChessAcademyScreen.kt",
+      "issues": [],
+      "finding": "On görev, tehdit/kaçış/alma/engel ve paylaşım mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S58",
+      "group": "Satranç",
+      "screen": "Mat ve Pat / soru",
+      "ios": "ChessKingSafetyView.swift: ChessEndingView",
+      "android": "ChessPuzzlesScreen.kt",
+      "issues": [
+        "U12"
+      ],
+      "finding": "Başlık eşlendi; üç cevap ve dengeli tur mevcut. iOS ayrı sayfa, Android ayrıca mod seçici gösteriyor.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S59",
+      "group": "Satranç",
+      "screen": "Mat ve Pat / kaçış",
+      "ios": "ChessKingSafetyView.swift: ChessEndingView",
+      "android": "ChessEndingBoard.kt",
+      "issues": [],
+      "finding": "Doğru Şah sonrası liste, kareden hamle, animasyon ve ilk konuma dönüş mevcut.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S60",
+      "group": "Satranç",
+      "screen": "Tek Hamlede Mat / soru-sonuç",
+      "ios": "ChessKingSafetyView.swift: ChessMateInOneView",
+      "android": "ChessPuzzlesScreen.kt",
+      "issues": [
+        "U12"
+      ],
+      "finding": "Başlık eşlendi; Android ortak ekranın fazladan mod seçicisi var.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S61",
+      "group": "Satranç",
+      "screen": "Bilgisayara Karşı / oyun",
+      "ios": "ChessKingSafetyView.swift: ChessComputerView",
+      "android": "ChessScreen.kt",
+      "issues": [
+        "U13"
+      ],
+      "finding": "Yakalanan taş şeritleri, oyun içi istatistik kartı ve iOS eylem tonları/sırası eksik/farklı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S62",
+      "group": "Satranç",
+      "screen": "Bilgisayara Karşı / ayarlar",
+      "ios": "ChessKingSafetyView.swift: matchSettings",
+      "android": "ChessScreen.kt",
+      "issues": [
+        "U14"
+      ],
+      "finding": "iOS sağ üst ayrı ayar sayfasında ses, hareket efekti ve aktif saat. Android ses satırı tahtada, süre yeni oyunda; ayrı ayarlar yok.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S63",
+      "group": "Satranç",
+      "screen": "Yeni oyun / onay",
+      "ios": "ChessKingSafetyView.swift: ChessNewGameView",
+      "android": "ChessScreen.kt",
+      "issues": [],
+      "finding": "Taraf/zorluk/süre ve mevcut oyunu değiştirme onayı var; iOS sheet ile Android sayfa sunumu farklı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S64",
+      "group": "Satranç",
+      "screen": "Oyun / hamle geçmişi",
+      "ios": "ChessKingSafetyView.swift: history",
+      "android": "ChessHistoryPanel.kt",
+      "issues": [],
+      "finding": "Taşlı beyaz/siyah sütun ve açılır panel mevcut; önceki turda telefon/tablet incelendi.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S65",
+      "group": "Satranç",
+      "screen": "Oyun / sonuç ve paylaşım",
+      "ios": "ChessKingSafetyView.swift: resultSummary",
+      "android": "ChessScreen.kt",
+      "issues": [],
+      "finding": "Sonuç/paylaşım mevcut; iOS istatistik/taş şeritleri ile birlikte kontrol edilecek.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S66",
+      "group": "Satranç",
+      "screen": "Kendi Oyununu Kur",
+      "ios": "ChessCustomGameView.swift",
+      "android": "ChessCustomScreen.kt",
+      "issues": [
+        "U12",
+        "U13"
+      ],
+      "finding": "Başlık eşlendi; dizilim araçları mevcut. Oyundan düzenlemeye dönüş düğmesi iOS ile karşılaştırılmalı.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    },
+    {
+      "id": "S67",
+      "group": "Satranç",
+      "screen": "Satranç yardım pencereleri",
+      "ios": "PageHelp.swift",
+      "android": "ChessHelp.kt",
+      "issues": [
+        "U04"
+      ],
+      "finding": "14 yardım mevcut; iOS büyük sheet, Android ortalı Dialog. Yardım simgesi iOS daireli, Android düz soru işareti.",
+      "review": "source reviewed",
+      "visual": "pending paired capture",
+      "helpResolution": "U04 implemented and Android smoke verified; original finding retained as audit history."
+    },
+    {
+      "id": "S68",
+      "group": "Satranç",
+      "screen": "Aile paylaşımı / doğrulama-önizleme",
+      "ios": "HomeViews.swift: FamilyShareSheet",
+      "android": "FamilyShare.kt",
+      "issues": [
+        "U07",
+        "U08"
+      ],
+      "finding": "Satranç paylaşımı var; diğer bölümlerde ortak kullanım eksik. Kart sembolü/örnek görseller birebir değil.",
+      "review": "source reviewed",
+      "visual": "pending paired capture"
+    }
+  ],
+  "firstBatch": {
+    "fixed": [
+      "U01"
+    ],
+    "partial": [
+      "U02",
+      "U12"
+    ],
+    "next": "U06",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 89; not rerun for UI changes",
+    "manual": [
+      "phone/tablet cold launch",
+      "automatic dismissal",
+      "skip button",
+      "no repeat on background return",
+      "reduced motion",
+      "ten chess menu labels",
+      "piece list navigation title",
+      "landscape tablet splash and automatic dismissal"
+    ],
+    "profileUnchanged": true,
+    "allScreensVisuallyApproved": false
+  },
+  "captureNotes": {
+    "iosPhone": "English reference, portrait",
+    "iosTablet": "Turkish reference; landscape app captured in physical display orientation",
+    "android": "Turkish, phone, portrait tablet and landscape tablet",
+    "pixelEquivalenceApproved": false
+  },
+  "secondBatch": {
+    "issue": "U06",
+    "status": "implemented and smoke verified",
+    "next": "U04",
+    "tests": 91,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "profileRestoredExactly": true,
+    "manual": [
+      "complete lesson",
+      "repeat from first word",
+      "next lesson in same topic",
+      "last lesson hides next",
+      "phone/tablet completion",
+      "adult gate",
+      "thumbnail PNG and chooser, no recipient selected",
+      "back to topic list"
+    ],
+    "limitations": [
+      "positive daily-star award not manually created",
+      "full iOS pixel comparison pending"
+    ]
+  },
+  "thirdBatch": {
+    "issue": "U04",
+    "status": "implemented and smoke verified",
+    "next": "U05",
+    "tests": 94,
+    "manual": [
+      "all 13 new topics",
+      "chess menu and computer regression",
+      "sound and cards demos",
+      "cards show/reset",
+      "close button, system Back and Got it",
+      "open sheet survives tablet-to-phone resize",
+      "help preference hides Learn/Games/Chess"
+    ],
+    "profileRestoredExactly": true,
+    "limitations": [
+      "full paired iOS pixel review pending",
+      "initial setup package shortcut not manually exercised",
+      "English contents unit-tested; device visual acceptance pending"
+    ]
+  },
+  "fourthBatch": {
+    "issue": "U05",
+    "status": "implemented and smoke verified",
+    "next": "U07",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "profileRestoredExactly": true,
+    "screenshots": "reviews/word-audio/",
+    "manual": [
+      "phone word/listening/matching active and ended",
+      "tablet memory/listening active and ended",
+      "help opens/closes"
+    ],
+    "limitations": [
+      "review shares listening implementation; not separately exercised",
+      "reduced-motion inspected in code",
+      "paired iOS pixel review pending"
+    ]
+  },
+  "fifthBatch": {
+    "issue": "U07",
+    "status": "implemented and smoke verified",
+    "next": "U08",
+    "tests": 96,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "profileRestoredExactly": true,
+    "manual": [
+      "real two-pair memory game completed",
+      "sharing opens adult verification",
+      "adult arithmetic gate answered",
+      "memory PNG preview visually inspected",
+      "system PNG chooser opened; no recipient selected",
+      "phone resize requires verification again"
+    ],
+    "limitations": [
+      "all four result screens not individually completed on device",
+      "daily reward share condition inspected in code; not manually awarded",
+      "paired iOS pixel review pending"
+    ],
+    "screenshots": "reviews/game-share/"
+  },
+  "sixthBatch": {
+    "issue": "U08",
+    "status": "implemented and smoke verified",
+    "next": "U09",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96; not rerun",
+    "profileRestoredExactly": true,
+    "manual": [
+      "tablet report preview and PNG chooser",
+      "parent gate authorization reused",
+      "background removes preview",
+      "phone report share and preview"
+    ],
+    "screenshots": "reviews/report-share/",
+    "limitations": [
+      "paired iOS pixel comparison pending",
+      "English device acceptance pending"
+    ]
+  },
+  "seventhBatch": {
+    "issue": "U09",
+    "status": "photo goal and app sharing implemented",
+    "next": "U10",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96; not rerun",
+    "manual": [
+      "80-word goal selected and persisted across restart",
+      "gallery cancel preserves settings",
+      "app promotion preview opens",
+      "gallery test image selected and saved as JPEG",
+      "photo displayed after process restart",
+      "camera opens and cancel preserves photo",
+      "phone settings/photo options/goal menu"
+    ],
+    "profileAndPhotoRestoredExactly": true,
+    "limitations": [
+      "sound and animation preferences belong to next U10",
+      "camera capture uses preview resolution for avatar",
+      "paired iOS pixel review pending",
+      "camera shutter capture not exercised; launch/cancel only",
+      "English visual acceptance pending"
+    ],
+    "screenshots": "reviews/parent-settings/"
+  },
+  "eighthBatch": {
+    "issue": "U10",
+    "status": "implemented and smoke verified",
+    "next": "U11",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96; not rerun",
+    "manual": [
+      "parent switches off and XML persistence checked",
+      "off state survives process restart",
+      "word playback shows sound-off notice",
+      "listening question remains unheard when muted",
+      "shared help sound demo captures identical with parent animation disabled",
+      "chess manual sound-off notice on piece detail",
+      "sound enabled again allows listening game heard state",
+      "shared help sound demo moves with app animation on",
+      "system animator scale zero overrides app animation on; identical captures",
+      "phone Sound/Animation switches visible and accessible; profile unchanged"
+    ],
+    "profileAndSystemMotionRestoredExactly": true,
+    "screenshots": "reviews/playback-preferences/",
+    "limitations": [
+      "physical-device acceptance pending",
+      "full paired iOS pixel review pending",
+      "celebration sound guard inspected in code; completion not repeated"
+    ]
+  },
+  "ninthBatch": {
+    "issue": "U11",
+    "status": "implemented and smoke verified",
+    "next": "U12 remaining layout differences",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96; not rerun",
+    "manual": [
+      "all six TR sections reached on tablet and phone",
+      "header Back returns to parent settings",
+      "system Back returns to parent settings",
+      "all six EN sections reached on phone",
+      "English language settings header Back returns correctly",
+      "final English typography visually inspected"
+    ],
+    "profileRestoredExactly": true,
+    "limitations": [
+      "full paired iOS pixel comparison pending",
+      "selection support implemented; copy toolbar not separately exercised",
+      "speaking/reminder sections omitted because features are absent"
+    ],
+    "screenshots": "reviews/privacy/"
+  },
+  "tenthBatch": {
+    "issue": "U12 menu and puzzle layouts",
+    "status": "implemented and smoke verified",
+    "next": "U12 setup/custom remaining comparisons",
+    "tests": 96,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "manual": [
+      "phone/tablet menu and large-font one-column menu",
+      "endings and mate routes have no cross-mode selector",
+      "wrong ending answer does not advance",
+      "correct ending answer reveals explanation/audio/next below board",
+      "next task and phone resize retain ending task 2/10",
+      "mate selection reset clears selection and preserves position",
+      "legal mating move accepted, success/next above board",
+      "mate task 2/10 retained after phone resize and help open/close"
+    ],
+    "profileAndFontRestoredExactly": true,
+    "limitations": [
+      "TR device UI only; EN copy source-aligned but not separately exercised",
+      "ten-task completion not repeated; covered by prior round tests",
+      "piece/setup/custom full paired visual review remains open",
+      "full paired iOS pixel review pending"
+    ],
+    "screenshots": "reviews/chess-layout/"
+  },
+  "eleventhBatch": {
+    "issue": "U12 setup/custom, U13 edit return",
+    "status": "implemented and Android smoke verified",
+    "next": "U13 remaining match content",
+    "tests": 99,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "manual": [
+      "setup toolbar reset",
+      "wrong target does not advance",
+      "palette-to-board rook drag",
+      "all 32 pieces placed",
+      "white-to-black transition at 16/32",
+      "completion with family share",
+      "clear, selected-side auto arrange and both-side auto arrange",
+      "randomize preserves opposing pieces",
+      "undo restores each arrangement",
+      "custom start replacement confirmation",
+      "edit position returns from active custom game to unchanged draft",
+      "landscape 3-column palette and separate board pane",
+      "board a2-a3 drag and undo",
+      "palette pawn to a3 drag and undo",
+      "phone custom layout",
+      "draft survives process restart",
+      "final phone setup/custom layout and help dismissal; profile unchanged"
+    ],
+    "profileDraftAndMatchRestoredExactly": true,
+    "limitations": [
+      "English UI not separately exercised",
+      "custom player-side/difficulty choice process persistence differs from iOS; retained for match settings work",
+      "paired iOS pixel review pending"
+    ],
+    "screenshots": "reviews/setup-custom/"
+  },
+  "twelfthBatch": {
+    "date": "2026-10-21",
+    "issues": [
+      "U13",
+      "U14"
+    ],
+    "status": "implemented; visual parity remains partial",
+    "tests": 105,
+    "debug": "passed",
+    "lint": "passed",
+    "manual": [
+      "phone match statistics and actions",
+      "phone final settings sheet",
+      "tablet final settings sheet",
+      "tablet clock enable, duration change and pause/resume",
+      "game id and moves preserved during clock changes",
+      "custom Black/Hard preference and UI selection survive process restart; original preferences restored"
+    ],
+    "limitations": [
+      "paired iOS pixel review remains open",
+      "English and large-font match settings not separately exercised"
+    ],
+    "screenshots": [
+      "reviews/match-statistics/",
+      "reviews/match-settings/",
+      "reviews/match-clock/"
+    ]
+  },
+  "thirteenthBatch": {
+    "date": "2026-10-21",
+    "issue": "U03 setup first pass",
+    "debug": "passed",
+    "lint": "passed",
+    "manual": [
+      "six TR setup steps",
+      "step scroll reset",
+      "tablet resize and reverse navigation",
+      "English interface and ready-package step",
+      "exact profile restoration"
+    ],
+    "screenshots": "reviews/setup-parity/",
+    "remaining": [
+      "real download/cancel path not exercised",
+      "device language and more locales",
+      "full companion catalog in setup",
+      "parent language and package library appearance",
+      "paired iOS pixel comparison"
+    ]
+  },
+  "fourteenthBatch": {
+    "date": "2026-10-21",
+    "issue": "U03 companion picker and parent language preferences",
+    "status": "implemented and Android smoke verified",
+    "debug": "passed",
+    "lint": "passed",
+    "manual": [
+      "shared setup companion world through locked Nova",
+      "six setup steps and EN/tablet regression",
+      "parent TR/EN immediate language selection",
+      "package navigation returns to language preferences",
+      "phone/tablet and exact profile restoration"
+    ],
+    "screenshots": [
+      "reviews/setup-parity/",
+      "reviews/language-preferences/"
+    ],
+    "remaining": [
+      "package library visual details",
+      "device language and additional locales",
+      "paired iOS visual comparison"
+    ]
+  },
+  "fifteenthBatch": {
+    "date": "2026-10-21",
+    "issue": "U03 package library details",
+    "debug": "passed",
+    "lint": "passed",
+    "tests": 106,
+    "manual": [
+      "TR/EN tablet package sizes",
+      "current TR hides update action",
+      "uninstalled EN exposes install action",
+      "EN phone size/current-package controls; original profile restored exactly"
+    ],
+    "screenshots": "reviews/package-parity/",
+    "remaining": [
+      "actual update/download/cancel and catalog outage not manually repeated",
+      "system language and more locales",
+      "paired iOS visual comparison"
+    ]
+  },
+  "sixteenthBatch": {
+    "issue": "U03 multilingual support",
+    "date": "2026-10-21",
+    "learningLanguages": 13,
+    "interfaceLanguages": 11,
+    "tests": 108,
+    "debug": "passed",
+    "lint": "passed",
+    "manual": "French installed, German UI/category labels, restart persistence; exact profile restoration",
+    "limitations": [
+      "English fallback for missing/dynamic strings and non-TR chess narration",
+      "individual locale visual approval pending",
+      "device-language preference pending",
+      "Release content not published"
+    ]
+  },
+  "seventeenthBatch": {
+    "issue": "U03 dynamic localization",
+    "date": "2026-10-21",
+    "tests": 109,
+    "debug": "passed",
+    "lint": "passed",
+    "manual": [
+      "DE/JA/ZH greeting templates preserve literal user names",
+      "DE setup summary native app-language name",
+      "exact profile restoration"
+    ],
+    "remaining": [
+      "remaining Android-specific fallback strings",
+      "full locale/screen visual coverage"
+    ]
+  },
+  "eighteenthBatch": {
+    "date": "2026-10-21",
+    "issue": "U03 chess dictionaries and decorated labels",
+    "tests": 110,
+    "debug": "passed",
+    "lint": "passed",
+    "manual": "DE/JA chess status/settings/close; exact profile restoration",
+    "screenshots": "reviews/chess-localization/",
+    "remaining": [
+      "some Android-specific copy",
+      "TR/EN voice fallback",
+      "full locale visual coverage"
+    ]
+  },
+  "nineteenthBatch": {
+    "issue": "U03 common game/parent messages",
+    "date": "2026-10-21",
+    "tests": 111,
+    "debug": "passed",
+    "lint": "passed",
+    "manual": "ES/KO review and parent labels; exact profile restoration",
+    "unit": "nine additional locales and memory-result placeholders",
+    "remaining": [
+      "other English fallback strings",
+      "per-locale full screen visual approval"
+    ]
+  },
+  "twentiethBatch": {
+    "issue": "U03 setup/report pack text and localization audit",
+    "date": "2026-10-21",
+    "tests": 112,
+    "debug": "passed",
+    "lint": "passed",
+    "manual": "DE/FR setup pack description; exact profile restoration",
+    "audit": "docs/localization-audit.json",
+    "remaining": [
+      "review reachable fallback candidates",
+      "complete per-locale visual checks"
+    ]
+  },
+  "twentyFirstBatch": {
+    "issue": "U03 named setup/piece localization and audio fallback",
+    "date": "2026-10-21",
+    "tests": 115,
+    "debug": "passed",
+    "lint": "passed",
+    "manual": "DE/JA setup instruction and Listen smoke; exact profile restoration",
+    "regressionFix": "recording language resolves stable piece type rather than translated UI name",
+    "remaining": [
+      "castling and save-error copy",
+      "other report candidates",
+      "full per-locale visual coverage"
+    ]
+  }
+}

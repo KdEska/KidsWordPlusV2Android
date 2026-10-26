@@ -1,0 +1,5170 @@
+{
+  "literalPairs": 798,
+  "pairsWithFallback": 316,
+  "dynamicPairsNeedingReview": 20,
+  "limitations": [
+    "literal pair heuristic",
+    "includes unused/debug code",
+    "does not scan every nested conditional or generated string"
+  ],
+  "missing": [
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 46,
+      "english": "The bottom-right square is light. Each queen starts on her own colour: White on d1, Black on d8.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 52,
+      "english": "The board is ready! Every piece is in the right place.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 58,
+      "english": "The White king is under attack: check!",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 62,
+      "english": "Listen to the movement rule",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 85,
+      "english": "Choose a piece first.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 86,
+      "english": "Correct! You found the piece attacking the king.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 86,
+      "english": "Correct! The White king is safe now.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 87,
+      "english": "Try again: check the requested piece and square.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 90,
+      "english": "The goal has not been saved yet.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 91,
+      "english": "Retry saving",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 94,
+      "english": "Hide hint",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 94,
+      "english": "Show target",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 97,
+      "english": "Well done! You completed all 10 goals.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 98,
+      "english": "Completed · 10 goals",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 100,
+      "english": "Start a new round",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 101,
+      "english": "Restart setup",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 103,
+      "english": "Restart board setup?",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 104,
+      "english": "The placed pieces will be cleared and setup will start from the first piece.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 105,
+      "english": "Restart",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 117,
+      "english": "Tap the Black piece attacking the White king.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAppearance.kt",
+      "line": 66,
+      "english": "3D, Character pieces",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAppearance.kt",
+      "line": 66,
+      "english": "2D, Classic pieces",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessCustomScreen.kt",
+      "line": 36,
+      "english": "The draft could not be read; the existing record is preserved.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessCustomScreen.kt",
+      "line": 68,
+      "english": "Castling rights",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessCustomScreen.kt",
+      "line": 69,
+      "english": "Castling applies only to kings and rooks on their home squares. There is no en passant right. Pawns on their starting rank may move two squares.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessCustomScreen.kt",
+      "line": 75,
+      "english": "The saved match could not be read. Recover it in the parent area.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessCustomScreen.kt",
+      "line": 90,
+      "english": "This position replaces the previous saved match. The draft is kept.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 35,
+      "english": "Completed goals",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 58,
+      "english": "White ",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 58,
+      "english": "Black ",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 106,
+      "english": "White ",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 106,
+      "english": "Black ",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 106,
+      "english": "empty",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 106,
+      "english": ", legal destination",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 106,
+      "english": ", target",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 150,
+      "english": "Touch and hold a piece to drag it.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 155,
+      "english": "Choose your side",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 199,
+      "english": "Next goal",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessEndingBoard.kt",
+      "line": 63,
+      "english": "Legal escapes from check",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessEndingBoard.kt",
+      "line": 64,
+      "english": "Tap a move or a marked square to see how the king escapes.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessEndingBoard.kt",
+      "line": 74,
+      "english": "Reset position",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessHistoryPanel.kt",
+      "line": 26,
+      "english": "Moves",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessHistoryPanel.kt",
+      "line": 30,
+      "english": "No moves yet.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessIntroduction.kt",
+      "line": 29,
+      "english": "en",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessIntroduction.kt",
+      "line": 58,
+      "english": "en",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessIntroduction.kt",
+      "line": 61,
+      "english": "Meet the pieces",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 92,
+      "english": "Your turn!",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 104,
+      "english": "Free",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 113,
+      "english": "Free",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 116,
+      "english": "Next goal",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 119,
+      "english": "Listen to the goal",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 121,
+      "english": "The knight can jump over the pieces in its way.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 136,
+      "english": "Select the White piece first.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 138,
+      "english": "You reached the goal!",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 139,
+      "english": "This is a movement lesson; turns do not alternate. Castling and en passant are not part of this lesson.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 142,
+      "english": "The goal has not been saved yet.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 143,
+      "english": "Retry saving",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 145,
+      "english": "Hide hint",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 145,
+      "english": "Show target",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 147,
+      "english": "Well done! You completed all 10 goals.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 148,
+      "english": "Completed · 10 goals",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 150,
+      "english": "Start a new round",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 155,
+      "english": "The king moves one square in any direction. In a match it cannot move into check.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 156,
+      "english": "The queen moves along ranks, files and diagonals. It cannot jump over pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 157,
+      "english": "The rook moves along ranks and files. It cannot jump over pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 158,
+      "english": "The bishop moves diagonally and stays on the same square colour. It cannot jump over pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 159,
+      "english": "The knight moves two squares one way and one sideways, making an L. It can jump over pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 160,
+      "english": "A White pawn moves one square forward, or two from its starting rank if clear. It captures one square diagonally forward and cannot move backwards.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 205,
+      "english": "Select the White piece first.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 206,
+      "english": "Try again. Follow the piece's movement rule.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 208,
+      "english": "Select the piece to see where it can move.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 210,
+      "english": "Listen to the movement rule",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 100,
+      "english": "Short example line",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 113,
+      "english": "Select the next piece, then tap its destination.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 114,
+      "english": "Opening progress could not be read; the existing record has been preserved.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 130,
+      "english": "Try again. Find the move shown in this lesson.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 133,
+      "english": "Example line complete!",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 134,
+      "english": "Practise again",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 134,
+      "english": "Practise from the start",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 139,
+      "english": "Hide hint",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 144,
+      "english": "Next move",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 148,
+      "english": "Your practice progress is saved.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 191,
+      "english": "White ",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 191,
+      "english": "Black ",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLesson.kt",
+      "line": 191,
+      "english": ", empty",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLibrary.kt",
+      "line": 53,
+      "english": "Control the centre",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessOpeningLibrary.kt",
+      "line": 53,
+      "english": "Check for threats",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessPuzzlesScreen.kt",
+      "line": 56,
+      "english": "Well done! You completed all 10 goals.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessPuzzlesScreen.kt",
+      "line": 68,
+      "english": "Completed · 10",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessPuzzlesScreen.kt",
+      "line": 91,
+      "english": "Completed · 10",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessPuzzlesScreen.kt",
+      "line": 103,
+      "english": "The goal has not been saved yet.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessPuzzlesScreen.kt",
+      "line": 104,
+      "english": "Retry saving",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessPuzzlesScreen.kt",
+      "line": 111,
+      "english": "Check",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 139,
+      "english": "The saved game could not be read and has been preserved. A parent can back it up and start a new record in the parent area.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 142,
+      "english": "Computer",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 142,
+      "english": "Two players",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 149,
+      "english": "Start new game",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 156,
+      "english": "moves",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 157,
+      "english": "Two-player game",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 160,
+      "english": "Time expired! Black wins.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 160,
+      "english": "Time expired! White wins.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 165,
+      "english": "You and the computer",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 165,
+      "english": "Two-player game",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 165,
+      "english": "Play together",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 178,
+      "english": "The clock runs only with this board open and the app in front; it pauses in menus and the background.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 242,
+      "english": "This will replace the game in progress.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 274,
+      "english": "Checkmate! White wins.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 275,
+      "english": "Checkmate! Black wins.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 276,
+      "english": "Stalemate: draw.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 277,
+      "english": "Threefold repetition: draw.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 278,
+      "english": "Fifty-move rule: draw.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 279,
+      "english": "Insufficient material: draw.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 286,
+      "english": "Untimed",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 286,
+      "english": "min",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 312,
+      "english": "Chooses randomly among legal moves.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 313,
+      "english": "Evaluates captures, risks and the centre.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessScreen.kt",
+      "line": 314,
+      "english": "Also considers the opponent's possible reply. No measured Elo rating.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessStatisticsPanel.kt",
+      "line": 18,
+      "english": "Computer games played: ",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyScreens.kt",
+      "line": 49,
+      "english": "Your companions",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyScreens.kt",
+      "line": 104,
+      "english": "Alternative verification",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyScreens.kt",
+      "line": 108,
+      "english": "Verify",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShare.kt",
+      "line": 32,
+      "english": "Share with your family",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShare.kt",
+      "line": 60,
+      "english": "Family sharing",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShare.kt",
+      "line": 64,
+      "english": "Adult verification",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShare.kt",
+      "line": 65,
+      "english": "Ask a parent to help you share.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShare.kt",
+      "line": 70,
+      "english": "Share card preview",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShare.kt",
+      "line": 72,
+      "english": "The card contains only the achievement and activity images. No child's name or profile information is included.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShare.kt",
+      "line": 74,
+      "english": "The card could not be prepared. Close and try again.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyShareCard.kt",
+      "line": 36,
+      "english": "Learn together, grow together.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/MainActivity.kt",
+      "line": 312,
+      "english": "Image is loading or unavailable.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/MainActivity.kt",
+      "line": 329,
+      "english": "Name (optional)",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/MainActivity.kt",
+      "line": 338,
+      "english": "Save and continue",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/MainActivity.kt",
+      "line": 386,
+      "english": "Use local packages",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 53,
+      "english": "How to use",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 54,
+      "english": "Close help",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 61,
+      "english": "Let’s go through it step by step.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 79,
+      "english": "Got it",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 88,
+      "english": "Help for this page",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 104,
+      "english": "Example: find two matching cards.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 122,
+      "english": "This is how a button moves while sound plays.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelp.kt",
+      "line": 145,
+      "english": "Example: select the piece, then tap the target square.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 9,
+      "english": "If you are new to chess",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 9,
+      "english": "Try Meet the Pieces and Set Up the Board first. Find the rules and history of chess in General Information.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 9,
+      "english": "Learn with challenges",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 9,
+      "english": "Practise in Practise, Protect Your King, Checkmate and Stalemate, and Mate in One.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 9,
+      "english": "Time to play",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 9,
+      "english": "Discover the first moves with Learn openings. Play the Computer or prepare a special position in Create Your Game.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 10,
+      "english": "Explore the topics",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 10,
+      "english": "Read about the rules, the aim of the game and the history of chess.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 10,
+      "english": "Learn by listening too",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 10,
+      "english": "You can play explanations that have a Listen button.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 10,
+      "english": "Meet the masters",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 10,
+      "english": "Look at pictures of chess masters and read their short biographies.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 11,
+      "english": "Choose a chess piece",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 11,
+      "english": "Tap the card for a chess piece you are curious about.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 11,
+      "english": "Choose the appearance",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 11,
+      "english": "2D and 3D change how the chess pieces look; the movement rules stay the same.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 11,
+      "english": "Learn its moves",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 11,
+      "english": "On the chess piece's page, listen to its name, look at the movement example and open practice.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 12,
+      "english": "How does this chess piece move?",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 12,
+      "english": "Listen to its name and explanation",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 12,
+      "english": "Use the buttons with a sound-wave icon.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 12,
+      "english": "Look at the board example",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 12,
+      "english": "Look at the demonstrated chess moves together with the explanation.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 12,
+      "english": "This button opens practice so you can try moving the chess piece yourself.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 13,
+      "english": "Read or listen to the instruction",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 13,
+      "english": "The screen tells you which chess piece to put on which square.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 13,
+      "english": "Place the chess piece",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 13,
+      "english": "Choose the chess piece and tap the right square, or drag it onto that square.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 13,
+      "english": "Complete both sides",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 13,
+      "english": "Black chess pieces appear automatically after you finish the white ones. Restart resets the setup.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 14,
+      "english": "Choose your mode",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 14,
+      "english": "In free practice, choose a chess piece; in task mode, follow the on-screen instruction.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 14,
+      "english": "Find the destination square",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 14,
+      "english": "Tap a square the chess piece can move to, or drag where placement is supported. Follow the feedback.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 14,
+      "english": "Complete ten tasks",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 14,
+      "english": "Tasks appear randomly. Finish a round, then practise again with new tasks.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 15,
+      "english": "Is your king in danger?",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 15,
+      "english": "Look at the attack on the chessboard, then read or listen to the instruction.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 15,
+      "english": "Find a safe chess move",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 15,
+      "english": "Tap the chess piece you want to move, then its destination square. Do not leave your king in check.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 15,
+      "english": "Finish ten tasks",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 15,
+      "english": "After the right chess move, go to the next task. A new round brings different tasks.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 16,
+      "english": "Examine the chess position",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 16,
+      "english": "Is the king in check? Is there any legal move to escape?",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 16,
+      "english": "Choose the right result",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 16,
+      "english": "Checkmate: the king is in check with no legal escape. Stalemate: the king is not in check, but there is no legal move. Check: the king is threatened, but a legal escape exists.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 16,
+      "english": "Try the escape moves",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 16,
+      "english": "When the escape list appears, tap a move to see where the piece goes. Complete ten tasks.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 17,
+      "english": "Look at the opponent's king",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 17,
+      "english": "Think about which chess move would stop every escape.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 17,
+      "english": "Make your one chess move",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 17,
+      "english": "Choose the chess piece, then tap its destination. The aim is checkmate in one move.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 17,
+      "english": "You can try again",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 17,
+      "english": "Read the feedback. After the right answer, continue to the next task; a round has ten tasks.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "Watch whose turn it is",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "The turn indicator is above the chessboard. On your turn, tap your chess piece, then its destination square.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "Use the helpful buttons",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "Hint suggests a chess move. Undo takes back your last turn. In move history, you can inspect the chess pieces and squares.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "Choose your settings",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "Use the narration option on the board and choose the clock on the new game screen. If the clock is on, move before your time runs out.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "Your game is saved",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 18,
+      "english": "The game saves automatically. A warning appears before a new game starts. The clock and computer moves wait while this help is open.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Choose the color to arrange",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Choose white or black, select a chess piece and tap a square. You can also drag chess pieces into place.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Arrange automatically or randomly",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Automatic arrangement places the starting army. Random arrangement places 1–16 chess pieces of the selected color, including one king, and keeps the opponent's pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Edit the chess position",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Eraser removes a chess piece, Undo reverses your last edit, and Clear board removes all chess pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Start when you are ready",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 19,
+      "english": "Choose your color, the side to move first and the difficulty. Each side needs one king. If the position is not ready, follow the explanation below; otherwise tap Start game.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 20,
+      "english": "Discover the principles",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 20,
+      "english": "Tap cards about opening principles, such as controlling the center and developing your chess pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 20,
+      "english": "Choose an opening",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 20,
+      "english": "Open the Italian Game, Spanish Opening or another opening you are curious about.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 20,
+      "english": "Listen at the bottom of the page plays the explanations.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 21,
+      "english": "Learn an opening step by step",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 21,
+      "english": "Watch first",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 21,
+      "english": "In watch mode, advance through the chess moves in order. Notice where each chess piece moves and the idea behind the move.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 21,
+      "english": "Then try it yourself",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 21,
+      "english": "In practice mode, make the next chess move shown in the sequence. Hint helps you find the expected move.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 21,
+      "english": "Repeat and listen",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 21,
+      "english": "Use back or restart to practise again. Listen is at the bottom. Other legal opening moves are possible besides this example.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 22,
+      "english": "Prepare a new game",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 22,
+      "english": "Choose your side",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 22,
+      "english": "Choose to play with white or black chess pieces.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 22,
+      "english": "Choose the difficulty",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 22,
+      "english": "Pick the level card that suits you.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 22,
+      "english": "Check before starting",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 22,
+      "english": "New game asks for confirmation. If you confirm, the current game's move history is deleted. In a custom game, your prepared starting position is reused.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 23,
+      "english": "Choose a world",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 23,
+      "english": "Tap animals, food or another category you are curious about.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 23,
+      "english": "Find your topic",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 23,
+      "english": "Choose a topic on the next screen, then choose a lesson.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 23,
+      "english": "See your progress",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 23,
+      "english": "The counters on the cards show how many words you have studied in that category.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 24,
+      "english": "Choose a topic",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 24,
+      "english": "Tap a topic you are curious about",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 24,
+      "english": "Each card shows the number of lessons and words studied.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 24,
+      "english": "Open your lesson",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 24,
+      "english": "The lessons for your chosen topic appear on the next screen.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 24,
+      "english": "You can go back",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 24,
+      "english": "Use the back button at the top left to choose another category.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 25,
+      "english": "Choose a lesson",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 25,
+      "english": "Pick a lesson",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 25,
+      "english": "Tap a lesson card to start learning its words.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 25,
+      "english": "Continue where you left off",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 25,
+      "english": "The words you study and your lesson progress are saved.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 25,
+      "english": "Learn in small steps",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 25,
+      "english": "When you finish a lesson, you can try the other lessons in the same topic.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 26,
+      "english": "Learn the word",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 26,
+      "english": "Look at the picture and word",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 26,
+      "english": "Look at the picture together with the written word.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 26,
+      "english": "Tap Listen",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 26,
+      "english": "Listen to the word.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 26,
+      "english": "Keep going",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 26,
+      "english": "Tap Continue to go to the next word. Use Previous to go back.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 27,
+      "english": "Choose your game",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 27,
+      "english": "Pick a game",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 27,
+      "english": "Practise what you have learned with Listen and Choose, Match Pairs or Memory Cards.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 27,
+      "english": "Check your tasks",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 27,
+      "english": "Today's tasks shows your daily goals, and Scoreboard shows the points you have earned.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 28,
+      "english": "Listen to the sound first",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 28,
+      "english": "Tap Listen and pay attention to the word you hear.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 28,
+      "english": "Choose the right picture",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 28,
+      "english": "Tap the picture that matches the word. If it is wrong, you can try another picture.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 28,
+      "english": "Use Continue to move on",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 28,
+      "english": "After finding the right answer, go to the next question. In review, you practise words that need more work.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 29,
+      "english": "Listen to the sound first",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 29,
+      "english": "Tap Listen and pay attention to the word you hear.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 29,
+      "english": "Choose the right picture",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 29,
+      "english": "Tap the picture that matches the word. If it is wrong, you can try another picture.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 29,
+      "english": "Use Continue to move on",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 29,
+      "english": "After finding the right answer, go to the next question. In review, you practise words that need more work.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 30,
+      "english": "Match the sounds",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 30,
+      "english": "Start the game",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 30,
+      "english": "Choose how many words to use, then tap Start game.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 30,
+      "english": "Choose a sound first",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 30,
+      "english": "Tap a sound button and listen to the word.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 30,
+      "english": "Then find its picture",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 30,
+      "english": "Tap the picture that matches the word. Correct pairs connect; complete all the pairs.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 31,
+      "english": "Choose your level",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 31,
+      "english": "Choose how many pairs of cards to play with, then start the game.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 31,
+      "english": "Turn over two cards",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 31,
+      "english": "Tap the cards one at a time. Remember the pictures you reveal; you can also hear each card's word.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 31,
+      "english": "Find matching pictures",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 31,
+      "english": "Matching cards stay face up. Two cards that do not match close after about one second. Find every pair!",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 32,
+      "english": "Check your goals",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 32,
+      "english": "See your progress in learning new words, reviewing words and completing games here.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 32,
+      "english": "This button takes you to learning so you can work towards your goals.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 32,
+      "english": "Earn your daily reward",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 32,
+      "english": "Complete all three tasks to earn the daily reward. Goals reset each day.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 33,
+      "english": "See your points",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 33,
+      "english": "Check the points and achievements you have earned in games here.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 33,
+      "english": "Keep practising",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 33,
+      "english": "Complete more games to make progress. Focus on your own improvement!",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 33,
+      "english": "The back button at the top left takes you to game selection.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 34,
+      "english": "Choose the app language",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 34,
+      "english": "Choose one of the supported languages for the app menus.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 34,
+      "english": "Choose your learning language",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 34,
+      "english": "Choose the language you want to study. If needed, download its pack from Language packs.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 35,
+      "english": "Find your language",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 35,
+      "english": "Choose the pack for the language you want to study from the list.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 35,
+      "english": "Download the pack",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 35,
+      "english": "Install the pack with its download or install button. Wait for it to finish; downloading may need an internet connection.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 35,
+      "english": "Back to learning",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/PageHelpCatalog.kt",
+      "line": 35,
+      "english": "When the pack is ready, choose your learning language and open lessons and games.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentPrivacyScreen.kt",
+      "line": 26,
+      "english": "Your child's name, selected companion, profile photo, learning progress and preferences are stored on this device.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentPrivacyScreen.kt",
+      "line": 29,
+      "english": "Only the photo you select from the gallery is read. You can also choose to use the camera. A small copy is stored in the app's private storage on this device; your original gallery photo is not changed.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentPrivacyScreen.kt",
+      "line": 32,
+      "english": "Installed language packs work offline. An internet connection is used to download or update the package catalog and the packs you select. Removing a language pack does not delete learning progress.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentPrivacyScreen.kt",
+      "line": 35,
+      "english": "Family sharing",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentPrivacyScreen.kt",
+      "line": 35,
+      "english": "Achievement cards are prepared only when you open sharing. Use Share in the preview to send the card to the Android share menu and choose an app. Your child's name and profile photo are not included in the cards. Prepared cards are stored in the app's temporary cache.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentPrivacyScreen.kt",
+      "line": 38,
+      "english": "Firebase crash reporting, push notifications and usage analytics are not enabled in this Android version.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentPrivacyScreen.kt",
+      "line": 41,
+      "english": "To delete local data, clear the app's storage in Android settings or uninstall the app. This removes the profile photo, downloaded packs and learning progress stored on this device.",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ProfileDesign.kt",
+      "line": 122,
+      "english": "Available",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ProfileDesign.kt",
+      "line": 122,
+      "english": "Locked",
+      "missingLanguages": [
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "ja",
+        "ko",
+        "it",
+        "pt",
+        "hi"
+      ]
+    }
+  ],
+  "dynamic": [
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 118,
+      "english": "Move the White king from $from to the safe square $target."
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 119,
+      "english": "Use the White bishop on $from to capture the attacking piece on $target."
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessAcademyScreen.kt",
+      "line": 120,
+      "english": "Move the White rook from $from to $target to block the attack."
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessDesign.kt",
+      "line": 197,
+      "english": "Task ${round.index+1} / ${round.ids.size}"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 114,
+      "english": "Task ${round.index+1} / ${ChessLessonRound.COUNT}"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 122,
+      "english": "Use the White ${pieceTitle(task.kind,tr)} to capture the Black piece on ${squareName(task.target)}."
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 123,
+      "english": "Move the White ${pieceTitle(task.kind,tr)} to ${squareName(task.target)}."
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessLessonsScreen.kt",
+      "line": 137,
+      "english": "Try again. The goal is ${squareName(task.target)}; follow the piece's movement rule."
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessPuzzlesScreen.kt",
+      "line": 61,
+      "english": "Task ${round.index+1} / 10"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ChessStatisticsPanel.kt",
+      "line": 28,
+      "english": "Player color is unavailable for $legacy older games."
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/FamilyScreens.kt",
+      "line": 106,
+      "english": "Enter the answer: $a + $b"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/GameDesign.kt",
+      "line": 64,
+      "english": "Study $missing more distinct words"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/GameDesign.kt",
+      "line": 115,
+      "english": "Picture ${index+1}"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/GameDesign.kt",
+      "line": 141,
+      "english": "Hidden card ${index+1}"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/GameDesign.kt",
+      "line": 173,
+      "english": "Sound ${index+1}"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/GameDesign.kt",
+      "line": 176,
+      "english": "Picture ${index+1}"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/GameDesign.kt",
+      "line": 276,
+      "english": "Study ${day.target} new words"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/IosDesign.kt",
+      "line": 269,
+      "english": "Setup step ${step+1} / 6"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/LessonCompletionScreen.kt",
+      "line": 78,
+      "english": "+$earned stars!"
+    },
+    {
+      "file": "app/src/main/java/com/demarpsoftware/kidswordplus/ParentDesign.kt",
+      "line": 66,
+      "english": "Parent tab: $title"
+    }
+  ]
+}

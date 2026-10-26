@@ -1,0 +1,1351 @@
+{
+  "voice_id": "GgmlugwQ4LYXBbEXENWm",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "a1。",
+      "normalized": "a1",
+      "file": "audio/f55ff16f66f43360266b95db.mp3"
+    },
+    {
+      "text": "a1走到",
+      "normalized": "a1走到",
+      "file": "audio/8001eca42a335ac6c979f523.mp3"
+    },
+    {
+      "text": "a2。",
+      "normalized": "a2",
+      "file": "audio/2c3a4249d77070058649dbd8.mp3"
+    },
+    {
+      "text": "a2走到",
+      "normalized": "a2走到",
+      "file": "audio/6392c383894e79bf3df3d372.mp3"
+    },
+    {
+      "text": "a3。",
+      "normalized": "a3",
+      "file": "audio/f46dd28a5499d8efef0b8fb8.mp3"
+    },
+    {
+      "text": "a3走到",
+      "normalized": "a3走到",
+      "file": "audio/041a05ad718380f65b2a23eb.mp3"
+    },
+    {
+      "text": "a4。",
+      "normalized": "a4",
+      "file": "audio/4539e4b4889079c2a00afeae.mp3"
+    },
+    {
+      "text": "a4走到",
+      "normalized": "a4走到",
+      "file": "audio/982d22fd2da5b0895b12be30.mp3"
+    },
+    {
+      "text": "a5。",
+      "normalized": "a5",
+      "file": "audio/66220e71591b2d933c0e935c.mp3"
+    },
+    {
+      "text": "a5走到",
+      "normalized": "a5走到",
+      "file": "audio/26cf28dff5f9a8ca42bed54b.mp3"
+    },
+    {
+      "text": "a6。",
+      "normalized": "a6",
+      "file": "audio/730bea4ff16f200fb931b06c.mp3"
+    },
+    {
+      "text": "a6走到",
+      "normalized": "a6走到",
+      "file": "audio/03f12298c83ed9343347d0cd.mp3"
+    },
+    {
+      "text": "a7。",
+      "normalized": "a7",
+      "file": "audio/20377cec9f51f6bf5ba1fa64.mp3"
+    },
+    {
+      "text": "a7走到",
+      "normalized": "a7走到",
+      "file": "audio/917e0fc936205e9f07b10cbd.mp3"
+    },
+    {
+      "text": "a8。",
+      "normalized": "a8",
+      "file": "audio/ce609b5bf3b974a84907e237.mp3"
+    },
+    {
+      "text": "a8走到",
+      "normalized": "a8走到",
+      "file": "audio/2f0c5a35a4c0d62efe5bf492.mp3"
+    },
+    {
+      "text": "b1。",
+      "normalized": "b1",
+      "file": "audio/7dc96f776c8423e57a278548.mp3"
+    },
+    {
+      "text": "b1走到",
+      "normalized": "b1走到",
+      "file": "audio/80d71e5d26f3c9f7672a03a5.mp3"
+    },
+    {
+      "text": "b2。",
+      "normalized": "b2",
+      "file": "audio/4814d92093ac8a0f4a2163ab.mp3"
+    },
+    {
+      "text": "b2走到",
+      "normalized": "b2走到",
+      "file": "audio/f10f41969ad8608f2e71a69b.mp3"
+    },
+    {
+      "text": "b3。",
+      "normalized": "b3",
+      "file": "audio/76a8277347f52530e1cf9791.mp3"
+    },
+    {
+      "text": "b3走到",
+      "normalized": "b3走到",
+      "file": "audio/59d38dc5f659d5d3c6c0fe46.mp3"
+    },
+    {
+      "text": "b4。",
+      "normalized": "b4",
+      "file": "audio/486bacc5c2d8a71a73d51bf8.mp3"
+    },
+    {
+      "text": "b4走到",
+      "normalized": "b4走到",
+      "file": "audio/f4219e4d5cabfda25adb90d5.mp3"
+    },
+    {
+      "text": "b5。",
+      "normalized": "b5",
+      "file": "audio/3c5661974942379614b943d0.mp3"
+    },
+    {
+      "text": "b5走到",
+      "normalized": "b5走到",
+      "file": "audio/f9f6aa9b8b63a4f1d66dc467.mp3"
+    },
+    {
+      "text": "b6。",
+      "normalized": "b6",
+      "file": "audio/2f5da6e9921baa794759ee9f.mp3"
+    },
+    {
+      "text": "b6走到",
+      "normalized": "b6走到",
+      "file": "audio/207230ee991bc0eea21aa444.mp3"
+    },
+    {
+      "text": "b7。",
+      "normalized": "b7",
+      "file": "audio/e1b0acf86b9621b8c13ca17b.mp3"
+    },
+    {
+      "text": "b7走到",
+      "normalized": "b7走到",
+      "file": "audio/a2a8d737521050d2abf76d56.mp3"
+    },
+    {
+      "text": "b8。",
+      "normalized": "b8",
+      "file": "audio/92ee93de02ea87db530298f4.mp3"
+    },
+    {
+      "text": "b8走到",
+      "normalized": "b8走到",
+      "file": "audio/e7072395364c2bc1ed5f73f5.mp3"
+    },
+    {
+      "text": "c1。",
+      "normalized": "c1",
+      "file": "audio/d0f631ca1ddba8db3bcfcb9e.mp3"
+    },
+    {
+      "text": "c1走到",
+      "normalized": "c1走到",
+      "file": "audio/5dc1efee23690904d141dab7.mp3"
+    },
+    {
+      "text": "c2。",
+      "normalized": "c2",
+      "file": "audio/9c0abe51c6e6655d81de2d04.mp3"
+    },
+    {
+      "text": "c2走到",
+      "normalized": "c2走到",
+      "file": "audio/5a22cb0cd1ceba7cbc9d8679.mp3"
+    },
+    {
+      "text": "c3。",
+      "normalized": "c3",
+      "file": "audio/7c1c97df17c066924822b0af.mp3"
+    },
+    {
+      "text": "c3走到",
+      "normalized": "c3走到",
+      "file": "audio/4347429904844dc4d55dbae7.mp3"
+    },
+    {
+      "text": "c4。",
+      "normalized": "c4",
+      "file": "audio/0012a3fa000c5dc26ee658c3.mp3"
+    },
+    {
+      "text": "c4走到",
+      "normalized": "c4走到",
+      "file": "audio/84b89566148b8aeba4972097.mp3"
+    },
+    {
+      "text": "c5。",
+      "normalized": "c5",
+      "file": "audio/d0bf3e6ee1d668de18c9ca20.mp3"
+    },
+    {
+      "text": "c5走到",
+      "normalized": "c5走到",
+      "file": "audio/5794782cb89ddde674fd6d47.mp3"
+    },
+    {
+      "text": "c6。",
+      "normalized": "c6",
+      "file": "audio/6db53c9d5a2ca72a85ddf3a6.mp3"
+    },
+    {
+      "text": "c6走到",
+      "normalized": "c6走到",
+      "file": "audio/31e27b65f7fc5d62678ba1b2.mp3"
+    },
+    {
+      "text": "c7。",
+      "normalized": "c7",
+      "file": "audio/f28d5b0d6f8be0da8446dabe.mp3"
+    },
+    {
+      "text": "c7走到",
+      "normalized": "c7走到",
+      "file": "audio/ae87875ce1aff29a0c670716.mp3"
+    },
+    {
+      "text": "c8。",
+      "normalized": "c8",
+      "file": "audio/7ed6a8377b92b49472195f12.mp3"
+    },
+    {
+      "text": "c8走到",
+      "normalized": "c8走到",
+      "file": "audio/5373adbd84ba98d50ad2608f.mp3"
+    },
+    {
+      "text": "d1。",
+      "normalized": "d1",
+      "file": "audio/8b53639f152c8fc6ef30802f.mp3"
+    },
+    {
+      "text": "d1走到",
+      "normalized": "d1走到",
+      "file": "audio/1ed937d24ddfb554e5c106f9.mp3"
+    },
+    {
+      "text": "d2。",
+      "normalized": "d2",
+      "file": "audio/e788103ee15318fcd2af9b73.mp3"
+    },
+    {
+      "text": "d2走到",
+      "normalized": "d2走到",
+      "file": "audio/5b9a68307fd2e69c116dd681.mp3"
+    },
+    {
+      "text": "d3。",
+      "normalized": "d3",
+      "file": "audio/f451a61749c611ba0fa0e16c.mp3"
+    },
+    {
+      "text": "d3走到",
+      "normalized": "d3走到",
+      "file": "audio/543feafdfb280566e8787cbf.mp3"
+    },
+    {
+      "text": "d4。",
+      "normalized": "d4",
+      "file": "audio/af327a6478537246e0d9f0c5.mp3"
+    },
+    {
+      "text": "d4走到",
+      "normalized": "d4走到",
+      "file": "audio/0c328819c092d6f2b2b59f4a.mp3"
+    },
+    {
+      "text": "d5。",
+      "normalized": "d5",
+      "file": "audio/25f682044b5badaff8b296bf.mp3"
+    },
+    {
+      "text": "d5走到",
+      "normalized": "d5走到",
+      "file": "audio/ae7654cf2c25a5e925c6e9d2.mp3"
+    },
+    {
+      "text": "d6。",
+      "normalized": "d6",
+      "file": "audio/79b98f273c175489f40b682a.mp3"
+    },
+    {
+      "text": "d6走到",
+      "normalized": "d6走到",
+      "file": "audio/6aa758ebea9037aa377fd381.mp3"
+    },
+    {
+      "text": "d7。",
+      "normalized": "d7",
+      "file": "audio/82396aa34d3d216d4a545cf6.mp3"
+    },
+    {
+      "text": "d7走到",
+      "normalized": "d7走到",
+      "file": "audio/962e545b46f3ad017edcb6b5.mp3"
+    },
+    {
+      "text": "d8。",
+      "normalized": "d8",
+      "file": "audio/56f8921507e0f67c48d43947.mp3"
+    },
+    {
+      "text": "d8走到",
+      "normalized": "d8走到",
+      "file": "audio/aa4ed3fcafb23ae0ba127501.mp3"
+    },
+    {
+      "text": "e1。",
+      "normalized": "e1",
+      "file": "audio/8b5cc4df7eec7d32a7814eca.mp3"
+    },
+    {
+      "text": "e1走到",
+      "normalized": "e1走到",
+      "file": "audio/f2676fd8fb514e3c29e429ec.mp3"
+    },
+    {
+      "text": "e2。",
+      "normalized": "e2",
+      "file": "audio/ac0f09c0f8bf5e7a4b063d86.mp3"
+    },
+    {
+      "text": "e2走到",
+      "normalized": "e2走到",
+      "file": "audio/9534ee3140c3040ab84dedf4.mp3"
+    },
+    {
+      "text": "e3。",
+      "normalized": "e3",
+      "file": "audio/cef7fc13a38180936ffa2635.mp3"
+    },
+    {
+      "text": "e3走到",
+      "normalized": "e3走到",
+      "file": "audio/14b4d9d848fb20f82ca30554.mp3"
+    },
+    {
+      "text": "e4。",
+      "normalized": "e4",
+      "file": "audio/449777124b1466a8ed667d0d.mp3"
+    },
+    {
+      "text": "e4走到",
+      "normalized": "e4走到",
+      "file": "audio/3053f9f681c5535a277dc882.mp3"
+    },
+    {
+      "text": "e5。",
+      "normalized": "e5",
+      "file": "audio/43700797e2f9d4ad38ccf135.mp3"
+    },
+    {
+      "text": "e5走到",
+      "normalized": "e5走到",
+      "file": "audio/32ded2a0dbddd14faf91f44d.mp3"
+    },
+    {
+      "text": "e6。",
+      "normalized": "e6",
+      "file": "audio/f33422b95e3b98310adedc93.mp3"
+    },
+    {
+      "text": "e6走到",
+      "normalized": "e6走到",
+      "file": "audio/5b6fe9671d2f81697fe0eb1a.mp3"
+    },
+    {
+      "text": "e7。",
+      "normalized": "e7",
+      "file": "audio/f3e2e400523c506868ca413b.mp3"
+    },
+    {
+      "text": "e7走到",
+      "normalized": "e7走到",
+      "file": "audio/da264978e0deb77df40ad3aa.mp3"
+    },
+    {
+      "text": "e8。",
+      "normalized": "e8",
+      "file": "audio/c33352e36a529830a19080a8.mp3"
+    },
+    {
+      "text": "e8走到",
+      "normalized": "e8走到",
+      "file": "audio/6f6ed0dd6756c3898876e241.mp3"
+    },
+    {
+      "text": "f1。",
+      "normalized": "f1",
+      "file": "audio/3f524cdc07a11d7c6220bdb0.mp3"
+    },
+    {
+      "text": "f1走到",
+      "normalized": "f1走到",
+      "file": "audio/b37a4865d38eb356f7ea5d07.mp3"
+    },
+    {
+      "text": "f2。",
+      "normalized": "f2",
+      "file": "audio/e4ab4e3b1493d5a997b4e51c.mp3"
+    },
+    {
+      "text": "f2走到",
+      "normalized": "f2走到",
+      "file": "audio/1a7e5d46ae57111fe657543a.mp3"
+    },
+    {
+      "text": "f3。",
+      "normalized": "f3",
+      "file": "audio/625e0f649de27800fc3bcf4c.mp3"
+    },
+    {
+      "text": "f3走到",
+      "normalized": "f3走到",
+      "file": "audio/615b246d3693bcf70c29d16b.mp3"
+    },
+    {
+      "text": "f4。",
+      "normalized": "f4",
+      "file": "audio/608cdb524384f5ee06edc283.mp3"
+    },
+    {
+      "text": "f4走到",
+      "normalized": "f4走到",
+      "file": "audio/8ad3d1c75160bde39125e095.mp3"
+    },
+    {
+      "text": "f5。",
+      "normalized": "f5",
+      "file": "audio/b6e1288527a6032c0f29c9da.mp3"
+    },
+    {
+      "text": "f5走到",
+      "normalized": "f5走到",
+      "file": "audio/0a21d35b8e71cc7a5cfd5d71.mp3"
+    },
+    {
+      "text": "f6。",
+      "normalized": "f6",
+      "file": "audio/3efda6ee78c31bab6995b112.mp3"
+    },
+    {
+      "text": "f6走到",
+      "normalized": "f6走到",
+      "file": "audio/0d920cdc0389e7a4f00a8c0e.mp3"
+    },
+    {
+      "text": "f7。",
+      "normalized": "f7",
+      "file": "audio/9327ca99aaea2b8f025e61e5.mp3"
+    },
+    {
+      "text": "f7走到",
+      "normalized": "f7走到",
+      "file": "audio/1e6d15ac51ff48ef274500db.mp3"
+    },
+    {
+      "text": "f8。",
+      "normalized": "f8",
+      "file": "audio/0c079a153e26951fcda0fa12.mp3"
+    },
+    {
+      "text": "f8走到",
+      "normalized": "f8走到",
+      "file": "audio/99ff4667882ed9df57d2fc28.mp3"
+    },
+    {
+      "text": "g1。",
+      "normalized": "g1",
+      "file": "audio/711430f6164e93803d93428b.mp3"
+    },
+    {
+      "text": "g1走到",
+      "normalized": "g1走到",
+      "file": "audio/1f71b10c081f5db4069867fe.mp3"
+    },
+    {
+      "text": "g2。",
+      "normalized": "g2",
+      "file": "audio/4d2f4b668cfc48e6059d36e9.mp3"
+    },
+    {
+      "text": "g2走到",
+      "normalized": "g2走到",
+      "file": "audio/e46078f18722124189d0e0d7.mp3"
+    },
+    {
+      "text": "g3。",
+      "normalized": "g3",
+      "file": "audio/3921871aa0881e3e94830142.mp3"
+    },
+    {
+      "text": "g3走到",
+      "normalized": "g3走到",
+      "file": "audio/0f7da64abd4dbf655fbdcc58.mp3"
+    },
+    {
+      "text": "g4。",
+      "normalized": "g4",
+      "file": "audio/c874bc29e99f2e67290d6cdb.mp3"
+    },
+    {
+      "text": "g4走到",
+      "normalized": "g4走到",
+      "file": "audio/e4ea83b3b6fedc16e6c31207.mp3"
+    },
+    {
+      "text": "g5。",
+      "normalized": "g5",
+      "file": "audio/239261316e505a034abae9a2.mp3"
+    },
+    {
+      "text": "g5走到",
+      "normalized": "g5走到",
+      "file": "audio/6b040b9c725e55f18dc47964.mp3"
+    },
+    {
+      "text": "g6。",
+      "normalized": "g6",
+      "file": "audio/044e727fa3783fcfe21d54fe.mp3"
+    },
+    {
+      "text": "g6走到",
+      "normalized": "g6走到",
+      "file": "audio/ac5d1c1b19f717c192853c18.mp3"
+    },
+    {
+      "text": "g7。",
+      "normalized": "g7",
+      "file": "audio/7935bb0b6876b05d24574bd9.mp3"
+    },
+    {
+      "text": "g7走到",
+      "normalized": "g7走到",
+      "file": "audio/1e02015f47f91806890bd459.mp3"
+    },
+    {
+      "text": "g8。",
+      "normalized": "g8",
+      "file": "audio/0fcd4ac08fa092197d9a11df.mp3"
+    },
+    {
+      "text": "g8走到",
+      "normalized": "g8走到",
+      "file": "audio/c0eb5b288709f428891440ab.mp3"
+    },
+    {
+      "text": "h1。",
+      "normalized": "h1",
+      "file": "audio/33112ee14ee469c3eb52fe90.mp3"
+    },
+    {
+      "text": "h1走到",
+      "normalized": "h1走到",
+      "file": "audio/f135943f10083c1861370278.mp3"
+    },
+    {
+      "text": "h2。",
+      "normalized": "h2",
+      "file": "audio/f998fe06afa0cfbe73e0449d.mp3"
+    },
+    {
+      "text": "h2走到",
+      "normalized": "h2走到",
+      "file": "audio/4dc6eb8eb35b182faef9b98b.mp3"
+    },
+    {
+      "text": "h3。",
+      "normalized": "h3",
+      "file": "audio/97fb5f8538b89f6c1accfd19.mp3"
+    },
+    {
+      "text": "h3走到",
+      "normalized": "h3走到",
+      "file": "audio/8bb694dfef56594b0ba183b5.mp3"
+    },
+    {
+      "text": "h4。",
+      "normalized": "h4",
+      "file": "audio/e9590c04cea54beb769a9614.mp3"
+    },
+    {
+      "text": "h4走到",
+      "normalized": "h4走到",
+      "file": "audio/ebc71351d7504ccc499bcda0.mp3"
+    },
+    {
+      "text": "h5。",
+      "normalized": "h5",
+      "file": "audio/acea77fd89c7fb586c8c7c61.mp3"
+    },
+    {
+      "text": "h5走到",
+      "normalized": "h5走到",
+      "file": "audio/b2ef3e9d0d2650f128529521.mp3"
+    },
+    {
+      "text": "h6。",
+      "normalized": "h6",
+      "file": "audio/fa37de9da4b13b3a18882ece.mp3"
+    },
+    {
+      "text": "h6走到",
+      "normalized": "h6走到",
+      "file": "audio/9f0f681b54a4181268edc9ed.mp3"
+    },
+    {
+      "text": "h7。",
+      "normalized": "h7",
+      "file": "audio/f254a1e7d56840a4f2faa65b.mp3"
+    },
+    {
+      "text": "h7走到",
+      "normalized": "h7走到",
+      "file": "audio/08eba4123f906c949962edb8.mp3"
+    },
+    {
+      "text": "h8。",
+      "normalized": "h8",
+      "file": "audio/9f095ecf60fdfca89c7c42f4.mp3"
+    },
+    {
+      "text": "h8走到",
+      "normalized": "h8走到",
+      "file": "audio/3376b22c185175800dec8972.mp3"
+    },
+    {
+      "text": "一步将死",
+      "normalized": "一步将死",
+      "file": "audio/3f70622836b8742e83346538.mp3"
+    },
+    {
+      "text": "也可以吃掉攻击者来保护王。选择h1上的象，吃掉e4上的黑车。",
+      "normalized": "也可以吃掉攻击者来保护王 选择h1上的象 吃掉e4上的黑车",
+      "file": "audio/e289181aa36feaef23d25728.mp3"
+    },
+    {
+      "text": "你可以挡住远处的攻击。选择a2上的车，移到e2来保护王。",
+      "normalized": "你可以挡住远处的攻击 选择a2上的车 移到e2来保护王",
+      "file": "audio/80ffb27eb347a0c9af8b026b.mp3"
+    },
+    {
+      "text": "你完成了所有任务！还可以再玩一次。",
+      "normalized": "你完成了所有任务 还可以再玩一次",
+      "file": "audio/8054c8e12c39bbb4b31c251b.mp3"
+    },
+    {
+      "text": "你赢了！",
+      "normalized": "你赢了",
+      "file": "audio/169e60819154b2ca0f540611.mp3"
+    },
+    {
+      "text": "先选择你的棋子，再点击标记的格子。",
+      "normalized": "先选择你的棋子 再点击标记的格子",
+      "file": "audio/513615a64e1450b4a9e7a0dd.mp3"
+    },
+    {
+      "text": "兵",
+      "normalized": "兵",
+      "file": "audio/5b43c02074fc4f58d2dd47ab.mp3"
+    },
+    {
+      "text": "兵到达最后一横行，在本练习中升变为后。",
+      "normalized": "兵到达最后一横行 在本练习中升变为后",
+      "file": "audio/6d5d7a7395e6402621e55e3c.mp3"
+    },
+    {
+      "text": "兵升变为后。",
+      "normalized": "兵升变为后",
+      "file": "audio/7b2f8e359e533c09316b8435.mp3"
+    },
+    {
+      "text": "兵升变为象。",
+      "normalized": "兵升变为象",
+      "file": "audio/7b1cd92408508d041cb78ff0.mp3"
+    },
+    {
+      "text": "兵升变为车。",
+      "normalized": "兵升变为车",
+      "file": "audio/42d0912ba1ae9050284274c9.mp3"
+    },
+    {
+      "text": "兵升变为马。",
+      "normalized": "兵升变为马",
+      "file": "audio/bcbe03b4efabe7f7daf5ae52.mp3"
+    },
+    {
+      "text": "兵向前走一格。第一次移动时，如果前方没有棋子，可以走两格。兵斜向前一格吃子。到达最后一横行时，兵升变为后、车、象或马。",
+      "normalized": "兵向前走一格 第一次移动时 如果前方没有棋子 可以走两格 兵斜向前一格吃子 到达最后一横行时 兵升变为后 车 象或马",
+      "file": "audio/cff6ed54df6db4dcc735e873.mp3"
+    },
+    {
+      "text": "再看看：王受到攻击了吗？有合法走法吗？",
+      "normalized": "再看看 王受到攻击了吗 有合法走法吗",
+      "file": "audio/1223767452f2ecfa8904f15e.mp3"
+    },
+    {
+      "text": "再试一次。先选择棋子，再移到目标格。",
+      "normalized": "再试一次 先选择棋子 再移到目标格",
+      "file": "audio/75efb8b3ae1f76fb210d0529.mp3"
+    },
+    {
+      "text": "再试一次。看看棋子的名称，再点击标记的格子。",
+      "normalized": "再试一次 看看棋子的名称 再点击标记的格子",
+      "file": "audio/8a622d6538d42189f99638dd.mp3"
+    },
+    {
+      "text": "再试一次。看看红框里的王，听一听指令。",
+      "normalized": "再试一次 看看红框里的王 听一听指令",
+      "file": "audio/622447e621a39e75f7c7cd9c.mp3"
+    },
+    {
+      "text": "吃掉了兵。",
+      "normalized": "吃掉了兵",
+      "file": "audio/bb12e3fd61337cb2ff2e1ba8.mp3"
+    },
+    {
+      "text": "吃掉了后。",
+      "normalized": "吃掉了后",
+      "file": "audio/544a255301a78ab207c11ecf.mp3"
+    },
+    {
+      "text": "吃掉了王。",
+      "normalized": "吃掉了王",
+      "file": "audio/cc7a66ded801264750b21cdf.mp3"
+    },
+    {
+      "text": "吃掉了象。",
+      "normalized": "吃掉了象",
+      "file": "audio/1ce0a2fd0a75eeffb57c4626.mp3"
+    },
+    {
+      "text": "吃掉了车。",
+      "normalized": "吃掉了车",
+      "file": "audio/386cd4d46b7756f0fc005c5a.mp3"
+    },
+    {
+      "text": "吃掉了马。",
+      "normalized": "吃掉了马",
+      "file": "audio/0c3075e2fc41faa9c0002c3f.mp3"
+    },
+    {
+      "text": "后",
+      "normalized": "后",
+      "file": "audio/60be66d61586b95cdc627270.mp3"
+    },
+    {
+      "text": "后从与己方颜色相同的格子出发：白后在浅色格，黑后在深色格。",
+      "normalized": "后从与己方颜色相同的格子出发 白后在浅色格 黑后在深色格",
+      "file": "audio/fdb7062a35fc1a15a6e7046e.mp3"
+    },
+    {
+      "text": "后可以横着、竖着或斜着走任意格，但不能越过其他棋子。",
+      "normalized": "后可以横着 竖着或斜着走任意格 但不能越过其他棋子",
+      "file": "audio/fc7cedb025424b523eda5017.mp3"
+    },
+    {
+      "text": "和棋",
+      "normalized": "和棋",
+      "file": "audio/acbeab5f911b1f812cb734e1.mp3"
+    },
+    {
+      "text": "国际象棋棋盘有8行8列，共64格。右下角必须是浅色格。",
+      "normalized": "国际象棋棋盘有8行8列 共64格 右下角必须是浅色格",
+      "file": "audio/d064538c56b50d7b03ebdce9.mp3"
+    },
+    {
+      "text": "太棒了！你完成了任务。",
+      "normalized": "太棒了 你完成了任务",
+      "file": "audio/a71d11b8d00b6b22998548e7.mp3"
+    },
+    {
+      "text": "太棒了！棋子放对了。",
+      "normalized": "太棒了 棋子放对了",
+      "file": "audio/5b21ee213129b1f16a064a67.mp3"
+    },
+    {
+      "text": "太棒了！黑王受到攻击，而且没有合法的脱险走法。将死！",
+      "normalized": "太棒了 黑王受到攻击 而且没有合法的脱险走法 将死",
+      "file": "audio/9b1794f0058f08788d378fd6.mp3"
+    },
+    {
+      "text": "将死",
+      "normalized": "将死",
+      "file": "audio/bbbe7ccae6c710a8831ccbc6.mp3"
+    },
+    {
+      "text": "将死与逼和",
+      "normalized": "将死与逼和",
+      "file": "audio/f9a34a932919672d93e317b3.mp3"
+    },
+    {
+      "text": "我们从白方的角度看棋盘，右下角是浅色格。先摆白方棋子，再摆黑方棋子。",
+      "normalized": "我们从白方的角度看棋盘 右下角是浅色格 先摆白方棋子 再摆黑方棋子",
+      "file": "audio/ba53d890164addcb6e7f4697.mp3"
+    },
+    {
+      "text": "把兵放到a2。",
+      "normalized": "把兵放到a2",
+      "file": "audio/6f1edd5ddd9e7922e92c4faf.mp3"
+    },
+    {
+      "text": "把兵放到a7。",
+      "normalized": "把兵放到a7",
+      "file": "audio/d1eccf857b1c242a0214269b.mp3"
+    },
+    {
+      "text": "把兵放到b2。",
+      "normalized": "把兵放到b2",
+      "file": "audio/4dddb47574b16f8cf7cdeb43.mp3"
+    },
+    {
+      "text": "把兵放到b7。",
+      "normalized": "把兵放到b7",
+      "file": "audio/edd419f7c1b5973032371ccc.mp3"
+    },
+    {
+      "text": "把兵放到c2。",
+      "normalized": "把兵放到c2",
+      "file": "audio/7bc0ea560521e4eb59d91370.mp3"
+    },
+    {
+      "text": "把兵放到c7。",
+      "normalized": "把兵放到c7",
+      "file": "audio/20dd6066a8f38d3f7e42a8ca.mp3"
+    },
+    {
+      "text": "把兵放到d2。",
+      "normalized": "把兵放到d2",
+      "file": "audio/32a68a60f1f0c81117e3ff3c.mp3"
+    },
+    {
+      "text": "把兵放到d7。",
+      "normalized": "把兵放到d7",
+      "file": "audio/4d1a826176fa02c2d2d5caec.mp3"
+    },
+    {
+      "text": "把兵放到e2。",
+      "normalized": "把兵放到e2",
+      "file": "audio/c65e645e79704cd05b1bd483.mp3"
+    },
+    {
+      "text": "把兵放到e7。",
+      "normalized": "把兵放到e7",
+      "file": "audio/5dd9daaaf4a23d41fa6d936f.mp3"
+    },
+    {
+      "text": "把兵放到f2。",
+      "normalized": "把兵放到f2",
+      "file": "audio/76f733491f7713f9ead4a59f.mp3"
+    },
+    {
+      "text": "把兵放到f7。",
+      "normalized": "把兵放到f7",
+      "file": "audio/45204f73e0a0dd1e62337c90.mp3"
+    },
+    {
+      "text": "把兵放到g2。",
+      "normalized": "把兵放到g2",
+      "file": "audio/fa95cc2a05ea707bf9d26b49.mp3"
+    },
+    {
+      "text": "把兵放到g7。",
+      "normalized": "把兵放到g7",
+      "file": "audio/1e9482c61235992b8085849e.mp3"
+    },
+    {
+      "text": "把兵放到h2。",
+      "normalized": "把兵放到h2",
+      "file": "audio/4a94b435b39f1e8d5261b6f6.mp3"
+    },
+    {
+      "text": "把兵放到h7。",
+      "normalized": "把兵放到h7",
+      "file": "audio/0686bb9df88fa900d14f7f93.mp3"
+    },
+    {
+      "text": "把兵移到d4。",
+      "normalized": "把兵移到d4",
+      "file": "audio/9aa616104c5de47359b8d38f.mp3"
+    },
+    {
+      "text": "把后放到d1。",
+      "normalized": "把后放到d1",
+      "file": "audio/e246c0676374db7403baea85.mp3"
+    },
+    {
+      "text": "把后放到d8。",
+      "normalized": "把后放到d8",
+      "file": "audio/1707943de0471ebf4ec81cbe.mp3"
+    },
+    {
+      "text": "把后移到g7。",
+      "normalized": "把后移到g7",
+      "file": "audio/0209497074097520d52c33ba.mp3"
+    },
+    {
+      "text": "把王放到e1。",
+      "normalized": "把王放到e1",
+      "file": "audio/7b63b516072d5b3167ee59bc.mp3"
+    },
+    {
+      "text": "把王放到e8。",
+      "normalized": "把王放到e8",
+      "file": "audio/574e887883c550b15071c0bf.mp3"
+    },
+    {
+      "text": "把王移到e5。",
+      "normalized": "把王移到e5",
+      "file": "audio/83eba45c5cc835a9244d1b72.mp3"
+    },
+    {
+      "text": "把象放到c1。",
+      "normalized": "把象放到c1",
+      "file": "audio/21812edca093bba15a22f860.mp3"
+    },
+    {
+      "text": "把象放到c8。",
+      "normalized": "把象放到c8",
+      "file": "audio/39d89dd56708269e410200fe.mp3"
+    },
+    {
+      "text": "把象放到f1。",
+      "normalized": "把象放到f1",
+      "file": "audio/75525781bcc4bcf9337222be.mp3"
+    },
+    {
+      "text": "把象放到f8。",
+      "normalized": "把象放到f8",
+      "file": "audio/c60e0a1e6cd86e9a9b4ad824.mp3"
+    },
+    {
+      "text": "把象移到g7。",
+      "normalized": "把象移到g7",
+      "file": "audio/c72c841816e6897db38b3d11.mp3"
+    },
+    {
+      "text": "把车放到a1。",
+      "normalized": "把车放到a1",
+      "file": "audio/79c1efc3f4e933b84098b27e.mp3"
+    },
+    {
+      "text": "把车放到a8。",
+      "normalized": "把车放到a8",
+      "file": "audio/ba1904a030af1f18a0419101.mp3"
+    },
+    {
+      "text": "把车放到h1。",
+      "normalized": "把车放到h1",
+      "file": "audio/6ab09c26fa3daf1d13891c75.mp3"
+    },
+    {
+      "text": "把车放到h8。",
+      "normalized": "把车放到h8",
+      "file": "audio/29c26b7fb9d64432ef491517.mp3"
+    },
+    {
+      "text": "把车移到g4。",
+      "normalized": "把车移到g4",
+      "file": "audio/f5bccbcb8f35903ee2095ffa.mp3"
+    },
+    {
+      "text": "把马放到b1。",
+      "normalized": "把马放到b1",
+      "file": "audio/03bd313f40264b2d7d21200d.mp3"
+    },
+    {
+      "text": "把马放到b8。",
+      "normalized": "把马放到b8",
+      "file": "audio/5f14c2fab4b440cf45c5dee7.mp3"
+    },
+    {
+      "text": "把马放到g1。",
+      "normalized": "把马放到g1",
+      "file": "audio/95bbf80e5e0dbe1f851b6ca9.mp3"
+    },
+    {
+      "text": "把马放到g8。",
+      "normalized": "把马放到g8",
+      "file": "audio/eb782ca5ebee9cdcd72827b7.mp3"
+    },
+    {
+      "text": "把马移到e6。",
+      "normalized": "把马移到e6",
+      "file": "audio/909fc10a6424eb31ce383db1.mp3"
+    },
+    {
+      "text": "按住棋子并拖到标记的格子。也可以先点棋子，再点格子。",
+      "normalized": "按住棋子并拖到标记的格子 也可以先点棋子 再点格子",
+      "file": "audio/0d55074d742675a1d4df0299.mp3"
+    },
+    {
+      "text": "探索棋子的走法。这是移动练习。",
+      "normalized": "探索棋子的走法 这是移动练习",
+      "file": "audio/07032232c956b798925418f5.mp3"
+    },
+    {
+      "text": "棋盘准备好了！双方各有16个棋子，白方先走。",
+      "normalized": "棋盘准备好了 双方各有16个棋子 白方先走",
+      "file": "audio/fe08af0bbfbfd12cc6d38d38.mp3"
+    },
+    {
+      "text": "每位棋手开始时有16个棋子。白方先走，然后双方轮流走一步。",
+      "normalized": "每位棋手开始时有16个棋子 白方先走 然后双方轮流走一步",
+      "file": "audio/132d481261c5638bfedf4299.mp3"
+    },
+    {
+      "text": "王",
+      "normalized": "王",
+      "file": "audio/3399a0e651ad104cd1f53cd0.mp3"
+    },
+    {
+      "text": "王受到攻击，但有安全的走法。对局继续。",
+      "normalized": "王受到攻击 但有安全的走法 对局继续",
+      "file": "audio/9e53d9b99fa745a34fedda7e.mp3"
+    },
+    {
+      "text": "王受到攻击，而且没有合法走法。将死！对局结束。",
+      "normalized": "王受到攻击 而且没有合法走法 将死 对局结束",
+      "file": "audio/b087fe91f27c52a74926ea48.mp3"
+    },
+    {
+      "text": "王受到攻击时叫作将军。找到正在攻击白王的黑方棋子，点一点。",
+      "normalized": "王受到攻击时叫作将军 找到正在攻击白王的黑方棋子 点一点",
+      "file": "audio/e07e65dcf9488175e0adbb1c.mp3"
+    },
+    {
+      "text": "王可以向任何方向走一格，但不能走到被对方攻击的格子。",
+      "normalized": "王可以向任何方向走一格 但不能走到被对方攻击的格子",
+      "file": "audio/ca610fe57ead6a02efccdf50.mp3"
+    },
+    {
+      "text": "王没有受到攻击，但没有合法走法。逼和！对局和棋。",
+      "normalized": "王没有受到攻击 但没有合法走法 逼和 对局和棋",
+      "file": "audio/3d258f414dbca5082359dd04.mp3"
+    },
+    {
+      "text": "用兵吃掉e5上的对方棋子。",
+      "normalized": "用兵吃掉e5上的对方棋子",
+      "file": "audio/1c5eebca2ec921feba26afbf.mp3"
+    },
+    {
+      "text": "用车吃掉g4上的对方棋子。",
+      "normalized": "用车吃掉g4上的对方棋子",
+      "file": "audio/5edf4edc663425c9f87a9c3a.mp3"
+    },
+    {
+      "text": "电脑赢了",
+      "normalized": "电脑赢了",
+      "file": "audio/6d4561f81c61278e96658e9f.mp3"
+    },
+    {
+      "text": "白方",
+      "normalized": "白方",
+      "file": "audio/f66ad7e35e3be690e960fe57.mp3"
+    },
+    {
+      "text": "白方棋子",
+      "normalized": "白方棋子",
+      "file": "audio/612bb27c3f82dd62ff8f2ad4.mp3"
+    },
+    {
+      "text": "白方的兵从",
+      "normalized": "白方的兵从",
+      "file": "audio/413999adfac7173a443dd183.mp3"
+    },
+    {
+      "text": "白方的后从",
+      "normalized": "白方的后从",
+      "file": "audio/6bd00a22dc5db6f316ddd214.mp3"
+    },
+    {
+      "text": "白方的王从",
+      "normalized": "白方的王从",
+      "file": "audio/88e804cc17c3d8961137c941.mp3"
+    },
+    {
+      "text": "白方的象从",
+      "normalized": "白方的象从",
+      "file": "audio/45f3f74adf23b7bdf413468e.mp3"
+    },
+    {
+      "text": "白方的车从",
+      "normalized": "白方的车从",
+      "file": "audio/70f1a0a228d78f0fd6d5c53c.mp3"
+    },
+    {
+      "text": "白方的马从",
+      "normalized": "白方的马从",
+      "file": "audio/f8b7d20bd7bf9140314e6418.mp3"
+    },
+    {
+      "text": "目标是将死对方的王。王受到攻击时叫作将军。如果没有任何合法走法可以解除将军，就是将死。王不会被吃掉。",
+      "normalized": "目标是将死对方的王 王受到攻击时叫作将军 如果没有任何合法走法可以解除将军 就是将死 王不会被吃掉",
+      "file": "audio/0e7de0e0e60183e489aec542.mp3"
+    },
+    {
+      "text": "被将军，但可以脱险",
+      "normalized": "被将军 但可以脱险",
+      "file": "audio/05813b0dd7ce3707147fa8cf.mp3"
+    },
+    {
+      "text": "被将军时必须解除威胁。选择e1上的王，移到安全的d1格。",
+      "normalized": "被将军时必须解除威胁 选择e1上的王 移到安全的d1格",
+      "file": "audio/6dd200de4d0a0efd6ddeab0b.mp3"
+    },
+    {
+      "text": "象",
+      "normalized": "象",
+      "file": "audio/1f20d2e4d21d61a42f88971a.mp3"
+    },
+    {
+      "text": "象沿斜线走任意格。它始终停留在同一种颜色的格子上，不能越过其他棋子。",
+      "normalized": "象沿斜线走任意格 它始终停留在同一种颜色的格子上 不能越过其他棋子",
+      "file": "audio/29d778cba726a9fd3a22b879.mp3"
+    },
+    {
+      "text": "车",
+      "normalized": "车",
+      "file": "audio/b1f8107ec8163500590a42d7.mp3"
+    },
+    {
+      "text": "车可以横着或竖着走任意格，但不能越过其他棋子。",
+      "normalized": "车可以横着或竖着走任意格 但不能越过其他棋子",
+      "file": "audio/51172b37b2f3030ddde1164b.mp3"
+    },
+    {
+      "text": "轮到白方。请选择白王的状态。",
+      "normalized": "轮到白方 请选择白王的状态",
+      "file": "audio/8e39feaad7ab770f6c7f0e11.mp3"
+    },
+    {
+      "text": "轮到白方。选择白棋，用一步棋将死黑王。",
+      "normalized": "轮到白方 选择白棋 用一步棋将死黑王",
+      "file": "audio/b42a6cf7732fecbe4b8ba6cd.mp3"
+    },
+    {
+      "text": "这步棋没有将死。试试其他走法。",
+      "normalized": "这步棋没有将死 试试其他走法",
+      "file": "audio/2531951aa94de4202a4373dd.mp3"
+    },
+    {
+      "text": "逼和",
+      "normalized": "逼和",
+      "file": "audio/b63caebad653780903decaab.mp3"
+    },
+    {
+      "text": "马",
+      "normalized": "马",
+      "file": "audio/a25ee73c98d1617217882f30.mp3"
+    },
+    {
+      "text": "马先向一个方向走两格，再向侧面走一格，形成L形。马可以越过其他棋子。",
+      "normalized": "马先向一个方向走两格 再向侧面走一格 形成l形 马可以越过其他棋子",
+      "file": "audio/78709a4655c3052ff4851e52.mp3"
+    },
+    {
+      "text": "黑方",
+      "normalized": "黑方",
+      "file": "audio/972dca36f1773884bd7de868.mp3"
+    },
+    {
+      "text": "黑方棋子",
+      "normalized": "黑方棋子",
+      "file": "audio/8108d54483b06ad20d993086.mp3"
+    },
+    {
+      "text": "黑方的兵从",
+      "normalized": "黑方的兵从",
+      "file": "audio/64c8cc41436f55bbf70f98c5.mp3"
+    },
+    {
+      "text": "黑方的后从",
+      "normalized": "黑方的后从",
+      "file": "audio/5c5c68ad599c44255653d3d4.mp3"
+    },
+    {
+      "text": "黑方的王从",
+      "normalized": "黑方的王从",
+      "file": "audio/8b483bc0a148ae46f125f7ee.mp3"
+    },
+    {
+      "text": "黑方的象从",
+      "normalized": "黑方的象从",
+      "file": "audio/d577a52d81ab9fd759a4d6e8.mp3"
+    },
+    {
+      "text": "黑方的车从",
+      "normalized": "黑方的车从",
+      "file": "audio/4a3c49ea50b93b50799ae7d4.mp3"
+    },
+    {
+      "text": "黑方的马从",
+      "normalized": "黑方的马从",
+      "file": "audio/1b277bbede90e870f1c6702e.mp3"
+    },
+    {
+      "text": "开局是一盘棋的开始。先理解思路，再到棋盘上探索著名开局。",
+      "normalized": "开局是一盘棋的开始 先理解思路 再到棋盘上探索著名开局",
+      "file": "audio/2063c859c73b91f9f3fa9bfc.mp3"
+    },
+    {
+      "text": "用中心兵和棋子控制中央。四个中心格是e4、d4、e5和d5。",
+      "normalized": "用中心兵和棋子控制中央 四个中心格是e4 d4 e5和d5",
+      "file": "audio/1427fed31f7851c1d7183cf7.mp3"
+    },
+    {
+      "text": "让马和象尽快出动。通常应发展多个棋子，而不是反复移动同一个棋子。",
+      "normalized": "让马和象尽快出动 通常应发展多个棋子 而不是反复移动同一个棋子",
+      "file": "audio/c5d35d53b74ddc6334258db2.mp3"
+    },
+    {
+      "text": "在合法且安全时准备王车易位。让两车相互联系，避免王暴露在外。",
+      "normalized": "在合法且安全时准备王车易位 让两车相互联系 避免王暴露在外",
+      "file": "audio/8e9318ea1408dad700fce491.mp3"
+    },
+    {
+      "text": "每次走棋前，都要检查双方的将军、吃子和威胁。开局有名字，并不代表每一步都安全。",
+      "normalized": "每次走棋前 都要检查双方的将军 吃子和威胁 开局有名字 并不代表每一步都安全",
+      "file": "audio/8c81d31ebdd6315a959cf3ab.mp3"
+    },
+    {
+      "text": "意大利开局",
+      "normalized": "意大利开局",
+      "file": "audio/e67671858ea0792cd35766e6.mp3"
+    },
+    {
+      "text": "把马发展到f3，象发展到c4。象瞄准f7，白方同时准备王车易位。黑方可以有多种应对。",
+      "normalized": "把马发展到f3 象发展到c4 象瞄准f7 白方同时准备王车易位 黑方可以有多种应对",
+      "file": "audio/28ec94dc81dfe3b98b808a00.mp3"
+    },
+    {
+      "text": "西班牙开局（鲁伊·洛佩兹）",
+      "normalized": "西班牙开局 鲁伊 洛佩兹",
+      "file": "audio/7a69ec08bf6756366a2cec0e.mp3"
+    },
+    {
+      "text": "象走到b5，向保护e5的马施压。本例中黑方接着走a6，要求象决定下一步去哪里。",
+      "normalized": "象走到b5 向保护e5的马施压 本例中黑方接着走a6 要求象决定下一步去哪里",
+      "file": "audio/0096609313a55a7af7af3656.mp3"
+    },
+    {
+      "text": "苏格兰开局",
+      "normalized": "苏格兰开局",
+      "file": "audio/6d848331446e7c131f679418.mp3"
+    },
+    {
+      "text": "白方早早用d4争夺中心。兵交换后，马在d4吃回，并占据活跃的中心格。",
+      "normalized": "白方早早用d4争夺中心 兵交换后 马在d4吃回 并占据活跃的中心格",
+      "file": "audio/0f0aaa1bfc25586e03cbcbb5.mp3"
+    },
+    {
+      "text": "后翼弃兵",
+      "normalized": "后翼弃兵",
+      "file": "audio/dc877e7706110e0534ce031e.mp3"
+    },
+    {
+      "text": "白方献出c兵，挑战黑方的d5兵。黑方可以接受或拒绝；本例用e6拒绝，再发展棋子。",
+      "normalized": "白方献出c兵 挑战黑方的d5兵 黑方可以接受或拒绝 本例用e6拒绝 再发展棋子",
+      "file": "audio/e4701aff0070b00da7482541.mp3"
+    },
+    {
+      "text": "伦敦体系",
+      "normalized": "伦敦体系",
+      "file": "audio/1dbb06f06ea442fe6d35f5fa.mp3"
+    },
+    {
+      "text": "白方在走e3之前，先把黑格象发展到f4。建立稳固中心，但要根据黑方走法调整计划。",
+      "normalized": "白方在走e3之前 先把黑格象发展到f4 建立稳固中心 但要根据黑方走法调整计划",
+      "file": "audio/e34e8d39645406c28b7cc682.mp3"
+    },
+    {
+      "text": "西西里防御",
+      "normalized": "西西里防御",
+      "file": "audio/2cca2a583abf41ef848110e3.mp3"
+    },
+    {
+      "text": "黑方用c5应对e4，从侧翼争夺d4。本例展示开放西西里：交换兵后，白马来到d4。",
+      "normalized": "黑方用c5应对e4 从侧翼争夺d4 本例展示开放西西里 交换兵后 白马来到d4",
+      "file": "audio/a0332b484c0107071f2a5fdc.mp3"
+    },
+    {
+      "text": "法兰西防御",
+      "normalized": "法兰西防御",
+      "file": "audio/d2dfbfe4c2908917409c145e.mp3"
+    },
+    {
+      "text": "黑方用e6准备d5。在这个推进变例中，白方用e5取得空间，黑方用c5挑战中心。",
+      "normalized": "黑方用e6准备d5 在这个推进变例中 白方用e5取得空间 黑方用c5挑战中心",
+      "file": "audio/01b7dac813f869f6d43b0ff5.mp3"
+    },
+    {
+      "text": "卡罗-卡恩防御",
+      "normalized": "卡罗 卡恩防御",
+      "file": "audio/410e14dc74e69622fbdad636.mp3"
+    },
+    {
+      "text": "黑方用c6准备d5。本例中黑方在e4吃兵，白方用马吃回；双方还需要继续发展棋子。",
+      "normalized": "黑方用c6准备d5 本例中黑方在e4吃兵 白方用马吃回 双方还需要继续发展棋子",
+      "file": "audio/64804b91e241c0a7ba959da8.mp3"
+    },
+    {
+      "text": "这步兵棋争夺中心，并为棋子提供更多空间。",
+      "normalized": "这步兵棋争夺中心 并为棋子提供更多空间",
+      "file": "audio/c8db5a97eb2c3773b6fac15a.mp3"
+    },
+    {
+      "text": "一个轻子投入战斗，影响重要格子。",
+      "normalized": "一个轻子投入战斗 影响重要格子",
+      "file": "audio/9fa7d9bb2359347cf36bc7e8.mp3"
+    },
+    {
+      "text": "这步棋挑战对手的棋子，或对手对中心的控制。",
+      "normalized": "这步棋挑战对手的棋子 或对手对中心的控制",
+      "file": "audio/5385785c95f5fe1db144744d.mp3"
+    },
+    {
+      "text": "这步兵棋支撑中心结构，或为另一个中心兵的推进做准备。",
+      "normalized": "这步兵棋支撑中心结构 或为另一个中心兵的推进做准备",
+      "file": "audio/0ea691eec7aa140f185068f0.mp3"
+    },
+    {
+      "text": "一次吃子改变了中心。注意哪一个棋子或兵占据了原来的位置。",
+      "normalized": "一次吃子改变了中心 注意哪一个棋子或兵占据了原来的位置",
+      "file": "audio/4b8f1ca2b7ba99b832db6da3.mp3"
+    },
+    {
+      "text": "兵向前推进以获得空间。检查对手可以怎样攻击兵链。",
+      "normalized": "兵向前推进以获得空间 检查对手可以怎样攻击兵链",
+      "file": "audio/b9a1a548db2129a334883549.mp3"
+    }
+  ]
+}

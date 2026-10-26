@@ -1,0 +1,43 @@
+{
+  "language": "tr",
+  "wordCount": 1706,
+  "missingAudio": [
+    "audio/slide_my_school_alphabets_q_tr.mp3",
+    "audio/slide_my_school_alphabets_w_tr.mp3",
+    "audio/slide_my_school_alphabets_x_tr.mp3"
+  ],
+  "missingImages": [],
+  "missingRequiredAudio": [],
+  "inactiveConceptIds": [
+    "school:1342",
+    "school:1380",
+    "school:1382"
+  ],
+  "reviewRecords": [
+    {
+      "conceptId": "clocks:239",
+      "issues": [
+        "clock_grammar_review"
+      ]
+    },
+    {
+      "conceptId": "clocks:240",
+      "issues": [
+        "clock_grammar_review"
+      ]
+    }
+  ],
+  "sharedImageCount": 1672,
+  "localImageCount": 32,
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "21-tr-chess-37243b2d7f53",
+    "archive": "archives/tr-21-tr-chess-37243b2d7f53.zip"
+  }
+}

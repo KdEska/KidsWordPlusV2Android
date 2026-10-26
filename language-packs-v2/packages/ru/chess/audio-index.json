@@ -1,0 +1,1351 @@
+{
+  "voice_id": "AB9XsbSA4eLG12t2myjN",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "a1.",
+      "normalized": "a1",
+      "file": "audio/f55ff16f66f43360266b95db.mp3"
+    },
+    {
+      "text": "a1 на",
+      "normalized": "a1 на",
+      "file": "audio/baf01e98432b41cde9aec695.mp3"
+    },
+    {
+      "text": "a2.",
+      "normalized": "a2",
+      "file": "audio/2c3a4249d77070058649dbd8.mp3"
+    },
+    {
+      "text": "a2 на",
+      "normalized": "a2 на",
+      "file": "audio/128aa0de0d3847468e81012c.mp3"
+    },
+    {
+      "text": "a3.",
+      "normalized": "a3",
+      "file": "audio/f46dd28a5499d8efef0b8fb8.mp3"
+    },
+    {
+      "text": "a3 на",
+      "normalized": "a3 на",
+      "file": "audio/e746ef0405c5f7c75b9c9288.mp3"
+    },
+    {
+      "text": "a4.",
+      "normalized": "a4",
+      "file": "audio/4539e4b4889079c2a00afeae.mp3"
+    },
+    {
+      "text": "a4 на",
+      "normalized": "a4 на",
+      "file": "audio/1d31839c57fcacb96581dba3.mp3"
+    },
+    {
+      "text": "a5.",
+      "normalized": "a5",
+      "file": "audio/66220e71591b2d933c0e935c.mp3"
+    },
+    {
+      "text": "a5 на",
+      "normalized": "a5 на",
+      "file": "audio/371162658fbeb257f6cd4dbb.mp3"
+    },
+    {
+      "text": "a6.",
+      "normalized": "a6",
+      "file": "audio/730bea4ff16f200fb931b06c.mp3"
+    },
+    {
+      "text": "a6 на",
+      "normalized": "a6 на",
+      "file": "audio/c3f04f7c081f87b68f6588d7.mp3"
+    },
+    {
+      "text": "a7.",
+      "normalized": "a7",
+      "file": "audio/20377cec9f51f6bf5ba1fa64.mp3"
+    },
+    {
+      "text": "a7 на",
+      "normalized": "a7 на",
+      "file": "audio/fbbfcc9f6ecc39ba252db05a.mp3"
+    },
+    {
+      "text": "a8.",
+      "normalized": "a8",
+      "file": "audio/ce609b5bf3b974a84907e237.mp3"
+    },
+    {
+      "text": "a8 на",
+      "normalized": "a8 на",
+      "file": "audio/f136b125e9c54421e0accb7e.mp3"
+    },
+    {
+      "text": "b1.",
+      "normalized": "b1",
+      "file": "audio/7dc96f776c8423e57a278548.mp3"
+    },
+    {
+      "text": "b1 на",
+      "normalized": "b1 на",
+      "file": "audio/8f03dce0555a4980ac5650d9.mp3"
+    },
+    {
+      "text": "b2.",
+      "normalized": "b2",
+      "file": "audio/4814d92093ac8a0f4a2163ab.mp3"
+    },
+    {
+      "text": "b2 на",
+      "normalized": "b2 на",
+      "file": "audio/0e35aac90a2f020252b3f42e.mp3"
+    },
+    {
+      "text": "b3.",
+      "normalized": "b3",
+      "file": "audio/76a8277347f52530e1cf9791.mp3"
+    },
+    {
+      "text": "b3 на",
+      "normalized": "b3 на",
+      "file": "audio/fdde84702a82ae7443379ff5.mp3"
+    },
+    {
+      "text": "b4.",
+      "normalized": "b4",
+      "file": "audio/486bacc5c2d8a71a73d51bf8.mp3"
+    },
+    {
+      "text": "b4 на",
+      "normalized": "b4 на",
+      "file": "audio/e4ce55c568c766575671de8d.mp3"
+    },
+    {
+      "text": "b5.",
+      "normalized": "b5",
+      "file": "audio/3c5661974942379614b943d0.mp3"
+    },
+    {
+      "text": "b5 на",
+      "normalized": "b5 на",
+      "file": "audio/cc569b0dec9f1b34ee72c0e4.mp3"
+    },
+    {
+      "text": "b6.",
+      "normalized": "b6",
+      "file": "audio/2f5da6e9921baa794759ee9f.mp3"
+    },
+    {
+      "text": "b6 на",
+      "normalized": "b6 на",
+      "file": "audio/7927d2ed9c450ecbb2ecec94.mp3"
+    },
+    {
+      "text": "b7.",
+      "normalized": "b7",
+      "file": "audio/e1b0acf86b9621b8c13ca17b.mp3"
+    },
+    {
+      "text": "b7 на",
+      "normalized": "b7 на",
+      "file": "audio/891843ea2837f493c365fd4e.mp3"
+    },
+    {
+      "text": "b8.",
+      "normalized": "b8",
+      "file": "audio/92ee93de02ea87db530298f4.mp3"
+    },
+    {
+      "text": "b8 на",
+      "normalized": "b8 на",
+      "file": "audio/b41c9aa5e521b03b00d2ec85.mp3"
+    },
+    {
+      "text": "c1.",
+      "normalized": "c1",
+      "file": "audio/d0f631ca1ddba8db3bcfcb9e.mp3"
+    },
+    {
+      "text": "c1 на",
+      "normalized": "c1 на",
+      "file": "audio/9ef15889099c95bf32f723fe.mp3"
+    },
+    {
+      "text": "c2.",
+      "normalized": "c2",
+      "file": "audio/9c0abe51c6e6655d81de2d04.mp3"
+    },
+    {
+      "text": "c2 на",
+      "normalized": "c2 на",
+      "file": "audio/5f87a02ff46f4e6dd394ee15.mp3"
+    },
+    {
+      "text": "c3.",
+      "normalized": "c3",
+      "file": "audio/7c1c97df17c066924822b0af.mp3"
+    },
+    {
+      "text": "c3 на",
+      "normalized": "c3 на",
+      "file": "audio/6efc3e2123b2de81f56e089c.mp3"
+    },
+    {
+      "text": "c4.",
+      "normalized": "c4",
+      "file": "audio/0012a3fa000c5dc26ee658c3.mp3"
+    },
+    {
+      "text": "c4 на",
+      "normalized": "c4 на",
+      "file": "audio/a716cef8caf68ecda1be39c2.mp3"
+    },
+    {
+      "text": "c5.",
+      "normalized": "c5",
+      "file": "audio/d0bf3e6ee1d668de18c9ca20.mp3"
+    },
+    {
+      "text": "c5 на",
+      "normalized": "c5 на",
+      "file": "audio/5740c5c019cdb8a364e152a0.mp3"
+    },
+    {
+      "text": "c6.",
+      "normalized": "c6",
+      "file": "audio/6db53c9d5a2ca72a85ddf3a6.mp3"
+    },
+    {
+      "text": "c6 на",
+      "normalized": "c6 на",
+      "file": "audio/0870dfb61bb8ca03682129fc.mp3"
+    },
+    {
+      "text": "c7.",
+      "normalized": "c7",
+      "file": "audio/f28d5b0d6f8be0da8446dabe.mp3"
+    },
+    {
+      "text": "c7 на",
+      "normalized": "c7 на",
+      "file": "audio/8b88f4a15a0bce465f6e1496.mp3"
+    },
+    {
+      "text": "c8.",
+      "normalized": "c8",
+      "file": "audio/7ed6a8377b92b49472195f12.mp3"
+    },
+    {
+      "text": "c8 на",
+      "normalized": "c8 на",
+      "file": "audio/762fd143d2af40a8a5933f9f.mp3"
+    },
+    {
+      "text": "d1.",
+      "normalized": "d1",
+      "file": "audio/8b53639f152c8fc6ef30802f.mp3"
+    },
+    {
+      "text": "d1 на",
+      "normalized": "d1 на",
+      "file": "audio/8d0515e844674f98203dfc8c.mp3"
+    },
+    {
+      "text": "d2.",
+      "normalized": "d2",
+      "file": "audio/e788103ee15318fcd2af9b73.mp3"
+    },
+    {
+      "text": "d2 на",
+      "normalized": "d2 на",
+      "file": "audio/43df59c369041044a29affca.mp3"
+    },
+    {
+      "text": "d3.",
+      "normalized": "d3",
+      "file": "audio/f451a61749c611ba0fa0e16c.mp3"
+    },
+    {
+      "text": "d3 на",
+      "normalized": "d3 на",
+      "file": "audio/6b2c92fe92d10899c6884398.mp3"
+    },
+    {
+      "text": "d4.",
+      "normalized": "d4",
+      "file": "audio/af327a6478537246e0d9f0c5.mp3"
+    },
+    {
+      "text": "d4 на",
+      "normalized": "d4 на",
+      "file": "audio/fe08ef1dcd5e41d02aeddf07.mp3"
+    },
+    {
+      "text": "d5.",
+      "normalized": "d5",
+      "file": "audio/25f682044b5badaff8b296bf.mp3"
+    },
+    {
+      "text": "d5 на",
+      "normalized": "d5 на",
+      "file": "audio/00fb75ed04c22ef65648d25a.mp3"
+    },
+    {
+      "text": "d6.",
+      "normalized": "d6",
+      "file": "audio/79b98f273c175489f40b682a.mp3"
+    },
+    {
+      "text": "d6 на",
+      "normalized": "d6 на",
+      "file": "audio/33d108b8b4fd7284fc189b81.mp3"
+    },
+    {
+      "text": "d7.",
+      "normalized": "d7",
+      "file": "audio/82396aa34d3d216d4a545cf6.mp3"
+    },
+    {
+      "text": "d7 на",
+      "normalized": "d7 на",
+      "file": "audio/1271309482324508edfc98c3.mp3"
+    },
+    {
+      "text": "d8.",
+      "normalized": "d8",
+      "file": "audio/56f8921507e0f67c48d43947.mp3"
+    },
+    {
+      "text": "d8 на",
+      "normalized": "d8 на",
+      "file": "audio/894f2b521c64dc17bb385da2.mp3"
+    },
+    {
+      "text": "e1.",
+      "normalized": "e1",
+      "file": "audio/8b5cc4df7eec7d32a7814eca.mp3"
+    },
+    {
+      "text": "e1 на",
+      "normalized": "e1 на",
+      "file": "audio/b16dfb280e3c6e2227ab8513.mp3"
+    },
+    {
+      "text": "e2.",
+      "normalized": "e2",
+      "file": "audio/ac0f09c0f8bf5e7a4b063d86.mp3"
+    },
+    {
+      "text": "e2 на",
+      "normalized": "e2 на",
+      "file": "audio/92e1ecc27f4fea9df1a8aa7f.mp3"
+    },
+    {
+      "text": "e3.",
+      "normalized": "e3",
+      "file": "audio/cef7fc13a38180936ffa2635.mp3"
+    },
+    {
+      "text": "e3 на",
+      "normalized": "e3 на",
+      "file": "audio/5e639ebb249668f4a2bfac85.mp3"
+    },
+    {
+      "text": "e4.",
+      "normalized": "e4",
+      "file": "audio/449777124b1466a8ed667d0d.mp3"
+    },
+    {
+      "text": "e4 на",
+      "normalized": "e4 на",
+      "file": "audio/3912ac08b861c9879fd9ec0a.mp3"
+    },
+    {
+      "text": "e5.",
+      "normalized": "e5",
+      "file": "audio/43700797e2f9d4ad38ccf135.mp3"
+    },
+    {
+      "text": "e5 на",
+      "normalized": "e5 на",
+      "file": "audio/c1764c5e10ee6fe5460eb928.mp3"
+    },
+    {
+      "text": "e6.",
+      "normalized": "e6",
+      "file": "audio/f33422b95e3b98310adedc93.mp3"
+    },
+    {
+      "text": "e6 на",
+      "normalized": "e6 на",
+      "file": "audio/9a1158465d7cb3380d2ef23d.mp3"
+    },
+    {
+      "text": "e7.",
+      "normalized": "e7",
+      "file": "audio/f3e2e400523c506868ca413b.mp3"
+    },
+    {
+      "text": "e7 на",
+      "normalized": "e7 на",
+      "file": "audio/de281b1b9a7621e85bc05703.mp3"
+    },
+    {
+      "text": "e8.",
+      "normalized": "e8",
+      "file": "audio/c33352e36a529830a19080a8.mp3"
+    },
+    {
+      "text": "e8 на",
+      "normalized": "e8 на",
+      "file": "audio/96479851d9401540c5ac2319.mp3"
+    },
+    {
+      "text": "f1.",
+      "normalized": "f1",
+      "file": "audio/3f524cdc07a11d7c6220bdb0.mp3"
+    },
+    {
+      "text": "f1 на",
+      "normalized": "f1 на",
+      "file": "audio/cd5b8a3d035629fea1665507.mp3"
+    },
+    {
+      "text": "f2.",
+      "normalized": "f2",
+      "file": "audio/e4ab4e3b1493d5a997b4e51c.mp3"
+    },
+    {
+      "text": "f2 на",
+      "normalized": "f2 на",
+      "file": "audio/0d1a0abaefc861cf50a5c35b.mp3"
+    },
+    {
+      "text": "f3.",
+      "normalized": "f3",
+      "file": "audio/625e0f649de27800fc3bcf4c.mp3"
+    },
+    {
+      "text": "f3 на",
+      "normalized": "f3 на",
+      "file": "audio/f56d3e183ab9f520fd03513e.mp3"
+    },
+    {
+      "text": "f4.",
+      "normalized": "f4",
+      "file": "audio/608cdb524384f5ee06edc283.mp3"
+    },
+    {
+      "text": "f4 на",
+      "normalized": "f4 на",
+      "file": "audio/05d78f7088496d880b933f9a.mp3"
+    },
+    {
+      "text": "f5.",
+      "normalized": "f5",
+      "file": "audio/b6e1288527a6032c0f29c9da.mp3"
+    },
+    {
+      "text": "f5 на",
+      "normalized": "f5 на",
+      "file": "audio/43740ee4f7e51071332531fe.mp3"
+    },
+    {
+      "text": "f6.",
+      "normalized": "f6",
+      "file": "audio/3efda6ee78c31bab6995b112.mp3"
+    },
+    {
+      "text": "f6 на",
+      "normalized": "f6 на",
+      "file": "audio/af725b852781a18e428434e4.mp3"
+    },
+    {
+      "text": "f7.",
+      "normalized": "f7",
+      "file": "audio/9327ca99aaea2b8f025e61e5.mp3"
+    },
+    {
+      "text": "f7 на",
+      "normalized": "f7 на",
+      "file": "audio/e3c4c5b3677f0c6163495889.mp3"
+    },
+    {
+      "text": "f8.",
+      "normalized": "f8",
+      "file": "audio/0c079a153e26951fcda0fa12.mp3"
+    },
+    {
+      "text": "f8 на",
+      "normalized": "f8 на",
+      "file": "audio/1eef1dcd4a5c9655e68ac28b.mp3"
+    },
+    {
+      "text": "g1.",
+      "normalized": "g1",
+      "file": "audio/711430f6164e93803d93428b.mp3"
+    },
+    {
+      "text": "g1 на",
+      "normalized": "g1 на",
+      "file": "audio/9b49f246f8a1b957a72f85fa.mp3"
+    },
+    {
+      "text": "g2.",
+      "normalized": "g2",
+      "file": "audio/4d2f4b668cfc48e6059d36e9.mp3"
+    },
+    {
+      "text": "g2 на",
+      "normalized": "g2 на",
+      "file": "audio/d2fb9bc9d3511c628f08c550.mp3"
+    },
+    {
+      "text": "g3.",
+      "normalized": "g3",
+      "file": "audio/3921871aa0881e3e94830142.mp3"
+    },
+    {
+      "text": "g3 на",
+      "normalized": "g3 на",
+      "file": "audio/de88433f09439bd53cc110e0.mp3"
+    },
+    {
+      "text": "g4.",
+      "normalized": "g4",
+      "file": "audio/c874bc29e99f2e67290d6cdb.mp3"
+    },
+    {
+      "text": "g4 на",
+      "normalized": "g4 на",
+      "file": "audio/cad62f7a69c9b6f5fcf7cb48.mp3"
+    },
+    {
+      "text": "g5.",
+      "normalized": "g5",
+      "file": "audio/239261316e505a034abae9a2.mp3"
+    },
+    {
+      "text": "g5 на",
+      "normalized": "g5 на",
+      "file": "audio/77a682b2b375940a05d6929b.mp3"
+    },
+    {
+      "text": "g6.",
+      "normalized": "g6",
+      "file": "audio/044e727fa3783fcfe21d54fe.mp3"
+    },
+    {
+      "text": "g6 на",
+      "normalized": "g6 на",
+      "file": "audio/aadf074c1d664379b8b33dc6.mp3"
+    },
+    {
+      "text": "g7.",
+      "normalized": "g7",
+      "file": "audio/7935bb0b6876b05d24574bd9.mp3"
+    },
+    {
+      "text": "g7 на",
+      "normalized": "g7 на",
+      "file": "audio/dc4b52bf88e5898fdb393521.mp3"
+    },
+    {
+      "text": "g8.",
+      "normalized": "g8",
+      "file": "audio/0fcd4ac08fa092197d9a11df.mp3"
+    },
+    {
+      "text": "g8 на",
+      "normalized": "g8 на",
+      "file": "audio/48283b5e2b02589a38230892.mp3"
+    },
+    {
+      "text": "h1.",
+      "normalized": "h1",
+      "file": "audio/33112ee14ee469c3eb52fe90.mp3"
+    },
+    {
+      "text": "h1 на",
+      "normalized": "h1 на",
+      "file": "audio/12b30a99ec935dbb55d459bb.mp3"
+    },
+    {
+      "text": "h2.",
+      "normalized": "h2",
+      "file": "audio/f998fe06afa0cfbe73e0449d.mp3"
+    },
+    {
+      "text": "h2 на",
+      "normalized": "h2 на",
+      "file": "audio/b576cee78a9597f43474e00c.mp3"
+    },
+    {
+      "text": "h3.",
+      "normalized": "h3",
+      "file": "audio/97fb5f8538b89f6c1accfd19.mp3"
+    },
+    {
+      "text": "h3 на",
+      "normalized": "h3 на",
+      "file": "audio/e36ae1439dcab03f68865b18.mp3"
+    },
+    {
+      "text": "h4.",
+      "normalized": "h4",
+      "file": "audio/e9590c04cea54beb769a9614.mp3"
+    },
+    {
+      "text": "h4 на",
+      "normalized": "h4 на",
+      "file": "audio/39f1b8a3a55a833b94303d87.mp3"
+    },
+    {
+      "text": "h5.",
+      "normalized": "h5",
+      "file": "audio/acea77fd89c7fb586c8c7c61.mp3"
+    },
+    {
+      "text": "h5 на",
+      "normalized": "h5 на",
+      "file": "audio/202fcae063eda990458f798b.mp3"
+    },
+    {
+      "text": "h6.",
+      "normalized": "h6",
+      "file": "audio/fa37de9da4b13b3a18882ece.mp3"
+    },
+    {
+      "text": "h6 на",
+      "normalized": "h6 на",
+      "file": "audio/0e38019f2aac2d969a1f1b07.mp3"
+    },
+    {
+      "text": "h7.",
+      "normalized": "h7",
+      "file": "audio/f254a1e7d56840a4f2faa65b.mp3"
+    },
+    {
+      "text": "h7 на",
+      "normalized": "h7 на",
+      "file": "audio/a2ff3a658715f156b902429c.mp3"
+    },
+    {
+      "text": "h8.",
+      "normalized": "h8",
+      "file": "audio/9f095ecf60fdfca89c7c42f4.mp3"
+    },
+    {
+      "text": "h8 на",
+      "normalized": "h8 на",
+      "file": "audio/304a6e2ca3e8ea9d4f00f56a.mp3"
+    },
+    {
+      "text": "Белые",
+      "normalized": "белые",
+      "file": "audio/6fd88aef38539f834e0fab49.mp3"
+    },
+    {
+      "text": "Белые фигуры",
+      "normalized": "белые фигуры",
+      "file": "audio/5024e3540e78f7610de5176d.mp3"
+    },
+    {
+      "text": "Белые: ход фигурой Конь с",
+      "normalized": "белые ход фигурой конь с",
+      "file": "audio/771e485299b85499a1dce111.mp3"
+    },
+    {
+      "text": "Белые: ход фигурой Король с",
+      "normalized": "белые ход фигурой король с",
+      "file": "audio/3621ff78c995701d7d20c2e2.mp3"
+    },
+    {
+      "text": "Белые: ход фигурой Ладья с",
+      "normalized": "белые ход фигурой ладья с",
+      "file": "audio/8bd6fa97756a0d550a987c63.mp3"
+    },
+    {
+      "text": "Белые: ход фигурой Пешка с",
+      "normalized": "белые ход фигурой пешка с",
+      "file": "audio/b9b61bcb147810dab000e379.mp3"
+    },
+    {
+      "text": "Белые: ход фигурой Слон с",
+      "normalized": "белые ход фигурой слон с",
+      "file": "audio/6ea26e5383aecd3b3deb284d.mp3"
+    },
+    {
+      "text": "Белые: ход фигурой Ферзь с",
+      "normalized": "белые ход фигурой ферзь с",
+      "file": "audio/2109fcb6ea84638761a9ed72.mp3"
+    },
+    {
+      "text": "Взята фигура: Конь.",
+      "normalized": "взята фигура конь",
+      "file": "audio/a84df0b3486047900c40e860.mp3"
+    },
+    {
+      "text": "Взята фигура: Король.",
+      "normalized": "взята фигура король",
+      "file": "audio/832b71d3d42a644497ccd22a.mp3"
+    },
+    {
+      "text": "Взята фигура: Ладья.",
+      "normalized": "взята фигура ладья",
+      "file": "audio/4fa150771a76e10b2cee4183.mp3"
+    },
+    {
+      "text": "Взята фигура: Пешка.",
+      "normalized": "взята фигура пешка",
+      "file": "audio/e45e954773c904370375e68b.mp3"
+    },
+    {
+      "text": "Взята фигура: Слон.",
+      "normalized": "взята фигура слон",
+      "file": "audio/a5e33ebaae884c897b2f5b0e.mp3"
+    },
+    {
+      "text": "Взята фигура: Ферзь.",
+      "normalized": "взята фигура ферзь",
+      "file": "audio/0345fe3f9f54758cb1a643c8.mp3"
+    },
+    {
+      "text": "Возьми фигуру соперника на e5 этой фигурой: Пешка.",
+      "normalized": "возьми фигуру соперника на e5 этой фигурой пешка",
+      "file": "audio/dd898d156c206348002d1fa2.mp3"
+    },
+    {
+      "text": "Возьми фигуру соперника на g4 этой фигурой: Ладья.",
+      "normalized": "возьми фигуру соперника на g4 этой фигурой ладья",
+      "file": "audio/a601b8bebbe8a443398da050.mp3"
+    },
+    {
+      "text": "Все задания выполнены! Можно сыграть ещё раз.",
+      "normalized": "все задания выполнены можно сыграть ещё раз",
+      "file": "audio/2659f255d5fab3c70f9293cf.mp3"
+    },
+    {
+      "text": "Выбери свою фигуру, затем нажми на отмеченную клетку.",
+      "normalized": "выбери свою фигуру затем нажми на отмеченную клетку",
+      "file": "audio/54310d9f1f458aa5df1f2906.mp3"
+    },
+    {
+      "text": "Доска готова! У каждой стороны 16 фигур. Белые ходят первыми.",
+      "normalized": "доска готова у каждой стороны 16 фигур белые ходят первыми",
+      "file": "audio/b1ed66661b7579ce1a285a74.mp3"
+    },
+    {
+      "text": "Изучи ходы своей фигуры. Это упражнение на движение.",
+      "normalized": "изучи ходы своей фигуры это упражнение на движение",
+      "file": "audio/591339f8d4cf1cf8e6bde3ea.mp3"
+    },
+    {
+      "text": "Каждый игрок начинает с 16 фигурами. Белые ходят первыми. Затем игроки делают по одному ходу по очереди.",
+      "normalized": "каждый игрок начинает с 16 фигурами белые ходят первыми затем игроки делают по одному ходу по очереди",
+      "file": "audio/f4b6916e380cd74a4562e7ab.mp3"
+    },
+    {
+      "text": "Когда король под ударом, это шах. Найди чёрную фигуру, которая атакует белого короля, и нажми на неё.",
+      "normalized": "когда король под ударом это шах найди чёрную фигуру которая атакует белого короля и нажми на неё",
+      "file": "audio/66afbc9f9a5261bd916bec23.mp3"
+    },
+    {
+      "text": "Компьютер выиграл",
+      "normalized": "компьютер выиграл",
+      "file": "audio/a219473737c9078996b64494.mp3"
+    },
+    {
+      "text": "Конь",
+      "normalized": "конь",
+      "file": "audio/de191f102168f598f6ceebe6.mp3"
+    },
+    {
+      "text": "Конь ходит на две клетки в одном направлении и на одну в сторону, буквой Г. Он может перепрыгивать через фигуры.",
+      "normalized": "конь ходит на две клетки в одном направлении и на одну в сторону буквой г он может перепрыгивать через фигуры",
+      "file": "audio/6ef428eacc59dd7ef321e0fd.mp3"
+    },
+    {
+      "text": "Король",
+      "normalized": "король",
+      "file": "audio/898362d73eeca6cf0f0c35fe.mp3"
+    },
+    {
+      "text": "Король не под атакой, но допустимых ходов нет. Пат! Ничья.",
+      "normalized": "король не под атакой но допустимых ходов нет пат ничья",
+      "file": "audio/811b772db390139a097f35c5.mp3"
+    },
+    {
+      "text": "Король под атакой, и допустимых ходов нет. Мат! Игра окончена.",
+      "normalized": "король под атакой и допустимых ходов нет мат игра окончена",
+      "file": "audio/a11a10f23fbc65dfa5cdc6ee.mp3"
+    },
+    {
+      "text": "Король под атакой, но есть безопасный ход. Игра продолжается.",
+      "normalized": "король под атакой но есть безопасный ход игра продолжается",
+      "file": "audio/ccfe5a1e9c60d8ff46854fab.mp3"
+    },
+    {
+      "text": "Король ходит на одну клетку в любом направлении. Он не может идти на клетку под ударом.",
+      "normalized": "король ходит на одну клетку в любом направлении он не может идти на клетку под ударом",
+      "file": "audio/e1fdf5806c2a3402c8fab112.mp3"
+    },
+    {
+      "text": "Ладья",
+      "normalized": "ладья",
+      "file": "audio/0a5fe904add93a2f2e726099.mp3"
+    },
+    {
+      "text": "Ладья ходит на любое расстояние по горизонтали или вертикали. Она не перепрыгивает через фигуры.",
+      "normalized": "ладья ходит на любое расстояние по горизонтали или вертикали она не перепрыгивает через фигуры",
+      "file": "audio/9aa10af3247e440b64d7f8ae.mp3"
+    },
+    {
+      "text": "Мат",
+      "normalized": "мат",
+      "file": "audio/251f07be8c4eeba1e3c5e6c2.mp3"
+    },
+    {
+      "text": "Мат в один ход",
+      "normalized": "мат в один ход",
+      "file": "audio/df7801e565b4002d0f735603.mp3"
+    },
+    {
+      "text": "Мат и пат",
+      "normalized": "мат и пат",
+      "file": "audio/486c6b3921615dbb3630b951.mp3"
+    },
+    {
+      "text": "Можно защитить короля, взяв атакующую фигуру. Выбери слона на h1 и возьми чёрную ладью на e4.",
+      "normalized": "можно защитить короля взяв атакующую фигуру выбери слона на h1 и возьми чёрную ладью на e4",
+      "file": "audio/12831ba16816c2b2a7c2d5f1.mp3"
+    },
+    {
+      "text": "Можно перекрыть дальнюю атаку. Выбери ладью на a2 и переведи её на e2, чтобы защитить короля.",
+      "normalized": "можно перекрыть дальнюю атаку выбери ладью на a2 и переведи её на e2 чтобы защитить короля",
+      "file": "audio/1a55be6555c167cdd4f62dac.mp3"
+    },
+    {
+      "text": "Мы смотрим на доску со стороны белых. Справа внизу светлая клетка. Расставь сначала белые, затем чёрные фигуры.",
+      "normalized": "мы смотрим на доску со стороны белых справа внизу светлая клетка расставь сначала белые затем чёрные фигуры",
+      "file": "audio/d3a2a4d35c99c6c07a3c33d4.mp3"
+    },
+    {
+      "text": "На шахматной доске 8 рядов и 8 столбцов: всего 64 клетки. Справа внизу должна быть светлая клетка.",
+      "normalized": "на шахматной доске 8 рядов и 8 столбцов всего 64 клетки справа внизу должна быть светлая клетка",
+      "file": "audio/df1a979439ebf7fa66d7b5f5.mp3"
+    },
+    {
+      "text": "Ничья",
+      "normalized": "ничья",
+      "file": "audio/fa2af3e4b0d31b740ce6843a.mp3"
+    },
+    {
+      "text": "Отлично! Задание выполнено.",
+      "normalized": "отлично задание выполнено",
+      "file": "audio/069c94a4e4e6d2db02099fa0.mp3"
+    },
+    {
+      "text": "Отлично! Фигура на правильном месте.",
+      "normalized": "отлично фигура на правильном месте",
+      "file": "audio/2863588ea62f413aa7c53ed6.mp3"
+    },
+    {
+      "text": "Отлично! Чёрный король под атакой, и законного спасения нет. Мат!",
+      "normalized": "отлично чёрный король под атакой и законного спасения нет мат",
+      "file": "audio/e186099ce7adcdf6b7b4e370.mp3"
+    },
+    {
+      "text": "Пат",
+      "normalized": "пат",
+      "file": "audio/de4fb1527170d800dc2b548a.mp3"
+    },
+    {
+      "text": "Передвинь эту фигуру на d4: Пешка.",
+      "normalized": "передвинь эту фигуру на d4 пешка",
+      "file": "audio/b113c390e730b767d84f0731.mp3"
+    },
+    {
+      "text": "Передвинь эту фигуру на e5: Король.",
+      "normalized": "передвинь эту фигуру на e5 король",
+      "file": "audio/9dd48fc9dd81569433ea1748.mp3"
+    },
+    {
+      "text": "Передвинь эту фигуру на e6: Конь.",
+      "normalized": "передвинь эту фигуру на e6 конь",
+      "file": "audio/ae6627608090b6f0c683934d.mp3"
+    },
+    {
+      "text": "Передвинь эту фигуру на g4: Ладья.",
+      "normalized": "передвинь эту фигуру на g4 ладья",
+      "file": "audio/60aae6c5363c2a0d4af5845f.mp3"
+    },
+    {
+      "text": "Передвинь эту фигуру на g7: Слон.",
+      "normalized": "передвинь эту фигуру на g7 слон",
+      "file": "audio/e9abe1edbda8a8126a239920.mp3"
+    },
+    {
+      "text": "Передвинь эту фигуру на g7: Ферзь.",
+      "normalized": "передвинь эту фигуру на g7 ферзь",
+      "file": "audio/cabf3b4431efcd4387f783f7.mp3"
+    },
+    {
+      "text": "Пешка",
+      "normalized": "пешка",
+      "file": "audio/5a45be37eefae23b430d47d7.mp3"
+    },
+    {
+      "text": "Пешка дошла до последней горизонтали и в этом упражнении стала ферзём.",
+      "normalized": "пешка дошла до последней горизонтали и в этом упражнении стала ферзём",
+      "file": "audio/1182dd1eb6a46fb6d07cc1d2.mp3"
+    },
+    {
+      "text": "Пешка идёт на одну клетку вперёд. Первым ходом она может пойти на две, если путь свободен. Она бьёт на одну клетку по диагонали вперёд. На последней горизонтали она превращается в ферзя, ладью, слона или коня.",
+      "normalized": "пешка идёт на одну клетку вперёд первым ходом она может пойти на две если путь свободен она бьёт на одну клетку по диагонали вперёд на последней горизонтали она превращается в ферзя ладью слона или коня",
+      "file": "audio/999de4d528b20ea8bca2827e.mp3"
+    },
+    {
+      "text": "Пешка превратилась в фигуру: Конь.",
+      "normalized": "пешка превратилась в фигуру конь",
+      "file": "audio/d24523045091fc520606c9c7.mp3"
+    },
+    {
+      "text": "Пешка превратилась в фигуру: Ладья.",
+      "normalized": "пешка превратилась в фигуру ладья",
+      "file": "audio/f7f6d9bfc5ee4bb3c7dd8eee.mp3"
+    },
+    {
+      "text": "Пешка превратилась в фигуру: Слон.",
+      "normalized": "пешка превратилась в фигуру слон",
+      "file": "audio/3c6966ad84409079b75c1532.mp3"
+    },
+    {
+      "text": "Пешка превратилась в фигуру: Ферзь.",
+      "normalized": "пешка превратилась в фигуру ферзь",
+      "file": "audio/6eca91ef02f32897ddaef56b.mp3"
+    },
+    {
+      "text": "Попробуем ещё раз. Выбери свою фигуру и перейди на нужную клетку.",
+      "normalized": "попробуем ещё раз выбери свою фигуру и перейди на нужную клетку",
+      "file": "audio/65ab2ba44691790ea035671a.mp3"
+    },
+    {
+      "text": "Попробуем ещё раз. Посмотри на короля в красной рамке и послушай задание.",
+      "normalized": "попробуем ещё раз посмотри на короля в красной рамке и послушай задание",
+      "file": "audio/a4c19b30ff46e3453970716b.mp3"
+    },
+    {
+      "text": "Попробуй ещё раз. Проверь название фигуры и нажми на отмеченную клетку.",
+      "normalized": "попробуй ещё раз проверь название фигуры и нажми на отмеченную клетку",
+      "file": "audio/4f9dfcf764da425b1b2e1bd7.mp3"
+    },
+    {
+      "text": "Посмотри ещё раз: Король под атакой? Есть допустимый ход?",
+      "normalized": "посмотри ещё раз король под атакой есть допустимый ход",
+      "file": "audio/31a75bfa150d6a030facae50.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на a1: Ладья.",
+      "normalized": "поставь эту фигуру на a1 ладья",
+      "file": "audio/c0d1edfbbc85f70b7a29d70e.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на a2: Пешка.",
+      "normalized": "поставь эту фигуру на a2 пешка",
+      "file": "audio/d7fce72e06fad86df13f2588.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на a7: Пешка.",
+      "normalized": "поставь эту фигуру на a7 пешка",
+      "file": "audio/941de5f2b981fb39d6ff6ae3.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на a8: Ладья.",
+      "normalized": "поставь эту фигуру на a8 ладья",
+      "file": "audio/2afeefdb1af632f8c97f23ac.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на b1: Конь.",
+      "normalized": "поставь эту фигуру на b1 конь",
+      "file": "audio/0ac125a588eb99c7479fa3ab.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на b2: Пешка.",
+      "normalized": "поставь эту фигуру на b2 пешка",
+      "file": "audio/b9e6eb212885b320b8280b81.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на b7: Пешка.",
+      "normalized": "поставь эту фигуру на b7 пешка",
+      "file": "audio/085dc64dff51718eea40e02e.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на b8: Конь.",
+      "normalized": "поставь эту фигуру на b8 конь",
+      "file": "audio/adff532c8bd8d4f977267adb.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на c1: Слон.",
+      "normalized": "поставь эту фигуру на c1 слон",
+      "file": "audio/2a8ef110119e0f77d4ace4de.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на c2: Пешка.",
+      "normalized": "поставь эту фигуру на c2 пешка",
+      "file": "audio/01c846315aca7684f393dd85.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на c7: Пешка.",
+      "normalized": "поставь эту фигуру на c7 пешка",
+      "file": "audio/f70f082e7054e715eac142cd.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на c8: Слон.",
+      "normalized": "поставь эту фигуру на c8 слон",
+      "file": "audio/d1a56af46c94680f31c79cab.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на d1: Ферзь.",
+      "normalized": "поставь эту фигуру на d1 ферзь",
+      "file": "audio/ecfd344bb5b0f59d94a575ed.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на d2: Пешка.",
+      "normalized": "поставь эту фигуру на d2 пешка",
+      "file": "audio/175adf1cc9acc41a59d8f3f0.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на d7: Пешка.",
+      "normalized": "поставь эту фигуру на d7 пешка",
+      "file": "audio/0e3bad4b36094fa2b777c860.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на d8: Ферзь.",
+      "normalized": "поставь эту фигуру на d8 ферзь",
+      "file": "audio/58d05656b0606d93048506a2.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на e1: Король.",
+      "normalized": "поставь эту фигуру на e1 король",
+      "file": "audio/9112981f0ea3733f83236344.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на e2: Пешка.",
+      "normalized": "поставь эту фигуру на e2 пешка",
+      "file": "audio/43ce8ccff4369aa2ae538e69.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на e7: Пешка.",
+      "normalized": "поставь эту фигуру на e7 пешка",
+      "file": "audio/3ff61e072c2037067952f0b6.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на e8: Король.",
+      "normalized": "поставь эту фигуру на e8 король",
+      "file": "audio/92791123b7d51a86d11ca5ad.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на f1: Слон.",
+      "normalized": "поставь эту фигуру на f1 слон",
+      "file": "audio/f278b244c74b98bbc8c6d365.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на f2: Пешка.",
+      "normalized": "поставь эту фигуру на f2 пешка",
+      "file": "audio/94b3f1f62c1e9f504ab98d81.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на f7: Пешка.",
+      "normalized": "поставь эту фигуру на f7 пешка",
+      "file": "audio/d2ab1138d868fdfa6b8e4c87.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на f8: Слон.",
+      "normalized": "поставь эту фигуру на f8 слон",
+      "file": "audio/0c1d39319a545210656f2131.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на g1: Конь.",
+      "normalized": "поставь эту фигуру на g1 конь",
+      "file": "audio/6430f293e6c2256b65a8f637.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на g2: Пешка.",
+      "normalized": "поставь эту фигуру на g2 пешка",
+      "file": "audio/2c27adef3611a3205ea632f9.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на g7: Пешка.",
+      "normalized": "поставь эту фигуру на g7 пешка",
+      "file": "audio/592104fe6678a13c40d7533d.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на g8: Конь.",
+      "normalized": "поставь эту фигуру на g8 конь",
+      "file": "audio/8922f15527670cb0d8656966.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на h1: Ладья.",
+      "normalized": "поставь эту фигуру на h1 ладья",
+      "file": "audio/b2b5f442d48ead88df4c67b2.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на h2: Пешка.",
+      "normalized": "поставь эту фигуру на h2 пешка",
+      "file": "audio/45bf5a857ba7106190756e7a.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на h7: Пешка.",
+      "normalized": "поставь эту фигуру на h7 пешка",
+      "file": "audio/80c185ac3808b23a7ef577cb.mp3"
+    },
+    {
+      "text": "Поставь эту фигуру на h8: Ладья.",
+      "normalized": "поставь эту фигуру на h8 ладья",
+      "file": "audio/f08f0ee1623dbca7e5e13bc4.mp3"
+    },
+    {
+      "text": "При шахе нужно устранить угрозу. Выбери короля на e1 и переведи его на безопасную клетку d1.",
+      "normalized": "при шахе нужно устранить угрозу выбери короля на e1 и переведи его на безопасную клетку d1",
+      "file": "audio/c34846615c80215695539b77.mp3"
+    },
+    {
+      "text": "Слон",
+      "normalized": "слон",
+      "file": "audio/8af16c2f70751ae7c4a01a07.mp3"
+    },
+    {
+      "text": "Слон ходит по диагонали. Он остаётся на клетках одного цвета и не перепрыгивает через фигуры.",
+      "normalized": "слон ходит по диагонали он остаётся на клетках одного цвета и не перепрыгивает через фигуры",
+      "file": "audio/6c5a4f721712a6996fa9328c.mp3"
+    },
+    {
+      "text": "Ты выиграл!",
+      "normalized": "ты выиграл",
+      "file": "audio/a670652978b3dd4471e3ec75.mp3"
+    },
+    {
+      "text": "Удерживай фигуру и перетащи на отмеченную клетку. Можно также нажать на фигуру, затем на клетку.",
+      "normalized": "удерживай фигуру и перетащи на отмеченную клетку можно также нажать на фигуру затем на клетку",
+      "file": "audio/9fdb3d9e5123442c3df083c1.mp3"
+    },
+    {
+      "text": "Ферзь",
+      "normalized": "ферзь",
+      "file": "audio/ecfeef68cf96ce4d9488f319.mp3"
+    },
+    {
+      "text": "Ферзь начинает на клетке своего цвета: белый ферзь на светлой, чёрный на тёмной.",
+      "normalized": "ферзь начинает на клетке своего цвета белый ферзь на светлой чёрный на тёмной",
+      "file": "audio/4c3930fd661b4cb1d9893c5f.mp3"
+    },
+    {
+      "text": "Ферзь ходит на любое расстояние по горизонтали, вертикали или диагонали. Он не перепрыгивает через фигуры.",
+      "normalized": "ферзь ходит на любое расстояние по горизонтали вертикали или диагонали он не перепрыгивает через фигуры",
+      "file": "audio/7b84ddbb5735352b2f89c824.mp3"
+    },
+    {
+      "text": "Ход белых. Выбери белую фигуру и поставь мат чёрному королю в один ход.",
+      "normalized": "ход белых выбери белую фигуру и поставь мат чёрному королю в один ход",
+      "file": "audio/6b24ec19adda16df7ff6d97f.mp3"
+    },
+    {
+      "text": "Ход белых. Выбери положение белого короля.",
+      "normalized": "ход белых выбери положение белого короля",
+      "file": "audio/b8ed2a134690d79be636bf39.mp3"
+    },
+    {
+      "text": "Цель — поставить мат королю соперника. Когда король под ударом, это шах. Если ни один допустимый ход не спасает от шаха, это мат. Короля не берут.",
+      "normalized": "цель поставить мат королю соперника когда король под ударом это шах если ни один допустимый ход не спасает от шаха это мат короля не берут",
+      "file": "audio/f897dcd20f775e7ff708614e.mp3"
+    },
+    {
+      "text": "Чёрные",
+      "normalized": "чёрные",
+      "file": "audio/369c6e22442cc7e8657df22f.mp3"
+    },
+    {
+      "text": "Чёрные фигуры",
+      "normalized": "чёрные фигуры",
+      "file": "audio/dde9742f7c0108aa15c22a45.mp3"
+    },
+    {
+      "text": "Чёрные: ход фигурой Конь с",
+      "normalized": "чёрные ход фигурой конь с",
+      "file": "audio/5da14b63c539542b126480a8.mp3"
+    },
+    {
+      "text": "Чёрные: ход фигурой Король с",
+      "normalized": "чёрные ход фигурой король с",
+      "file": "audio/033b1b188db8e40f24d43558.mp3"
+    },
+    {
+      "text": "Чёрные: ход фигурой Ладья с",
+      "normalized": "чёрные ход фигурой ладья с",
+      "file": "audio/c5a77c7b1715373bd361a4ff.mp3"
+    },
+    {
+      "text": "Чёрные: ход фигурой Пешка с",
+      "normalized": "чёрные ход фигурой пешка с",
+      "file": "audio/e23b8469ffd18025baa54a6e.mp3"
+    },
+    {
+      "text": "Чёрные: ход фигурой Слон с",
+      "normalized": "чёрные ход фигурой слон с",
+      "file": "audio/a34836d39b3134305d6b7f8e.mp3"
+    },
+    {
+      "text": "Чёрные: ход фигурой Ферзь с",
+      "normalized": "чёрные ход фигурой ферзь с",
+      "file": "audio/e5b5b711cf82982196fdc7b3.mp3"
+    },
+    {
+      "text": "Шах, но есть выход",
+      "normalized": "шах но есть выход",
+      "file": "audio/2975de80e553b002042b4066.mp3"
+    },
+    {
+      "text": "Этот ход не ставит мат. Попробуй другой ход.",
+      "normalized": "этот ход не ставит мат попробуй другой ход",
+      "file": "audio/2ffa4c7e9f0c0d543528e6ef.mp3"
+    },
+    {
+      "text": "Дебют — это начало партии. Сначала изучи идеи, а затем исследуй известные примеры на доске.",
+      "normalized": "дебют это начало партии сначала изучи идеи а затем исследуй известные примеры на доске",
+      "file": "audio/3ab702b54246c54b4c851b39.mp3"
+    },
+    {
+      "text": "Контролируй середину центральными пешками и фигурами. Четыре центральных поля — e4, d4, e5 и d5.",
+      "normalized": "контролируй середину центральными пешками и фигурами четыре центральных поля e4 d4 e5 и d5",
+      "file": "audio/eae395780cfb081b06503842.mp3"
+    },
+    {
+      "text": "Выводи коней и слонов в игру. Обычно лучше развивать разные фигуры, чем много раз ходить одной и той же.",
+      "normalized": "выводи коней и слонов в игру обычно лучше развивать разные фигуры чем много раз ходить одной и той же",
+      "file": "audio/aa8a18b5827f41b85e72812b.mp3"
+    },
+    {
+      "text": "Готовь рокировку, когда она разрешена и безопасна. Соедини ладьи и не оставляй короля под угрозой.",
+      "normalized": "готовь рокировку когда она разрешена и безопасна соедини ладьи и не оставляй короля под угрозой",
+      "file": "audio/86ea6b9add4c8b8108ddd4c0.mp3"
+    },
+    {
+      "text": "Перед каждым ходом проверяй шахи, взятия и угрозы обеих сторон. Название дебюта не делает ход безопасным.",
+      "normalized": "перед каждым ходом проверяй шахи взятия и угрозы обеих сторон название дебюта не делает ход безопасным",
+      "file": "audio/3c990fab03ed16cb3c170ed7.mp3"
+    },
+    {
+      "text": "Итальянская партия",
+      "normalized": "итальянская партия",
+      "file": "audio/cbbc2a5f222ef969d20970bd.mp3"
+    },
+    {
+      "text": "Развивай коня на f3, а слона на c4. Слон смотрит на f7, пока белые готовят рокировку. У чёрных есть разные ответы.",
+      "normalized": "развивай коня на f3 а слона на c4 слон смотрит на f7 пока белые готовят рокировку у чёрных есть разные ответы",
+      "file": "audio/e4a22e73a4bdf68afaaed21b.mp3"
+    },
+    {
+      "text": "Испанская партия (Руй Лопес)",
+      "normalized": "испанская партия руй лопес",
+      "file": "audio/ec57d9b42d98fb7567b691a0.mp3"
+    },
+    {
+      "text": "Слон идёт на b5 и давит на коня, защищающего e5. В нашем примере чёрные играют a6, предлагая слону выбрать дальнейший путь.",
+      "normalized": "слон идёт на b5 и давит на коня защищающего e5 в нашем примере чёрные играют a6 предлагая слону выбрать дальнейший путь",
+      "file": "audio/02a59ef7d082c3193a3d0d51.mp3"
+    },
+    {
+      "text": "Шотландская партия",
+      "normalized": "шотландская партия",
+      "file": "audio/42ba6f76f3394ec29cffba90.mp3"
+    },
+    {
+      "text": "Белые рано борются за центр ходом d4. После размена пешек конь берёт на d4 и занимает активное центральное поле.",
+      "normalized": "белые рано борются за центр ходом d4 после размена пешек конь берёт на d4 и занимает активное центральное поле",
+      "file": "audio/19c0fde552d9fa997bf44f9f.mp3"
+    },
+    {
+      "text": "Ферзевый гамбит",
+      "normalized": "ферзевый гамбит",
+      "file": "audio/523bec9fc34d54422a3c6ee5.mp3"
+    },
+    {
+      "text": "Белые предлагают пешку c, чтобы атаковать чёрную пешку d5. Чёрные могут принять или отказаться; здесь они отказываются ходом e6 и развивают фигуры.",
+      "normalized": "белые предлагают пешку c чтобы атаковать чёрную пешку d5 чёрные могут принять или отказаться здесь они отказываются ходом e6 и развивают фигуры",
+      "file": "audio/311bb7bb309205dc277f064b.mp3"
+    },
+    {
+      "text": "Лондонская система",
+      "normalized": "лондонская система",
+      "file": "audio/530041e99a285ee9a81d9917.mp3"
+    },
+    {
+      "text": "Белые выводят чернопольного слона на f4 до хода e3. Создавай прочный центр, но подстраивай план под ходы чёрных.",
+      "normalized": "белые выводят чернопольного слона на f4 до хода e3 создавай прочный центр но подстраивай план под ходы чёрных",
+      "file": "audio/5334cc88da0f0e57a9f45e4f.mp3"
+    },
+    {
+      "text": "Сицилианская защита",
+      "normalized": "сицилианская защита",
+      "file": "audio/ccd880a6d3644aaca79b455f.mp3"
+    },
+    {
+      "text": "Чёрные отвечают на e4 ходом c5 и борются за d4 с фланга. В этом примере открытой сицилианской защиты пешки размениваются, а белый конь выходит на d4.",
+      "normalized": "чёрные отвечают на e4 ходом c5 и борются за d4 с фланга в этом примере открытой сицилианской защиты пешки размениваются а белый конь выходит на d4",
+      "file": "audio/e7e742590861519ba4a73457.mp3"
+    },
+    {
+      "text": "Французская защита",
+      "normalized": "французская защита",
+      "file": "audio/18fb0f0da4151170d53e8339.mp3"
+    },
+    {
+      "text": "Чёрные готовят d5 ходом e6. В этом варианте продвижения белые захватывают пространство ходом e5, а чёрные атакуют центр ходом c5.",
+      "normalized": "чёрные готовят d5 ходом e6 в этом варианте продвижения белые захватывают пространство ходом e5 а чёрные атакуют центр ходом c5",
+      "file": "audio/ad3e0dbc6c13900c750847d2.mp3"
+    },
+    {
+      "text": "Защита Каро-Канн",
+      "normalized": "защита каро канн",
+      "file": "audio/ea5bfcd7484fd372d9b52458.mp3"
+    },
+    {
+      "text": "Чёрные готовят d5 ходом c6. Здесь они берут на e4, а белые отвечают взятием конём; обеим сторонам ещё нужно развивать фигуры.",
+      "normalized": "чёрные готовят d5 ходом c6 здесь они берут на e4 а белые отвечают взятием конём обеим сторонам ещё нужно развивать фигуры",
+      "file": "audio/aeec328dc3165cffd22cc521.mp3"
+    },
+    {
+      "text": "Этот ход пешкой борется за центр и даёт фигурам больше пространства.",
+      "normalized": "этот ход пешкой борется за центр и даёт фигурам больше пространства",
+      "file": "audio/3bf190e13cc3a63f117f948d.mp3"
+    },
+    {
+      "text": "Лёгкая фигура вступает в игру и влияет на важные поля.",
+      "normalized": "лёгкая фигура вступает в игру и влияет на важные поля",
+      "file": "audio/8519171b02cc03dfbde4c5b3.mp3"
+    },
+    {
+      "text": "Этот ход нападает на фигуру соперника или оспаривает его контроль над центром.",
+      "normalized": "этот ход нападает на фигуру соперника или оспаривает его контроль над центром",
+      "file": "audio/f721b9c920e3015a318e8bd5.mp3"
+    },
+    {
+      "text": "Этот ход пешкой поддерживает центральную структуру или готовит ход другой центральной пешки.",
+      "normalized": "этот ход пешкой поддерживает центральную структуру или готовит ход другой центральной пешки",
+      "file": "audio/05c921962abf569f3b733160.mp3"
+    },
+    {
+      "text": "Взятие меняет центр. Заметь, какая фигура или пешка занимает освободившееся место.",
+      "normalized": "взятие меняет центр заметь какая фигура или пешка занимает освободившееся место",
+      "file": "audio/8007add7d10852e0f80f660b.mp3"
+    },
+    {
+      "text": "Пешка идёт вперёд и захватывает пространство. Проверь, как соперник может атаковать пешечную цепь.",
+      "normalized": "пешка идёт вперёд и захватывает пространство проверь как соперник может атаковать пешечную цепь",
+      "file": "audio/bd2816d14e39122ef05ddf8e.mp3"
+    }
+  ]
+}

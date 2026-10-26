@@ -1,0 +1,76 @@
+{
+  "conceptId": "food:792",
+  "removedByLanguage": {
+    "en": 1,
+    "tr": 1,
+    "de": 1,
+    "fr": 1,
+    "es": 1,
+    "zh": 1,
+    "ja": 1,
+    "ko": 1,
+    "it": 1,
+    "pt": 1,
+    "hi": 1,
+    "ar": 1,
+    "ru": 1
+  },
+  "removedMedia": [
+    {
+      "language": "ar",
+      "path": "audio/food_792_ar.mp3"
+    },
+    {
+      "language": "base",
+      "path": "images/slide_my_home_beer.jpg"
+    },
+    {
+      "language": "de",
+      "path": "audio/slide_my_home_beer_de.mp3"
+    },
+    {
+      "language": "en",
+      "path": "audio/slide_my_home_beer_en.mp3"
+    },
+    {
+      "language": "es",
+      "path": "audio/slide_my_home_beer_es.mp3"
+    },
+    {
+      "language": "fr",
+      "path": "audio/slide_my_home_beer_fr.mp3"
+    },
+    {
+      "language": "hi",
+      "path": "audio/slide_my_home_beer_hi.mp3"
+    },
+    {
+      "language": "it",
+      "path": "audio/slide_my_home_beer_it.mp3"
+    },
+    {
+      "language": "ja",
+      "path": "audio/slide_my_home_beer_ja.mp3"
+    },
+    {
+      "language": "ko",
+      "path": "audio/slide_my_home_beer_ko.mp3"
+    },
+    {
+      "language": "pt",
+      "path": "audio/slide_my_home_beer_pt.mp3"
+    },
+    {
+      "language": "ru",
+      "path": "audio/food_792_ru.mp3"
+    },
+    {
+      "language": "tr",
+      "path": "audio/slide_my_home_beer_tr.mp3"
+    },
+    {
+      "language": "zh",
+      "path": "audio/slide_my_home_beer_zh.mp3"
+    }
+  ]
+}

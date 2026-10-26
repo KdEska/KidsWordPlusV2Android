@@ -1,0 +1,1351 @@
+{
+  "voice_id": "g2Lkjc1rfRIFTu63BLDp",
+  "model_id": "eleven_multilingual_v2",
+  "clips": [
+    {
+      "text": "A chessboard has 8 rows and 8 columns: 64 squares. The bottom-right square must be light.",
+      "normalized": "a chessboard has 8 rows and 8 columns 64 squares the bottom right square must be light",
+      "file": "audio/9e239ad14a29089e916a99c3.mp3"
+    },
+    {
+      "text": "a1",
+      "normalized": "a1",
+      "file": "audio/f55ff16f66f43360266b95db.mp3"
+    },
+    {
+      "text": "a2",
+      "normalized": "a2",
+      "file": "audio/2c3a4249d77070058649dbd8.mp3"
+    },
+    {
+      "text": "a3",
+      "normalized": "a3",
+      "file": "audio/f46dd28a5499d8efef0b8fb8.mp3"
+    },
+    {
+      "text": "a4",
+      "normalized": "a4",
+      "file": "audio/4539e4b4889079c2a00afeae.mp3"
+    },
+    {
+      "text": "a5",
+      "normalized": "a5",
+      "file": "audio/66220e71591b2d933c0e935c.mp3"
+    },
+    {
+      "text": "a6",
+      "normalized": "a6",
+      "file": "audio/730bea4ff16f200fb931b06c.mp3"
+    },
+    {
+      "text": "a7",
+      "normalized": "a7",
+      "file": "audio/20377cec9f51f6bf5ba1fa64.mp3"
+    },
+    {
+      "text": "a8",
+      "normalized": "a8",
+      "file": "audio/ce609b5bf3b974a84907e237.mp3"
+    },
+    {
+      "text": "An attacked king is in check. Find the black piece attacking the white king and tap it.",
+      "normalized": "an attacked king is in check find the black piece attacking the white king and tap it",
+      "file": "audio/442306676d4aec667cafcf15.mp3"
+    },
+    {
+      "text": "b1",
+      "normalized": "b1",
+      "file": "audio/7dc96f776c8423e57a278548.mp3"
+    },
+    {
+      "text": "b2",
+      "normalized": "b2",
+      "file": "audio/4814d92093ac8a0f4a2163ab.mp3"
+    },
+    {
+      "text": "b3",
+      "normalized": "b3",
+      "file": "audio/76a8277347f52530e1cf9791.mp3"
+    },
+    {
+      "text": "b4",
+      "normalized": "b4",
+      "file": "audio/486bacc5c2d8a71a73d51bf8.mp3"
+    },
+    {
+      "text": "b5",
+      "normalized": "b5",
+      "file": "audio/3c5661974942379614b943d0.mp3"
+    },
+    {
+      "text": "b6",
+      "normalized": "b6",
+      "file": "audio/2f5da6e9921baa794759ee9f.mp3"
+    },
+    {
+      "text": "b7",
+      "normalized": "b7",
+      "file": "audio/e1b0acf86b9621b8c13ca17b.mp3"
+    },
+    {
+      "text": "b8",
+      "normalized": "b8",
+      "file": "audio/92ee93de02ea87db530298f4.mp3"
+    },
+    {
+      "text": "Bishop",
+      "normalized": "bishop",
+      "file": "audio/bd6e50d182ed790cee1118af.mp3"
+    },
+    {
+      "text": "Black",
+      "normalized": "black",
+      "file": "audio/c006c7e3ab14d686f6352413.mp3"
+    },
+    {
+      "text": "Black bishop moved from",
+      "normalized": "black bishop moved from",
+      "file": "audio/6d8089ebc5093e398c859656.mp3"
+    },
+    {
+      "text": "Black king moved from",
+      "normalized": "black king moved from",
+      "file": "audio/2df7de94988057ca85cf87cc.mp3"
+    },
+    {
+      "text": "Black knight moved from",
+      "normalized": "black knight moved from",
+      "file": "audio/353510dce0a7be2fde1d4ddd.mp3"
+    },
+    {
+      "text": "Black pawn moved from",
+      "normalized": "black pawn moved from",
+      "file": "audio/f473f5ccd294554d971cb14c.mp3"
+    },
+    {
+      "text": "Black pieces",
+      "normalized": "black pieces",
+      "file": "audio/1f9a8eb0cd684dd0a1a9c4ad.mp3"
+    },
+    {
+      "text": "Black queen moved from",
+      "normalized": "black queen moved from",
+      "file": "audio/5274d504e67aa1ce830a49f4.mp3"
+    },
+    {
+      "text": "Black rook moved from",
+      "normalized": "black rook moved from",
+      "file": "audio/7eaaa1923672fcc42c7334af.mp3"
+    },
+    {
+      "text": "c1",
+      "normalized": "c1",
+      "file": "audio/d0f631ca1ddba8db3bcfcb9e.mp3"
+    },
+    {
+      "text": "c2",
+      "normalized": "c2",
+      "file": "audio/9c0abe51c6e6655d81de2d04.mp3"
+    },
+    {
+      "text": "c3",
+      "normalized": "c3",
+      "file": "audio/7c1c97df17c066924822b0af.mp3"
+    },
+    {
+      "text": "c4",
+      "normalized": "c4",
+      "file": "audio/0012a3fa000c5dc26ee658c3.mp3"
+    },
+    {
+      "text": "c5",
+      "normalized": "c5",
+      "file": "audio/d0bf3e6ee1d668de18c9ca20.mp3"
+    },
+    {
+      "text": "c6",
+      "normalized": "c6",
+      "file": "audio/6db53c9d5a2ca72a85ddf3a6.mp3"
+    },
+    {
+      "text": "c7",
+      "normalized": "c7",
+      "file": "audio/f28d5b0d6f8be0da8446dabe.mp3"
+    },
+    {
+      "text": "c8",
+      "normalized": "c8",
+      "file": "audio/7ed6a8377b92b49472195f12.mp3"
+    },
+    {
+      "text": "Captured a Bishop.",
+      "normalized": "captured a bishop",
+      "file": "audio/86512dac6580dbf309960739.mp3"
+    },
+    {
+      "text": "Captured a King.",
+      "normalized": "captured a king",
+      "file": "audio/b1f5d5a04652452f5d5ca3e0.mp3"
+    },
+    {
+      "text": "Captured a Knight.",
+      "normalized": "captured a knight",
+      "file": "audio/52aa13453c1110a4d54cb7df.mp3"
+    },
+    {
+      "text": "Captured a Pawn.",
+      "normalized": "captured a pawn",
+      "file": "audio/9a3179a9fd4509a4333ab080.mp3"
+    },
+    {
+      "text": "Captured a Queen.",
+      "normalized": "captured a queen",
+      "file": "audio/1bd14f46ca6a922e3c9c517a.mp3"
+    },
+    {
+      "text": "Captured a Rook.",
+      "normalized": "captured a rook",
+      "file": "audio/4429e9393696f238beb3a979.mp3"
+    },
+    {
+      "text": "Check, with an escape",
+      "normalized": "check with an escape",
+      "file": "audio/561b759f1eb62c0af8db7655.mp3"
+    },
+    {
+      "text": "Checkmate",
+      "normalized": "checkmate",
+      "file": "audio/5d9ad16979934da10f723b06.mp3"
+    },
+    {
+      "text": "Checkmate and Stalemate",
+      "normalized": "checkmate and stalemate",
+      "file": "audio/5d53ef4324c97e36a76dc6ca.mp3"
+    },
+    {
+      "text": "Computer won",
+      "normalized": "computer won",
+      "file": "audio/3c2b888d38dfadd361e3c950.mp3"
+    },
+    {
+      "text": "d1",
+      "normalized": "d1",
+      "file": "audio/8b53639f152c8fc6ef30802f.mp3"
+    },
+    {
+      "text": "d2",
+      "normalized": "d2",
+      "file": "audio/e788103ee15318fcd2af9b73.mp3"
+    },
+    {
+      "text": "d3",
+      "normalized": "d3",
+      "file": "audio/f451a61749c611ba0fa0e16c.mp3"
+    },
+    {
+      "text": "d4",
+      "normalized": "d4",
+      "file": "audio/af327a6478537246e0d9f0c5.mp3"
+    },
+    {
+      "text": "d5",
+      "normalized": "d5",
+      "file": "audio/25f682044b5badaff8b296bf.mp3"
+    },
+    {
+      "text": "d6",
+      "normalized": "d6",
+      "file": "audio/79b98f273c175489f40b682a.mp3"
+    },
+    {
+      "text": "d7",
+      "normalized": "d7",
+      "file": "audio/82396aa34d3d216d4a545cf6.mp3"
+    },
+    {
+      "text": "d8",
+      "normalized": "d8",
+      "file": "audio/56f8921507e0f67c48d43947.mp3"
+    },
+    {
+      "text": "Draw",
+      "normalized": "draw",
+      "file": "audio/50f7becde477bb509c7704de.mp3"
+    },
+    {
+      "text": "e1",
+      "normalized": "e1",
+      "file": "audio/8b5cc4df7eec7d32a7814eca.mp3"
+    },
+    {
+      "text": "e2",
+      "normalized": "e2",
+      "file": "audio/ac0f09c0f8bf5e7a4b063d86.mp3"
+    },
+    {
+      "text": "e3",
+      "normalized": "e3",
+      "file": "audio/cef7fc13a38180936ffa2635.mp3"
+    },
+    {
+      "text": "e4",
+      "normalized": "e4",
+      "file": "audio/449777124b1466a8ed667d0d.mp3"
+    },
+    {
+      "text": "e5",
+      "normalized": "e5",
+      "file": "audio/43700797e2f9d4ad38ccf135.mp3"
+    },
+    {
+      "text": "e6",
+      "normalized": "e6",
+      "file": "audio/f33422b95e3b98310adedc93.mp3"
+    },
+    {
+      "text": "e7",
+      "normalized": "e7",
+      "file": "audio/f3e2e400523c506868ca413b.mp3"
+    },
+    {
+      "text": "e8",
+      "normalized": "e8",
+      "file": "audio/c33352e36a529830a19080a8.mp3"
+    },
+    {
+      "text": "Each player starts with 16 pieces. White moves first. Players take turns making one move.",
+      "normalized": "each player starts with 16 pieces white moves first players take turns making one move",
+      "file": "audio/79bf627efaa151675181a510.mp3"
+    },
+    {
+      "text": "Explore how your piece moves. This is a movement exercise.",
+      "normalized": "explore how your piece moves this is a movement exercise",
+      "file": "audio/34e039303ccb17e12d50c6d4.mp3"
+    },
+    {
+      "text": "f1",
+      "normalized": "f1",
+      "file": "audio/3f524cdc07a11d7c6220bdb0.mp3"
+    },
+    {
+      "text": "f2",
+      "normalized": "f2",
+      "file": "audio/e4ab4e3b1493d5a997b4e51c.mp3"
+    },
+    {
+      "text": "f3",
+      "normalized": "f3",
+      "file": "audio/625e0f649de27800fc3bcf4c.mp3"
+    },
+    {
+      "text": "f4",
+      "normalized": "f4",
+      "file": "audio/608cdb524384f5ee06edc283.mp3"
+    },
+    {
+      "text": "f5",
+      "normalized": "f5",
+      "file": "audio/b6e1288527a6032c0f29c9da.mp3"
+    },
+    {
+      "text": "f6",
+      "normalized": "f6",
+      "file": "audio/3efda6ee78c31bab6995b112.mp3"
+    },
+    {
+      "text": "f7",
+      "normalized": "f7",
+      "file": "audio/9327ca99aaea2b8f025e61e5.mp3"
+    },
+    {
+      "text": "f8",
+      "normalized": "f8",
+      "file": "audio/0c079a153e26951fcda0fa12.mp3"
+    },
+    {
+      "text": "g1",
+      "normalized": "g1",
+      "file": "audio/711430f6164e93803d93428b.mp3"
+    },
+    {
+      "text": "g2",
+      "normalized": "g2",
+      "file": "audio/4d2f4b668cfc48e6059d36e9.mp3"
+    },
+    {
+      "text": "g3",
+      "normalized": "g3",
+      "file": "audio/3921871aa0881e3e94830142.mp3"
+    },
+    {
+      "text": "g4",
+      "normalized": "g4",
+      "file": "audio/c874bc29e99f2e67290d6cdb.mp3"
+    },
+    {
+      "text": "g5",
+      "normalized": "g5",
+      "file": "audio/239261316e505a034abae9a2.mp3"
+    },
+    {
+      "text": "g6",
+      "normalized": "g6",
+      "file": "audio/044e727fa3783fcfe21d54fe.mp3"
+    },
+    {
+      "text": "g7",
+      "normalized": "g7",
+      "file": "audio/7935bb0b6876b05d24574bd9.mp3"
+    },
+    {
+      "text": "g8",
+      "normalized": "g8",
+      "file": "audio/0fcd4ac08fa092197d9a11df.mp3"
+    },
+    {
+      "text": "Great! The black king is attacked and has no legal escape. Checkmate!",
+      "normalized": "great the black king is attacked and has no legal escape checkmate",
+      "file": "audio/29a0eb97eed25e9abd660e85.mp3"
+    },
+    {
+      "text": "Great! The piece is in the right place.",
+      "normalized": "great the piece is in the right place",
+      "file": "audio/721915ff6878eb5fcd109388.mp3"
+    },
+    {
+      "text": "Great! You completed the task.",
+      "normalized": "great you completed the task",
+      "file": "audio/28e761bd4cfc804516b88a33.mp3"
+    },
+    {
+      "text": "h1",
+      "normalized": "h1",
+      "file": "audio/33112ee14ee469c3eb52fe90.mp3"
+    },
+    {
+      "text": "h2",
+      "normalized": "h2",
+      "file": "audio/f998fe06afa0cfbe73e0449d.mp3"
+    },
+    {
+      "text": "h3",
+      "normalized": "h3",
+      "file": "audio/97fb5f8538b89f6c1accfd19.mp3"
+    },
+    {
+      "text": "h4",
+      "normalized": "h4",
+      "file": "audio/e9590c04cea54beb769a9614.mp3"
+    },
+    {
+      "text": "h5",
+      "normalized": "h5",
+      "file": "audio/acea77fd89c7fb586c8c7c61.mp3"
+    },
+    {
+      "text": "h6",
+      "normalized": "h6",
+      "file": "audio/fa37de9da4b13b3a18882ece.mp3"
+    },
+    {
+      "text": "h7",
+      "normalized": "h7",
+      "file": "audio/f254a1e7d56840a4f2faa65b.mp3"
+    },
+    {
+      "text": "h8",
+      "normalized": "h8",
+      "file": "audio/9f095ecf60fdfca89c7c42f4.mp3"
+    },
+    {
+      "text": "Hold a piece and drag it to the marked square. You can also tap the piece and square.",
+      "normalized": "hold a piece and drag it to the marked square you can also tap the piece and square",
+      "file": "audio/5db8f57f539a93345f700652.mp3"
+    },
+    {
+      "text": "King",
+      "normalized": "king",
+      "file": "audio/e81dfe69841ad2f7b5790b63.mp3"
+    },
+    {
+      "text": "Knight",
+      "normalized": "knight",
+      "file": "audio/ce1d801d152db837c0fc85ec.mp3"
+    },
+    {
+      "text": "Let’s try again. Look at the king with the red outline and listen to the instruction.",
+      "normalized": "let s try again look at the king with the red outline and listen to the instruction",
+      "file": "audio/79b58343f99484aa64ef6b0a.mp3"
+    },
+    {
+      "text": "Let’s try again. Select your piece, then move to the target square.",
+      "normalized": "let s try again select your piece then move to the target square",
+      "file": "audio/6435eec7094ce9ab0e88005f.mp3"
+    },
+    {
+      "text": "Look again: Is the king attacked? Is there a legal move?",
+      "normalized": "look again is the king attacked is there a legal move",
+      "file": "audio/081121623646d6c8869f6069.mp3"
+    },
+    {
+      "text": "Mate in One",
+      "normalized": "mate in one",
+      "file": "audio/d51509275ea7dce803a299ab.mp3"
+    },
+    {
+      "text": "Move the Bishop to g7.",
+      "normalized": "move the bishop to g7",
+      "file": "audio/9ff354323502dfd3a14db94c.mp3"
+    },
+    {
+      "text": "Move the King to e5.",
+      "normalized": "move the king to e5",
+      "file": "audio/aef3bed4992742c5129f3e35.mp3"
+    },
+    {
+      "text": "Move the Knight to e6.",
+      "normalized": "move the knight to e6",
+      "file": "audio/6e55d3fe1e12d7962f1a0f0a.mp3"
+    },
+    {
+      "text": "Move the Pawn to d4.",
+      "normalized": "move the pawn to d4",
+      "file": "audio/beae41be1ec638bd5b168357.mp3"
+    },
+    {
+      "text": "Move the Queen to g7.",
+      "normalized": "move the queen to g7",
+      "file": "audio/9e7f5107840deb4a5b952310.mp3"
+    },
+    {
+      "text": "Move the Rook to g4.",
+      "normalized": "move the rook to g4",
+      "file": "audio/53946acf4111b41a7f8bbb46.mp3"
+    },
+    {
+      "text": "Pawn",
+      "normalized": "pawn",
+      "file": "audio/05029d4bc2c4604b2d5204cb.mp3"
+    },
+    {
+      "text": "Place the Bishop on c1.",
+      "normalized": "place the bishop on c1",
+      "file": "audio/5ef5d8a1944de46bc60b4644.mp3"
+    },
+    {
+      "text": "Place the Bishop on c8.",
+      "normalized": "place the bishop on c8",
+      "file": "audio/31fe0e3ae7293a1340693a0a.mp3"
+    },
+    {
+      "text": "Place the Bishop on f1.",
+      "normalized": "place the bishop on f1",
+      "file": "audio/e2c817dafb83157be3b60f86.mp3"
+    },
+    {
+      "text": "Place the Bishop on f8.",
+      "normalized": "place the bishop on f8",
+      "file": "audio/0da0600a08a1593acd06b10a.mp3"
+    },
+    {
+      "text": "Place the King on e1.",
+      "normalized": "place the king on e1",
+      "file": "audio/909954ab66cf4157c5aa5354.mp3"
+    },
+    {
+      "text": "Place the King on e8.",
+      "normalized": "place the king on e8",
+      "file": "audio/fd994b94e302d691f94b757c.mp3"
+    },
+    {
+      "text": "Place the Knight on b1.",
+      "normalized": "place the knight on b1",
+      "file": "audio/f4a8a2300230f9ed4dade6ea.mp3"
+    },
+    {
+      "text": "Place the Knight on b8.",
+      "normalized": "place the knight on b8",
+      "file": "audio/29bbd995e032da1bfc4d601b.mp3"
+    },
+    {
+      "text": "Place the Knight on g1.",
+      "normalized": "place the knight on g1",
+      "file": "audio/b4b2eac61fe6f4f036adac25.mp3"
+    },
+    {
+      "text": "Place the Knight on g8.",
+      "normalized": "place the knight on g8",
+      "file": "audio/14e085afb8d579ef48879c0f.mp3"
+    },
+    {
+      "text": "Place the Pawn on a2.",
+      "normalized": "place the pawn on a2",
+      "file": "audio/dddd21055f61834162ad6e16.mp3"
+    },
+    {
+      "text": "Place the Pawn on a7.",
+      "normalized": "place the pawn on a7",
+      "file": "audio/80f2112108e39615c3a69f61.mp3"
+    },
+    {
+      "text": "Place the Pawn on b2.",
+      "normalized": "place the pawn on b2",
+      "file": "audio/6554e2b463b4af21dd61c389.mp3"
+    },
+    {
+      "text": "Place the Pawn on b7.",
+      "normalized": "place the pawn on b7",
+      "file": "audio/cb6ba2691dd5466b7439088c.mp3"
+    },
+    {
+      "text": "Place the Pawn on c2.",
+      "normalized": "place the pawn on c2",
+      "file": "audio/2ed24f1a040ac449cac54174.mp3"
+    },
+    {
+      "text": "Place the Pawn on c7.",
+      "normalized": "place the pawn on c7",
+      "file": "audio/c629aa854b146fd52e269963.mp3"
+    },
+    {
+      "text": "Place the Pawn on d2.",
+      "normalized": "place the pawn on d2",
+      "file": "audio/84b460c19767b7cde3822204.mp3"
+    },
+    {
+      "text": "Place the Pawn on d7.",
+      "normalized": "place the pawn on d7",
+      "file": "audio/9db2838f26e658494d777794.mp3"
+    },
+    {
+      "text": "Place the Pawn on e2.",
+      "normalized": "place the pawn on e2",
+      "file": "audio/81ebd7100021561e92c532c9.mp3"
+    },
+    {
+      "text": "Place the Pawn on e7.",
+      "normalized": "place the pawn on e7",
+      "file": "audio/108c8dccb786572d6168ae36.mp3"
+    },
+    {
+      "text": "Place the Pawn on f2.",
+      "normalized": "place the pawn on f2",
+      "file": "audio/6a83c13e9e7f20c8de9a3161.mp3"
+    },
+    {
+      "text": "Place the Pawn on f7.",
+      "normalized": "place the pawn on f7",
+      "file": "audio/179da25fd919ad45cfeec4c5.mp3"
+    },
+    {
+      "text": "Place the Pawn on g2.",
+      "normalized": "place the pawn on g2",
+      "file": "audio/5ae156c3c3a78d27ed548f8f.mp3"
+    },
+    {
+      "text": "Place the Pawn on g7.",
+      "normalized": "place the pawn on g7",
+      "file": "audio/f4e762b2651b319fe0c2e62f.mp3"
+    },
+    {
+      "text": "Place the Pawn on h2.",
+      "normalized": "place the pawn on h2",
+      "file": "audio/36f6f82a688574a4939fc230.mp3"
+    },
+    {
+      "text": "Place the Pawn on h7.",
+      "normalized": "place the pawn on h7",
+      "file": "audio/1c25de98bb6e145a1a487c55.mp3"
+    },
+    {
+      "text": "Place the Queen on d1.",
+      "normalized": "place the queen on d1",
+      "file": "audio/29a21732b9dfeda85b201ca4.mp3"
+    },
+    {
+      "text": "Place the Queen on d8.",
+      "normalized": "place the queen on d8",
+      "file": "audio/7529c768db178a81990e6615.mp3"
+    },
+    {
+      "text": "Place the Rook on a1.",
+      "normalized": "place the rook on a1",
+      "file": "audio/92b66451853a108c2c1f174b.mp3"
+    },
+    {
+      "text": "Place the Rook on a8.",
+      "normalized": "place the rook on a8",
+      "file": "audio/5de4e22670e7b13c06bfd853.mp3"
+    },
+    {
+      "text": "Place the Rook on h1.",
+      "normalized": "place the rook on h1",
+      "file": "audio/8b836adfa53087f221c2a0f1.mp3"
+    },
+    {
+      "text": "Place the Rook on h8.",
+      "normalized": "place the rook on h8",
+      "file": "audio/d923525d5124aa20ab4a8cea.mp3"
+    },
+    {
+      "text": "Queen",
+      "normalized": "queen",
+      "file": "audio/a9c3c1f7674502331a5ad3e5.mp3"
+    },
+    {
+      "text": "Rook",
+      "normalized": "rook",
+      "file": "audio/2c2b76080bad0b14e742ca55.mp3"
+    },
+    {
+      "text": "Select your piece, then tap a marked square.",
+      "normalized": "select your piece then tap a marked square",
+      "file": "audio/5ce22990031146404aaba7d0.mp3"
+    },
+    {
+      "text": "Stalemate",
+      "normalized": "stalemate",
+      "file": "audio/c71bfae2e39961e8922f3f3b.mp3"
+    },
+    {
+      "text": "The aim is to checkmate the other king. An attacked king is in check. If no legal move can escape the check, it is checkmate. Kings are never captured.",
+      "normalized": "the aim is to checkmate the other king an attacked king is in check if no legal move can escape the check it is checkmate kings are never captured",
+      "file": "audio/134ba636767581b7c3cd456a.mp3"
+    },
+    {
+      "text": "The bishop moves any distance diagonally. It stays on the same colour and cannot jump over pieces.",
+      "normalized": "the bishop moves any distance diagonally it stays on the same colour and cannot jump over pieces",
+      "file": "audio/74f97287b1bf2d19a80c18a0.mp3"
+    },
+    {
+      "text": "The board is ready! Each side has 16 pieces. White moves first.",
+      "normalized": "the board is ready each side has 16 pieces white moves first",
+      "file": "audio/51628ca0f271e122fccfb59b.mp3"
+    },
+    {
+      "text": "The king is attacked and has no legal move. Checkmate! The game ends.",
+      "normalized": "the king is attacked and has no legal move checkmate the game ends",
+      "file": "audio/29cccf147a31130d39629ccf.mp3"
+    },
+    {
+      "text": "The king is attacked but has a safe move. The game continues.",
+      "normalized": "the king is attacked but has a safe move the game continues",
+      "file": "audio/6a5dbe1076ec223d86175118.mp3"
+    },
+    {
+      "text": "The king is not attacked but has no legal move. Stalemate! The game is a draw.",
+      "normalized": "the king is not attacked but has no legal move stalemate the game is a draw",
+      "file": "audio/b115d07627792189130749e1.mp3"
+    },
+    {
+      "text": "The king moves one square in any direction. It cannot move onto an attacked square.",
+      "normalized": "the king moves one square in any direction it cannot move onto an attacked square",
+      "file": "audio/0afca0f02547be9e946fd2c0.mp3"
+    },
+    {
+      "text": "The knight moves two squares in one direction and one to the side. It makes an L and can jump over pieces.",
+      "normalized": "the knight moves two squares in one direction and one to the side it makes an l and can jump over pieces",
+      "file": "audio/5d59b5d80c730236fddece23.mp3"
+    },
+    {
+      "text": "The pawn moves one square forward. On its first move it may move two if the path is clear. It captures one square diagonally forward. On the last rank it becomes a queen, rook, bishop or knight.",
+      "normalized": "the pawn moves one square forward on its first move it may move two if the path is clear it captures one square diagonally forward on the last rank it becomes a queen rook bishop or knight",
+      "file": "audio/da76b7e1539cfeee00a1a3e7.mp3"
+    },
+    {
+      "text": "The pawn promoted to: Bishop.",
+      "normalized": "the pawn promoted to bishop",
+      "file": "audio/5eb1709588d2de8fdebec3db.mp3"
+    },
+    {
+      "text": "The pawn promoted to: Knight.",
+      "normalized": "the pawn promoted to knight",
+      "file": "audio/d52d45c0dc2e126b45604e08.mp3"
+    },
+    {
+      "text": "The pawn promoted to: Queen.",
+      "normalized": "the pawn promoted to queen",
+      "file": "audio/0a46d31f1f6e553b9e6a69da.mp3"
+    },
+    {
+      "text": "The pawn promoted to: Rook.",
+      "normalized": "the pawn promoted to rook",
+      "file": "audio/0665d84abcc7f16a21d13971.mp3"
+    },
+    {
+      "text": "The pawn reached the last rank and became a queen in this exercise.",
+      "normalized": "the pawn reached the last rank and became a queen in this exercise",
+      "file": "audio/e596c2cea71cc8803dd3322e.mp3"
+    },
+    {
+      "text": "The queen moves any distance horizontally, vertically or diagonally. It cannot jump over pieces.",
+      "normalized": "the queen moves any distance horizontally vertically or diagonally it cannot jump over pieces",
+      "file": "audio/d1c0e4853b26dc46e8cc2437.mp3"
+    },
+    {
+      "text": "The queen starts on her own colour: the white queen on a light square, the black queen on a dark square.",
+      "normalized": "the queen starts on her own colour the white queen on a light square the black queen on a dark square",
+      "file": "audio/86f7694ee193c74ae6cee78e.mp3"
+    },
+    {
+      "text": "The rook moves any distance horizontally or vertically. It cannot jump over pieces.",
+      "normalized": "the rook moves any distance horizontally or vertically it cannot jump over pieces",
+      "file": "audio/ea839f63924ab371a46988cf.mp3"
+    },
+    {
+      "text": "This move does not give checkmate. Try another move.",
+      "normalized": "this move does not give checkmate try another move",
+      "file": "audio/a037f26cac714791a18b2480.mp3"
+    },
+    {
+      "text": "to a1",
+      "normalized": "to a1",
+      "file": "audio/8ec84ec92c4c057e471c7fae.mp3"
+    },
+    {
+      "text": "to a2",
+      "normalized": "to a2",
+      "file": "audio/f5da0191dece09c8f9df354b.mp3"
+    },
+    {
+      "text": "to a3",
+      "normalized": "to a3",
+      "file": "audio/d191fba97d731e071d1ad95c.mp3"
+    },
+    {
+      "text": "to a4",
+      "normalized": "to a4",
+      "file": "audio/be1a8338ed78c79ca21a2d2e.mp3"
+    },
+    {
+      "text": "to a5",
+      "normalized": "to a5",
+      "file": "audio/b6fcac2076ea59ef1c786eab.mp3"
+    },
+    {
+      "text": "to a6",
+      "normalized": "to a6",
+      "file": "audio/a995c14eed7de18dbcb83d12.mp3"
+    },
+    {
+      "text": "to a7",
+      "normalized": "to a7",
+      "file": "audio/36984606e310483e027c6673.mp3"
+    },
+    {
+      "text": "to a8",
+      "normalized": "to a8",
+      "file": "audio/064959691e7a2db6326fc31f.mp3"
+    },
+    {
+      "text": "to b1",
+      "normalized": "to b1",
+      "file": "audio/e4f7205d73777a0dfd188727.mp3"
+    },
+    {
+      "text": "to b2",
+      "normalized": "to b2",
+      "file": "audio/c33074719f657730b45f87d4.mp3"
+    },
+    {
+      "text": "to b3",
+      "normalized": "to b3",
+      "file": "audio/fad344cad82e2b89ed14b37d.mp3"
+    },
+    {
+      "text": "to b4",
+      "normalized": "to b4",
+      "file": "audio/f67d38560893e49218e2f927.mp3"
+    },
+    {
+      "text": "to b5",
+      "normalized": "to b5",
+      "file": "audio/0dfdff16a6d068e53c74117b.mp3"
+    },
+    {
+      "text": "to b6",
+      "normalized": "to b6",
+      "file": "audio/a823f5d24c1d8137bb422d43.mp3"
+    },
+    {
+      "text": "to b7",
+      "normalized": "to b7",
+      "file": "audio/febc40a976bab76429a9f3d2.mp3"
+    },
+    {
+      "text": "to b8",
+      "normalized": "to b8",
+      "file": "audio/0241a68057a44f7a0b7d1d0d.mp3"
+    },
+    {
+      "text": "to c1",
+      "normalized": "to c1",
+      "file": "audio/a858de6a4fca903e964d699d.mp3"
+    },
+    {
+      "text": "to c2",
+      "normalized": "to c2",
+      "file": "audio/25249d1bc87d497d7c851d19.mp3"
+    },
+    {
+      "text": "to c3",
+      "normalized": "to c3",
+      "file": "audio/6f0e95d7986b3049baa8a643.mp3"
+    },
+    {
+      "text": "to c4",
+      "normalized": "to c4",
+      "file": "audio/76744d936b1a192672f52b42.mp3"
+    },
+    {
+      "text": "to c5",
+      "normalized": "to c5",
+      "file": "audio/c7a26cd1af7cbbb44e39da3e.mp3"
+    },
+    {
+      "text": "to c6",
+      "normalized": "to c6",
+      "file": "audio/29691b4e0228a69612bd0121.mp3"
+    },
+    {
+      "text": "to c7",
+      "normalized": "to c7",
+      "file": "audio/a3a8bf5333c5b839d6678557.mp3"
+    },
+    {
+      "text": "to c8",
+      "normalized": "to c8",
+      "file": "audio/348e6267e9bddd8764f19b3a.mp3"
+    },
+    {
+      "text": "to d1",
+      "normalized": "to d1",
+      "file": "audio/d2f005e5fd637d432bb9aeb8.mp3"
+    },
+    {
+      "text": "to d2",
+      "normalized": "to d2",
+      "file": "audio/707b454d1aaa3d84948097c9.mp3"
+    },
+    {
+      "text": "to d3",
+      "normalized": "to d3",
+      "file": "audio/31c4910db688a2670c9e5a24.mp3"
+    },
+    {
+      "text": "to d4",
+      "normalized": "to d4",
+      "file": "audio/9f2b9b07a8f75d2855726899.mp3"
+    },
+    {
+      "text": "to d5",
+      "normalized": "to d5",
+      "file": "audio/016903284ae2bd80eb0cfc1b.mp3"
+    },
+    {
+      "text": "to d6",
+      "normalized": "to d6",
+      "file": "audio/7c1fc9eee0308f6c94dc13b7.mp3"
+    },
+    {
+      "text": "to d7",
+      "normalized": "to d7",
+      "file": "audio/aa01cbd836f44d7ba7030b3a.mp3"
+    },
+    {
+      "text": "to d8",
+      "normalized": "to d8",
+      "file": "audio/da561826d10850d3deeddcb1.mp3"
+    },
+    {
+      "text": "to e1",
+      "normalized": "to e1",
+      "file": "audio/94487ea3d9dbff655420181a.mp3"
+    },
+    {
+      "text": "to e2",
+      "normalized": "to e2",
+      "file": "audio/7bf766df5599cc87c46befc9.mp3"
+    },
+    {
+      "text": "to e3",
+      "normalized": "to e3",
+      "file": "audio/a7de8ced6b7f63a6580c6e72.mp3"
+    },
+    {
+      "text": "to e4",
+      "normalized": "to e4",
+      "file": "audio/dae7816d8c5bf30883447ab5.mp3"
+    },
+    {
+      "text": "to e5",
+      "normalized": "to e5",
+      "file": "audio/15d4b63e196e12a40c656302.mp3"
+    },
+    {
+      "text": "to e6",
+      "normalized": "to e6",
+      "file": "audio/819d71dfb6b91d784a67db8b.mp3"
+    },
+    {
+      "text": "to e7",
+      "normalized": "to e7",
+      "file": "audio/f9eb72167c4428cb5af787cb.mp3"
+    },
+    {
+      "text": "to e8",
+      "normalized": "to e8",
+      "file": "audio/451f9a0fbe245761a366d3e7.mp3"
+    },
+    {
+      "text": "to f1",
+      "normalized": "to f1",
+      "file": "audio/5ab348b9674dd66ad1191ef4.mp3"
+    },
+    {
+      "text": "to f2",
+      "normalized": "to f2",
+      "file": "audio/2ea005af6df8ef195abcc2dd.mp3"
+    },
+    {
+      "text": "to f3",
+      "normalized": "to f3",
+      "file": "audio/0f55fb10355211d248fc9185.mp3"
+    },
+    {
+      "text": "to f4",
+      "normalized": "to f4",
+      "file": "audio/abf1625bec48a647dd8866ba.mp3"
+    },
+    {
+      "text": "to f5",
+      "normalized": "to f5",
+      "file": "audio/d010615e9b6d18d7de2cf226.mp3"
+    },
+    {
+      "text": "to f6",
+      "normalized": "to f6",
+      "file": "audio/c9b706a258bdc3617bb878f6.mp3"
+    },
+    {
+      "text": "to f7",
+      "normalized": "to f7",
+      "file": "audio/0ec4e8519978a057c6906dec.mp3"
+    },
+    {
+      "text": "to f8",
+      "normalized": "to f8",
+      "file": "audio/aa1104ec054fcf5606e79a16.mp3"
+    },
+    {
+      "text": "to g1",
+      "normalized": "to g1",
+      "file": "audio/c30f2470c710291e67482303.mp3"
+    },
+    {
+      "text": "to g2",
+      "normalized": "to g2",
+      "file": "audio/22aa5886a4e6f6b41249dfd4.mp3"
+    },
+    {
+      "text": "to g3",
+      "normalized": "to g3",
+      "file": "audio/59dd22cea5e837fdac331903.mp3"
+    },
+    {
+      "text": "to g4",
+      "normalized": "to g4",
+      "file": "audio/52b9987d372a2028b3291143.mp3"
+    },
+    {
+      "text": "to g5",
+      "normalized": "to g5",
+      "file": "audio/4af761d5d90e0cc4854f1505.mp3"
+    },
+    {
+      "text": "to g6",
+      "normalized": "to g6",
+      "file": "audio/885ed14f6e7aff0bf8a1cc25.mp3"
+    },
+    {
+      "text": "to g7",
+      "normalized": "to g7",
+      "file": "audio/0f9667ee03b7761825243e49.mp3"
+    },
+    {
+      "text": "to g8",
+      "normalized": "to g8",
+      "file": "audio/94e91506c9c47abf295a21bf.mp3"
+    },
+    {
+      "text": "to h1",
+      "normalized": "to h1",
+      "file": "audio/66b50a5bbba77d84c85ba89f.mp3"
+    },
+    {
+      "text": "to h2",
+      "normalized": "to h2",
+      "file": "audio/7e5aaf87e41ad8ce76fa9e42.mp3"
+    },
+    {
+      "text": "to h3",
+      "normalized": "to h3",
+      "file": "audio/05b908f28ff329cdb0a401c1.mp3"
+    },
+    {
+      "text": "to h4",
+      "normalized": "to h4",
+      "file": "audio/624d41295f859bfc347f825c.mp3"
+    },
+    {
+      "text": "to h5",
+      "normalized": "to h5",
+      "file": "audio/d43eaa9c46d42e9c7c631b7b.mp3"
+    },
+    {
+      "text": "to h6",
+      "normalized": "to h6",
+      "file": "audio/179754351a62fd8ca367f639.mp3"
+    },
+    {
+      "text": "to h7",
+      "normalized": "to h7",
+      "file": "audio/e95ae405e5ea58df0dfd6851.mp3"
+    },
+    {
+      "text": "to h8",
+      "normalized": "to h8",
+      "file": "audio/5eb54f7a8b34273727d45de4.mp3"
+    },
+    {
+      "text": "Try again. Check the piece name and tap the marked square.",
+      "normalized": "try again check the piece name and tap the marked square",
+      "file": "audio/f7ae03dd827c81f3a0a4ecc4.mp3"
+    },
+    {
+      "text": "Use the Pawn to capture the opponent’s piece on e5.",
+      "normalized": "use the pawn to capture the opponent s piece on e5",
+      "file": "audio/bfe5a9349aa0e61400f71397.mp3"
+    },
+    {
+      "text": "Use the Rook to capture the opponent’s piece on g4.",
+      "normalized": "use the rook to capture the opponent s piece on g4",
+      "file": "audio/5e0734785aa570d2c9508cea.mp3"
+    },
+    {
+      "text": "We see the board from White’s side. The bottom-right square is light. Place the white pieces first, then the black pieces.",
+      "normalized": "we see the board from white s side the bottom right square is light place the white pieces first then the black pieces",
+      "file": "audio/8f81d1148d3c720799337556.mp3"
+    },
+    {
+      "text": "When in check, you must remove the threat. Select the king on e1 and move it to the safe square d1.",
+      "normalized": "when in check you must remove the threat select the king on e1 and move it to the safe square d1",
+      "file": "audio/1bb7d70289fe7f6db9a13dfe.mp3"
+    },
+    {
+      "text": "White",
+      "normalized": "white",
+      "file": "audio/018fa96a44715c90bf93be14.mp3"
+    },
+    {
+      "text": "White bishop moved from",
+      "normalized": "white bishop moved from",
+      "file": "audio/eb1e8b6f004278dadcfb3d4e.mp3"
+    },
+    {
+      "text": "White king moved from",
+      "normalized": "white king moved from",
+      "file": "audio/adcf033ff2b972d55db297e5.mp3"
+    },
+    {
+      "text": "White knight moved from",
+      "normalized": "white knight moved from",
+      "file": "audio/6c4fc948677887e28b783307.mp3"
+    },
+    {
+      "text": "White pawn moved from",
+      "normalized": "white pawn moved from",
+      "file": "audio/73ce6da1c81ef65657dfac84.mp3"
+    },
+    {
+      "text": "White pieces",
+      "normalized": "white pieces",
+      "file": "audio/2c09a48994e20c4dd5787689.mp3"
+    },
+    {
+      "text": "White queen moved from",
+      "normalized": "white queen moved from",
+      "file": "audio/4eeef3a4964f37e22023d80a.mp3"
+    },
+    {
+      "text": "White rook moved from",
+      "normalized": "white rook moved from",
+      "file": "audio/05d004d16d7e14bb45001b76.mp3"
+    },
+    {
+      "text": "White to move. Choose the white king’s situation.",
+      "normalized": "white to move choose the white king s situation",
+      "file": "audio/5569640994c6cfc8043d94fd.mp3"
+    },
+    {
+      "text": "White to move. Select a white piece and checkmate the black king in one move.",
+      "normalized": "white to move select a white piece and checkmate the black king in one move",
+      "file": "audio/2cf4046683cb68876bf2c4cd.mp3"
+    },
+    {
+      "text": "You can also protect the king by capturing the attacker. Select the bishop on h1 and capture the black rook on e4.",
+      "normalized": "you can also protect the king by capturing the attacker select the bishop on h1 and capture the black rook on e4",
+      "file": "audio/b39ce75ba20f17aa2cd7ce88.mp3"
+    },
+    {
+      "text": "You can block a distant attack. Select the rook on a2 and move it to e2 to protect your king.",
+      "normalized": "you can block a distant attack select the rook on a2 and move it to e2 to protect your king",
+      "file": "audio/e3d880365d74f53ffc09332a.mp3"
+    },
+    {
+      "text": "You completed every task! You can play them again.",
+      "normalized": "you completed every task you can play them again",
+      "file": "audio/9d10a7b2460a2781b9757884.mp3"
+    },
+    {
+      "text": "You won!",
+      "normalized": "you won",
+      "file": "audio/54a2e1aeb5555de8eea78faf.mp3"
+    },
+    {
+      "text": "An opening is the beginning of a game. Learn the ideas, then explore famous examples on the board.",
+      "normalized": "an opening is the beginning of a game learn the ideas then explore famous examples on the board",
+      "file": "audio/6bda8220ed92510ab81a1ec8.mp3"
+    },
+    {
+      "text": "Use central pawns and pieces to control the middle. The four central squares are e4, d4, e5 and d5.",
+      "normalized": "use central pawns and pieces to control the middle the four central squares are e4 d4 e5 and d5",
+      "file": "audio/f1fadbc2ff49ec5c08532796.mp3"
+    },
+    {
+      "text": "Bring knights and bishops into play. Usually, develop several pieces instead of moving the same one repeatedly.",
+      "normalized": "bring knights and bishops into play usually develop several pieces instead of moving the same one repeatedly",
+      "file": "audio/63957bbd4319e7bb9b7dc514.mp3"
+    },
+    {
+      "text": "Prepare to castle when it is legal and safe. Connect your rooks and avoid exposing your king.",
+      "normalized": "prepare to castle when it is legal and safe connect your rooks and avoid exposing your king",
+      "file": "audio/ae019f389c08e61d21467f33.mp3"
+    },
+    {
+      "text": "Before every move, look for checks, captures and threats from both sides. An opening name does not make a move safe.",
+      "normalized": "before every move look for checks captures and threats from both sides an opening name does not make a move safe",
+      "file": "audio/554637d64239183625e966fc.mp3"
+    },
+    {
+      "text": "Italian Game",
+      "normalized": "italian game",
+      "file": "audio/cddcaf50932385b263a6996d.mp3"
+    },
+    {
+      "text": "Develop the knight to f3 and bishop to c4. The bishop looks toward f7, while White prepares to castle. Black can answer in several ways.",
+      "normalized": "develop the knight to f3 and bishop to c4 the bishop looks toward f7 while white prepares to castle black can answer in several ways",
+      "file": "audio/7cbb2e21b1945097cde3f7cc.mp3"
+    },
+    {
+      "text": "Ruy Lopez (Spanish Opening)",
+      "normalized": "ruy lopez spanish opening",
+      "file": "audio/bca3acb3c0cd5c4037708b45.mp3"
+    },
+    {
+      "text": "The bishop goes to b5 and pressures the knight defending e5. Our example continues with a6, asking the bishop to decide where to go.",
+      "normalized": "the bishop goes to b5 and pressures the knight defending e5 our example continues with a6 asking the bishop to decide where to go",
+      "file": "audio/2eabec9e6504638650cc2764.mp3"
+    },
+    {
+      "text": "Scotch Game",
+      "normalized": "scotch game",
+      "file": "audio/8d2b18b790d7f6aebd26c6e9.mp3"
+    },
+    {
+      "text": "White challenges the center early with d4. After the pawn exchange, the knight recaptures on d4 and takes an active central square.",
+      "normalized": "white challenges the center early with d4 after the pawn exchange the knight recaptures on d4 and takes an active central square",
+      "file": "audio/76b9551c2d3fa16cb47533ee.mp3"
+    },
+    {
+      "text": "Queen's Gambit",
+      "normalized": "queen s gambit",
+      "file": "audio/e10d18e3b1568245e3e4bd91.mp3"
+    },
+    {
+      "text": "White offers the c-pawn to challenge Black's d5-pawn. Black can accept or decline; this example declines with e6 and develops pieces.",
+      "normalized": "white offers the c pawn to challenge black s d5 pawn black can accept or decline this example declines with e6 and develops pieces",
+      "file": "audio/a51301e619215420be02df4f.mp3"
+    },
+    {
+      "text": "London System",
+      "normalized": "london system",
+      "file": "audio/049e8e346c7d9dd030cf6279.mp3"
+    },
+    {
+      "text": "White develops the dark-squared bishop to f4 before playing e3. Build a steady center, but adapt the plan to Black's moves.",
+      "normalized": "white develops the dark squared bishop to f4 before playing e3 build a steady center but adapt the plan to black s moves",
+      "file": "audio/0031ed0ac011e570cfbd7faf.mp3"
+    },
+    {
+      "text": "Sicilian Defense",
+      "normalized": "sicilian defense",
+      "file": "audio/efbeb0b1b68a2fb610398e59.mp3"
+    },
+    {
+      "text": "Black answers e4 with c5 to contest d4 from the side. This Open Sicilian example exchanges pawns and brings White's knight to d4.",
+      "normalized": "black answers e4 with c5 to contest d4 from the side this open sicilian example exchanges pawns and brings white s knight to d4",
+      "file": "audio/657722372f41a9c4fa75b7bd.mp3"
+    },
+    {
+      "text": "French Defense",
+      "normalized": "french defense",
+      "file": "audio/0210fc6f13d52f73cb1d07fe.mp3"
+    },
+    {
+      "text": "Black prepares d5 with e6. In this Advance Variation, White gains space with e5 and Black challenges the center with c5.",
+      "normalized": "black prepares d5 with e6 in this advance variation white gains space with e5 and black challenges the center with c5",
+      "file": "audio/0caf505b9551f610e8f53f60.mp3"
+    },
+    {
+      "text": "Caro-Kann Defense",
+      "normalized": "caro kann defense",
+      "file": "audio/26efd4e89e5a41a2af1d2ffd.mp3"
+    },
+    {
+      "text": "Black prepares d5 with c6. In this example, Black captures on e4 and White recaptures with a knight; both sides still need to develop.",
+      "normalized": "black prepares d5 with c6 in this example black captures on e4 and white recaptures with a knight both sides still need to develop",
+      "file": "audio/6972ccb71204fcc4c3969bbd.mp3"
+    },
+    {
+      "text": "This pawn move fights for control of the center and gives the pieces more room.",
+      "normalized": "this pawn move fights for control of the center and gives the pieces more room",
+      "file": "audio/e8e70c04b56d1e899b30659c.mp3"
+    },
+    {
+      "text": "A minor piece joins the game and influences important squares.",
+      "normalized": "a minor piece joins the game and influences important squares",
+      "file": "audio/80d8a1765d162cf9515ae65c.mp3"
+    },
+    {
+      "text": "This move challenges an opposing piece or the opponent's control of the center.",
+      "normalized": "this move challenges an opposing piece or the opponent s control of the center",
+      "file": "audio/589455430772d4a585b4bf43.mp3"
+    },
+    {
+      "text": "This pawn move supports the central structure or prepares another central pawn move.",
+      "normalized": "this pawn move supports the central structure or prepares another central pawn move",
+      "file": "audio/4da830fc36944ca6b12cb464.mp3"
+    },
+    {
+      "text": "A capture changes the center. Notice which piece or pawn takes its place.",
+      "normalized": "a capture changes the center notice which piece or pawn takes its place",
+      "file": "audio/96e3b876d991244eb924a40f.mp3"
+    },
+    {
+      "text": "The pawn advances to gain space. Check how the opponent can challenge the pawn chain.",
+      "normalized": "the pawn advances to gain space check how the opponent can challenge the pawn chain",
+      "file": "audio/f70aa6fbe88c39778dc4d57a.mp3"
+    }
+  ]
+}

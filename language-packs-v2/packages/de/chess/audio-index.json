@@ -1,0 +1,1351 @@
+{
+  "voice_id": "N8RXoLEWQWUCCrT8uDK7",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "a1.",
+      "normalized": "a1",
+      "file": "audio/f55ff16f66f43360266b95db.mp3"
+    },
+    {
+      "text": "a1 nach",
+      "normalized": "a1 nach",
+      "file": "audio/793d845f7e7c9804e9ab9cde.mp3"
+    },
+    {
+      "text": "a2.",
+      "normalized": "a2",
+      "file": "audio/2c3a4249d77070058649dbd8.mp3"
+    },
+    {
+      "text": "a2 nach",
+      "normalized": "a2 nach",
+      "file": "audio/3cdf7fc92588616ff21b270e.mp3"
+    },
+    {
+      "text": "a3.",
+      "normalized": "a3",
+      "file": "audio/f46dd28a5499d8efef0b8fb8.mp3"
+    },
+    {
+      "text": "a3 nach",
+      "normalized": "a3 nach",
+      "file": "audio/8ac3b56dddac01ef0c16a364.mp3"
+    },
+    {
+      "text": "a4.",
+      "normalized": "a4",
+      "file": "audio/4539e4b4889079c2a00afeae.mp3"
+    },
+    {
+      "text": "a4 nach",
+      "normalized": "a4 nach",
+      "file": "audio/7934d1703e2f15492a7cc92a.mp3"
+    },
+    {
+      "text": "a5.",
+      "normalized": "a5",
+      "file": "audio/66220e71591b2d933c0e935c.mp3"
+    },
+    {
+      "text": "a5 nach",
+      "normalized": "a5 nach",
+      "file": "audio/da6fee4de8bdfa29b5157528.mp3"
+    },
+    {
+      "text": "a6.",
+      "normalized": "a6",
+      "file": "audio/730bea4ff16f200fb931b06c.mp3"
+    },
+    {
+      "text": "a6 nach",
+      "normalized": "a6 nach",
+      "file": "audio/adc2f264e1434403c94ce776.mp3"
+    },
+    {
+      "text": "a7.",
+      "normalized": "a7",
+      "file": "audio/20377cec9f51f6bf5ba1fa64.mp3"
+    },
+    {
+      "text": "a7 nach",
+      "normalized": "a7 nach",
+      "file": "audio/95422d3520ac41c68d7b6ef4.mp3"
+    },
+    {
+      "text": "a8.",
+      "normalized": "a8",
+      "file": "audio/ce609b5bf3b974a84907e237.mp3"
+    },
+    {
+      "text": "a8 nach",
+      "normalized": "a8 nach",
+      "file": "audio/c7f3a77b6cd70c9c5bb1bc12.mp3"
+    },
+    {
+      "text": "b1.",
+      "normalized": "b1",
+      "file": "audio/7dc96f776c8423e57a278548.mp3"
+    },
+    {
+      "text": "b1 nach",
+      "normalized": "b1 nach",
+      "file": "audio/39e6d710c06c926160c9b71d.mp3"
+    },
+    {
+      "text": "b2.",
+      "normalized": "b2",
+      "file": "audio/4814d92093ac8a0f4a2163ab.mp3"
+    },
+    {
+      "text": "b2 nach",
+      "normalized": "b2 nach",
+      "file": "audio/53159043e381b62c22f9f7a0.mp3"
+    },
+    {
+      "text": "b3.",
+      "normalized": "b3",
+      "file": "audio/76a8277347f52530e1cf9791.mp3"
+    },
+    {
+      "text": "b3 nach",
+      "normalized": "b3 nach",
+      "file": "audio/53526bbf318e3f91e3c5e884.mp3"
+    },
+    {
+      "text": "b4.",
+      "normalized": "b4",
+      "file": "audio/486bacc5c2d8a71a73d51bf8.mp3"
+    },
+    {
+      "text": "b4 nach",
+      "normalized": "b4 nach",
+      "file": "audio/8b64f2498ad6275a28b808ee.mp3"
+    },
+    {
+      "text": "b5.",
+      "normalized": "b5",
+      "file": "audio/3c5661974942379614b943d0.mp3"
+    },
+    {
+      "text": "b5 nach",
+      "normalized": "b5 nach",
+      "file": "audio/cafaee2c8022214fe1a810c8.mp3"
+    },
+    {
+      "text": "b6.",
+      "normalized": "b6",
+      "file": "audio/2f5da6e9921baa794759ee9f.mp3"
+    },
+    {
+      "text": "b6 nach",
+      "normalized": "b6 nach",
+      "file": "audio/dcce4a99e8f02b50e1f9ca80.mp3"
+    },
+    {
+      "text": "b7.",
+      "normalized": "b7",
+      "file": "audio/e1b0acf86b9621b8c13ca17b.mp3"
+    },
+    {
+      "text": "b7 nach",
+      "normalized": "b7 nach",
+      "file": "audio/4adc80d1e0f17f4cd280b015.mp3"
+    },
+    {
+      "text": "b8.",
+      "normalized": "b8",
+      "file": "audio/92ee93de02ea87db530298f4.mp3"
+    },
+    {
+      "text": "b8 nach",
+      "normalized": "b8 nach",
+      "file": "audio/62eeb53681f253054c09944c.mp3"
+    },
+    {
+      "text": "Bauer",
+      "normalized": "bauer",
+      "file": "audio/a7819a303502d520f66ee70e.mp3"
+    },
+    {
+      "text": "Bauer wurde geschlagen.",
+      "normalized": "bauer wurde geschlagen",
+      "file": "audio/d87b9c8cc9cf7734464c77e4.mp3"
+    },
+    {
+      "text": "Bringe diese Figur nach d4: Bauer.",
+      "normalized": "bringe diese figur nach d4 bauer",
+      "file": "audio/04f0f32e14b4dd052acbea48.mp3"
+    },
+    {
+      "text": "Bringe diese Figur nach e5: König.",
+      "normalized": "bringe diese figur nach e5 könig",
+      "file": "audio/1c08c4dcc2b547a5068f39b6.mp3"
+    },
+    {
+      "text": "Bringe diese Figur nach e6: Springer.",
+      "normalized": "bringe diese figur nach e6 springer",
+      "file": "audio/a18fb9d08e48348773a3dc2b.mp3"
+    },
+    {
+      "text": "Bringe diese Figur nach g4: Turm.",
+      "normalized": "bringe diese figur nach g4 turm",
+      "file": "audio/f6722074977fe082b6adc374.mp3"
+    },
+    {
+      "text": "Bringe diese Figur nach g7: Dame.",
+      "normalized": "bringe diese figur nach g7 dame",
+      "file": "audio/281082cbc0569af879bbfa6a.mp3"
+    },
+    {
+      "text": "Bringe diese Figur nach g7: Läufer.",
+      "normalized": "bringe diese figur nach g7 läufer",
+      "file": "audio/9c7676c63aa6233f8d28679c.mp3"
+    },
+    {
+      "text": "c1.",
+      "normalized": "c1",
+      "file": "audio/d0f631ca1ddba8db3bcfcb9e.mp3"
+    },
+    {
+      "text": "c1 nach",
+      "normalized": "c1 nach",
+      "file": "audio/75b3289d6fb29e9c8033d8b3.mp3"
+    },
+    {
+      "text": "c2.",
+      "normalized": "c2",
+      "file": "audio/9c0abe51c6e6655d81de2d04.mp3"
+    },
+    {
+      "text": "c2 nach",
+      "normalized": "c2 nach",
+      "file": "audio/a2a1c519c4c25dfa93bf0388.mp3"
+    },
+    {
+      "text": "c3.",
+      "normalized": "c3",
+      "file": "audio/7c1c97df17c066924822b0af.mp3"
+    },
+    {
+      "text": "c3 nach",
+      "normalized": "c3 nach",
+      "file": "audio/fcabe375e41044e42c693043.mp3"
+    },
+    {
+      "text": "c4.",
+      "normalized": "c4",
+      "file": "audio/0012a3fa000c5dc26ee658c3.mp3"
+    },
+    {
+      "text": "c4 nach",
+      "normalized": "c4 nach",
+      "file": "audio/9b35e1989034a05d91d0db62.mp3"
+    },
+    {
+      "text": "c5.",
+      "normalized": "c5",
+      "file": "audio/d0bf3e6ee1d668de18c9ca20.mp3"
+    },
+    {
+      "text": "c5 nach",
+      "normalized": "c5 nach",
+      "file": "audio/224af566cd44ed7d49d8e8c9.mp3"
+    },
+    {
+      "text": "c6.",
+      "normalized": "c6",
+      "file": "audio/6db53c9d5a2ca72a85ddf3a6.mp3"
+    },
+    {
+      "text": "c6 nach",
+      "normalized": "c6 nach",
+      "file": "audio/9497b22da395d0628b8fa368.mp3"
+    },
+    {
+      "text": "c7.",
+      "normalized": "c7",
+      "file": "audio/f28d5b0d6f8be0da8446dabe.mp3"
+    },
+    {
+      "text": "c7 nach",
+      "normalized": "c7 nach",
+      "file": "audio/d2446375dcadf3e8f3476a4c.mp3"
+    },
+    {
+      "text": "c8.",
+      "normalized": "c8",
+      "file": "audio/7ed6a8377b92b49472195f12.mp3"
+    },
+    {
+      "text": "c8 nach",
+      "normalized": "c8 nach",
+      "file": "audio/79d8158e35c32a3ff6aee7b8.mp3"
+    },
+    {
+      "text": "Computer gewinnt",
+      "normalized": "computer gewinnt",
+      "file": "audio/b19b136caee803b7b357ba7e.mp3"
+    },
+    {
+      "text": "d1.",
+      "normalized": "d1",
+      "file": "audio/8b53639f152c8fc6ef30802f.mp3"
+    },
+    {
+      "text": "d1 nach",
+      "normalized": "d1 nach",
+      "file": "audio/c751516bb41cb53274e41fcf.mp3"
+    },
+    {
+      "text": "d2.",
+      "normalized": "d2",
+      "file": "audio/e788103ee15318fcd2af9b73.mp3"
+    },
+    {
+      "text": "d2 nach",
+      "normalized": "d2 nach",
+      "file": "audio/d78f63d7e2c5df3b6213ecfd.mp3"
+    },
+    {
+      "text": "d3.",
+      "normalized": "d3",
+      "file": "audio/f451a61749c611ba0fa0e16c.mp3"
+    },
+    {
+      "text": "d3 nach",
+      "normalized": "d3 nach",
+      "file": "audio/e787f107ab81b0ad24be9147.mp3"
+    },
+    {
+      "text": "d4.",
+      "normalized": "d4",
+      "file": "audio/af327a6478537246e0d9f0c5.mp3"
+    },
+    {
+      "text": "d4 nach",
+      "normalized": "d4 nach",
+      "file": "audio/d361e65ff6c7c18dd85f28dd.mp3"
+    },
+    {
+      "text": "d5.",
+      "normalized": "d5",
+      "file": "audio/25f682044b5badaff8b296bf.mp3"
+    },
+    {
+      "text": "d5 nach",
+      "normalized": "d5 nach",
+      "file": "audio/7f5553e7bfff2163db4ea94e.mp3"
+    },
+    {
+      "text": "d6.",
+      "normalized": "d6",
+      "file": "audio/79b98f273c175489f40b682a.mp3"
+    },
+    {
+      "text": "d6 nach",
+      "normalized": "d6 nach",
+      "file": "audio/b2c1652328bba09fe2211a49.mp3"
+    },
+    {
+      "text": "d7.",
+      "normalized": "d7",
+      "file": "audio/82396aa34d3d216d4a545cf6.mp3"
+    },
+    {
+      "text": "d7 nach",
+      "normalized": "d7 nach",
+      "file": "audio/265358573ca407110ba96462.mp3"
+    },
+    {
+      "text": "d8.",
+      "normalized": "d8",
+      "file": "audio/56f8921507e0f67c48d43947.mp3"
+    },
+    {
+      "text": "d8 nach",
+      "normalized": "d8 nach",
+      "file": "audio/91164da33341ed68aec2a278.mp3"
+    },
+    {
+      "text": "Dame",
+      "normalized": "dame",
+      "file": "audio/50ce12611f6391ad3ead1492.mp3"
+    },
+    {
+      "text": "Dame wurde geschlagen.",
+      "normalized": "dame wurde geschlagen",
+      "file": "audio/4082b8fd787a04f3a7ba9586.mp3"
+    },
+    {
+      "text": "Das Brett ist bereit! Jede Seite hat 16 Figuren. Weiß beginnt.",
+      "normalized": "das brett ist bereit jede seite hat 16 figuren weiß beginnt",
+      "file": "audio/0c7cd67a300684df3ff840db.mp3"
+    },
+    {
+      "text": "Das Ziel ist, den gegnerischen König schachmatt zu setzen. Ein angegriffener König steht im Schach. Gibt es keinen erlaubten Zug aus dem Schach, ist es Schachmatt. Könige werden nie geschlagen.",
+      "normalized": "das ziel ist den gegnerischen könig schachmatt zu setzen ein angegriffener könig steht im schach gibt es keinen erlaubten zug aus dem schach ist es schachmatt könige werden nie geschlagen",
+      "file": "audio/dbed482782a424da32530859.mp3"
+    },
+    {
+      "text": "Der Bauer hat die letzte Reihe erreicht und wurde in dieser Übung zur Dame.",
+      "normalized": "der bauer hat die letzte reihe erreicht und wurde in dieser übung zur dame",
+      "file": "audio/4845dd74380b32a8072bbd25.mp3"
+    },
+    {
+      "text": "Der Bauer wurde umgewandelt in: Dame.",
+      "normalized": "der bauer wurde umgewandelt in dame",
+      "file": "audio/468ad08ce4a8978c1541c3b0.mp3"
+    },
+    {
+      "text": "Der Bauer wurde umgewandelt in: Läufer.",
+      "normalized": "der bauer wurde umgewandelt in läufer",
+      "file": "audio/d3b884279f1b3cefad94dd03.mp3"
+    },
+    {
+      "text": "Der Bauer wurde umgewandelt in: Springer.",
+      "normalized": "der bauer wurde umgewandelt in springer",
+      "file": "audio/43f7664283ad04019d85cdff.mp3"
+    },
+    {
+      "text": "Der Bauer wurde umgewandelt in: Turm.",
+      "normalized": "der bauer wurde umgewandelt in turm",
+      "file": "audio/98b8446d8c489a3c2e926b79.mp3"
+    },
+    {
+      "text": "Der Bauer zieht ein Feld vorwärts. Beim ersten Zug darf er zwei ziehen, wenn der Weg frei ist. Er schlägt ein Feld schräg vorwärts. Auf der letzten Reihe wird er zur Dame, zum Turm, Läufer oder Springer.",
+      "normalized": "der bauer zieht ein feld vorwärts beim ersten zug darf er zwei ziehen wenn der weg frei ist er schlägt ein feld schräg vorwärts auf der letzten reihe wird er zur dame zum turm läufer oder springer",
+      "file": "audio/672701e01154ce405e248cb8.mp3"
+    },
+    {
+      "text": "Der König ist bedroht, hat aber einen sicheren Zug. Das Spiel geht weiter.",
+      "normalized": "der könig ist bedroht hat aber einen sicheren zug das spiel geht weiter",
+      "file": "audio/5c550abc0e286fe15dc7d687.mp3"
+    },
+    {
+      "text": "Der König ist bedroht und hat keinen legalen Zug. Matt! Das Spiel endet.",
+      "normalized": "der könig ist bedroht und hat keinen legalen zug matt das spiel endet",
+      "file": "audio/6daab3807924a77f84042243.mp3"
+    },
+    {
+      "text": "Der König ist nicht bedroht, hat aber keinen legalen Zug. Patt! Das Spiel endet unentschieden.",
+      "normalized": "der könig ist nicht bedroht hat aber keinen legalen zug patt das spiel endet unentschieden",
+      "file": "audio/253748ea8046326ee99dccef.mp3"
+    },
+    {
+      "text": "Der König zieht ein Feld in jede Richtung. Er darf nicht auf ein angegriffenes Feld ziehen.",
+      "normalized": "der könig zieht ein feld in jede richtung er darf nicht auf ein angegriffenes feld ziehen",
+      "file": "audio/396da9816877c1f9586f87b6.mp3"
+    },
+    {
+      "text": "Der Läufer zieht beliebig weit diagonal. Er bleibt auf derselben Feldfarbe und darf keine Figuren überspringen.",
+      "normalized": "der läufer zieht beliebig weit diagonal er bleibt auf derselben feldfarbe und darf keine figuren überspringen",
+      "file": "audio/84bc752309a7ae59e915554d.mp3"
+    },
+    {
+      "text": "Der Springer zieht zwei Felder in eine Richtung und eines zur Seite. Er zieht wie ein L und darf Figuren überspringen.",
+      "normalized": "der springer zieht zwei felder in eine richtung und eines zur seite er zieht wie ein l und darf figuren überspringen",
+      "file": "audio/079cf6d232dc2b6acdd7497c.mp3"
+    },
+    {
+      "text": "Der Turm zieht beliebig weit waagerecht oder senkrecht. Er darf keine Figuren überspringen.",
+      "normalized": "der turm zieht beliebig weit waagerecht oder senkrecht er darf keine figuren überspringen",
+      "file": "audio/ec0ba2ed84e5fe8f2266a839.mp3"
+    },
+    {
+      "text": "Die Dame beginnt auf ihrer eigenen Farbe: die weiße Dame auf einem hellen, die schwarze auf einem dunklen Feld.",
+      "normalized": "die dame beginnt auf ihrer eigenen farbe die weiße dame auf einem hellen die schwarze auf einem dunklen feld",
+      "file": "audio/48a4f2c36d67505d39ccc46a.mp3"
+    },
+    {
+      "text": "Die Dame zieht beliebig weit waagerecht, senkrecht oder diagonal. Sie darf keine Figuren überspringen.",
+      "normalized": "die dame zieht beliebig weit waagerecht senkrecht oder diagonal sie darf keine figuren überspringen",
+      "file": "audio/a3e8ee0f3273425474a0174b.mp3"
+    },
+    {
+      "text": "Dieser Zug setzt nicht matt. Versuche einen anderen Zug.",
+      "normalized": "dieser zug setzt nicht matt versuche einen anderen zug",
+      "file": "audio/ff8cf349e27b31a5419450c7.mp3"
+    },
+    {
+      "text": "Du hast alle Aufgaben geschafft! Du kannst sie erneut spielen.",
+      "normalized": "du hast alle aufgaben geschafft du kannst sie erneut spielen",
+      "file": "audio/5f8c36d09415cf90c687d40a.mp3"
+    },
+    {
+      "text": "Du hast gewonnen!",
+      "normalized": "du hast gewonnen",
+      "file": "audio/ccd285694683b647c6b80ab9.mp3"
+    },
+    {
+      "text": "Du kannst den König auch schützen, indem du den Angreifer schlägst. Wähle den Läufer auf h1 und schlage den schwarzen Turm auf e4.",
+      "normalized": "du kannst den könig auch schützen indem du den angreifer schlägst wähle den läufer auf h1 und schlage den schwarzen turm auf e4",
+      "file": "audio/deebc28656103020fce02fec.mp3"
+    },
+    {
+      "text": "Du kannst einen entfernten Angriff blockieren. Wähle den Turm auf a2 und ziehe ihn nach e2, um deinen König zu schützen.",
+      "normalized": "du kannst einen entfernten angriff blockieren wähle den turm auf a2 und ziehe ihn nach e2 um deinen könig zu schützen",
+      "file": "audio/66c8dedd8d7bef235da4477a.mp3"
+    },
+    {
+      "text": "e1.",
+      "normalized": "e1",
+      "file": "audio/8b5cc4df7eec7d32a7814eca.mp3"
+    },
+    {
+      "text": "e1 nach",
+      "normalized": "e1 nach",
+      "file": "audio/b7cbe7f017b1a4a27aa14069.mp3"
+    },
+    {
+      "text": "e2.",
+      "normalized": "e2",
+      "file": "audio/ac0f09c0f8bf5e7a4b063d86.mp3"
+    },
+    {
+      "text": "e2 nach",
+      "normalized": "e2 nach",
+      "file": "audio/093bd00e9d7b09ef55b8b7e7.mp3"
+    },
+    {
+      "text": "e3.",
+      "normalized": "e3",
+      "file": "audio/cef7fc13a38180936ffa2635.mp3"
+    },
+    {
+      "text": "e3 nach",
+      "normalized": "e3 nach",
+      "file": "audio/c4365599bc94e69797c7e88d.mp3"
+    },
+    {
+      "text": "e4.",
+      "normalized": "e4",
+      "file": "audio/449777124b1466a8ed667d0d.mp3"
+    },
+    {
+      "text": "e4 nach",
+      "normalized": "e4 nach",
+      "file": "audio/ff85fdbe2f3263012408185d.mp3"
+    },
+    {
+      "text": "e5.",
+      "normalized": "e5",
+      "file": "audio/43700797e2f9d4ad38ccf135.mp3"
+    },
+    {
+      "text": "e5 nach",
+      "normalized": "e5 nach",
+      "file": "audio/c86fa7dd7a58a63708040174.mp3"
+    },
+    {
+      "text": "e6.",
+      "normalized": "e6",
+      "file": "audio/f33422b95e3b98310adedc93.mp3"
+    },
+    {
+      "text": "e6 nach",
+      "normalized": "e6 nach",
+      "file": "audio/33de1b9fa9d5c9ba409072b0.mp3"
+    },
+    {
+      "text": "e7.",
+      "normalized": "e7",
+      "file": "audio/f3e2e400523c506868ca413b.mp3"
+    },
+    {
+      "text": "e7 nach",
+      "normalized": "e7 nach",
+      "file": "audio/a1745c8d0c312618a3a143e7.mp3"
+    },
+    {
+      "text": "e8.",
+      "normalized": "e8",
+      "file": "audio/c33352e36a529830a19080a8.mp3"
+    },
+    {
+      "text": "e8 nach",
+      "normalized": "e8 nach",
+      "file": "audio/08df94bcfbea0aa9881ee59f.mp3"
+    },
+    {
+      "text": "Ein angegriffener König steht im Schach. Finde die schwarze Figur, die den weißen König angreift, und tippe darauf.",
+      "normalized": "ein angegriffener könig steht im schach finde die schwarze figur die den weißen könig angreift und tippe darauf",
+      "file": "audio/ba19ec03d25dc323e4b805d1.mp3"
+    },
+    {
+      "text": "Ein Schachbrett hat 8 Reihen und 8 Spalten: 64 Felder. Rechts unten muss ein helles Feld sein.",
+      "normalized": "ein schachbrett hat 8 reihen und 8 spalten 64 felder rechts unten muss ein helles feld sein",
+      "file": "audio/508588a9771b07fdfead7ef7.mp3"
+    },
+    {
+      "text": "Entdecke die Züge deiner Figur. Dies ist eine Zugübung.",
+      "normalized": "entdecke die züge deiner figur dies ist eine zugübung",
+      "file": "audio/d5e7f24a004e620bfba3222e.mp3"
+    },
+    {
+      "text": "f1.",
+      "normalized": "f1",
+      "file": "audio/3f524cdc07a11d7c6220bdb0.mp3"
+    },
+    {
+      "text": "f1 nach",
+      "normalized": "f1 nach",
+      "file": "audio/cf3f02e2043f26470f5ed194.mp3"
+    },
+    {
+      "text": "f2.",
+      "normalized": "f2",
+      "file": "audio/e4ab4e3b1493d5a997b4e51c.mp3"
+    },
+    {
+      "text": "f2 nach",
+      "normalized": "f2 nach",
+      "file": "audio/3457892301962a1726005738.mp3"
+    },
+    {
+      "text": "f3.",
+      "normalized": "f3",
+      "file": "audio/625e0f649de27800fc3bcf4c.mp3"
+    },
+    {
+      "text": "f3 nach",
+      "normalized": "f3 nach",
+      "file": "audio/2922fdabc70b83c3ff894743.mp3"
+    },
+    {
+      "text": "f4.",
+      "normalized": "f4",
+      "file": "audio/608cdb524384f5ee06edc283.mp3"
+    },
+    {
+      "text": "f4 nach",
+      "normalized": "f4 nach",
+      "file": "audio/be70e625f0ffb99c32506e54.mp3"
+    },
+    {
+      "text": "f5.",
+      "normalized": "f5",
+      "file": "audio/b6e1288527a6032c0f29c9da.mp3"
+    },
+    {
+      "text": "f5 nach",
+      "normalized": "f5 nach",
+      "file": "audio/de9d665343c0565b60310a6a.mp3"
+    },
+    {
+      "text": "f6.",
+      "normalized": "f6",
+      "file": "audio/3efda6ee78c31bab6995b112.mp3"
+    },
+    {
+      "text": "f6 nach",
+      "normalized": "f6 nach",
+      "file": "audio/39ed3479c33300d74bceeef0.mp3"
+    },
+    {
+      "text": "f7.",
+      "normalized": "f7",
+      "file": "audio/9327ca99aaea2b8f025e61e5.mp3"
+    },
+    {
+      "text": "f7 nach",
+      "normalized": "f7 nach",
+      "file": "audio/60e4c3a8fa7f9859c32cf864.mp3"
+    },
+    {
+      "text": "f8.",
+      "normalized": "f8",
+      "file": "audio/0c079a153e26951fcda0fa12.mp3"
+    },
+    {
+      "text": "f8 nach",
+      "normalized": "f8 nach",
+      "file": "audio/72ff3378bd34e9fa1dda7646.mp3"
+    },
+    {
+      "text": "g1.",
+      "normalized": "g1",
+      "file": "audio/711430f6164e93803d93428b.mp3"
+    },
+    {
+      "text": "g1 nach",
+      "normalized": "g1 nach",
+      "file": "audio/2cee3e3520cf016b8b0ae5c9.mp3"
+    },
+    {
+      "text": "g2.",
+      "normalized": "g2",
+      "file": "audio/4d2f4b668cfc48e6059d36e9.mp3"
+    },
+    {
+      "text": "g2 nach",
+      "normalized": "g2 nach",
+      "file": "audio/e39535d1505fae15231f3c34.mp3"
+    },
+    {
+      "text": "g3.",
+      "normalized": "g3",
+      "file": "audio/3921871aa0881e3e94830142.mp3"
+    },
+    {
+      "text": "g3 nach",
+      "normalized": "g3 nach",
+      "file": "audio/be19412e9ef1b84db31cd69e.mp3"
+    },
+    {
+      "text": "g4.",
+      "normalized": "g4",
+      "file": "audio/c874bc29e99f2e67290d6cdb.mp3"
+    },
+    {
+      "text": "g4 nach",
+      "normalized": "g4 nach",
+      "file": "audio/41ae844d420b14c85158b827.mp3"
+    },
+    {
+      "text": "g5.",
+      "normalized": "g5",
+      "file": "audio/239261316e505a034abae9a2.mp3"
+    },
+    {
+      "text": "g5 nach",
+      "normalized": "g5 nach",
+      "file": "audio/c31bf452b5385eb932782d94.mp3"
+    },
+    {
+      "text": "g6.",
+      "normalized": "g6",
+      "file": "audio/044e727fa3783fcfe21d54fe.mp3"
+    },
+    {
+      "text": "g6 nach",
+      "normalized": "g6 nach",
+      "file": "audio/cf06c5ad33fd5ccfc6ead3d8.mp3"
+    },
+    {
+      "text": "g7.",
+      "normalized": "g7",
+      "file": "audio/7935bb0b6876b05d24574bd9.mp3"
+    },
+    {
+      "text": "g7 nach",
+      "normalized": "g7 nach",
+      "file": "audio/aedb368ae2cd588c4e7e884d.mp3"
+    },
+    {
+      "text": "g8.",
+      "normalized": "g8",
+      "file": "audio/0fcd4ac08fa092197d9a11df.mp3"
+    },
+    {
+      "text": "g8 nach",
+      "normalized": "g8 nach",
+      "file": "audio/8d27f1041fc92c569a8be912.mp3"
+    },
+    {
+      "text": "h1.",
+      "normalized": "h1",
+      "file": "audio/33112ee14ee469c3eb52fe90.mp3"
+    },
+    {
+      "text": "h1 nach",
+      "normalized": "h1 nach",
+      "file": "audio/7ddeb6b8a0b104c8ff156e44.mp3"
+    },
+    {
+      "text": "h2.",
+      "normalized": "h2",
+      "file": "audio/f998fe06afa0cfbe73e0449d.mp3"
+    },
+    {
+      "text": "h2 nach",
+      "normalized": "h2 nach",
+      "file": "audio/8edd376a09a24a64b28f8999.mp3"
+    },
+    {
+      "text": "h3.",
+      "normalized": "h3",
+      "file": "audio/97fb5f8538b89f6c1accfd19.mp3"
+    },
+    {
+      "text": "h3 nach",
+      "normalized": "h3 nach",
+      "file": "audio/8215a63745c2d7a6f77fd192.mp3"
+    },
+    {
+      "text": "h4.",
+      "normalized": "h4",
+      "file": "audio/e9590c04cea54beb769a9614.mp3"
+    },
+    {
+      "text": "h4 nach",
+      "normalized": "h4 nach",
+      "file": "audio/cb023a924bb5c4ea69885bfc.mp3"
+    },
+    {
+      "text": "h5.",
+      "normalized": "h5",
+      "file": "audio/acea77fd89c7fb586c8c7c61.mp3"
+    },
+    {
+      "text": "h5 nach",
+      "normalized": "h5 nach",
+      "file": "audio/b40a337010503f032b26e51f.mp3"
+    },
+    {
+      "text": "h6.",
+      "normalized": "h6",
+      "file": "audio/fa37de9da4b13b3a18882ece.mp3"
+    },
+    {
+      "text": "h6 nach",
+      "normalized": "h6 nach",
+      "file": "audio/68ca943872e1434d88b512f6.mp3"
+    },
+    {
+      "text": "h7.",
+      "normalized": "h7",
+      "file": "audio/f254a1e7d56840a4f2faa65b.mp3"
+    },
+    {
+      "text": "h7 nach",
+      "normalized": "h7 nach",
+      "file": "audio/f503d8ea2331a16a8ccae05d.mp3"
+    },
+    {
+      "text": "h8.",
+      "normalized": "h8",
+      "file": "audio/9f095ecf60fdfca89c7c42f4.mp3"
+    },
+    {
+      "text": "h8 nach",
+      "normalized": "h8 nach",
+      "file": "audio/516e908edc31dc687c2c94c5.mp3"
+    },
+    {
+      "text": "Halte eine Figur gedrückt und ziehe sie auf das markierte Feld. Du kannst auch Figur und Feld antippen.",
+      "normalized": "halte eine figur gedrückt und ziehe sie auf das markierte feld du kannst auch figur und feld antippen",
+      "file": "audio/4254c006f3fff897e5d0c7a6.mp3"
+    },
+    {
+      "text": "Im Schach musst du die Bedrohung abwehren. Wähle den König auf e1 und ziehe ihn auf das sichere Feld d1.",
+      "normalized": "im schach musst du die bedrohung abwehren wähle den könig auf e1 und ziehe ihn auf das sichere feld d1",
+      "file": "audio/8b0bb6b55ee4266edaa9731c.mp3"
+    },
+    {
+      "text": "Jeder Spieler beginnt mit 16 Figuren. Weiß zieht zuerst. Danach ziehen die Spieler abwechselnd.",
+      "normalized": "jeder spieler beginnt mit 16 figuren weiß zieht zuerst danach ziehen die spieler abwechselnd",
+      "file": "audio/47149ef654a48a8eae794579.mp3"
+    },
+    {
+      "text": "König",
+      "normalized": "könig",
+      "file": "audio/52f71cdfc241842557a4081c.mp3"
+    },
+    {
+      "text": "König wurde geschlagen.",
+      "normalized": "könig wurde geschlagen",
+      "file": "audio/628a16954f2b4e6b25172ddd.mp3"
+    },
+    {
+      "text": "Läufer",
+      "normalized": "läufer",
+      "file": "audio/b34534dbfc4028fd8eecb889.mp3"
+    },
+    {
+      "text": "Läufer wurde geschlagen.",
+      "normalized": "läufer wurde geschlagen",
+      "file": "audio/85d04e707966d40f9b1d89fb.mp3"
+    },
+    {
+      "text": "Matt",
+      "normalized": "matt",
+      "file": "audio/4f31fa50e5bd5ff45684e560.mp3"
+    },
+    {
+      "text": "Matt in einem Zug",
+      "normalized": "matt in einem zug",
+      "file": "audio/a5d1d863d3b8618c877af23b.mp3"
+    },
+    {
+      "text": "Matt und Patt",
+      "normalized": "matt und patt",
+      "file": "audio/fd4d12ba41fb244ac5c978ee.mp3"
+    },
+    {
+      "text": "Patt",
+      "normalized": "patt",
+      "file": "audio/42845470aa4e3da6c3da7e7b.mp3"
+    },
+    {
+      "text": "Prima! Die Figur steht richtig.",
+      "normalized": "prima die figur steht richtig",
+      "file": "audio/c538abe5da1e814646d385c0.mp3"
+    },
+    {
+      "text": "Prima! Du hast die Aufgabe geschafft.",
+      "normalized": "prima du hast die aufgabe geschafft",
+      "file": "audio/53132211ff3b4a17052e894c.mp3"
+    },
+    {
+      "text": "Schach mit Ausweg",
+      "normalized": "schach mit ausweg",
+      "file": "audio/15f5c84eaa0710dc09b6c0a1.mp3"
+    },
+    {
+      "text": "Schau noch einmal: Ist der König bedroht? Gibt es einen legalen Zug?",
+      "normalized": "schau noch einmal ist der könig bedroht gibt es einen legalen zug",
+      "file": "audio/e24dc48ebbf249236f233b27.mp3"
+    },
+    {
+      "text": "Schlage mit dieser Figur die gegnerische Figur auf e5: Bauer.",
+      "normalized": "schlage mit dieser figur die gegnerische figur auf e5 bauer",
+      "file": "audio/dac396942a2b70c4080140ad.mp3"
+    },
+    {
+      "text": "Schlage mit dieser Figur die gegnerische Figur auf g4: Turm.",
+      "normalized": "schlage mit dieser figur die gegnerische figur auf g4 turm",
+      "file": "audio/7cecf6b1835890de6c334f13.mp3"
+    },
+    {
+      "text": "Schwarz",
+      "normalized": "schwarz",
+      "file": "audio/2993f8453f06da87d9df99e0.mp3"
+    },
+    {
+      "text": "Schwarz: Zug mit Bauer, von",
+      "normalized": "schwarz zug mit bauer von",
+      "file": "audio/c8a0c2147098533596bb6c33.mp3"
+    },
+    {
+      "text": "Schwarz: Zug mit Dame, von",
+      "normalized": "schwarz zug mit dame von",
+      "file": "audio/3d593142525c48200c235db0.mp3"
+    },
+    {
+      "text": "Schwarz: Zug mit König, von",
+      "normalized": "schwarz zug mit könig von",
+      "file": "audio/dd702e228be6eddd6cbd05b3.mp3"
+    },
+    {
+      "text": "Schwarz: Zug mit Läufer, von",
+      "normalized": "schwarz zug mit läufer von",
+      "file": "audio/d86e33c859d316bf013daace.mp3"
+    },
+    {
+      "text": "Schwarz: Zug mit Springer, von",
+      "normalized": "schwarz zug mit springer von",
+      "file": "audio/7fe87c067af22c22ddb17f9a.mp3"
+    },
+    {
+      "text": "Schwarz: Zug mit Turm, von",
+      "normalized": "schwarz zug mit turm von",
+      "file": "audio/ad28b7ed3d17b7fbee4d4f8f.mp3"
+    },
+    {
+      "text": "Schwarze Figuren",
+      "normalized": "schwarze figuren",
+      "file": "audio/6e2e3fba96da3190873a9964.mp3"
+    },
+    {
+      "text": "Springer",
+      "normalized": "springer",
+      "file": "audio/c1f35ffd9e5268dec53413e3.mp3"
+    },
+    {
+      "text": "Springer wurde geschlagen.",
+      "normalized": "springer wurde geschlagen",
+      "file": "audio/4b07e97678170a4ff62c3f63.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf a1: Turm.",
+      "normalized": "stelle diese figur auf a1 turm",
+      "file": "audio/44e08d997506cedff7e91b6d.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf a2: Bauer.",
+      "normalized": "stelle diese figur auf a2 bauer",
+      "file": "audio/6725d3313766a01a9a7ac651.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf a7: Bauer.",
+      "normalized": "stelle diese figur auf a7 bauer",
+      "file": "audio/5df0528db7464197d14703cb.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf a8: Turm.",
+      "normalized": "stelle diese figur auf a8 turm",
+      "file": "audio/7e2ea8b8dbace4cbc0abb7c6.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf b1: Springer.",
+      "normalized": "stelle diese figur auf b1 springer",
+      "file": "audio/52a9ed226cf5e010733b091b.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf b2: Bauer.",
+      "normalized": "stelle diese figur auf b2 bauer",
+      "file": "audio/92a2943ea8a685c2d582dc13.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf b7: Bauer.",
+      "normalized": "stelle diese figur auf b7 bauer",
+      "file": "audio/26538946c075b724d7a38467.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf b8: Springer.",
+      "normalized": "stelle diese figur auf b8 springer",
+      "file": "audio/36fcb3fc4594461c6cda0011.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf c1: Läufer.",
+      "normalized": "stelle diese figur auf c1 läufer",
+      "file": "audio/ad4138403945a59513b52020.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf c2: Bauer.",
+      "normalized": "stelle diese figur auf c2 bauer",
+      "file": "audio/ef06b872a50ca9da1f5d3585.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf c7: Bauer.",
+      "normalized": "stelle diese figur auf c7 bauer",
+      "file": "audio/31125ce231115cd24d4aea6f.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf c8: Läufer.",
+      "normalized": "stelle diese figur auf c8 läufer",
+      "file": "audio/9cc3caf4c8294897e958ede7.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf d1: Dame.",
+      "normalized": "stelle diese figur auf d1 dame",
+      "file": "audio/78fcb41150da40fa81b76a29.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf d2: Bauer.",
+      "normalized": "stelle diese figur auf d2 bauer",
+      "file": "audio/8057080bb4be3cc9e34bf2f2.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf d7: Bauer.",
+      "normalized": "stelle diese figur auf d7 bauer",
+      "file": "audio/86f5a6bb75cf2aa710563433.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf d8: Dame.",
+      "normalized": "stelle diese figur auf d8 dame",
+      "file": "audio/a8596f693874aab06888b87b.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf e1: König.",
+      "normalized": "stelle diese figur auf e1 könig",
+      "file": "audio/1c5d8dc13605ce14333f9d4e.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf e2: Bauer.",
+      "normalized": "stelle diese figur auf e2 bauer",
+      "file": "audio/c6ebfe027e28e83484055f6f.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf e7: Bauer.",
+      "normalized": "stelle diese figur auf e7 bauer",
+      "file": "audio/85a2384925817b36026135aa.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf e8: König.",
+      "normalized": "stelle diese figur auf e8 könig",
+      "file": "audio/ce3ca795cdeaaacbff5e6817.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf f1: Läufer.",
+      "normalized": "stelle diese figur auf f1 läufer",
+      "file": "audio/c481b8cd70849b68725ee900.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf f2: Bauer.",
+      "normalized": "stelle diese figur auf f2 bauer",
+      "file": "audio/1c08ac98d4884f416f90fcd8.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf f7: Bauer.",
+      "normalized": "stelle diese figur auf f7 bauer",
+      "file": "audio/12ac63f9d7bf805a24569d79.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf f8: Läufer.",
+      "normalized": "stelle diese figur auf f8 läufer",
+      "file": "audio/a6cd9522d2623ba924d5b5a5.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf g1: Springer.",
+      "normalized": "stelle diese figur auf g1 springer",
+      "file": "audio/dd16ce9cf85a6c5fcf4957d9.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf g2: Bauer.",
+      "normalized": "stelle diese figur auf g2 bauer",
+      "file": "audio/b2feca80fdc9596f04aca484.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf g7: Bauer.",
+      "normalized": "stelle diese figur auf g7 bauer",
+      "file": "audio/4078e03563111cef5341aeaa.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf g8: Springer.",
+      "normalized": "stelle diese figur auf g8 springer",
+      "file": "audio/698fcf8789c984dc18c49592.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf h1: Turm.",
+      "normalized": "stelle diese figur auf h1 turm",
+      "file": "audio/afafa5fb38e4dcb9d4f6bb5d.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf h2: Bauer.",
+      "normalized": "stelle diese figur auf h2 bauer",
+      "file": "audio/3b8bff9a801f67525de7da42.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf h7: Bauer.",
+      "normalized": "stelle diese figur auf h7 bauer",
+      "file": "audio/58ae7d1b0b03f40d0463a0bf.mp3"
+    },
+    {
+      "text": "Stelle diese Figur auf h8: Turm.",
+      "normalized": "stelle diese figur auf h8 turm",
+      "file": "audio/4fce3f92bd8b2f1951a21a89.mp3"
+    },
+    {
+      "text": "Super! Der schwarze König ist bedroht und hat keinen legalen Ausweg. Matt!",
+      "normalized": "super der schwarze könig ist bedroht und hat keinen legalen ausweg matt",
+      "file": "audio/b3dac1e9c5bd289034ec60cb.mp3"
+    },
+    {
+      "text": "Turm",
+      "normalized": "turm",
+      "file": "audio/7f94f269389ba313b73f0706.mp3"
+    },
+    {
+      "text": "Turm wurde geschlagen.",
+      "normalized": "turm wurde geschlagen",
+      "file": "audio/c48f904da1a9a9dcbf0da630.mp3"
+    },
+    {
+      "text": "Unentschieden",
+      "normalized": "unentschieden",
+      "file": "audio/ad663a1bcbd1397ce4caad93.mp3"
+    },
+    {
+      "text": "Versuche es noch einmal. Prüfe den Figurennamen und tippe auf das markierte Feld.",
+      "normalized": "versuche es noch einmal prüfe den figurennamen und tippe auf das markierte feld",
+      "file": "audio/14380bac10fe637201d32e07.mp3"
+    },
+    {
+      "text": "Versuchen wir es noch einmal. Sieh dir den rot umrandeten König an und höre die Anleitung.",
+      "normalized": "versuchen wir es noch einmal sieh dir den rot umrandeten könig an und höre die anleitung",
+      "file": "audio/de269d154215dfdd69ff01ed.mp3"
+    },
+    {
+      "text": "Versuchen wir es noch einmal. Wähle deine Figur und gehe zum Zielfeld.",
+      "normalized": "versuchen wir es noch einmal wähle deine figur und gehe zum zielfeld",
+      "file": "audio/3ee2b7e8395978e87c9ff42a.mp3"
+    },
+    {
+      "text": "Weiß",
+      "normalized": "weiß",
+      "file": "audio/5281e4cf0e28cc0e53f46204.mp3"
+    },
+    {
+      "text": "Weiß ist am Zug. Wähle die Lage des weißen Königs.",
+      "normalized": "weiß ist am zug wähle die lage des weißen königs",
+      "file": "audio/3d21f63fc8821180eb67b97f.mp3"
+    },
+    {
+      "text": "Weiß ist am Zug. Wähle eine weiße Figur und setze den schwarzen König in einem Zug matt.",
+      "normalized": "weiß ist am zug wähle eine weiße figur und setze den schwarzen könig in einem zug matt",
+      "file": "audio/87c2b1f7b8deaff9d42c0255.mp3"
+    },
+    {
+      "text": "Weiß: Zug mit Bauer, von",
+      "normalized": "weiß zug mit bauer von",
+      "file": "audio/0dafaaff8274f0e66d70788e.mp3"
+    },
+    {
+      "text": "Weiß: Zug mit Dame, von",
+      "normalized": "weiß zug mit dame von",
+      "file": "audio/6838ba334514b6ecc2d071f2.mp3"
+    },
+    {
+      "text": "Weiß: Zug mit König, von",
+      "normalized": "weiß zug mit könig von",
+      "file": "audio/f9eb3e29ed4c3f9fbabf98dd.mp3"
+    },
+    {
+      "text": "Weiß: Zug mit Läufer, von",
+      "normalized": "weiß zug mit läufer von",
+      "file": "audio/84c06f6f194faeb387bf8383.mp3"
+    },
+    {
+      "text": "Weiß: Zug mit Springer, von",
+      "normalized": "weiß zug mit springer von",
+      "file": "audio/8bf630236bc50f111ef9a406.mp3"
+    },
+    {
+      "text": "Weiß: Zug mit Turm, von",
+      "normalized": "weiß zug mit turm von",
+      "file": "audio/03fc6c1c20dffbbdb3545c84.mp3"
+    },
+    {
+      "text": "Weiße Figuren",
+      "normalized": "weiße figuren",
+      "file": "audio/3505595c85293e59a208158a.mp3"
+    },
+    {
+      "text": "Wir sehen das Brett von Weiß aus. Rechts unten ist ein helles Feld. Stelle zuerst die weißen, dann die schwarzen Figuren auf.",
+      "normalized": "wir sehen das brett von weiß aus rechts unten ist ein helles feld stelle zuerst die weißen dann die schwarzen figuren auf",
+      "file": "audio/27e60934f706010db3f34547.mp3"
+    },
+    {
+      "text": "Wähle deine Figur und tippe dann auf ein markiertes Feld.",
+      "normalized": "wähle deine figur und tippe dann auf ein markiertes feld",
+      "file": "audio/a3a0492f6e543b7c35359263.mp3"
+    },
+    {
+      "text": "Die Eröffnung ist der Beginn einer Partie. Lerne zuerst die Ideen und entdecke dann bekannte Beispiele auf dem Brett.",
+      "normalized": "die eröffnung ist der beginn einer partie lerne zuerst die ideen und entdecke dann bekannte beispiele auf dem brett",
+      "file": "audio/718108fbab7fb31813f1522f.mp3"
+    },
+    {
+      "text": "Kontrolliere die Mitte mit Zentrumsbauern und Figuren. Die vier Zentrumsfelder sind e4, d4, e5 und d5.",
+      "normalized": "kontrolliere die mitte mit zentrumsbauern und figuren die vier zentrumsfelder sind e4 d4 e5 und d5",
+      "file": "audio/e3d45caa01ed4a6faf69d1c9.mp3"
+    },
+    {
+      "text": "Entwickle Springer und Läufer. Bringe meist mehrere Figuren ins Spiel, statt dieselbe immer wieder zu ziehen.",
+      "normalized": "entwickle springer und läufer bringe meist mehrere figuren ins spiel statt dieselbe immer wieder zu ziehen",
+      "file": "audio/f77d42da25172f597fb994a7.mp3"
+    },
+    {
+      "text": "Bereite die Rochade vor, wenn sie erlaubt und sicher ist. Verbinde deine Türme und schütze deinen König.",
+      "normalized": "bereite die rochade vor wenn sie erlaubt und sicher ist verbinde deine türme und schütze deinen könig",
+      "file": "audio/76599bbc2424c8dd006514f8.mp3"
+    },
+    {
+      "text": "Prüfe vor jedem Zug Schachgebote, Schlagzüge und Drohungen beider Seiten. Ein Eröffnungsname macht einen Zug nicht sicher.",
+      "normalized": "prüfe vor jedem zug schachgebote schlagzüge und drohungen beider seiten ein eröffnungsname macht einen zug nicht sicher",
+      "file": "audio/f6a1782927da97f80ac70abf.mp3"
+    },
+    {
+      "text": "Italienische Partie",
+      "normalized": "italienische partie",
+      "file": "audio/e7aefa5958a89244b3dfd9ac.mp3"
+    },
+    {
+      "text": "Entwickle den Springer nach f3 und den Läufer nach c4. Der Läufer zielt auf f7, während Weiß die Rochade vorbereitet. Schwarz hat verschiedene Antworten.",
+      "normalized": "entwickle den springer nach f3 und den läufer nach c4 der läufer zielt auf f7 während weiß die rochade vorbereitet schwarz hat verschiedene antworten",
+      "file": "audio/98ef2b349b3db614ca323ea4.mp3"
+    },
+    {
+      "text": "Spanische Partie (Ruy Lopez)",
+      "normalized": "spanische partie ruy lopez",
+      "file": "audio/3dd7339f6240a1b4060583aa.mp3"
+    },
+    {
+      "text": "Der Läufer geht nach b5 und setzt den Springer unter Druck, der e5 verteidigt. Im Beispiel fragt Schwarz mit a6, wohin der Läufer ziehen möchte.",
+      "normalized": "der läufer geht nach b5 und setzt den springer unter druck der e5 verteidigt im beispiel fragt schwarz mit a6 wohin der läufer ziehen möchte",
+      "file": "audio/d51d779a507838c4139d48a2.mp3"
+    },
+    {
+      "text": "Schottische Partie",
+      "normalized": "schottische partie",
+      "file": "audio/8dbcdee8054e4a8b6a1b5605.mp3"
+    },
+    {
+      "text": "Weiß greift das Zentrum früh mit d4 an. Nach dem Bauerntausch schlägt der Springer auf d4 zurück und besetzt ein aktives Zentrumsfeld.",
+      "normalized": "weiß greift das zentrum früh mit d4 an nach dem bauerntausch schlägt der springer auf d4 zurück und besetzt ein aktives zentrumsfeld",
+      "file": "audio/d1dcf4cffd2ddce20af895fe.mp3"
+    },
+    {
+      "text": "Damengambit",
+      "normalized": "damengambit",
+      "file": "audio/051a755b610f270e69d57de5.mp3"
+    },
+    {
+      "text": "Weiß bietet den c-Bauern an, um den schwarzen d5-Bauern anzugreifen. Schwarz kann annehmen oder ablehnen; im Beispiel lehnt Schwarz mit e6 ab und entwickelt Figuren.",
+      "normalized": "weiß bietet den c bauern an um den schwarzen d5 bauern anzugreifen schwarz kann annehmen oder ablehnen im beispiel lehnt schwarz mit e6 ab und entwickelt figuren",
+      "file": "audio/b8a3727b2cf9109d7ed6628f.mp3"
+    },
+    {
+      "text": "Londoner System",
+      "normalized": "londoner system",
+      "file": "audio/e3dab61918dd0e8f97c41454.mp3"
+    },
+    {
+      "text": "Weiß entwickelt den schwarzfeldrigen Läufer nach f4, bevor e3 gespielt wird. Baue ein stabiles Zentrum auf, passe den Plan aber den schwarzen Zügen an.",
+      "normalized": "weiß entwickelt den schwarzfeldrigen läufer nach f4 bevor e3 gespielt wird baue ein stabiles zentrum auf passe den plan aber den schwarzen zügen an",
+      "file": "audio/922b14022839856c73011cf8.mp3"
+    },
+    {
+      "text": "Sizilianische Verteidigung",
+      "normalized": "sizilianische verteidigung",
+      "file": "audio/73ce8682a55779223df0f2dc.mp3"
+    },
+    {
+      "text": "Schwarz antwortet auf e4 mit c5 und kämpft von der Seite um d4. Dieses Beispiel der Offenen Sizilianischen Verteidigung tauscht Bauern und bringt den weißen Springer nach d4.",
+      "normalized": "schwarz antwortet auf e4 mit c5 und kämpft von der seite um d4 dieses beispiel der offenen sizilianischen verteidigung tauscht bauern und bringt den weißen springer nach d4",
+      "file": "audio/e8428f0b8a9f18e2f3c6c8ce.mp3"
+    },
+    {
+      "text": "Französische Verteidigung",
+      "normalized": "französische verteidigung",
+      "file": "audio/8b690efd6162f31656e11255.mp3"
+    },
+    {
+      "text": "Schwarz bereitet d5 mit e6 vor. In dieser Vorstoßvariante gewinnt Weiß mit e5 Raum, und Schwarz greift das Zentrum mit c5 an.",
+      "normalized": "schwarz bereitet d5 mit e6 vor in dieser vorstoßvariante gewinnt weiß mit e5 raum und schwarz greift das zentrum mit c5 an",
+      "file": "audio/781bc34e4219643e8a5d64b2.mp3"
+    },
+    {
+      "text": "Caro-Kann-Verteidigung",
+      "normalized": "caro kann verteidigung",
+      "file": "audio/1783fda69d547d877f70b0a7.mp3"
+    },
+    {
+      "text": "Schwarz bereitet d5 mit c6 vor. Im Beispiel schlägt Schwarz auf e4 und Weiß schlägt mit einem Springer zurück; beide Seiten müssen sich weiter entwickeln.",
+      "normalized": "schwarz bereitet d5 mit c6 vor im beispiel schlägt schwarz auf e4 und weiß schlägt mit einem springer zurück beide seiten müssen sich weiter entwickeln",
+      "file": "audio/3434995df59d8a1ea8bd8cf1.mp3"
+    },
+    {
+      "text": "Dieser Bauernzug kämpft um das Zentrum und schafft Raum für die Figuren.",
+      "normalized": "dieser bauernzug kämpft um das zentrum und schafft raum für die figuren",
+      "file": "audio/bc2d68dce43059afe715b68a.mp3"
+    },
+    {
+      "text": "Eine Leichtfigur kommt ins Spiel und kontrolliert wichtige Felder.",
+      "normalized": "eine leichtfigur kommt ins spiel und kontrolliert wichtige felder",
+      "file": "audio/78b50bd84f8a3551b7ee5922.mp3"
+    },
+    {
+      "text": "Dieser Zug greift eine gegnerische Figur oder die gegnerische Zentrumskontrolle an.",
+      "normalized": "dieser zug greift eine gegnerische figur oder die gegnerische zentrumskontrolle an",
+      "file": "audio/151b5205f4d7445db87b5815.mp3"
+    },
+    {
+      "text": "Dieser Bauernzug stützt das Zentrum oder bereitet einen weiteren Zentrumsbauernzug vor.",
+      "normalized": "dieser bauernzug stützt das zentrum oder bereitet einen weiteren zentrumsbauernzug vor",
+      "file": "audio/bdc1e0012405747e4820dfe1.mp3"
+    },
+    {
+      "text": "Ein Schlagzug verändert das Zentrum. Achte darauf, welche Figur oder welcher Bauer den Platz einnimmt.",
+      "normalized": "ein schlagzug verändert das zentrum achte darauf welche figur oder welcher bauer den platz einnimmt",
+      "file": "audio/6ae66cddd4f92acd2a73c4fd.mp3"
+    },
+    {
+      "text": "Der Bauer rückt vor und gewinnt Raum. Prüfe, wie der Gegner die Bauernkette angreifen kann.",
+      "normalized": "der bauer rückt vor und gewinnt raum prüfe wie der gegner die bauernkette angreifen kann",
+      "file": "audio/418ef8ca312197c51c1febb3.mp3"
+    }
+  ]
+}

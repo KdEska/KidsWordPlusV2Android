@@ -1,0 +1,1861 @@
+{
+  "date": "2026-10-20",
+  "milestone": "board setup and custom position parity",
+  "debugBuild": "passed",
+  "releaseBuild": "passed (unsigned)",
+  "tests": [
+    {
+      "suite": "com.demarpsoftware.kidswordplus.FamilyTests",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.GameShareTests",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.LearningRulesTest",
+      "tests": 1,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessPuzzleTests",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessTests",
+      "tests": 12,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.LessonCompletionTests",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessLessonRoundTests",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessCustomTests",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessClockTests",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessMoveVisualTests",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.GameTests",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessLessonTests",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessSpeechTests",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessFreePracticeTests",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessDropTests",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessMoveHistoryTests",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessStatisticsTests",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessDifficultyTests",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.FamilyShareChallengeTests",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.PackageTests",
+      "tests": 8,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.PageHelpTests",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessOpeningTests",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessPuzzleRoundTests",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.LanguageSupportTests",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "suite": "com.demarpsoftware.kidswordplus.ChessAcademyTests",
+      "tests": 4,
+      "failures": 0,
+      "errors": 0
+    }
+  ],
+  "lintDebug": "0 errors, 41 warnings, 8 hints",
+  "realContent": {
+    "trActiveWords": 1703,
+    "enActiveWords": 1700,
+    "categories": 17,
+    "alphabetLessonSizes": [
+      10,
+      10,
+      9
+    ],
+    "fullOfflineInstallation": "passed",
+    "removeOneLanguageKeepsOtherLanguage": "passed"
+  },
+  "downloadTests": [
+    "strict 206 resume",
+    "200 restart",
+    "invalid Content-Range rejection",
+    "wrong archive hash removes partial",
+    "network interruption keeps bytes for retry"
+  ],
+  "failureTests": [
+    "invalid update keeps installed revision",
+    "cancelled update keeps installed revision and removes staging",
+    "ZIP traversal rejection",
+    "draft installed content rejected in Release",
+    "catalog base dependency mismatch rejection",
+    "remote catalog cannot inject local asset paths"
+  ],
+  "releaseExcludesDebugCatalogAndArchives": true,
+  "deviceUI": "API 34 ARM64 isolated emulator: setup and verified base/TR installation, chess phone and tablet viewport smoke passed; physical device acceptance pending",
+  "liveCDN": "not verified: content publication is outside this task",
+  "developmentPackaging": "Small Debug APK; local archives are side-loaded with scripts/load_device_packages.py or optionally bundled. Reference archives unchanged.",
+  "gameValidation": [
+    "audio before listening answers",
+    "first wrong answer remains pending until next round first-correct",
+    "review language isolation",
+    "fully completed rounds counted once",
+    "memory duplicate/third card guard",
+    "daily reward idempotence and language/date isolation",
+    "remaining-content target adjustment",
+    "progress codec round trip",
+    "actual audio/image/text deduplication",
+    "difficulty bounds"
+  ],
+  "gameDeviceUI": "API34 ARM64 emulator: phone/tablet visual checks, matching and memory completed; physical-device acceptance pending",
+  "gamePersistence": "Existing studied set preserved; new games.v1 record; configuration changes retain round, process death restarts unfinished round.",
+  "familyValidation": [
+    "21 character definitions match current iOS catalog",
+    "starter and word/task thresholds",
+    "permanent unlocks and Nova all-friends condition",
+    "cross-language best streak with dates deduplicated",
+    "same-language level completion",
+    "continuous three-second hold and early-release cancellation",
+    "setup vs parent management authorization",
+    "Monday-based report week and language/content filtering"
+  ],
+  "companionAssets": "21 PNGs copied unchanged from existing project assets; SHA-256 compared; present in Release",
+  "parentAccess": "Ephemeral; re-locks on background and leaving parent area. UI supports hold and accessible arithmetic alternative. Device gesture/TalkBack acceptance pending.",
+  "familyDeviceUI": "Not run; parent gesture and accessibility acceptance pending",
+  "chessValidation": {
+    "initialPerft": [
+      20,
+      400,
+      8902
+    ],
+    "castlingPerft": [
+      48,
+      2039
+    ],
+    "pinnedPositionPerft": [
+      14,
+      191,
+      2812
+    ],
+    "specialRules": [
+      "safe castling",
+      "en passant and pinned en passant",
+      "both colors / four promotions",
+      "checkmate / stalemate",
+      "threefold repetition / fifty-move counter",
+      "king capture and pinned move rejection"
+    ],
+    "persistence": [
+      "pending computer turn restore",
+      "full turn undo / single ply undo",
+      "invalid saved data rejection",
+      "completed-game ID credited once"
+    ],
+    "computer": "legal move selection and mate-in-one checked"
+  },
+  "chessAssets": "12 unchanged PNGs verified against project reference and included in Release",
+  "chessDeviceUI": {
+    "device": "API 34 Google APIs ARM64 isolated emulator",
+    "phone": "1080x1920, density 420",
+    "tabletViewport": "1600x2560, density 240; same emulator resized",
+    "passed": [
+      "two-player legal move selection",
+      "force-stop/relaunch and saved position resume",
+      "f2f3 e7e5 g2g4 d8h4 checkmate",
+      "one completed-game statistic recorded",
+      "tablet navigation rail and retained game state"
+    ],
+    "screenshots": [
+      "reviews/chess-smoke/phone.png",
+      "reviews/chess-smoke/tablet.png"
+    ],
+    "pending": [
+      "physical phone/tablet",
+      "computer opponent UI",
+      "promotion and special-move UI",
+      "TalkBack"
+    ]
+  },
+  "chessRemaining": [
+    "expanded ending and mate puzzle pools",
+    "expanded movement and safety rounds",
+    "expanded narration and detailed history"
+  ],
+  "chessLessonValidation": {
+    "goals": 9,
+    "pieces": 6,
+    "tests": "reachability, capture and obstacle rules, wrong goal rejection, idempotent completion",
+    "deviceUI": "API34 emulator: king goal solved, persisted move.king, phone and tablet viewport; state retained after resize",
+    "progress": "shared across learning languages; stable IDs, independent from match and word rewards",
+    "remaining": "randomized rounds and device checks of all nine goals"
+  },
+  "chessAcademyValidation": {
+    "setup": "32 unique placements match match-engine initial board; wrong kind/square and invalid count rejected",
+    "safety": "four reference seeds in check, legal escape/capture/block, correct threat identification, idempotent completion",
+    "deviceUI": [
+      "API34 ARM64 emulator: all four safety goals solved and saved at tablet viewport 1600x2560 / density 240",
+      "first setup piece placed and saved",
+      "force-stop/relaunch at phone viewport 1080x1920 / density 420 resumes 1/32; second piece placed successfully"
+    ],
+    "screenshots": [
+      "reviews/chess-academy/safety-tablet.png",
+      "reviews/chess-academy/setup-phone.png"
+    ],
+    "pending": [
+      "physical devices and TalkBack",
+      "full 32-step setup via UI",
+      "randomized safety variants and ending puzzles"
+    ]
+  },
+  "chessPuzzleValidation": {
+    "recognition": 3,
+    "mateInOne": 3,
+    "rules": [
+      "known check/checkmate/stalemate positions",
+      "all legal mating moves accepted",
+      "non-mating checks and stalemates rejected",
+      "unknown and wrong answers cannot earn progress",
+      "completion is idempotent"
+    ],
+    "deviceUI": [
+      "API34 ARM64 emulator tablet viewport: all six goals solved and persisted",
+      "wrong ending answer retry and stalemating move rejection verified",
+      "phone viewport force-stop/relaunch restores 6/6 completed goals",
+      "game screen retained across tablet-to-phone resize"
+    ],
+    "screenshots": [
+      "reviews/chess-puzzles/ending-tablet.png",
+      "reviews/chess-puzzles/mate-tablet.png",
+      "reviews/chess-puzzles/restored-phone.png"
+    ],
+    "pending": [
+      "physical devices and TalkBack",
+      "English UI acceptance",
+      "expanded randomized pools and narration"
+    ]
+  },
+  "chessOpeningValidation": {
+    "lessons": 8,
+    "legalHalfMoves": 51,
+    "reference": "iOS ChessOpenings.swift; all eight IDs, lines and step ideas ported",
+    "tests": [
+      "51 legal steps and correct turns",
+      "exact-sequence and stale-callback rejection",
+      "per-lesson progress isolation",
+      "earned completion survives rewind and restart",
+      "versioned JSON round trip and invalid version/count rejection"
+    ],
+    "deviceUI": [
+      "API34 ARM64 emulator at tablet viewport: legal off-line d2d4 rejected, Italian six steps completed by touch",
+      "rewind persists 5/6 with earned Italian completion",
+      "phone viewport force-stop/relaunch restores 5/6 and 1/8 completed lessons"
+    ],
+    "screenshots": [
+      "reviews/chess-openings/completed-tablet.png",
+      "reviews/chess-openings/restored-phone.png"
+    ],
+    "pending": [
+      "physical devices and TalkBack",
+      "English UI and seven other opening UI acceptance",
+      "full opening narration and record recovery UI"
+    ]
+  },
+  "chessCustomValidation": {
+    "editor": "piece/color/eraser palette; automatic single-king relocation; persistent incomplete drafts; side to move; optional home-square castling; standard/clear confirmation",
+    "rules": [
+      "exactly one king per side",
+      "16 pieces / 8 pawns per side",
+      "no edge-rank pawn or adjacent kings",
+      "side not to move cannot be in check",
+      "finished setups cannot start",
+      "no initial en passant; historical reachability not proven"
+    ],
+    "persistence": "standard match v1 preserved; custom match v2 stores validated origin FEN; undo/replay from origin; draft v1 stored independently",
+    "deviceUI": [
+      "API34 ARM64 emulator tablet viewport: three-piece setup created by touch",
+      "replacement confirmed and custom two-player match started",
+      "f7g7 checkmate, undo to custom origin, repeated mate; outcome credited once",
+      "phone viewport force-stop/relaunch restored custom match and queen on g7"
+    ],
+    "screenshots": [
+      "reviews/chess-custom/editor-tablet.png",
+      "reviews/chess-custom/match-tablet.png",
+      "reviews/chess-custom/restored-phone.png"
+    ],
+    "pending": [
+      "physical devices and TalkBack",
+      "computer mode, Black start, castling and palette reset UI acceptance",
+      "FEN import/export, randomized armies and draft recovery UI"
+    ]
+  },
+  "chessClockValidation": {
+    "presetsMinutes": [
+      0,
+      1,
+      5,
+      10,
+      15,
+      30
+    ],
+    "policy": "Teaching clock: runs only on visible foreground board; menu/background pause; no increment; undo never refunds time",
+    "persistence": "version 3 timed matches; versions 1/2 remain untimed; monotonic active-time measurement and roughly one-second checkpoints",
+    "tests": [
+      "independent side clocks and turn switch",
+      "timeout guards and one result credit",
+      "no time refund on undo",
+      "custom Black origin with timed persistence",
+      "legacy saves, limits and display formatting"
+    ],
+    "deviceUI": [
+      "API34 ARM64 emulator, tablet viewport: one-minute two-player game and e2e4 switch",
+      "background clock unchanged across four-second sample",
+      "menu clock unchanged across three-second sample",
+      "natural Black timeout at 0:00 with positive White time and one result credit",
+      "phone viewport force-stop/relaunch retained timeout result"
+    ],
+    "screenshots": [
+      "reviews/chess-clock/running-tablet.png",
+      "reviews/chess-clock/timeout-tablet.png",
+      "reviews/chess-clock/restored-phone.png"
+    ],
+    "pending": [
+      "physical devices, TalkBack and English UI",
+      "timed computer/custom game UI",
+      "active nonzero clock process-death UI",
+      "increment and background-running tournament clock"
+    ]
+  },
+  "chessDifficultyValidation": {
+    "levels": [
+      "EASY: random legal move",
+      "NORMAL: captures/risk/centre",
+      "CHALLENGE: opponent reply minimax with bounded extra search"
+    ],
+    "limits": "2000 nodes / about 1000 ms extra search; legal generation and normal fallback cost are outside that timer; no Elo claim",
+    "persistence": "additive difficulty field on match and summary; legacy defaults NORMAL; undo/clock/custom origin retain level",
+    "tests": [
+      "seeded random legality and variation",
+      "hard avoids medium poisoned capture",
+      "medium/hard mate-in-one priority",
+      "zero-budget legal fallback and cancellation",
+      "level round-trip through custom timed games, undo, statistics and legacy records"
+    ],
+    "deviceUI": [
+      "API34 ARM64 emulator tablet viewport: all three selectors and descriptions",
+      "Hard computer opened as White then replied to e7e5; three legal plies recorded",
+      "phone viewport force-stop/relaunch retained Hard label and match"
+    ],
+    "screenshots": [
+      "reviews/chess-difficulty/hard-tablet.png",
+      "reviews/chess-difficulty/restored-phone.png"
+    ],
+    "pending": [
+      "physical devices, TalkBack, English UI",
+      "Easy/Medium gameplay UI",
+      "custom/time-limited difficulty UI",
+      "broader playing-strength measurement"
+    ]
+  },
+  "chessSpeechValidation": {
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "clipsPerLanguage": 269,
+    "assets": "538 MP3s, original index/content/credits copied; SHA-256 compared both in source assets and Debug/Release APK entries",
+    "offline": "bundled recordings; no TTS or network dependency",
+    "unitTests": [
+      "all clip paths exist and reject unsafe paths",
+      "all current piece, goal, setup, safety, ending and opening idea texts resolve in both languages",
+      "normal/Black/capture/en-passant/promotion move speech resolves",
+      "Unicode normalization and incomplete recording rejection"
+    ],
+    "deviceUI": [
+      "API34 emulator with host audio enabled, tablet viewport: Turkish queen explanation transcript and stop control",
+      "Android MediaPlayer state:started, speech content type and mutedState:none observed",
+      "background stops app audio; returning does not replay",
+      "manual stop verified",
+      "new human/computer moves trigger automatic narration; at most one native player started",
+      "mute preference persists through phone force-stop/relaunch; manual last-move listening still works",
+      "automatic narration re-enabled and visible emulator left open"
+    ],
+    "screenshots": [
+      "reviews/chess-audio/lesson-tablet.png",
+      "reviews/chess-audio/move-tablet.png",
+      "reviews/chess-audio/restored-phone.png"
+    ],
+    "pending": [
+      "human listening quality, physical devices, TalkBack",
+      "English device UI/audio acceptance",
+      "all lessons/goals via device UI",
+      "headphone/audio-focus interruption acceptance",
+      "remaining mate/custom/result/clock narration and optional TTS"
+    ]
+  },
+  "visualValidation": {
+    "assets": 187,
+    "bytes": 8591728,
+    "format": "WebP derivatives of existing project artwork; original references unchanged",
+    "audit": "docs/ui-assets.json; output hashes verified; 187 UI assets and all 538 narration MP3s present in Debug and Release",
+    "device": "API34 ARM64 emulator; phone 1080x1920/density420, tablet viewport1600x2560/density240",
+    "screenshots": [
+      "reviews/visual-integration/categories-phone.png",
+      "reviews/visual-integration/chess-phone.png",
+      "reviews/visual-integration/chess-tablet.png",
+      "reviews/visual-integration/games-phone.png",
+      "reviews/visual-integration/home-phone.png",
+      "reviews/visual-integration/home-tablet.png",
+      "reviews/visual-integration/parent-phone.png",
+      "reviews/visual-integration/subcategories-phone.png",
+      "reviews/visual-integration/subcategories-tablet.png"
+    ],
+    "checked": [
+      "phone home, category/subcategory artwork, games and parent gate",
+      "tablet navigation rail, subcategory grid and illustrated chess menu",
+      "adaptive panda launcher and API31+ splash resources",
+      "API26 dark navigation bar fallback; API27+ light navigation bar"
+    ],
+    "pending": [
+      "physical phone/tablet",
+      "TalkBack, large font and landscape acceptance",
+      "animated character and full iOS visual parity"
+    ]
+  },
+  "iosUIValidation": {
+    "reference": [
+      "KidsWordPlusV2/App/HomeViews.swift",
+      "KidsWordPlusV2/App/SetupViews.swift",
+      "KidsWordPlusV2/App/KidsWordPlusApp.swift",
+      "KidsWordPlusV2/App/ChessViews.swift",
+      "live iPhone17 / iOS26.5 home screenshot"
+    ],
+    "design": "docs/IOS-UI.md",
+    "device": "API34 ARM64 emulator, phone1080x1920/density420; same emulator tablet viewport1600x2560/density240",
+    "passed": [
+      "five-tab navigation and profile settings entry",
+      "home speech bubble, suggested lesson and category preview",
+      "phone colored category grid and horizontal subcategory rows",
+      "word lesson resume with original learning progress retained",
+      "profile-to-parent locked gate",
+      "games illustration grid",
+      "ten-card chess menu and pieces page",
+      "tablet home, categories, games, chess and pieces layouts",
+      "Debug and unsigned Release builds, 65 unit tests, lint no errors"
+    ],
+    "screenshots": [
+      "reviews/ios-parity/categories-phone.png",
+      "reviews/ios-parity/categories-tablet.png",
+      "reviews/ios-parity/chess-phone.png",
+      "reviews/ios-parity/chess-tablet.png",
+      "reviews/ios-parity/games-phone.png",
+      "reviews/ios-parity/games-tablet.png",
+      "reviews/ios-parity/home-phone.png",
+      "reviews/ios-parity/home-tablet.png",
+      "reviews/ios-parity/ios-reference-home.png",
+      "reviews/ios-parity/parent-phone.png",
+      "reviews/ios-parity/pieces-phone.png",
+      "reviews/ios-parity/pieces-tablet.png",
+      "reviews/ios-parity/profile-phone.png",
+      "reviews/ios-parity/subcategories-phone.png",
+      "reviews/ios-parity/word-phone.png"
+    ],
+    "pending": [
+      "six-step first-run flow on a fresh installation",
+      "full acceptance of every chess/game sub-screen",
+      "physical devices, English UI, TalkBack, large font and landscape",
+      "dark appearance and full animation parity"
+    ],
+    "platformDifferences": [
+      "Android system font rendering and system UI",
+      "translucent tab surface approximates iOS26 Liquid Glass",
+      "custom vector tab symbols instead of SF Symbols"
+    ],
+    "scope": "speech practice remains deferred as previously requested; language/package management still requires parent gate; name and companion editable in profile"
+  },
+  "greetingOpeningUIValidation": {
+    "characters": 21,
+    "frames": 84,
+    "bytes": 4304432,
+    "audit": "docs/greeting-assets.json",
+    "reference": [
+      "KidsWordPlusV2/App/WelcomeSplashView.swift",
+      "KidsWordPlusV2/App/ChessOpeningsView.swift"
+    ],
+    "passed": [
+      "all 84 output images decode, dimensions <=512, source/output hashes recorded",
+      "Debug/Release APK greeting entry hashes match all 84 outputs",
+      "Piko character-region screenshots change during playback",
+      "three character-region screenshots identical with animator_duration_scale=0; original setting restored",
+      "phone opening principle expands and displays original text",
+      "Italian lesson retains 5/6 practised moves and earned completion",
+      "tablet four-column principles and opening cards",
+      "Debug/unsigned Release, 65 tests, no lint errors"
+    ],
+    "screenshots": [
+      "reviews/ios-motion-openings/greeting-0.png",
+      "reviews/ios-motion-openings/greeting-1.png",
+      "reviews/ios-motion-openings/greeting-2.png",
+      "reviews/ios-motion-openings/greeting-3.png",
+      "reviews/ios-motion-openings/greeting-4.png",
+      "reviews/ios-motion-openings/greeting-5.png",
+      "reviews/ios-motion-openings/greeting-6.png",
+      "reviews/ios-motion-openings/greeting-7.png",
+      "reviews/ios-motion-openings/lesson-phone.png",
+      "reviews/ios-motion-openings/opening-cards-phone.png",
+      "reviews/ios-motion-openings/openings-phone.png",
+      "reviews/ios-motion-openings/openings-tablet.png",
+      "reviews/ios-motion-openings/principle-phone.png",
+      "reviews/ios-motion-openings/reduced-motion-0.png",
+      "reviews/ios-motion-openings/reduced-motion-1.png",
+      "reviews/ios-motion-openings/reduced-motion-2.png"
+    ],
+    "pending": [
+      "other 20 companion device acceptance",
+      "human timing/pose approval, physical devices and TalkBack",
+      "background lifecycle device acceptance",
+      "watch mode and animated chess move transitions",
+      "English UI and full dark theme parity"
+    ]
+  },
+  "openingWatchValidation": {
+    "reference": "KidsWordPlusV2/App/ChessOpeningsView.swift: ChessOpeningLessonView",
+    "animationMillis": 900,
+    "watch": "screen-only counter; entire watch sequence leaves stored opening progress unchanged",
+    "practice": "existing progress resumed; explicit reset retains earned completion",
+    "passed": [
+      "Londra 6/6 watch completed with stored practice JSON unchanged",
+      "rapid double tap advances once",
+      "pending animated move cancelled when Home is pressed before completion",
+      "practice starts at stored 0/6; wrong d2d3 rejected; d2d4 saved once; explicit reset restores original counts and completions",
+      "65 unit tests, Debug and unsigned Release, lint no errors",
+      "Italian practice resumes 5/6 on final APK",
+      "final rendered landscape layout visually inspected: full board with independent explanation column",
+      "final phone home responsive after viewport restore"
+    ],
+    "screenshots": [
+      "reviews/opening-watch/lesson-landscape.png",
+      "reviews/opening-watch/moving-tablet.png",
+      "reviews/opening-watch/practice-move-tablet.png",
+      "reviews/opening-watch/practice-phone.png",
+      "reviews/opening-watch/practice-tablet.png",
+      "reviews/opening-watch/watch-tablet.png",
+      "reviews/opening-watch/watched-complete-tablet.png"
+    ],
+    "pending": [
+      "all eight watch/practice sequences via UI",
+      "physical devices, English and TalkBack",
+      "rotation and process-death during animated move acceptance"
+    ],
+    "startupObservation": "One emulator input-focus ANR after APK replacement; main blocked in HardwareRenderer/RenderProxy::setStopped and RenderThread in frame commit. App restart recovered. Final phone, library, retained practice and rendered landscape checks passed without recurrence; underlying cause not established. UI capture helper now rejects stale hierarchy dumps."
+  },
+  "chessAppearanceValidation": {
+    "reference": "KidsWordPlusV2/App/ChessViews.swift: ChessFlatPiece and appearance picker",
+    "default": "2D classic; normalized vector paths transcribed from iOS",
+    "persistence": "Separate chess-appearance preferences, chess.piece.appearance.v1; shared across live chess screens",
+    "passed": [
+      "Phone 2D/3D picker and piece cards visually inspected",
+      "Tablet opening board: both appearances, all six piece kinds in both colors visually inspected",
+      "3D persists after force-stop/relaunch; selected clickable card reports checked=true",
+      "Full profile.xml SHA-256 unchanged after appearance toggles",
+      "Debug and unsigned Release builds; 65 unit tests, no failures; lint no errors"
+    ],
+    "screenshots": [
+      "reviews/chess-appearance/pieces-2d-phone.png",
+      "reviews/chess-appearance/pieces-3d-phone.png",
+      "reviews/chess-appearance/board-2d-tablet.png",
+      "reviews/chess-appearance/board-3d-tablet.png"
+    ],
+    "pending": [
+      "Physical devices, English UI, TalkBack and large-font acceptance",
+      "Device acceptance of picker in every chess sub-screen"
+    ],
+    "previewBehavior": "Opening library decorative position previews remain 3D as in iOS"
+  },
+  "pieceCardsValidation": {
+    "reference": "KidsWordPlusV2/App/ChessViews.swift: ChessPiecesView",
+    "passed": [
+      "Repeated body title removed; language badge present",
+      "Phone two-column cards, tablet five-column cards at tested viewport; last row retains equal card width",
+      "Six piece-specific border and circular arrow colors; 26dp corners",
+      "Font scale 1.8: appearance picker and piece grid become one column",
+      "King card opens detail and returns to pieces",
+      "Debug and unsigned Release builds; 65 tests, zero failures; lint 0 errors, 31 warnings, 8 hints",
+      "Original font scale and phone viewport restored; app left on home"
+    ],
+    "screenshots": [
+      "reviews/piece-cards/phone.png",
+      "reviews/piece-cards/tablet.png",
+      "reviews/piece-cards/large-font-phone.png"
+    ],
+    "pending": [
+      "Physical devices, English UI and TalkBack",
+      "Remaining piece detail and training UI parity",
+      "Full large-font content scrolling acceptance beyond piece cards"
+    ]
+  },
+  "adaptiveTabsValidation": {
+    "passed": [
+      "Normal phone appearance captured",
+      "Font scale 1.8 phone: full active labels, horizontal scrolling, all five destinations reached",
+      "Selected destination automatically brought into view",
+      "Font scale 1.8 tablet viewport visually inspected",
+      "Original font scale and phone viewport restored; home left open",
+      "Debug and unsigned Release builds, 65 tests with zero failures; lint 0 errors, 31 warnings, 8 hints"
+    ],
+    "screenshots": [
+      "reviews/accessible-tabs/phone.png",
+      "reviews/accessible-tabs/large-home.png",
+      "reviews/accessible-tabs/large-profile.png",
+      "reviews/accessible-tabs/large-tablet.png"
+    ],
+    "pending": [
+      "TalkBack and physical devices",
+      "English device UI"
+    ]
+  },
+  "homeGreetingLayoutValidation": {
+    "passed": [
+      "Normal phone: original side-by-side character and bubble layout visually inspected",
+      "Font scale 1.8 phone and tablet: greeting, secondary text and language fully visible",
+      "Greeting area still opens profile",
+      "Debug and unsigned Release builds; 65 tests, zero failures; lint 0 errors, 31 warnings, 8 hints"
+    ],
+    "screenshots": [
+      "reviews/greeting-layout/phone.png",
+      "reviews/greeting-layout/large-phone.png",
+      "reviews/greeting-layout/large-tablet.png"
+    ],
+    "pending": [
+      "Physical devices, TalkBack and English UI",
+      "Long personalized names and font scales beyond tested 1.8"
+    ]
+  },
+  "gamesIosUIValidation": {
+    "reference": "KidsWordPlusV2/App/HomeViews.swift game views; Core/LearningCore.swift MemoryDifficulty",
+    "design": "docs/GAMES-UI.md",
+    "passed": [
+      "Phone: menu, listening/audio, matching setup and board, memory setup/card flip, daily tasks and scoreboard visually inspected",
+      "Matching correct pair connection, completed round result and menu return",
+      "Final APK memory round completed, result and menu return",
+      "Tablet: menu, listening, matching with three words, memory setup, 16-card grid and revealed card",
+      "Tablet font scale 1.8: daily tasks and listening layout visually inspected",
+      "Final APK empty review page and back to games",
+      "Debug and unsigned Release builds; 65 unit tests, zero failures; lint 0 errors, 31 warnings, 8 hints",
+      "Original font scale restored; phone1080x1920/density420; latest app left on games menu"
+    ],
+    "screenshots": [
+      "reviews/games-ios/daily-large-tablet.png",
+      "reviews/games-ios/daily-phone.png",
+      "reviews/games-ios/daily-tablet.png",
+      "reviews/games-ios/final-menu-phone.png",
+      "reviews/games-ios/listening-large-tablet.png",
+      "reviews/games-ios/listening-phone.png",
+      "reviews/games-ios/listening-tablet.png",
+      "reviews/games-ios/matching-linked-phone.png",
+      "reviews/games-ios/matching-phone.png",
+      "reviews/games-ios/matching-result-phone.png",
+      "reviews/games-ios/matching-setup-phone.png",
+      "reviews/games-ios/matching-tablet.png",
+      "reviews/games-ios/memory-flipped-phone.png",
+      "reviews/games-ios/memory-flipped-tablet.png",
+      "reviews/games-ios/memory-phone.png",
+      "reviews/games-ios/memory-result-phone.png",
+      "reviews/games-ios/memory-setup-phone.png",
+      "reviews/games-ios/memory-setup-tablet.png",
+      "reviews/games-ios/memory-tablet.png",
+      "reviews/games-ios/menu-phone.png",
+      "reviews/games-ios/menu-tablet.png",
+      "reviews/games-ios/review-empty-tablet.png",
+      "reviews/games-ios/scoreboard-phone.png"
+    ],
+    "pending": [
+      "Physical phones/tablets, English and TalkBack",
+      "Full listening/review round completion via device UI",
+      "Human timing approval of answer and flip animation; reduced-motion acceptance for new game effects",
+      "System share chooser device acceptance; Android shares text while iOS has a custom family share sheet"
+    ],
+    "qaProgress": "Matching and memory rounds completed on the development emulator; normal progress/review/session counting remains enabled. Existing engine and persistence code unchanged.",
+    "scope": "Speech practice remains deferred. Standard learning games and related pages updated; full cross-platform pixel equality not claimed."
+  },
+  "profileIosUIValidation": {
+    "reference": "KidsWordPlusV2/App/SetupViews.swift: ProfileEditorView, ProfileNameField, CompanionPicker, CompanionChoiceCard",
+    "passed": [
+      "Phone profile summary, name field, starter/locked sections and Nova outline visually inspected",
+      "Name typed via device UI and automatically saved to preferences; original empty name restored",
+      "Mia selected via device UI, preference verified; original Piko restored",
+      "Tablet profile and font scale 1.8 one-column companion grid visually inspected",
+      "Settings opens locked parent gate; returned without unlocking",
+      "Debug and unsigned Release builds; 65 unit tests, zero failures; lint 0 errors, 31 warnings, 8 hints",
+      "Final APK installed; original font scale and phone viewport restored; profile open"
+    ],
+    "screenshots": [
+      "reviews/profile-ios/locked-phone.png",
+      "reviews/profile-ios/nova-phone.png",
+      "reviews/profile-ios/profile-large-tablet.png",
+      "reviews/profile-ios/profile-phone.png",
+      "reviews/profile-ios/profile-tablet.png",
+      "reviews/profile-ios/settings-gate-tablet.png",
+      "reviews/profile-ios/starters-phone.png"
+    ],
+    "pending": [
+      "Physical devices, English UI and TalkBack",
+      "Rapid exit while another operation is saving, process death during name editing",
+      "All companion unlock appearances on earned profiles"
+    ],
+    "scope": "Profile editor and companion world updated. Existing unlock rules and parent gate retained; parent reports not redesigned in this step. Native fonts and system keyboard remain Android-specific."
+  },
+  "parentIosUIValidation": {
+    "reference": [
+      "KidsWordPlusV2/App/HomeViews.swift: ParentGateView, ParentDashboardView, LearningReportView, ParentSettingsView",
+      "KidsWordPlusV2/App/KidsWordPlusApp.swift: PackageLibraryView"
+    ],
+    "design": "docs/PARENT-UI.md",
+    "passed": [
+      "Phone parent gate: 500ms early release stays locked; 3300ms hold unlocks",
+      "Four parent tabs; child tabs hidden; profile editor reused",
+      "Phone and tablet dashboard, category reports, settings and package views visually inspected",
+      "Package push/back retains Settings destination",
+      "Removal confirmation cancelled; no pack removed",
+      "Tablet font scale 1.8: one-column metrics and parent navigation visually inspected",
+      "Final equal metric card heights and Monday-Sunday weekly chart visually inspected",
+      "Actual launcher transition and resume re-locks parent area; unlock works again",
+      "Debug and unsigned Release builds; 65 unit tests with zero failures; lint 0 errors, 31 warnings, 8 hints"
+    ],
+    "screenshots": [
+      "reviews/parent-ios/dashboard-large-tablet.png",
+      "reviews/parent-ios/dashboard-phone.png",
+      "reviews/parent-ios/dashboard-tablet.png",
+      "reviews/parent-ios/final-chart-phone.png",
+      "reviews/parent-ios/final-dashboard-phone.png",
+      "reviews/parent-ios/gate-phone.png",
+      "reviews/parent-ios/languages-phone.png",
+      "reviews/parent-ios/packages-phone.png",
+      "reviews/parent-ios/packages-tablet.png",
+      "reviews/parent-ios/profile-phone.png",
+      "reviews/parent-ios/remove-confirm-tablet.png",
+      "reviews/parent-ios/reports-phone.png",
+      "reviews/parent-ios/reports-tablet.png",
+      "reviews/parent-ios/settings-phone.png",
+      "reviews/parent-ios/settings-tablet.png"
+    ],
+    "pending": [
+      "Physical devices, English and TalkBack",
+      "New language selection/installation through redesigned settings, actual deletion and recovery actions not exercised",
+      "iOS-only photo/camera, notifications/reminders, analytics, daily goal and report sharing not ported in this UI step",
+      "Full iOS pixel equality; Android native font/material differences remain"
+    ],
+    "security": "Existing ephemeral parent authorization and background relock retained. UI checks made no changes to profile, learning language or installed packs."
+  },
+  "chessIosAllUIValidation": {
+    "references": [
+      "ChessViews.swift",
+      "ChessBoardSetupView.swift",
+      "ChessTrainingView.swift",
+      "ChessKingSafetyView.swift",
+      "ChessCustomGameView.swift",
+      "ChessOpeningsView.swift"
+    ],
+    "design": "docs/CHESS-IOS-UI.md",
+    "passed": [
+      "Phone history, basics, master portraits, setup, training and safety pages visited",
+      "Phone check/mate/stalemate, mate-in-one, custom editor, resumed match and new-game options visited",
+      "Final training piece selection produces yellow board border; direct header back returns to chess menu",
+      "Child tabs hidden in board screens and restored in menu/library",
+      "Tablet custom editor, mate-in-one in 2D/3D, full resumed match board visually inspected",
+      "Saved chess.game.v1 unchanged during final UI flow",
+      "Large-font 1.8 tablet history layout inspected; original font/phone viewport restored",
+      "Ten original history portraits and credits copied unchanged; Debug/Release asset hashes verified",
+      "Debug and unsigned Release builds; 65 unit tests, zero failures; lint 0 errors, 31 warnings, 8 hints",
+      "Final caption-only date-badge adjustment compiled in Debug/Release with lint; 65 engine/content tests passed before this presentation-only change"
+    ],
+    "assets": "docs/chess-history-assets.json",
+    "screenshots": {
+      "finalLayout": [
+        "reviews/chess-ios-all/final-training-phone.png",
+        "reviews/chess-ios-all/selected-training-phone.png",
+        "reviews/chess-ios-all/custom-tablet.png",
+        "reviews/chess-ios-all/mate-tablet.png",
+        "reviews/chess-ios-all/mate-3d-tablet.png",
+        "reviews/chess-ios-all/match-tablet.png",
+        "reviews/chess-ios-all/history-large-tablet.png",
+        "reviews/chess-ios-all/final-menu-phone.png",
+        "reviews/chess-ios-all/final-side-cards-phone.png"
+      ],
+      "earlierIterations": "Other phone captures in reviews/chess-ios-all document earlier stages before final header/tab and picker-order adjustments."
+    },
+    "pending": [
+      "Physical devices, English and TalkBack",
+      "Landscape adaptation acceptance for all screens beyond existing opening lesson layout",
+      "Live promotion, timed-game clock cards, finished-game result card, all task selections and basic narration via device UI",
+      "iOS drag/drop, free practice, larger random task pools, match move animation and share cards remain separate work"
+    ],
+    "scope": "Existing chess engine, save formats and progress conditions retained. Native font/material differences remain; full pixel equality not claimed."
+  },
+  "chessFreePracticeValidation": {
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "tests": 67,
+    "failures": 0,
+    "scope": [
+      "single piece movement",
+      "free/tasks switch",
+      "promotion",
+      "reset"
+    ],
+    "tabletVisualQA": "not repeated in this step",
+    "phoneQA": [
+      "select king",
+      "legal destination markers",
+      "d4 to e5 move",
+      "reset to d4",
+      "chess preferences unchanged"
+    ]
+  },
+  "chessDragValidation": {
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "tests": 69,
+    "failures": 0,
+    "phone": [
+      "valid drag",
+      "invalid destination",
+      "outside board cancellation",
+      "tap compatibility"
+    ],
+    "tablet": [
+      "valid drag",
+      "reset"
+    ],
+    "automated": [
+      "all 64 squares in both orientations at three sizes",
+      "outside and non-finite coordinates"
+    ],
+    "notManuallyCompleted": [
+      "saved match moves",
+      "mate solutions",
+      "safety solutions"
+    ],
+    "screenshots": "reviews/chess-drag",
+    "tabletScreenshot": "before final instructional caption",
+    "savedChessPreferences": "unchanged against pre-free-practice baseline"
+  },
+  "chessRoundValidation": {
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "tests": 74,
+    "failures": 0,
+    "lint": {
+      "errors": 0,
+      "warnings": 31,
+      "hints": 11
+    },
+    "selectionTests": "200 seeded rounds: ten unique goals, all six pieces, capture, max two per kind, previous IDs excluded",
+    "taskLibraryTests": "all generated goals reachable; legacy nine IDs retained",
+    "tablet": "completed all ten tasks and showed 10/10 summary",
+    "phone": "10/10 restored across resize; New round starts at 0/10",
+    "profile": "test completions removed by restoring pre-test profile; saved game unchanged",
+    "screenshots": "reviews/chess-round/",
+    "remaining": [
+      "match move animation",
+      "share cards"
+    ]
+  },
+  "chessMoveMotionValidation": {
+    "unitTests": 78,
+    "failures": 0,
+    "testScope": [
+      "normal move and capture",
+      "both castling sides and colors",
+      "all promotion choices",
+      "en passant",
+      "ignore reopen, undo, different game, clock ticks, skipped moves and mismatched positions"
+    ],
+    "unitRun": "after drawing-layer optimization; final foreground gate is presentation-only",
+    "manual": [
+      "normal move persisted once and visible cyan path",
+      "white kingside castling persisted once; king g1 and rook f1",
+      "promotion a7a8q through piece picker",
+      "en passant d7d5 then e5d6; d5 empty verified"
+    ],
+    "manualLimitations": [
+      "foreground gate not manually exercised with computer game"
+    ],
+    "profile": "pre-test profile restored byte-for-byte and compared with host backup",
+    "viewport": "phone 1080x1920 at 420dpi restored",
+    "systemMotionPreference": "original unset animator_duration_scale restored",
+    "screenshots": "reviews/chess-motion; captured before final foreground gate",
+    "remaining": [],
+    "debug": "passed (final foreground gate)",
+    "unsignedRelease": "passed (final foreground gate)",
+    "lint": {
+      "Warning": 31,
+      "Hint": 11
+    },
+    "emulator": "final Debug installed and launched with original chess preferences verified",
+    "specialMoveScreens": "reviews/chess-motion/verified-*.png"
+  },
+  "familyShareValidation": {
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "tests": 80,
+    "failures": 0,
+    "lint": {
+      "Warning": 34,
+      "Hint": 11
+    },
+    "unitRun": "80 tests before final badge-only presentation adjustment; final Debug/Release/lint repeated",
+    "scope": [
+      "completed ten-goal practice round",
+      "completed board setup",
+      "finished match"
+    ],
+    "manual": [
+      "wrong answer remains locked",
+      "correct answer opens PNG preview",
+      "Android image chooser opens",
+      "no recipient selected",
+      "background relocks adult verification",
+      "tablet preview",
+      "phone preview and scrollable share action"
+    ],
+    "exportedPng": {
+      "path": "reviews/family-share/exported-board-card.png",
+      "width": 1080,
+      "height": 1702
+    },
+    "profile": "test setup count removed; original profile restored byte-for-byte",
+    "provider": "private FileProvider, cache/family-share only, temporary read URI grant",
+    "rendering": "original logo and 3D piece assets; no profile fields",
+    "manualScope": "setup card fully exercised; practice/match buttons built but not separately exercised",
+    "emulator": "same data, gpu host and Vulkan disabled; previous software renderer blocked RenderProxy.setStopped"
+  },
+  "puzzleRoundValidation": {
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "tests": 85,
+    "failures": 0,
+    "lint": {
+      "Warning": 34,
+      "Hint": 9
+    },
+    "catalog": {
+      "safety": 80,
+      "endings": 240,
+      "mateInOne": 240
+    },
+    "unitScope": [
+      "all generated safety goals remove check or identify the actual attacker",
+      "all endings classify correctly, 80 of each result",
+      "all designated mate solutions yield checkmate",
+      "300 seeded balanced rounds; no duplicate IDs or previous round reuse",
+      "no skipping, exact save restoration, invalid state rejection",
+      "legacy IDs retained",
+      "TR/EN audio keys resolve, variable safety positions use rule audio"
+    ],
+    "manual": [
+      "ten safety tasks solved",
+      "ten ending tasks solved",
+      "ten mate tasks solved",
+      "wrong ending answer does not advance",
+      "completion message and family share in all three sections",
+      "mode switch preserves solved board and progress",
+      "phone resizing restores 10/10",
+      "new round starts at 0/10"
+    ],
+    "finalPresentationChange": "empty source square selection cleared after solving; final Debug/Release/lint repeated",
+    "screenshots": "reviews/puzzle-rounds (before final selection-frame cleanup)",
+    "profile": "original restored byte-for-byte; chess preferences verified after final install",
+    "coldLaunchMilliseconds": 3020,
+    "emulator": "final build installed, phone viewport"
+  },
+  "chessHelpValidation": {
+    "date": "2026-10-20",
+    "topics": 14,
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "manual": [
+      "phone menu help",
+      "tablet practice help",
+      "demo show/reset",
+      "system Back dismiss",
+      "tablet match help"
+    ],
+    "profilePreservedOnInstall": true,
+    "unitTests": "not rerun for UI-only change",
+    "limitations": [
+      "demo changes position without tween",
+      "all topics not individually opened",
+      "timed match pause inspected in code, not manually timed"
+    ]
+  },
+  "endingEscapeValidation": {
+    "date": "2026-10-20",
+    "unitTests": 86,
+    "failures": 0,
+    "errors": 0,
+    "positionsValidated": 240,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "manual": [
+      "tablet legal escape list after correct answer",
+      "move button preview",
+      "reset position",
+      "legal destination tap",
+      "background resets preview"
+    ],
+    "profileRestoredExactly": true,
+    "screenshots": [
+      "reviews/ending-escapes/tablet-preview.png"
+    ],
+    "limitations": [
+      "phone preview not separately visually inspected"
+    ]
+  },
+  "moveHistoryValidation": {
+    "date": "2026-10-20",
+    "unitTests": 89,
+    "failures": 0,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "manual": [
+      "phone/tablet current saved history",
+      "expand/collapse",
+      "profile unchanged"
+    ],
+    "screenshots": [
+      "reviews/move-history/phone.png",
+      "reviews/move-history/tablet.png"
+    ],
+    "limitations": [
+      "long-history auto-scroll not manually exercised"
+    ]
+  },
+  "helpPreferenceValidation": {
+    "date": "2026-10-20",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 89, not rerun for this UI preference change",
+    "manual": [
+      "parent hold gate then settings toggle off",
+      "disabled help persists across process restart",
+      "chess help hidden when disabled",
+      "original profile restored exactly",
+      "demo show/reset"
+    ],
+    "scope": "chess help only",
+    "screenshots": [
+      "reviews/help-settings/disabled-tablet.png",
+      "reviews/help-settings/demo-tablet.png"
+    ]
+  },
+  "fullUiAuditValidation": {
+    "date": "2026-10-20",
+    "screenStates": 68,
+    "differenceGroups": 15,
+    "audit": "docs/UI-PARITY-AUDIT.md",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 89; not rerun",
+    "fixed": [
+      "welcome splash"
+    ],
+    "partial": [
+      "edge-to-edge garden",
+      "chess labels"
+    ],
+    "manual": [
+      "phone/tablet launch and background return",
+      "skip",
+      "reduced motion",
+      "chess menu labels"
+    ],
+    "profileUnchanged": true,
+    "fullVisualApproval": false
+  },
+  "lessonCompletionValidation": {
+    "date": "2026-10-20",
+    "tests": 91,
+    "failures": 0,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "audioClips": 12,
+    "audioBytes": 133699,
+    "audioStoredUncompressed": true,
+    "profileRestoredExactly": true,
+    "screenshots": "reviews/lesson-completion/",
+    "nextAuditIssue": "U04",
+    "limitations": [
+      "positive earned-star animation not manually triggered",
+      "paired iOS pixel review pending"
+    ]
+  },
+  "pageHelpValidation": {
+    "issue": "U04",
+    "status": "implemented and smoke verified",
+    "next": "U05",
+    "tests": 94,
+    "manual": [
+      "all 13 new topics",
+      "chess menu and computer regression",
+      "sound and cards demos",
+      "cards show/reset",
+      "close button, system Back and Got it",
+      "open sheet survives tablet-to-phone resize",
+      "help preference hides Learn/Games/Chess"
+    ],
+    "profileRestoredExactly": true,
+    "limitations": [
+      "full paired iOS pixel review pending",
+      "initial setup package shortcut not manually exercised",
+      "English contents unit-tested; device visual acceptance pending"
+    ],
+    "topics": 27,
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "screenshots": "reviews/page-help/",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed"
+  },
+  "wordAudioValidation": {
+    "date": "2026-10-20",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 94 passed; not rerun for visual-only integration",
+    "implemented": [
+      "actual MediaPlayer start/completion/error/stop state",
+      "lesson and listening/review waveform",
+      "matching playing sound effect independent of selected sound",
+      "memory effect restricted to last tapped card",
+      "inactive controls have no repeating animation",
+      "reduced-motion static highlight"
+    ],
+    "manual": [
+      "phone word active and ended",
+      "phone listening active and ended",
+      "phone matching sound 1 then sound 2",
+      "tablet memory card active and ended",
+      "tablet listening active and ended",
+      "help opens and closes"
+    ],
+    "screenshots": "reviews/word-audio/",
+    "profileRestoredExactly": true,
+    "limitations": [
+      "paired iOS pixel comparison pending",
+      "reduced-motion and background cleanup inspected in code; not separately timed on device",
+      "review uses shared listening control; not separately exercised"
+    ]
+  },
+  "gameShareValidation": {
+    "date": "2026-10-20",
+    "tests": 96,
+    "failures": 0,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "implemented": [
+      "four game kinds use existing gated FamilyShareButton",
+      "completed question/pair count matches iOS",
+      "ear/grid/puzzle/star-circle symbols",
+      "rewarded daily tasks share button",
+      "no profile data in public summary"
+    ],
+    "manual": [
+      "real two-pair memory game completed",
+      "sharing opens adult verification",
+      "adult arithmetic gate answered",
+      "memory PNG preview visually inspected",
+      "system PNG chooser opened; no recipient selected",
+      "phone resize requires verification again"
+    ],
+    "limitations": [
+      "all four result screens not individually completed on device",
+      "daily reward share condition inspected in code; not manually awarded",
+      "paired iOS pixel review pending"
+    ],
+    "screenshots": "reviews/game-share/",
+    "profileRestoredExactly": true
+  },
+  "reportShareValidation": {
+    "date": "2026-10-20",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96 passed; not rerun for UI integration",
+    "manual": [
+      "parent hold gate",
+      "report share opens preview directly within authorized parent area",
+      "TR card contains current report count and learning language",
+      "bar-chart symbol visually verified",
+      "PNG chooser opens, no recipient selected",
+      "background removes report preview",
+      "phone report share reachable by scrolling and preview visually inspected"
+    ],
+    "profileRestoredExactly": true,
+    "screenshots": "reviews/report-share/",
+    "limitations": [
+      "English UI and English learning-language not separately exercised on device",
+      "paired iOS pixel comparison pending"
+    ]
+  },
+  "parentSettingsValidation": {
+    "date": "2026-10-20",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96 passed; not rerun for reversible settings UI",
+    "implemented": [
+      "gallery selection via Android Photo Picker",
+      "camera avatar capture via external camera result",
+      "private 512x512 JPEG without original EXIF, bounded image input",
+      "daily goal 20/40/60/80/100, default 60",
+      "app promotion PNG card with heart, parent authorization"
+    ],
+    "manual": [
+      "80-word goal selected and persisted across restart",
+      "gallery cancel preserves settings",
+      "app promotion preview opens",
+      "gallery test image selected and saved as JPEG",
+      "photo displayed after process restart",
+      "camera opens and cancel preserves photo",
+      "final phone settings, photo options and daily goal menu"
+    ],
+    "limitations": [
+      "sound and animation preferences belong to next U10",
+      "camera capture uses preview resolution for avatar",
+      "paired iOS pixel review pending",
+      "camera shutter capture not exercised; launch/cancel only",
+      "English visual acceptance pending"
+    ],
+    "profileAndPhotoRestoredExactly": true,
+    "screenshots": "reviews/parent-settings/"
+  },
+  "playbackPreferencesValidation": {
+    "date": "2026-10-20",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96 passed; not rerun for reversible UI preferences",
+    "implemented": [
+      "persisted parent Sound and Animation switches, defaults on",
+      "word/game audio and lesson celebrations respect sound preference",
+      "manual chess speech respects sound preference; automatic narration stays silent",
+      "turning sound off stops pending/current audio",
+      "muted listening does not call heard callback",
+      "custom motion requires both parent preference and system motion"
+    ],
+    "screenshots": "reviews/playback-preferences/",
+    "limitations": [
+      "physical-device acceptance pending",
+      "full paired iOS pixel review pending",
+      "celebration sound guard inspected in code; completion not repeated"
+    ],
+    "manual": [
+      "parent switches off and XML persistence checked",
+      "off state survives process restart",
+      "word playback shows sound-off notice",
+      "listening question remains unheard when muted",
+      "shared help sound demo captures identical with parent animation disabled",
+      "chess manual sound-off notice on piece detail",
+      "sound enabled again allows listening game heard state",
+      "shared help sound demo moves with app animation on",
+      "system animator scale zero overrides app animation on; identical captures",
+      "phone Sound/Animation switches visible and accessible; profile unchanged"
+    ],
+    "profileAndSystemMotionRestoredExactly": true
+  },
+  "privacyValidation": {
+    "date": "2026-10-20",
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "unitTests": "previous 96 passed; not rerun for UI/copy changes",
+    "sections": 6,
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "manual": [
+      "all six TR sections reached on tablet and phone",
+      "header Back returns to parent settings",
+      "system Back returns to parent settings",
+      "all six EN sections reached on phone",
+      "English language settings header Back returns correctly",
+      "final English typography visually inspected"
+    ],
+    "contentEvidence": [
+      "Android dependencies have no Firebase SDK/crash/push/analytics",
+      "installed package operations retain learning progress",
+      "Photo Picker/private JPEG storage",
+      "FamilyShare public card fields and cache",
+      "manifest allowBackup=false"
+    ],
+    "screenshots": "reviews/privacy/",
+    "limitations": [
+      "full paired iOS pixel comparison pending",
+      "selection support implemented; copy toolbar not separately exercised",
+      "speaking/reminder sections omitted because features are absent"
+    ],
+    "profileRestoredExactly": true,
+    "screenshotsNote": "TR captures precede final 20sp heading/rounded body adjustment; EN captures show final APK"
+  },
+  "chessLayoutValidation": {
+    "date": "2026-10-20",
+    "tests": 96,
+    "failures": 0,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "manual": [
+      "phone/tablet menu and large-font one-column menu",
+      "endings and mate routes have no cross-mode selector",
+      "wrong ending answer does not advance",
+      "correct ending answer reveals explanation/audio/next below board",
+      "next task and phone resize retain ending task 2/10",
+      "mate selection reset clears selection and preserves position",
+      "legal mating move accepted, success/next above board",
+      "mate task 2/10 retained after phone resize and help open/close"
+    ],
+    "profileAndFontRestoredExactly": true,
+    "screenshots": "reviews/chess-layout/",
+    "limitations": [
+      "TR device UI only; EN copy source-aligned but not separately exercised",
+      "ten-task completion not repeated; covered by prior round tests",
+      "piece/setup/custom full paired visual review remains open",
+      "full paired iOS pixel review pending"
+    ]
+  },
+  "setupCustomValidation": {
+    "date": "2026-10-20",
+    "tests": 99,
+    "failures": 0,
+    "debug": "passed",
+    "unsignedRelease": "passed",
+    "lint": "passed",
+    "manual": [
+      "setup toolbar reset",
+      "wrong target does not advance",
+      "palette-to-board rook drag",
+      "all 32 pieces placed",
+      "white-to-black transition at 16/32",
+      "completion with family share",
+      "clear, selected-side auto arrange and both-side auto arrange",
+      "randomize preserves opposing pieces",
+      "undo restores each arrangement",
+      "custom start replacement confirmation",
+      "edit position returns from active custom game to unchanged draft",
+      "landscape 3-column palette and separate board pane",
+      "board a2-a3 drag and undo",
+      "palette pawn to a3 drag and undo",
+      "phone custom layout",
+      "draft survives process restart",
+      "final phone setup/custom layout and help dismissal; profile unchanged"
+    ],
+    "implemented": [
+      "setup iOS status, instruction/audio, dashed target, feedback card",
+      "palette placement drag and board move drag",
+      "custom selected-side automatic/random arrangement",
+      "50-entry in-memory undo history, saved draft",
+      "portrait/landscape editor layout",
+      "custom game edit and resume routes"
+    ],
+    "screenshots": "reviews/setup-custom/",
+    "limitations": [
+      "English UI not separately exercised",
+      "custom player-side/difficulty choice process persistence differs from iOS; retained for match settings work",
+      "paired iOS pixel review pending"
+    ],
+    "profileDraftAndMatchRestoredExactly": true
+  },
+  "matchCaptureValidation": {
+    "tests": 101,
+    "failures": 0,
+    "errors": 0,
+    "debugBuild": "passed",
+    "emulatorInstall": "passed",
+    "visualComparison": "pending",
+    "cases": [
+      "custom starting material is not a capture",
+      "normal capture",
+      "en passant",
+      "capture of promoted queen"
+    ]
+  },
+  "matchStatisticsValidation": {
+    "tests": 103,
+    "failures": 0,
+    "errors": 0,
+    "debugBuild": "passed",
+    "lint": "passed",
+    "cases": [
+      "new result retains player color",
+      "duplicate result is not recorded twice",
+      "legacy result retains unknown color",
+      "statistics encoding round trip"
+    ],
+    "phoneVisualCheck": "passed; before final pencil icon and computer-only label refinement",
+    "profileRestoration": "exact byte comparison passed",
+    "tabletVisualCheck": "pending",
+    "emulatorInstall": "passed"
+  },
+  "matchSettingsValidation": {
+    "debugBuild": "passed",
+    "lint": "passed",
+    "tests": 103,
+    "failures": 0,
+    "errors": 0,
+    "clockChanges": "not implemented; duration remains in new-game setup",
+    "visualQA": "running",
+    "phoneInteraction": "open, flip twice, close passed before final sheet styling",
+    "tabletInteraction": "open, flip twice, close passed before final sheet styling",
+    "profileRestoration": "exact byte comparison passed on both devices",
+    "finalSheetQA": "phone open, flip twice, close passed; exact profile restored",
+    "finalTabletSheetQA": "passed 2026-10-21"
+  },
+  "matchClockValidation": {
+    "debugBuild": "passed",
+    "lint": "passed",
+    "tests": 105,
+    "failures": 0,
+    "errors": 0,
+    "saveVersions": "reads 1–4; disabled clock writes 4",
+    "manualClockQA": "passed: enable, set 10 minutes, pause/resume retains both clocks, game id and moves unchanged; original profile restored exactly",
+    "customOptionsProcessRestartQA": "passed: Black and Hard persisted and restored as selected in UI; original preferences and profile restored",
+    "tabletClockQA": "passed: final sheet, enable, 10 minutes, pause/resume, same clocks/id/moves; original profile restored exactly"
+  },
+  "setupParityValidation": {
+    "date": "2026-10-21",
+    "debugBuild": "passed",
+    "lint": "passed",
+    "manual": "passed: six TR steps, scroll reset, tablet resize, reverse navigation, EN interface/package ready; original profile restored exactly",
+    "unitTests": "not rerun for this UI change; previous 105 passed",
+    "limitations": [
+      "download/cancel path uses existing installer; real download not yet exercised",
+      "system language and additional locales remain open"
+    ]
+  },
+  "companionAndLanguageValidation": {
+    "date": "2026-10-21",
+    "debugBuild": "passed",
+    "lint": "passed",
+    "setupManual": "passed: shared companion world through locked Nova, all steps, back navigation and English/tablet regression; exact profile restored",
+    "parentLanguageManual": "passed: TR/EN immediate save, package navigation and return to language preferences, phone/tablet; exact profile restored",
+    "unitTests": "not rerun; existing unlock rules reused, previous 105 passed",
+    "limitations": [
+      "package library visual details remain open",
+      "system language and more locales remain open",
+      "large font shared picker uses existing single-column rule; not manually repeated"
+    ]
+  },
+  "packageLibraryValidation": {
+    "date": "2026-10-21",
+    "debugBuild": "passed",
+    "lint": "passed",
+    "tests": 106,
+    "failures": 0,
+    "errors": 0,
+    "metadataTest": "verified revision sizes; ignores invalid other-language pointer; modified manifest rejected",
+    "manual": "passed: TR/EN tablet and EN phone; real installed size, current TR has no update action, uninstalled EN has install action; original profile restored exactly",
+    "limits": [
+      "new download/delete not exercised",
+      "catalog unavailable and actual update states not manually exercised"
+    ]
+  },
+  "multilingualValidation": {
+    "date": "2026-10-21",
+    "debugBuild": "passed",
+    "lint": "passed",
+    "tests": 108,
+    "failures": 0,
+    "errors": 0,
+    "learningLanguages": [
+      "tr",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt",
+      "zh",
+      "ja",
+      "ko",
+      "it",
+      "hi",
+      "ar",
+      "ru"
+    ],
+    "interfaceLanguages": [
+      "tr",
+      "en",
+      "de",
+      "fr",
+      "es",
+      "zh",
+      "ja",
+      "ko",
+      "it",
+      "pt",
+      "hi"
+    ],
+    "manual": [
+      "all development archives copied and verified",
+      "French installation and learning-language selection",
+      "German menus and category labels",
+      "independent language preferences survive process restart",
+      "original profile restored exactly"
+    ],
+    "limitations": [
+      "missing/dynamic Android-specific menu strings fall back to English",
+      "chess narration falls back to English outside Turkish",
+      "all locales not individually visually approved",
+      "Release content publishing not performed"
+    ]
+  },
+  "dynamicLocalizationValidation": {
+    "date": "2026-10-21",
+    "debugBuild": "passed",
+    "lint": "passed",
+    "tests": 109,
+    "failures": 0,
+    "errors": 0,
+    "manual": [
+      "German, Japanese and Chinese translated greeting with literal brace name",
+      "German setup summary shows Deutsch",
+      "exact original profile restoration"
+    ],
+    "screenshots": "reviews/dynamic-localization/",
+    "limitations": [
+      "remaining Android-specific strings may fall back to English",
+      "individual screen/locale coverage remains partial"
+    ]
+  },
+  "chessLocalizationValidation": {
+    "date": "2026-10-21",
+    "debugBuild": "passed",
+    "lint": "passed",
+    "tests": 110,
+    "failures": 0,
+    "errors": 0,
+    "manual": [
+      "German and Japanese chess status",
+      "translated match settings and close",
+      "original profile and game restored exactly"
+    ],
+    "screenshots": "reviews/chess-localization/",
+    "limitations": [
+      "not all chess copy is translated yet",
+      "voice remains TR/EN fallback",
+      "full per-locale visual approval pending"
+    ]
+  },
+  "commonLocalizationValidation": {
+    "date": "2026-10-21",
+    "debugBuild": "passed",
+    "lint": "passed",
+    "tests": 111,
+    "failures": 0,
+    "errors": 0,
+    "manual": [
+      "ES and KO review title",
+      "ES and KO parent language/data/lock labels",
+      "original profile restored exactly"
+    ],
+    "unitCoverage": [
+      "all nine additional UI locales for common messages",
+      "localized memory result template with counts"
+    ],
+    "screenshots": "reviews/common-localization/",
+    "limitations": [
+      "audio/camera errors verified by dictionary tests, not forced on device",
+      "memory completion template verified by unit test, not replayed on device",
+      "remaining English fallbacks not fully eliminated"
+    ]
+  },
+  "setupMessageLocalizationValidation": {
+    "date": "2026-10-21",
+    "tests": 112,
+    "failures": 0,
+    "errors": 0,
+    "debugBuild": "passed",
+    "lint": "passed",
+    "manual": [
+      "DE/FR setup base-pack description and ready state",
+      "exact profile restoration"
+    ],
+    "audit": "docs/localization-audit.json",
+    "limitations": [
+      "audit is heuristic and includes unused/debug code",
+      "report-without-pack message verified by dictionary tests, not manual device state"
+    ]
+  },
+  "setupInstructionLocalizationValidation": {
+    "date": "2026-10-21",
+    "tests": 115,
+    "failures": 0,
+    "errors": 0,
+    "debugBuild": "passed",
+    "lint": "passed",
+    "manual": [
+      "DE/JA named setup instruction with localized piece name",
+      "DE/JA Listen smoke without playback error",
+      "exact original profile and setup progress restoration"
+    ],
+    "unit": [
+      "all 32 setup speech prompts resolve in TR and EN from stable piece ids",
+      "piece names match every additional UI locale",
+      "named values are substituted once",
+      "custom-position warning translations"
+    ],
+    "screenshots": "reviews/setup-instruction-localization/",
+    "limitations": [
+      "actual sound heard not automatically asserted",
+      "castling/save-error and other fallback copy remains"
+    ]
+  },
+  "androidStudioCompatibility": {
+    "date": "2026-10-21",
+    "reportedMaxAgp": "8.6.0",
+    "agp": "8.6.0",
+    "gradle": "8.7",
+    "kotlinAndComposeCompiler": "2.1.21",
+    "sdk": 35,
+    "debugBuild": "passed",
+    "tests": 115,
+    "failures": 0,
+    "errors": 0,
+    "lint": "not completed: first-time lint 31.6.0 dependencies failed DNS/download from Google/Maven",
+    "codeAdjustment": "FEN castling rights sumOf replaced with explicitly Int fold; rules unchanged",
+    "ideSync": "user should run File > Sync Project with Gradle Files"
+  },
+  "tabletPackagePreparationFix": {
+    "date": "2026-10-21",
+    "cause": "default Debug excluded local ZIP archives while catalog referenced them; emulator archives had been copied separately",
+    "fix": "default Debug automatically copies base + 13 language ZIPs into generated assets; explicit small mode remains available",
+    "debugBuild": "passed offline with AGP 8.6.0",
+    "apkArchiveVerification": "all 14 archive sizes and SHA-256 matched catalog inside APK",
+    "apkApproxMB": 685,
+    "physicalDevice": "Samsung SM-P617",
+    "manual": "in-place update; base and selected English package installed from bundled APK; ready state reached",
+    "profileRestoration": "exact byte comparison passed; installed language content retained",
+    "release": "unchanged; generated archives only in Debug source set"
+  },
+  "firebaseIntegration": {
+    "date": "2026-10-21",
+    "project": "kids-word-plus-v2",
+    "appId": "1:411594943772:android:ce1fbb1cfd68b5c5941ed9",
+    "ownerApprovedDataTransmission": true,
+    "debugBuild": "passed",
+    "unitTests": {
+      "passed": 115,
+      "failed": 0
+    },
+    "analyticsDebugView": "4 screen_view, 1 app_exception, 1 first_open; non_personalized_ads=1",
+    "crashlyticsUpload": "Controlled emulator crash caught; transport HTTP 200",
+    "tabletInstall": "passed, in-place",
+    "emulatorProfileUnchanged": true,
+    "lint": "13 errors and 12 warnings in existing activity-result/Compose code; no Firebase integration errors",
+    "localPacksInDebugApk": 14,
+    "crashlyticsConsole": "Test issue visible: 1 crash, 1 user",
+    "releaseBuild": "Kotlin/Java compilation passes; packaging blocked by 2 existing activity-result lint errors"
+  },
+  "listeningGridFit": {
+    "layout": "Fixed two columns and two equal-height rows inside remaining screen space; controls remain visible",
+    "appliesTo": [
+      "listening",
+      "review"
+    ],
+    "build": "passed",
+    "phoneVisual": "four picture bounds verified in two rows above Listen/Next controls",
+    "installed": [
+      "emulator-5580",
+      "R52W608P24E"
+    ],
+    "profileRestored": true
+  },
+  "matchingCompletionInline": {
+    "behavior": "Matched cards and connecting lines remain on screen; completion actions appear below the cards in the same scroll area",
+    "actions": [
+      "Play again",
+      "Family sharing",
+      "Change level",
+      "Back to games"
+    ],
+    "build": "passed"
+  },
+  "pairGameStartTransition": {
+    "behavior": "Keep the matching/memory setup screen while startGame prepares the session; clear setup selection only after a game exists. Failures remain on setup with retry available.",
+    "build": "passed",
+    "tabletInstall": "passed"
+  },
+  "lessonImageLayout": {
+    "build": "passed",
+    "corners": "20dp on actual fitted image bounds, including lesson list thumbnails",
+    "lessonSurface": "fills remaining height; image grows proportionally",
+    "nextButton": "right aligned, capped at 280dp",
+    "phoneVisual": "checked",
+    "tabletInstall": "passed",
+    "profileRestored": true
+  },
+  "hundredChessGoals": {
+    "pages": [
+      "practice",
+      "safety",
+      "endings",
+      "mate"
+    ],
+    "goalsPerRound": 100,
+    "uniqueWithinRound": true,
+    "randomOrder": true,
+    "preservesSavedOrder": true,
+    "lifetimeCompletionIdsPreserved": true,
+    "build": "passed",
+    "tests": {
+      "passed": 116,
+      "failures": 0
+    }
+  },
+  "beerRemoval": {
+    "concept": "food:792",
+    "languages": 13,
+    "removedMediaFiles": 14,
+    "archiveValidation": "all 14 active archives pass inventory, hash and dependency checks",
+    "androidTests": 142,
+    "androidBuild": "passed",
+    "legacyInstalledPackFilter": "Android and iOS",
+    "firebase": "preview files prepared locally; live upload not performed"
+  },
+  "interactionAudio": {
+    "originalCues": 6,
+    "durationsMs": [
+      110,
+      150,
+      380,
+      270,
+      210,
+      200
+    ],
+    "identicalAcrossPlatforms": true,
+    "noClippedSamples": true,
+    "runtimeVolume": 0.45,
+    "minimumGapMs": 180,
+    "androidBuild": "passed",
+    "iosSimulatorBuild": "passed",
+    "deviceListening": "not checked; no connected Android device or booted iOS simulator",
+    "scope": "welcome, start, common buttons/cards, tabs and category navigation; existing success audio retained"
+  },
+  "wordTrainDeparture": {
+    "androidBuild": "passed",
+    "iosSimulatorBuild": "passed",
+    "trainAudioSeconds": 4.8,
+    "travelSeconds": 4.8,
+    "soundOffRespected": true,
+    "reducedMotionRespected": true,
+    "deviceReview": "pending; no connected device"
+  }
+}

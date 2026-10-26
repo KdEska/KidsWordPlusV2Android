@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411594943772",
+    "project_id": "kids-word-plus-v2",
+    "storage_bucket": "kids-word-plus-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411594943772:android:ce1fbb1cfd68b5c5941ed9",
+        "android_client_info": {
+          "package_name": "com.demarpsoftware.kidswordplus.v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjvayNwzAn9_dVon-GNlsednDf7dIhIus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

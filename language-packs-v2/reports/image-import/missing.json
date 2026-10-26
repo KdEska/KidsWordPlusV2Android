@@ -1,0 +1,1242 @@
+[
+  {
+    "language": "tr",
+    "path": "images/slide_animals_beaver.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:91",
+        "text": "Kunduz"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_animals_hamster.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:92",
+        "text": "Hamster"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_animals_kitten.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:93",
+        "text": "Yavru kedi"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_animals_otter.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:94",
+        "text": "Su samuru"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_animals_puppy.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:95",
+        "text": "Yavru köpek"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_animals_squirrel.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:96",
+        "text": "Sincap"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_buildings_apartment_building.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:190",
+        "text": "Apartman"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_buildings_aquarium.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:144",
+        "text": "Akvaryum"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_buildings_bakery.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:145",
+        "text": "Fırın"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_buildings_bus_station.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:159",
+        "text": "Otobüs terminali"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_buildings_market.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:146",
+        "text": "Market"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_buildings_pharmacy.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:147",
+        "text": "Eczane"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_buildings_zoo.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:148",
+        "text": "Hayvanat bahçesi"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_clocks_it_is_five_past_one.jpg",
+    "concepts": [
+      {
+        "conceptId": "clocks:239",
+        "text": "Saat biri beş geçiyor"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_clocks_it_is_ten_past_two.jpg",
+    "concepts": [
+      {
+        "conceptId": "clocks:240",
+        "text": "Saat ikiyi on geçiyor"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_countries_england.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:403",
+        "text": "İngiltere"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_countries_greenland.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:404",
+        "text": "Grönland"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_countries_northern_ireland.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:440",
+        "text": "Kuzey İrlanda"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_countries_scotland.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:405",
+        "text": "İskoçya"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_countries_wales.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:406",
+        "text": "Galler"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_farm_farmhouse.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:577",
+        "text": "Çiftlik evi"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_farm_field.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:578",
+        "text": "Tarla"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_farm_haystack.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:579",
+        "text": "Ot yığını"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_farm_seed.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:580",
+        "text": "Tohum"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_farm_stable.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:581",
+        "text": "Ahır"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_flags_england.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:753",
+        "text": "İngiltere"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_flags_greenland.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:754",
+        "text": "Grönland"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_flags_northern_ireland.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:790",
+        "text": "Kuzey İrlanda"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_flags_scotland.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:755",
+        "text": "İskoçya"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_flags_wales.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:756",
+        "text": "Galler"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_food_butter.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:831",
+        "text": "Tereyağı"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_food_pasta.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:832",
+        "text": "Makarna"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_food_rice.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:833",
+        "text": "Pirinç"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_food_yogurt.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:834",
+        "text": "Yoğurt"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_fruits_vegetables_mango.jpg",
+    "concepts": [
+      {
+        "conceptId": "fruits_vegetables:906",
+        "text": "Mango"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_fruits_vegetables_tangerine.jpg",
+    "concepts": [
+      {
+        "conceptId": "fruits_vegetables:908",
+        "text": "Mandalina"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_heavy_equipment_dump_truck.jpg",
+    "concepts": [
+      {
+        "conceptId": "heavy_equipment:984",
+        "text": "Damperli kamyon"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_home_bed.jpg",
+    "concepts": [
+      {
+        "conceptId": "home:1234",
+        "text": "Yatak"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_home_bedroom.jpg",
+    "concepts": [
+      {
+        "conceptId": "home:1235",
+        "text": "Yatak odası"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_human_body_forearm.jpg",
+    "concepts": [
+      {
+        "conceptId": "human_body:1044",
+        "text": "Ön kol"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_human_body_upper_arm.jpg",
+    "concepts": [
+      {
+        "conceptId": "human_body:1052",
+        "text": "Üst kol"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_musical_instruments_bass_guitar.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1089",
+        "text": "Bas gitar"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_musical_instruments_french_horn.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1090",
+        "text": "Korno"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_musical_instruments_recorder.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1084",
+        "text": "Blok flüt"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_musical_instruments_tambourine.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1085",
+        "text": "Tef"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_musical_instruments_triangle.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1086",
+        "text": "Çelik üçgen"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_musical_instruments_trombone.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1087",
+        "text": "Trombon"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_musical_instruments_ukulele.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1088",
+        "text": "Ukulele"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_professions_mechanic.jpg",
+    "concepts": [
+      {
+        "conceptId": "professions:1438",
+        "text": "Tamirci"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_professions_paramedic.jpg",
+    "concepts": [
+      {
+        "conceptId": "professions:1439",
+        "text": "Paramedik"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_professions_veterinarian.jpg",
+    "concepts": [
+      {
+        "conceptId": "professions:1447",
+        "text": "Veteriner"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_school_eraser.jpg",
+    "concepts": [
+      {
+        "conceptId": "school:1388",
+        "text": "Silgi"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_school_pen.jpg",
+    "concepts": [
+      {
+        "conceptId": "school:1389",
+        "text": "Tükenmez kalem"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_asteroid_belt.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:483",
+        "text": "Asteroit kuşağı"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_dwarf_planet.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:484",
+        "text": "Cüce gezegen"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_launch_pad.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:485",
+        "text": "Fırlatma rampası"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_lunar_module.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:486",
+        "text": "Ay modülü"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_milky_way.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:487",
+        "text": "Samanyolu"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_moon_rock.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:488",
+        "text": "Ay taşı"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_solar_system.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:489",
+        "text": "Güneş sistemi"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_space_probe.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:490",
+        "text": "Uzay sondası"
+      }
+    ]
+  },
+  {
+    "language": "tr",
+    "path": "images/slide_space_space_suit.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:491",
+        "text": "Uzay giysisi"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_animals_beaver.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:91",
+        "text": "Beaver"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_animals_hamster.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:92",
+        "text": "Hamster"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_animals_kitten.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:93",
+        "text": "Kitten"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_animals_otter.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:94",
+        "text": "Otter"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_animals_puppy.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:95",
+        "text": "Puppy"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_animals_squirrel.jpg",
+    "concepts": [
+      {
+        "conceptId": "animals:96",
+        "text": "Squirrel"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_buildings_apartment_building.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:190",
+        "text": "Apartment Building"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_buildings_aquarium.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:144",
+        "text": "Aquarium"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_buildings_bakery.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:145",
+        "text": "Bakery"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_buildings_bus_station.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:159",
+        "text": "Bus Station"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_buildings_market.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:146",
+        "text": "Market"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_buildings_pharmacy.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:147",
+        "text": "Pharmacy"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_buildings_zoo.jpg",
+    "concepts": [
+      {
+        "conceptId": "buildings:148",
+        "text": "Zoo"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_clocks_it_is_five_past_one.jpg",
+    "concepts": [
+      {
+        "conceptId": "clocks:239",
+        "text": "It is five past one"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_clocks_it_is_ten_past_two.jpg",
+    "concepts": [
+      {
+        "conceptId": "clocks:240",
+        "text": "It is ten past two"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_countries_england.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:403",
+        "text": "England"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_countries_greenland.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:404",
+        "text": "Greenland"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_countries_northern_ireland.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:440",
+        "text": "Northern Ireland"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_countries_scotland.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:405",
+        "text": "Scotland"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_countries_wales.jpg",
+    "concepts": [
+      {
+        "conceptId": "countries:406",
+        "text": "Wales"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_farm_farmhouse.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:577",
+        "text": "Farmhouse"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_farm_field.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:578",
+        "text": "Field"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_farm_haystack.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:579",
+        "text": "Haystack"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_farm_seed.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:580",
+        "text": "Seed"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_farm_stable.jpg",
+    "concepts": [
+      {
+        "conceptId": "farm:581",
+        "text": "Stable"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_flags_england.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:753",
+        "text": "England"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_flags_greenland.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:754",
+        "text": "Greenland"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_flags_northern_ireland.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:790",
+        "text": "Northern Ireland"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_flags_scotland.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:755",
+        "text": "Scotland"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_flags_wales.jpg",
+    "concepts": [
+      {
+        "conceptId": "flags:756",
+        "text": "Wales"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_food_butter.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:831",
+        "text": "Butter"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_food_pasta.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:832",
+        "text": "Pasta"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_food_rice.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:833",
+        "text": "Rice"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_food_yogurt.jpg",
+    "concepts": [
+      {
+        "conceptId": "food:834",
+        "text": "Yogurt"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_fruits_vegetables_mango.jpg",
+    "concepts": [
+      {
+        "conceptId": "fruits_vegetables:906",
+        "text": "Mango"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_fruits_vegetables_tangerine.jpg",
+    "concepts": [
+      {
+        "conceptId": "fruits_vegetables:908",
+        "text": "Tangerine"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_heavy_equipment_dump_truck.jpg",
+    "concepts": [
+      {
+        "conceptId": "heavy_equipment:984",
+        "text": "Dump Truck"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_home_bed.jpg",
+    "concepts": [
+      {
+        "conceptId": "home:1234",
+        "text": "Bed"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_home_bedroom.jpg",
+    "concepts": [
+      {
+        "conceptId": "home:1235",
+        "text": "Bedroom"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_human_body_forearm.jpg",
+    "concepts": [
+      {
+        "conceptId": "human_body:1044",
+        "text": "Forearm"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_human_body_upper_arm.jpg",
+    "concepts": [
+      {
+        "conceptId": "human_body:1052",
+        "text": "Upper Arm"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_musical_instruments_bass_guitar.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1089",
+        "text": "Bass Guitar"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_musical_instruments_french_horn.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1090",
+        "text": "French Horn"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_musical_instruments_recorder.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1084",
+        "text": "Recorder"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_musical_instruments_tambourine.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1085",
+        "text": "Tambourine"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_musical_instruments_triangle.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1086",
+        "text": "Triangle"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_musical_instruments_trombone.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1087",
+        "text": "Trombone"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_musical_instruments_ukulele.jpg",
+    "concepts": [
+      {
+        "conceptId": "musical_instruments:1088",
+        "text": "Ukulele"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_professions_mechanic.jpg",
+    "concepts": [
+      {
+        "conceptId": "professions:1438",
+        "text": "Mechanic"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_professions_paramedic.jpg",
+    "concepts": [
+      {
+        "conceptId": "professions:1439",
+        "text": "Paramedic"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_professions_veterinarian.jpg",
+    "concepts": [
+      {
+        "conceptId": "professions:1447",
+        "text": "Veterinarian"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_school_eraser.jpg",
+    "concepts": [
+      {
+        "conceptId": "school:1388",
+        "text": "Eraser"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_school_pen.jpg",
+    "concepts": [
+      {
+        "conceptId": "school:1389",
+        "text": "Pen"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_asteroid_belt.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:483",
+        "text": "Asteroid Belt"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_dwarf_planet.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:484",
+        "text": "Dwarf Planet"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_launch_pad.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:485",
+        "text": "Launch Pad"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_lunar_module.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:486",
+        "text": "Lunar Module"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_milky_way.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:487",
+        "text": "Milky Way"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_moon_rock.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:488",
+        "text": "Moon Rock"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_solar_system.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:489",
+        "text": "Solar System"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_space_probe.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:490",
+        "text": "Space Probe"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "path": "images/slide_space_space_suit.jpg",
+    "concepts": [
+      {
+        "conceptId": "space:491",
+        "text": "Space Suit"
+      }
+    ]
+  }
+]

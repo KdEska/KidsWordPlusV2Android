@@ -1,0 +1,1351 @@
+{
+  "voice_id": "m5U7XCsc8v988k2RJAqN",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "a1.",
+      "normalized": "a1",
+      "file": "audio/f55ff16f66f43360266b95db.mp3"
+    },
+    {
+      "text": "a1 à",
+      "normalized": "a1 à",
+      "file": "audio/ab3a32d4a09a5daf62357712.mp3"
+    },
+    {
+      "text": "a2.",
+      "normalized": "a2",
+      "file": "audio/2c3a4249d77070058649dbd8.mp3"
+    },
+    {
+      "text": "a2 à",
+      "normalized": "a2 à",
+      "file": "audio/1619fb07399aa1df9218ef92.mp3"
+    },
+    {
+      "text": "a3.",
+      "normalized": "a3",
+      "file": "audio/f46dd28a5499d8efef0b8fb8.mp3"
+    },
+    {
+      "text": "a3 à",
+      "normalized": "a3 à",
+      "file": "audio/cc44600e9632ce293a89f370.mp3"
+    },
+    {
+      "text": "a4.",
+      "normalized": "a4",
+      "file": "audio/4539e4b4889079c2a00afeae.mp3"
+    },
+    {
+      "text": "a4 à",
+      "normalized": "a4 à",
+      "file": "audio/3cae7a2f86c3979748ce92c6.mp3"
+    },
+    {
+      "text": "a5.",
+      "normalized": "a5",
+      "file": "audio/66220e71591b2d933c0e935c.mp3"
+    },
+    {
+      "text": "a5 à",
+      "normalized": "a5 à",
+      "file": "audio/42ebd9c8820cf4625933bea7.mp3"
+    },
+    {
+      "text": "a6.",
+      "normalized": "a6",
+      "file": "audio/730bea4ff16f200fb931b06c.mp3"
+    },
+    {
+      "text": "a6 à",
+      "normalized": "a6 à",
+      "file": "audio/cfd3f9a291ee7cd78ff63a45.mp3"
+    },
+    {
+      "text": "a7.",
+      "normalized": "a7",
+      "file": "audio/20377cec9f51f6bf5ba1fa64.mp3"
+    },
+    {
+      "text": "a7 à",
+      "normalized": "a7 à",
+      "file": "audio/5c2efd77d5c87bee43fc7d3e.mp3"
+    },
+    {
+      "text": "a8.",
+      "normalized": "a8",
+      "file": "audio/ce609b5bf3b974a84907e237.mp3"
+    },
+    {
+      "text": "a8 à",
+      "normalized": "a8 à",
+      "file": "audio/74f5715a242a67cd017d5382.mp3"
+    },
+    {
+      "text": "Aux blancs de jouer. Choisis la situation du roi blanc.",
+      "normalized": "aux blancs de jouer choisis la situation du roi blanc",
+      "file": "audio/694156dee504f77c31f70a28.mp3"
+    },
+    {
+      "text": "Aux blancs de jouer. Choisis une pièce blanche et fais échec et mat en un coup.",
+      "normalized": "aux blancs de jouer choisis une pièce blanche et fais échec et mat en un coup",
+      "file": "audio/9d93a11028b56e8357d2a8ef.mp3"
+    },
+    {
+      "text": "b1.",
+      "normalized": "b1",
+      "file": "audio/7dc96f776c8423e57a278548.mp3"
+    },
+    {
+      "text": "b1 à",
+      "normalized": "b1 à",
+      "file": "audio/28a76875c6f555491eb9575b.mp3"
+    },
+    {
+      "text": "b2.",
+      "normalized": "b2",
+      "file": "audio/4814d92093ac8a0f4a2163ab.mp3"
+    },
+    {
+      "text": "b2 à",
+      "normalized": "b2 à",
+      "file": "audio/937c3a59517de70abef01438.mp3"
+    },
+    {
+      "text": "b3.",
+      "normalized": "b3",
+      "file": "audio/76a8277347f52530e1cf9791.mp3"
+    },
+    {
+      "text": "b3 à",
+      "normalized": "b3 à",
+      "file": "audio/4316be078b197a9a1ae37ce0.mp3"
+    },
+    {
+      "text": "b4.",
+      "normalized": "b4",
+      "file": "audio/486bacc5c2d8a71a73d51bf8.mp3"
+    },
+    {
+      "text": "b4 à",
+      "normalized": "b4 à",
+      "file": "audio/eadf4213db8917d147bdc94c.mp3"
+    },
+    {
+      "text": "b5.",
+      "normalized": "b5",
+      "file": "audio/3c5661974942379614b943d0.mp3"
+    },
+    {
+      "text": "b5 à",
+      "normalized": "b5 à",
+      "file": "audio/ff21fa235f76f25b7b2eddc8.mp3"
+    },
+    {
+      "text": "b6.",
+      "normalized": "b6",
+      "file": "audio/2f5da6e9921baa794759ee9f.mp3"
+    },
+    {
+      "text": "b6 à",
+      "normalized": "b6 à",
+      "file": "audio/6f8cd745e96f712440dffd73.mp3"
+    },
+    {
+      "text": "b7.",
+      "normalized": "b7",
+      "file": "audio/e1b0acf86b9621b8c13ca17b.mp3"
+    },
+    {
+      "text": "b7 à",
+      "normalized": "b7 à",
+      "file": "audio/99bdb775ced137e872c9e75a.mp3"
+    },
+    {
+      "text": "b8.",
+      "normalized": "b8",
+      "file": "audio/92ee93de02ea87db530298f4.mp3"
+    },
+    {
+      "text": "b8 à",
+      "normalized": "b8 à",
+      "file": "audio/771f40e25fd731473d1babbf.mp3"
+    },
+    {
+      "text": "Blancs",
+      "normalized": "blancs",
+      "file": "audio/b5e00c79df1816905560e293.mp3"
+    },
+    {
+      "text": "Blancs : déplacement de Cavalier, de",
+      "normalized": "blancs déplacement de cavalier de",
+      "file": "audio/580cfa7d6a0683dd49d7c3d5.mp3"
+    },
+    {
+      "text": "Blancs : déplacement de Dame, de",
+      "normalized": "blancs déplacement de dame de",
+      "file": "audio/8263a308340cd64814922d67.mp3"
+    },
+    {
+      "text": "Blancs : déplacement de Fou, de",
+      "normalized": "blancs déplacement de fou de",
+      "file": "audio/71a7f9131d3beb81fa26aaab.mp3"
+    },
+    {
+      "text": "Blancs : déplacement de Pion, de",
+      "normalized": "blancs déplacement de pion de",
+      "file": "audio/f8bd7dbe2c124e2510c2ec80.mp3"
+    },
+    {
+      "text": "Blancs : déplacement de Roi, de",
+      "normalized": "blancs déplacement de roi de",
+      "file": "audio/a60356d775e9c37ebb8a328f.mp3"
+    },
+    {
+      "text": "Blancs : déplacement de Tour, de",
+      "normalized": "blancs déplacement de tour de",
+      "file": "audio/620016894451fe178213b110.mp3"
+    },
+    {
+      "text": "Bravo ! La pièce est à la bonne place.",
+      "normalized": "bravo la pièce est à la bonne place",
+      "file": "audio/b7e91ed5749a11b5c2bca2f1.mp3"
+    },
+    {
+      "text": "Bravo ! Le roi noir est attaqué et ne peut pas s’échapper légalement. Échec et mat !",
+      "normalized": "bravo le roi noir est attaqué et ne peut pas s échapper légalement échec et mat",
+      "file": "audio/3ed90574a946a5ea17186341.mp3"
+    },
+    {
+      "text": "Bravo ! Tu as réussi la mission.",
+      "normalized": "bravo tu as réussi la mission",
+      "file": "audio/d9aa33e326fbaff81bcdce53.mp3"
+    },
+    {
+      "text": "c1.",
+      "normalized": "c1",
+      "file": "audio/d0f631ca1ddba8db3bcfcb9e.mp3"
+    },
+    {
+      "text": "c1 à",
+      "normalized": "c1 à",
+      "file": "audio/5d137ed8e3887cf40708f2ab.mp3"
+    },
+    {
+      "text": "c2.",
+      "normalized": "c2",
+      "file": "audio/9c0abe51c6e6655d81de2d04.mp3"
+    },
+    {
+      "text": "c2 à",
+      "normalized": "c2 à",
+      "file": "audio/6326e43480a510300a1622c8.mp3"
+    },
+    {
+      "text": "c3.",
+      "normalized": "c3",
+      "file": "audio/7c1c97df17c066924822b0af.mp3"
+    },
+    {
+      "text": "c3 à",
+      "normalized": "c3 à",
+      "file": "audio/621ae17f6d973dc7d22a0c17.mp3"
+    },
+    {
+      "text": "c4.",
+      "normalized": "c4",
+      "file": "audio/0012a3fa000c5dc26ee658c3.mp3"
+    },
+    {
+      "text": "c4 à",
+      "normalized": "c4 à",
+      "file": "audio/fbe4bed71832798bc703fa54.mp3"
+    },
+    {
+      "text": "c5.",
+      "normalized": "c5",
+      "file": "audio/d0bf3e6ee1d668de18c9ca20.mp3"
+    },
+    {
+      "text": "c5 à",
+      "normalized": "c5 à",
+      "file": "audio/00204c030ca8a15d5854b4d4.mp3"
+    },
+    {
+      "text": "c6.",
+      "normalized": "c6",
+      "file": "audio/6db53c9d5a2ca72a85ddf3a6.mp3"
+    },
+    {
+      "text": "c6 à",
+      "normalized": "c6 à",
+      "file": "audio/21b1a591ca1b27a9dffd9e42.mp3"
+    },
+    {
+      "text": "c7.",
+      "normalized": "c7",
+      "file": "audio/f28d5b0d6f8be0da8446dabe.mp3"
+    },
+    {
+      "text": "c7 à",
+      "normalized": "c7 à",
+      "file": "audio/07b4d9d403ef00c6425e210d.mp3"
+    },
+    {
+      "text": "c8.",
+      "normalized": "c8",
+      "file": "audio/7ed6a8377b92b49472195f12.mp3"
+    },
+    {
+      "text": "c8 à",
+      "normalized": "c8 à",
+      "file": "audio/06e1805606cf0fe1e29fcd70.mp3"
+    },
+    {
+      "text": "Capture la pièce adverse sur e5 avec cette pièce : Pion.",
+      "normalized": "capture la pièce adverse sur e5 avec cette pièce pion",
+      "file": "audio/11e0573e2c782d719175969d.mp3"
+    },
+    {
+      "text": "Capture la pièce adverse sur g4 avec cette pièce : Tour.",
+      "normalized": "capture la pièce adverse sur g4 avec cette pièce tour",
+      "file": "audio/a5ab02448641bbf6bc7e0559.mp3"
+    },
+    {
+      "text": "Cavalier",
+      "normalized": "cavalier",
+      "file": "audio/f4c14a10405b1fd2f77ac775.mp3"
+    },
+    {
+      "text": "Cavalier a été capturé.",
+      "normalized": "cavalier a été capturé",
+      "file": "audio/46230da70873639cd7caee87.mp3"
+    },
+    {
+      "text": "Ce coup ne donne pas mat. Essaie un autre coup.",
+      "normalized": "ce coup ne donne pas mat essaie un autre coup",
+      "file": "audio/d96123a0eb6cad197624cdc5.mp3"
+    },
+    {
+      "text": "Chaque joueur commence avec 16 pièces. Les blancs jouent en premier. Les joueurs jouent ensuite à tour de rôle.",
+      "normalized": "chaque joueur commence avec 16 pièces les blancs jouent en premier les joueurs jouent ensuite à tour de rôle",
+      "file": "audio/86cd442ad4fb13ea89d0cc9b.mp3"
+    },
+    {
+      "text": "Choisis ta pièce, puis touche une case indiquée.",
+      "normalized": "choisis ta pièce puis touche une case indiquée",
+      "file": "audio/585eb2c60535f945014794ea.mp3"
+    },
+    {
+      "text": "d1.",
+      "normalized": "d1",
+      "file": "audio/8b53639f152c8fc6ef30802f.mp3"
+    },
+    {
+      "text": "d1 à",
+      "normalized": "d1 à",
+      "file": "audio/e82d148f9ef4624a3de8e98d.mp3"
+    },
+    {
+      "text": "d2.",
+      "normalized": "d2",
+      "file": "audio/e788103ee15318fcd2af9b73.mp3"
+    },
+    {
+      "text": "d2 à",
+      "normalized": "d2 à",
+      "file": "audio/9f363819b8f6c6a74d55d61d.mp3"
+    },
+    {
+      "text": "d3.",
+      "normalized": "d3",
+      "file": "audio/f451a61749c611ba0fa0e16c.mp3"
+    },
+    {
+      "text": "d3 à",
+      "normalized": "d3 à",
+      "file": "audio/ec858c701e328ca31c9843d2.mp3"
+    },
+    {
+      "text": "d4.",
+      "normalized": "d4",
+      "file": "audio/af327a6478537246e0d9f0c5.mp3"
+    },
+    {
+      "text": "d4 à",
+      "normalized": "d4 à",
+      "file": "audio/4bc4c9ef238c15571bb5c223.mp3"
+    },
+    {
+      "text": "d5.",
+      "normalized": "d5",
+      "file": "audio/25f682044b5badaff8b296bf.mp3"
+    },
+    {
+      "text": "d5 à",
+      "normalized": "d5 à",
+      "file": "audio/bdf4c5dee72ff18a603f7ff3.mp3"
+    },
+    {
+      "text": "d6.",
+      "normalized": "d6",
+      "file": "audio/79b98f273c175489f40b682a.mp3"
+    },
+    {
+      "text": "d6 à",
+      "normalized": "d6 à",
+      "file": "audio/e8be8c0cc67256ac33fd98b8.mp3"
+    },
+    {
+      "text": "d7.",
+      "normalized": "d7",
+      "file": "audio/82396aa34d3d216d4a545cf6.mp3"
+    },
+    {
+      "text": "d7 à",
+      "normalized": "d7 à",
+      "file": "audio/443d8dd5e35627f8950be934.mp3"
+    },
+    {
+      "text": "d8.",
+      "normalized": "d8",
+      "file": "audio/56f8921507e0f67c48d43947.mp3"
+    },
+    {
+      "text": "d8 à",
+      "normalized": "d8 à",
+      "file": "audio/8121f79f5dddef6280a746a8.mp3"
+    },
+    {
+      "text": "Dame",
+      "normalized": "dame",
+      "file": "audio/50ce12611f6391ad3ead1492.mp3"
+    },
+    {
+      "text": "Dame a été capturé.",
+      "normalized": "dame a été capturé",
+      "file": "audio/a215ade54ce2a2f780d8dcb3.mp3"
+    },
+    {
+      "text": "Déplace cette pièce sur d4 : Pion.",
+      "normalized": "déplace cette pièce sur d4 pion",
+      "file": "audio/3966f4e7c50db7f4e7f57a6e.mp3"
+    },
+    {
+      "text": "Déplace cette pièce sur e5 : Roi.",
+      "normalized": "déplace cette pièce sur e5 roi",
+      "file": "audio/d61e45e34c7a473a9b82b39e.mp3"
+    },
+    {
+      "text": "Déplace cette pièce sur e6 : Cavalier.",
+      "normalized": "déplace cette pièce sur e6 cavalier",
+      "file": "audio/6cf433a6538dc30beb82f160.mp3"
+    },
+    {
+      "text": "Déplace cette pièce sur g4 : Tour.",
+      "normalized": "déplace cette pièce sur g4 tour",
+      "file": "audio/b068b2f65818c9066057ac08.mp3"
+    },
+    {
+      "text": "Déplace cette pièce sur g7 : Dame.",
+      "normalized": "déplace cette pièce sur g7 dame",
+      "file": "audio/315bdf3b14e57ced78f48263.mp3"
+    },
+    {
+      "text": "Déplace cette pièce sur g7 : Fou.",
+      "normalized": "déplace cette pièce sur g7 fou",
+      "file": "audio/6afe6a214ab64ece6464f0c9.mp3"
+    },
+    {
+      "text": "e1.",
+      "normalized": "e1",
+      "file": "audio/8b5cc4df7eec7d32a7814eca.mp3"
+    },
+    {
+      "text": "e1 à",
+      "normalized": "e1 à",
+      "file": "audio/170e6f1e58478e31903eb52d.mp3"
+    },
+    {
+      "text": "e2.",
+      "normalized": "e2",
+      "file": "audio/ac0f09c0f8bf5e7a4b063d86.mp3"
+    },
+    {
+      "text": "e2 à",
+      "normalized": "e2 à",
+      "file": "audio/6961bc1b81a9f55eaea18612.mp3"
+    },
+    {
+      "text": "e3.",
+      "normalized": "e3",
+      "file": "audio/cef7fc13a38180936ffa2635.mp3"
+    },
+    {
+      "text": "e3 à",
+      "normalized": "e3 à",
+      "file": "audio/522c257b7d8d0b547c39b3e4.mp3"
+    },
+    {
+      "text": "e4.",
+      "normalized": "e4",
+      "file": "audio/449777124b1466a8ed667d0d.mp3"
+    },
+    {
+      "text": "e4 à",
+      "normalized": "e4 à",
+      "file": "audio/dcd4959fd5e6684ad2224058.mp3"
+    },
+    {
+      "text": "e5.",
+      "normalized": "e5",
+      "file": "audio/43700797e2f9d4ad38ccf135.mp3"
+    },
+    {
+      "text": "e5 à",
+      "normalized": "e5 à",
+      "file": "audio/aaab0662806548e809be19b4.mp3"
+    },
+    {
+      "text": "e6.",
+      "normalized": "e6",
+      "file": "audio/f33422b95e3b98310adedc93.mp3"
+    },
+    {
+      "text": "e6 à",
+      "normalized": "e6 à",
+      "file": "audio/8b1ce9bf9fa65a4ca3830494.mp3"
+    },
+    {
+      "text": "e7.",
+      "normalized": "e7",
+      "file": "audio/f3e2e400523c506868ca413b.mp3"
+    },
+    {
+      "text": "e7 à",
+      "normalized": "e7 à",
+      "file": "audio/56c2ca99e93abf8eb13f0ad0.mp3"
+    },
+    {
+      "text": "e8.",
+      "normalized": "e8",
+      "file": "audio/c33352e36a529830a19080a8.mp3"
+    },
+    {
+      "text": "e8 à",
+      "normalized": "e8 à",
+      "file": "audio/920a25d4c52d07713b01226e.mp3"
+    },
+    {
+      "text": "En échec, tu dois supprimer la menace. Choisis le roi en e1 et déplace-le sur la case sûre d1.",
+      "normalized": "en échec tu dois supprimer la menace choisis le roi en e1 et déplace le sur la case sûre d1",
+      "file": "audio/a60aa25cfd497dc9f758c13a.mp3"
+    },
+    {
+      "text": "Explore les déplacements de ta pièce. Ceci est un exercice de déplacement.",
+      "normalized": "explore les déplacements de ta pièce ceci est un exercice de déplacement",
+      "file": "audio/7a4c16eb5998ef19b2ac25f8.mp3"
+    },
+    {
+      "text": "f1.",
+      "normalized": "f1",
+      "file": "audio/3f524cdc07a11d7c6220bdb0.mp3"
+    },
+    {
+      "text": "f1 à",
+      "normalized": "f1 à",
+      "file": "audio/ce1ccd26160040a792d6251b.mp3"
+    },
+    {
+      "text": "f2.",
+      "normalized": "f2",
+      "file": "audio/e4ab4e3b1493d5a997b4e51c.mp3"
+    },
+    {
+      "text": "f2 à",
+      "normalized": "f2 à",
+      "file": "audio/e758db5c67ae22bde7f614d6.mp3"
+    },
+    {
+      "text": "f3.",
+      "normalized": "f3",
+      "file": "audio/625e0f649de27800fc3bcf4c.mp3"
+    },
+    {
+      "text": "f3 à",
+      "normalized": "f3 à",
+      "file": "audio/b0ba81347f02c1a586bf9ee8.mp3"
+    },
+    {
+      "text": "f4.",
+      "normalized": "f4",
+      "file": "audio/608cdb524384f5ee06edc283.mp3"
+    },
+    {
+      "text": "f4 à",
+      "normalized": "f4 à",
+      "file": "audio/b7499c321a0ed055b7812ebb.mp3"
+    },
+    {
+      "text": "f5.",
+      "normalized": "f5",
+      "file": "audio/b6e1288527a6032c0f29c9da.mp3"
+    },
+    {
+      "text": "f5 à",
+      "normalized": "f5 à",
+      "file": "audio/88b47c00e91605477c9a423f.mp3"
+    },
+    {
+      "text": "f6.",
+      "normalized": "f6",
+      "file": "audio/3efda6ee78c31bab6995b112.mp3"
+    },
+    {
+      "text": "f6 à",
+      "normalized": "f6 à",
+      "file": "audio/3db708889e430de9219ea66e.mp3"
+    },
+    {
+      "text": "f7.",
+      "normalized": "f7",
+      "file": "audio/9327ca99aaea2b8f025e61e5.mp3"
+    },
+    {
+      "text": "f7 à",
+      "normalized": "f7 à",
+      "file": "audio/3acfdfa876f1f82655bd8ed5.mp3"
+    },
+    {
+      "text": "f8.",
+      "normalized": "f8",
+      "file": "audio/0c079a153e26951fcda0fa12.mp3"
+    },
+    {
+      "text": "f8 à",
+      "normalized": "f8 à",
+      "file": "audio/125c10487c032c5efa669204.mp3"
+    },
+    {
+      "text": "Fou",
+      "normalized": "fou",
+      "file": "audio/6d04789ba034590e46dfe2dd.mp3"
+    },
+    {
+      "text": "Fou a été capturé.",
+      "normalized": "fou a été capturé",
+      "file": "audio/619aea17e3b2ecc074389685.mp3"
+    },
+    {
+      "text": "g1.",
+      "normalized": "g1",
+      "file": "audio/711430f6164e93803d93428b.mp3"
+    },
+    {
+      "text": "g1 à",
+      "normalized": "g1 à",
+      "file": "audio/fc145858ac3e1562a45e388d.mp3"
+    },
+    {
+      "text": "g2.",
+      "normalized": "g2",
+      "file": "audio/4d2f4b668cfc48e6059d36e9.mp3"
+    },
+    {
+      "text": "g2 à",
+      "normalized": "g2 à",
+      "file": "audio/0a2fd41562b0e8c10d6ccef6.mp3"
+    },
+    {
+      "text": "g3.",
+      "normalized": "g3",
+      "file": "audio/3921871aa0881e3e94830142.mp3"
+    },
+    {
+      "text": "g3 à",
+      "normalized": "g3 à",
+      "file": "audio/e1e96b307bebb1dbe8628bca.mp3"
+    },
+    {
+      "text": "g4.",
+      "normalized": "g4",
+      "file": "audio/c874bc29e99f2e67290d6cdb.mp3"
+    },
+    {
+      "text": "g4 à",
+      "normalized": "g4 à",
+      "file": "audio/89cb99ad4bf65123312c5f11.mp3"
+    },
+    {
+      "text": "g5.",
+      "normalized": "g5",
+      "file": "audio/239261316e505a034abae9a2.mp3"
+    },
+    {
+      "text": "g5 à",
+      "normalized": "g5 à",
+      "file": "audio/ee894fec78e338edd3fab54b.mp3"
+    },
+    {
+      "text": "g6.",
+      "normalized": "g6",
+      "file": "audio/044e727fa3783fcfe21d54fe.mp3"
+    },
+    {
+      "text": "g6 à",
+      "normalized": "g6 à",
+      "file": "audio/59cd28f7c671312d0c76ae89.mp3"
+    },
+    {
+      "text": "g7.",
+      "normalized": "g7",
+      "file": "audio/7935bb0b6876b05d24574bd9.mp3"
+    },
+    {
+      "text": "g7 à",
+      "normalized": "g7 à",
+      "file": "audio/0f6ce2a8f7004097d7003a6b.mp3"
+    },
+    {
+      "text": "g8.",
+      "normalized": "g8",
+      "file": "audio/0fcd4ac08fa092197d9a11df.mp3"
+    },
+    {
+      "text": "g8 à",
+      "normalized": "g8 à",
+      "file": "audio/62fb52a30e5d15911cdacf36.mp3"
+    },
+    {
+      "text": "h1.",
+      "normalized": "h1",
+      "file": "audio/33112ee14ee469c3eb52fe90.mp3"
+    },
+    {
+      "text": "h1 à",
+      "normalized": "h1 à",
+      "file": "audio/de19d14693f6ae72fd50aefb.mp3"
+    },
+    {
+      "text": "h2.",
+      "normalized": "h2",
+      "file": "audio/f998fe06afa0cfbe73e0449d.mp3"
+    },
+    {
+      "text": "h2 à",
+      "normalized": "h2 à",
+      "file": "audio/ca216feb24539b028490b7b9.mp3"
+    },
+    {
+      "text": "h3.",
+      "normalized": "h3",
+      "file": "audio/97fb5f8538b89f6c1accfd19.mp3"
+    },
+    {
+      "text": "h3 à",
+      "normalized": "h3 à",
+      "file": "audio/bae3ca481d84279b68188351.mp3"
+    },
+    {
+      "text": "h4.",
+      "normalized": "h4",
+      "file": "audio/e9590c04cea54beb769a9614.mp3"
+    },
+    {
+      "text": "h4 à",
+      "normalized": "h4 à",
+      "file": "audio/ba9c3e248991f1031f2b6c83.mp3"
+    },
+    {
+      "text": "h5.",
+      "normalized": "h5",
+      "file": "audio/acea77fd89c7fb586c8c7c61.mp3"
+    },
+    {
+      "text": "h5 à",
+      "normalized": "h5 à",
+      "file": "audio/c966a4f314141785d4070df6.mp3"
+    },
+    {
+      "text": "h6.",
+      "normalized": "h6",
+      "file": "audio/fa37de9da4b13b3a18882ece.mp3"
+    },
+    {
+      "text": "h6 à",
+      "normalized": "h6 à",
+      "file": "audio/dffb805ee4883c183d17fc4f.mp3"
+    },
+    {
+      "text": "h7.",
+      "normalized": "h7",
+      "file": "audio/f254a1e7d56840a4f2faa65b.mp3"
+    },
+    {
+      "text": "h7 à",
+      "normalized": "h7 à",
+      "file": "audio/4778a14dd521361ee785b304.mp3"
+    },
+    {
+      "text": "h8.",
+      "normalized": "h8",
+      "file": "audio/9f095ecf60fdfca89c7c42f4.mp3"
+    },
+    {
+      "text": "h8 à",
+      "normalized": "h8 à",
+      "file": "audio/f385d157a3ab4111a134f10b.mp3"
+    },
+    {
+      "text": "L’ordinateur gagne",
+      "normalized": "l ordinateur gagne",
+      "file": "audio/e2cb7510280f2f61468b6f93.mp3"
+    },
+    {
+      "text": "L’échiquier comporte 8 rangées et 8 colonnes, soit 64 cases. La case en bas à droite doit être claire.",
+      "normalized": "l échiquier comporte 8 rangées et 8 colonnes soit 64 cases la case en bas à droite doit être claire",
+      "file": "audio/af07e0d0603c6829a0a57728.mp3"
+    },
+    {
+      "text": "L’échiquier est prêt ! Chaque camp a 16 pièces. Les blancs commencent.",
+      "normalized": "l échiquier est prêt chaque camp a 16 pièces les blancs commencent",
+      "file": "audio/ed0aabe74d3c44fcf20f0a8c.mp3"
+    },
+    {
+      "text": "La dame avance autant de cases que souhaité en ligne droite ou en diagonale. Elle ne saute pas par-dessus les pièces.",
+      "normalized": "la dame avance autant de cases que souhaité en ligne droite ou en diagonale elle ne saute pas par dessus les pièces",
+      "file": "audio/5783a7bfe3bda0b6c7d3a540.mp3"
+    },
+    {
+      "text": "La dame commence sur sa couleur : la dame blanche sur une case claire, la dame noire sur une case foncée.",
+      "normalized": "la dame commence sur sa couleur la dame blanche sur une case claire la dame noire sur une case foncée",
+      "file": "audio/ae943719dfa4b6ca906892d8.mp3"
+    },
+    {
+      "text": "La tour avance autant de cases que souhaité horizontalement ou verticalement. Elle ne saute pas par-dessus les pièces.",
+      "normalized": "la tour avance autant de cases que souhaité horizontalement ou verticalement elle ne saute pas par dessus les pièces",
+      "file": "audio/207efcbd192f6c8e20f1b8f1.mp3"
+    },
+    {
+      "text": "Le but est de faire échec et mat au roi adverse. Un roi attaqué est en échec. Si aucun coup autorisé ne permet de sortir de l’échec, c’est échec et mat. On ne capture jamais le roi.",
+      "normalized": "le but est de faire échec et mat au roi adverse un roi attaqué est en échec si aucun coup autorisé ne permet de sortir de l échec c est échec et mat on ne capture jamais le roi",
+      "file": "audio/3603223bf81f7e0b30389055.mp3"
+    },
+    {
+      "text": "Le cavalier avance de deux cases dans une direction puis d’une sur le côté. Il forme un L et peut sauter par-dessus les pièces.",
+      "normalized": "le cavalier avance de deux cases dans une direction puis d une sur le côté il forme un l et peut sauter par dessus les pièces",
+      "file": "audio/1542381dbfccb00d4bf91c9d.mp3"
+    },
+    {
+      "text": "Le fou avance en diagonale. Il reste sur la même couleur et ne saute pas par-dessus les pièces.",
+      "normalized": "le fou avance en diagonale il reste sur la même couleur et ne saute pas par dessus les pièces",
+      "file": "audio/7a3a63962ed685a1b3f2f9ad.mp3"
+    },
+    {
+      "text": "Le pion a atteint la dernière rangée et est devenu une dame dans cet exercice.",
+      "normalized": "le pion a atteint la dernière rangée et est devenu une dame dans cet exercice",
+      "file": "audio/ee16ce5a7f780e3fe74aa390.mp3"
+    },
+    {
+      "text": "Le pion avance d’une case. À son premier coup, il peut avancer de deux cases si le passage est libre. Il capture une case en diagonale vers l’avant. Sur la dernière rangée, il devient une dame, une tour, un fou ou un cavalier.",
+      "normalized": "le pion avance d une case à son premier coup il peut avancer de deux cases si le passage est libre il capture une case en diagonale vers l avant sur la dernière rangée il devient une dame une tour un fou ou un cavalier",
+      "file": "audio/447d73d28619a9aa603b5125.mp3"
+    },
+    {
+      "text": "Le pion est promu en : Cavalier.",
+      "normalized": "le pion est promu en cavalier",
+      "file": "audio/10f9f909de74ce1776ed7ddf.mp3"
+    },
+    {
+      "text": "Le pion est promu en : Dame.",
+      "normalized": "le pion est promu en dame",
+      "file": "audio/8769e6dd880746268f58afd8.mp3"
+    },
+    {
+      "text": "Le pion est promu en : Fou.",
+      "normalized": "le pion est promu en fou",
+      "file": "audio/e86adfd5a1be39dd226fa6be.mp3"
+    },
+    {
+      "text": "Le pion est promu en : Tour.",
+      "normalized": "le pion est promu en tour",
+      "file": "audio/f199829a059bafc625544d06.mp3"
+    },
+    {
+      "text": "Le roi avance d’une case dans toutes les directions. Il ne peut pas aller sur une case attaquée.",
+      "normalized": "le roi avance d une case dans toutes les directions il ne peut pas aller sur une case attaquée",
+      "file": "audio/2e961b87df6f46edc8b05b5b.mp3"
+    },
+    {
+      "text": "Le roi est attaqué et aucun coup légal n’est possible. Échec et mat ! La partie se termine.",
+      "normalized": "le roi est attaqué et aucun coup légal n est possible échec et mat la partie se termine",
+      "file": "audio/7219d1b3f832980fc016fdfe.mp3"
+    },
+    {
+      "text": "Le roi est attaqué, mais un coup sûr est possible. La partie continue.",
+      "normalized": "le roi est attaqué mais un coup sûr est possible la partie continue",
+      "file": "audio/c771a708c6f9b34f2cdf2743.mp3"
+    },
+    {
+      "text": "Le roi n’est pas attaqué, mais aucun coup légal n’est possible. Pat ! La partie est nulle.",
+      "normalized": "le roi n est pas attaqué mais aucun coup légal n est possible pat la partie est nulle",
+      "file": "audio/8c05fce6323550ddfcecc81e.mp3"
+    },
+    {
+      "text": "Maintiens une pièce et glisse-la sur la case indiquée. Tu peux aussi toucher la pièce puis la case.",
+      "normalized": "maintiens une pièce et glisse la sur la case indiquée tu peux aussi toucher la pièce puis la case",
+      "file": "audio/863256e97cdfe513d668fd10.mp3"
+    },
+    {
+      "text": "Mat en un coup",
+      "normalized": "mat en un coup",
+      "file": "audio/547e0c5540aa83d77d104d66.mp3"
+    },
+    {
+      "text": "Mat et pat",
+      "normalized": "mat et pat",
+      "file": "audio/586eb8943e96cdd5a696cebc.mp3"
+    },
+    {
+      "text": "Noirs",
+      "normalized": "noirs",
+      "file": "audio/b6e912c03917fab04bf2d50f.mp3"
+    },
+    {
+      "text": "Noirs : déplacement de Cavalier, de",
+      "normalized": "noirs déplacement de cavalier de",
+      "file": "audio/92f138bf7e8f1dd8875e74b2.mp3"
+    },
+    {
+      "text": "Noirs : déplacement de Dame, de",
+      "normalized": "noirs déplacement de dame de",
+      "file": "audio/726847cd228341b9e64c677b.mp3"
+    },
+    {
+      "text": "Noirs : déplacement de Fou, de",
+      "normalized": "noirs déplacement de fou de",
+      "file": "audio/17fe71c61186df587907d522.mp3"
+    },
+    {
+      "text": "Noirs : déplacement de Pion, de",
+      "normalized": "noirs déplacement de pion de",
+      "file": "audio/6835b4da4ba637ae6b2e570e.mp3"
+    },
+    {
+      "text": "Noirs : déplacement de Roi, de",
+      "normalized": "noirs déplacement de roi de",
+      "file": "audio/2fd1b29b3356e7c36e6e0e95.mp3"
+    },
+    {
+      "text": "Noirs : déplacement de Tour, de",
+      "normalized": "noirs déplacement de tour de",
+      "file": "audio/f4ea7bf5b258e9abd75ebf57.mp3"
+    },
+    {
+      "text": "Nous voyons l’échiquier du côté des blancs. La case en bas à droite est claire. Place les pièces blanches, puis les noires.",
+      "normalized": "nous voyons l échiquier du côté des blancs la case en bas à droite est claire place les pièces blanches puis les noires",
+      "file": "audio/019cf1bbf3cee1e9c8c1d46c.mp3"
+    },
+    {
+      "text": "Partie nulle",
+      "normalized": "partie nulle",
+      "file": "audio/9e1c12af0301fedb23ad50ec.mp3"
+    },
+    {
+      "text": "Pat",
+      "normalized": "pat",
+      "file": "audio/68d753f055b1a15b39499fdb.mp3"
+    },
+    {
+      "text": "Pion",
+      "normalized": "pion",
+      "file": "audio/e1fc3de5af884ddc866063b8.mp3"
+    },
+    {
+      "text": "Pion a été capturé.",
+      "normalized": "pion a été capturé",
+      "file": "audio/d897797d20be67908f0e0fe1.mp3"
+    },
+    {
+      "text": "Pièces blanches",
+      "normalized": "pièces blanches",
+      "file": "audio/6d3c62eff4cf59de67790271.mp3"
+    },
+    {
+      "text": "Pièces noires",
+      "normalized": "pièces noires",
+      "file": "audio/46cdf51bef4e39b6019f04a5.mp3"
+    },
+    {
+      "text": "Place cette pièce sur a1 : Tour.",
+      "normalized": "place cette pièce sur a1 tour",
+      "file": "audio/928e4a6b06e830732c53cf16.mp3"
+    },
+    {
+      "text": "Place cette pièce sur a2 : Pion.",
+      "normalized": "place cette pièce sur a2 pion",
+      "file": "audio/b814aedf63fe0976f1c344ff.mp3"
+    },
+    {
+      "text": "Place cette pièce sur a7 : Pion.",
+      "normalized": "place cette pièce sur a7 pion",
+      "file": "audio/e549ed1ea4252969aeaa00b9.mp3"
+    },
+    {
+      "text": "Place cette pièce sur a8 : Tour.",
+      "normalized": "place cette pièce sur a8 tour",
+      "file": "audio/f88c21468b06135778cfbc4b.mp3"
+    },
+    {
+      "text": "Place cette pièce sur b1 : Cavalier.",
+      "normalized": "place cette pièce sur b1 cavalier",
+      "file": "audio/6a5a70cbf558dde1b55ebf20.mp3"
+    },
+    {
+      "text": "Place cette pièce sur b2 : Pion.",
+      "normalized": "place cette pièce sur b2 pion",
+      "file": "audio/466deaf63294330934c4287f.mp3"
+    },
+    {
+      "text": "Place cette pièce sur b7 : Pion.",
+      "normalized": "place cette pièce sur b7 pion",
+      "file": "audio/aaf5a12b3304f1dab5d3046f.mp3"
+    },
+    {
+      "text": "Place cette pièce sur b8 : Cavalier.",
+      "normalized": "place cette pièce sur b8 cavalier",
+      "file": "audio/2c0ed48a087e629d4fa1a00c.mp3"
+    },
+    {
+      "text": "Place cette pièce sur c1 : Fou.",
+      "normalized": "place cette pièce sur c1 fou",
+      "file": "audio/ae9abdba6dcce1a6b290ea23.mp3"
+    },
+    {
+      "text": "Place cette pièce sur c2 : Pion.",
+      "normalized": "place cette pièce sur c2 pion",
+      "file": "audio/e4037d1583fe51515564bc06.mp3"
+    },
+    {
+      "text": "Place cette pièce sur c7 : Pion.",
+      "normalized": "place cette pièce sur c7 pion",
+      "file": "audio/b3a9e13d7b2f57150d285795.mp3"
+    },
+    {
+      "text": "Place cette pièce sur c8 : Fou.",
+      "normalized": "place cette pièce sur c8 fou",
+      "file": "audio/28de46b76f9ea13c07bddbc1.mp3"
+    },
+    {
+      "text": "Place cette pièce sur d1 : Dame.",
+      "normalized": "place cette pièce sur d1 dame",
+      "file": "audio/f902d3980d16bb55dbfeb4f3.mp3"
+    },
+    {
+      "text": "Place cette pièce sur d2 : Pion.",
+      "normalized": "place cette pièce sur d2 pion",
+      "file": "audio/3dd5c082bc025a75c723007d.mp3"
+    },
+    {
+      "text": "Place cette pièce sur d7 : Pion.",
+      "normalized": "place cette pièce sur d7 pion",
+      "file": "audio/515922d7d3dc4c31adab8d81.mp3"
+    },
+    {
+      "text": "Place cette pièce sur d8 : Dame.",
+      "normalized": "place cette pièce sur d8 dame",
+      "file": "audio/d56c0415d9c02f9bd1c2d18b.mp3"
+    },
+    {
+      "text": "Place cette pièce sur e1 : Roi.",
+      "normalized": "place cette pièce sur e1 roi",
+      "file": "audio/b6e6287146800b1f80e7201e.mp3"
+    },
+    {
+      "text": "Place cette pièce sur e2 : Pion.",
+      "normalized": "place cette pièce sur e2 pion",
+      "file": "audio/972607185bf403d7119f000d.mp3"
+    },
+    {
+      "text": "Place cette pièce sur e7 : Pion.",
+      "normalized": "place cette pièce sur e7 pion",
+      "file": "audio/983ebb84465b5209db0788e6.mp3"
+    },
+    {
+      "text": "Place cette pièce sur e8 : Roi.",
+      "normalized": "place cette pièce sur e8 roi",
+      "file": "audio/b50defdec8687cc7a25385a5.mp3"
+    },
+    {
+      "text": "Place cette pièce sur f1 : Fou.",
+      "normalized": "place cette pièce sur f1 fou",
+      "file": "audio/655e20d53bede71ea72ae3ce.mp3"
+    },
+    {
+      "text": "Place cette pièce sur f2 : Pion.",
+      "normalized": "place cette pièce sur f2 pion",
+      "file": "audio/f9774f6dc6058ce0afad04ad.mp3"
+    },
+    {
+      "text": "Place cette pièce sur f7 : Pion.",
+      "normalized": "place cette pièce sur f7 pion",
+      "file": "audio/a3ea11e618a5246261fa37e3.mp3"
+    },
+    {
+      "text": "Place cette pièce sur f8 : Fou.",
+      "normalized": "place cette pièce sur f8 fou",
+      "file": "audio/8f79af78b13ecdd512d5977e.mp3"
+    },
+    {
+      "text": "Place cette pièce sur g1 : Cavalier.",
+      "normalized": "place cette pièce sur g1 cavalier",
+      "file": "audio/7d9b2ab4369ff1ceadc4db65.mp3"
+    },
+    {
+      "text": "Place cette pièce sur g2 : Pion.",
+      "normalized": "place cette pièce sur g2 pion",
+      "file": "audio/222070e2c1b7cc23a99e8106.mp3"
+    },
+    {
+      "text": "Place cette pièce sur g7 : Pion.",
+      "normalized": "place cette pièce sur g7 pion",
+      "file": "audio/40f20d987fd7e83f87a7ea59.mp3"
+    },
+    {
+      "text": "Place cette pièce sur g8 : Cavalier.",
+      "normalized": "place cette pièce sur g8 cavalier",
+      "file": "audio/be68ccc2924d6d5c724a4b44.mp3"
+    },
+    {
+      "text": "Place cette pièce sur h1 : Tour.",
+      "normalized": "place cette pièce sur h1 tour",
+      "file": "audio/55e12e7d193379bb609d3c4d.mp3"
+    },
+    {
+      "text": "Place cette pièce sur h2 : Pion.",
+      "normalized": "place cette pièce sur h2 pion",
+      "file": "audio/9c5fc663d0f630debf4aa35d.mp3"
+    },
+    {
+      "text": "Place cette pièce sur h7 : Pion.",
+      "normalized": "place cette pièce sur h7 pion",
+      "file": "audio/7cb667650e25c79ec4e1937a.mp3"
+    },
+    {
+      "text": "Place cette pièce sur h8 : Tour.",
+      "normalized": "place cette pièce sur h8 tour",
+      "file": "audio/7df0ccc5dbc2d6365a3b8ee5.mp3"
+    },
+    {
+      "text": "Regarde encore : le roi est-il attaqué ? Un coup légal est-il possible ?",
+      "normalized": "regarde encore le roi est il attaqué un coup légal est il possible",
+      "file": "audio/1cd81cc8ff7326386b2f7f7a.mp3"
+    },
+    {
+      "text": "Roi",
+      "normalized": "roi",
+      "file": "audio/23c8f1bdd488e9bc079b81e4.mp3"
+    },
+    {
+      "text": "Roi a été capturé.",
+      "normalized": "roi a été capturé",
+      "file": "audio/1ca750bf17cb269f8248f4b9.mp3"
+    },
+    {
+      "text": "Réessaie. Vérifie le nom de la pièce et touche la case indiquée.",
+      "normalized": "réessaie vérifie le nom de la pièce et touche la case indiquée",
+      "file": "audio/e022e4ad5c5fa79de11555e0.mp3"
+    },
+    {
+      "text": "Réessayons. Choisis ta pièce, puis va sur la case cible.",
+      "normalized": "réessayons choisis ta pièce puis va sur la case cible",
+      "file": "audio/38104e04fb4dfe175cdcffec.mp3"
+    },
+    {
+      "text": "Réessayons. Regarde le roi entouré de rouge et écoute la consigne.",
+      "normalized": "réessayons regarde le roi entouré de rouge et écoute la consigne",
+      "file": "audio/dee13317b1066229a6358609.mp3"
+    },
+    {
+      "text": "Tour",
+      "normalized": "tour",
+      "file": "audio/d7b44809a0359169b755a703.mp3"
+    },
+    {
+      "text": "Tour a été capturé.",
+      "normalized": "tour a été capturé",
+      "file": "audio/767b23604e892ffb64d7af0d.mp3"
+    },
+    {
+      "text": "Tu as gagné !",
+      "normalized": "tu as gagné",
+      "file": "audio/7e2f4cb5b24972b801ce1f3d.mp3"
+    },
+    {
+      "text": "Tu as réussi toutes les missions ! Tu peux les refaire.",
+      "normalized": "tu as réussi toutes les missions tu peux les refaire",
+      "file": "audio/9dbf1d540893d2c91a9d87f9.mp3"
+    },
+    {
+      "text": "Tu peux aussi protéger le roi en capturant l’attaquant. Choisis le fou en h1 et capture la tour noire en e4.",
+      "normalized": "tu peux aussi protéger le roi en capturant l attaquant choisis le fou en h1 et capture la tour noire en e4",
+      "file": "audio/7748025869866e932d9d227e.mp3"
+    },
+    {
+      "text": "Tu peux bloquer une attaque lointaine. Choisis la tour en a2 et déplace-la en e2 pour protéger ton roi.",
+      "normalized": "tu peux bloquer une attaque lointaine choisis la tour en a2 et déplace la en e2 pour protéger ton roi",
+      "file": "audio/38d59562502762ff4162d0a4.mp3"
+    },
+    {
+      "text": "Un roi attaqué est en échec. Trouve la pièce noire qui attaque le roi blanc et touche-la.",
+      "normalized": "un roi attaqué est en échec trouve la pièce noire qui attaque le roi blanc et touche la",
+      "file": "audio/894751ab2c96aaad0e8dc3df.mp3"
+    },
+    {
+      "text": "Échec avec une issue",
+      "normalized": "échec avec une issue",
+      "file": "audio/1217dc044c50bb16affa97c2.mp3"
+    },
+    {
+      "text": "Échec et mat",
+      "normalized": "échec et mat",
+      "file": "audio/e9b5784028f82e77c41e755c.mp3"
+    },
+    {
+      "text": "L'ouverture est le début d'une partie. Découvre les idées, puis explore des exemples célèbres sur l'échiquier.",
+      "normalized": "l ouverture est le début d une partie découvre les idées puis explore des exemples célèbres sur l échiquier",
+      "file": "audio/862e0c2768d75f2e94fe2245.mp3"
+    },
+    {
+      "text": "Contrôle le milieu avec les pions centraux et les pièces. Les quatre cases centrales sont e4, d4, e5 et d5.",
+      "normalized": "contrôle le milieu avec les pions centraux et les pièces les quatre cases centrales sont e4 d4 e5 et d5",
+      "file": "audio/514b7a613e718c6d228e611c.mp3"
+    },
+    {
+      "text": "Mets les cavaliers et les fous en jeu. Développe plusieurs pièces plutôt que de déplacer toujours la même.",
+      "normalized": "mets les cavaliers et les fous en jeu développe plusieurs pièces plutôt que de déplacer toujours la même",
+      "file": "audio/d940213ffc069153daa028b4.mp3"
+    },
+    {
+      "text": "Prépare le roque quand il est légal et sûr. Relie tes tours et évite d'exposer ton roi.",
+      "normalized": "prépare le roque quand il est légal et sûr relie tes tours et évite d exposer ton roi",
+      "file": "audio/95cd89ce9b0a691adad06d03.mp3"
+    },
+    {
+      "text": "Avant chaque coup, cherche les échecs, les prises et les menaces des deux camps. Le nom d'une ouverture ne rend pas un coup sûr.",
+      "normalized": "avant chaque coup cherche les échecs les prises et les menaces des deux camps le nom d une ouverture ne rend pas un coup sûr",
+      "file": "audio/185679d2648b929c89e4c1ba.mp3"
+    },
+    {
+      "text": "Partie italienne",
+      "normalized": "partie italienne",
+      "file": "audio/2229fff0ec5ca43d27844559.mp3"
+    },
+    {
+      "text": "Développe le cavalier en f3 et le fou en c4. Le fou vise f7 pendant que les Blancs préparent le roque. Les Noirs ont plusieurs réponses possibles.",
+      "normalized": "développe le cavalier en f3 et le fou en c4 le fou vise f7 pendant que les blancs préparent le roque les noirs ont plusieurs réponses possibles",
+      "file": "audio/7500538a036450196ca85454.mp3"
+    },
+    {
+      "text": "Partie espagnole (Ruy Lopez)",
+      "normalized": "partie espagnole ruy lopez",
+      "file": "audio/660b6aef946e5e159cb7dbd6.mp3"
+    },
+    {
+      "text": "Le fou va en b5 et attaque le cavalier qui défend e5. Dans cet exemple, les Noirs jouent a6 pour demander au fou où il veut aller.",
+      "normalized": "le fou va en b5 et attaque le cavalier qui défend e5 dans cet exemple les noirs jouent a6 pour demander au fou où il veut aller",
+      "file": "audio/c4eba4875c0216ada6c0890b.mp3"
+    },
+    {
+      "text": "Partie écossaise",
+      "normalized": "partie écossaise",
+      "file": "audio/13eef95bdbc11edfd37c2e6a.mp3"
+    },
+    {
+      "text": "Les Blancs contestent tôt le centre avec d4. Après l'échange de pions, le cavalier reprend en d4 et occupe une case centrale active.",
+      "normalized": "les blancs contestent tôt le centre avec d4 après l échange de pions le cavalier reprend en d4 et occupe une case centrale active",
+      "file": "audio/c46c53869dae98b84312c404.mp3"
+    },
+    {
+      "text": "Gambit dame",
+      "normalized": "gambit dame",
+      "file": "audio/1bbbe15d287a2fe4d3e9ac24.mp3"
+    },
+    {
+      "text": "Les Blancs proposent le pion c pour attaquer le pion noir d5. Les Noirs peuvent accepter ou refuser ; ici, ils refusent avec e6 et développent leurs pièces.",
+      "normalized": "les blancs proposent le pion c pour attaquer le pion noir d5 les noirs peuvent accepter ou refuser ici ils refusent avec e6 et développent leurs pièces",
+      "file": "audio/5f2cf6b7f2c053dbc4c44ea6.mp3"
+    },
+    {
+      "text": "Système de Londres",
+      "normalized": "système de londres",
+      "file": "audio/bc4463333243ae21c55525d6.mp3"
+    },
+    {
+      "text": "Les Blancs développent leur fou de cases noires en f4 avant de jouer e3. Construis un centre solide, mais adapte ton plan aux coups noirs.",
+      "normalized": "les blancs développent leur fou de cases noires en f4 avant de jouer e3 construis un centre solide mais adapte ton plan aux coups noirs",
+      "file": "audio/02fdd923a05423b53cda83da.mp3"
+    },
+    {
+      "text": "Défense sicilienne",
+      "normalized": "défense sicilienne",
+      "file": "audio/13447649ef90a2df651e697a.mp3"
+    },
+    {
+      "text": "Les Noirs répondent à e4 par c5 pour contester d4 depuis le côté. Cet exemple de Sicilienne ouverte échange des pions et place le cavalier blanc en d4.",
+      "normalized": "les noirs répondent à e4 par c5 pour contester d4 depuis le côté cet exemple de sicilienne ouverte échange des pions et place le cavalier blanc en d4",
+      "file": "audio/826acff0ec2db3a07fc6fcb5.mp3"
+    },
+    {
+      "text": "Défense française",
+      "normalized": "défense française",
+      "file": "audio/6402a0a286709d279a088ed8.mp3"
+    },
+    {
+      "text": "Les Noirs préparent d5 avec e6. Dans cette variante d'avance, les Blancs gagnent de l'espace avec e5 et les Noirs contestent le centre avec c5.",
+      "normalized": "les noirs préparent d5 avec e6 dans cette variante d avance les blancs gagnent de l espace avec e5 et les noirs contestent le centre avec c5",
+      "file": "audio/20b8da197df13e563090b249.mp3"
+    },
+    {
+      "text": "Défense Caro-Kann",
+      "normalized": "défense caro kann",
+      "file": "audio/174192a293b3aacac2824b7b.mp3"
+    },
+    {
+      "text": "Les Noirs préparent d5 avec c6. Ici, ils prennent en e4 et les Blancs reprennent avec un cavalier ; les deux camps doivent encore se développer.",
+      "normalized": "les noirs préparent d5 avec c6 ici ils prennent en e4 et les blancs reprennent avec un cavalier les deux camps doivent encore se développer",
+      "file": "audio/44290a2aaf283123547052c4.mp3"
+    },
+    {
+      "text": "Ce coup de pion lutte pour le centre et libère de l'espace pour les pièces.",
+      "normalized": "ce coup de pion lutte pour le centre et libère de l espace pour les pièces",
+      "file": "audio/4c7d1673df56884208bcbb0e.mp3"
+    },
+    {
+      "text": "Une pièce mineure entre en jeu et contrôle des cases importantes.",
+      "normalized": "une pièce mineure entre en jeu et contrôle des cases importantes",
+      "file": "audio/18e1a668b5b2d0488fd85ba7.mp3"
+    },
+    {
+      "text": "Ce coup attaque une pièce adverse ou conteste le contrôle adverse du centre.",
+      "normalized": "ce coup attaque une pièce adverse ou conteste le contrôle adverse du centre",
+      "file": "audio/a8b39890dfd22ccf6ccd22fc.mp3"
+    },
+    {
+      "text": "Ce coup de pion soutient la structure centrale ou prépare un autre coup de pion au centre.",
+      "normalized": "ce coup de pion soutient la structure centrale ou prépare un autre coup de pion au centre",
+      "file": "audio/c988ad236c8f2fa67a216e66.mp3"
+    },
+    {
+      "text": "Une prise modifie le centre. Observe quelle pièce ou quel pion prend la place.",
+      "normalized": "une prise modifie le centre observe quelle pièce ou quel pion prend la place",
+      "file": "audio/a73232edeaa54011667c01de.mp3"
+    },
+    {
+      "text": "Le pion avance pour gagner de l'espace. Vérifie comment l'adversaire peut attaquer la chaîne de pions.",
+      "normalized": "le pion avance pour gagner de l espace vérifie comment l adversaire peut attaquer la chaîne de pions",
+      "file": "audio/67d002fd26760506fc3c5fdd.mp3"
+    }
+  ]
+}

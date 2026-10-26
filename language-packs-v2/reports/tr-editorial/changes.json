@@ -1,0 +1,2732 @@
+[
+  {
+    "conceptId": "buildings:160",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Akashi Kaikyō Köprüsü - Japonya",
+    "spokenText": "Akashi Kaikyō Köprüsü - Japonya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:161",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Boğaz Köprüsü - Türkiye",
+    "spokenText": "Boğaz Köprüsü - Türkiye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:162",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Brooklyn Köprüsü - ABD",
+    "spokenText": "Brooklyn Köprüsü - ABD",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:163",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Karl Köprüsü - Çek Cumhuriyeti",
+    "spokenText": "Karl Köprüsü - Çek Cumhuriyeti",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:164",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Chengyang Köprüsü - Çin",
+    "spokenText": "Chengyang Köprüsü - Çin",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:165",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Eyfel Kulesi - Fransa",
+    "spokenText": "Eyfel Kulesi - Fransa",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:166",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Golden Gate Köprüsü - ABD",
+    "spokenText": "Golden Gate Köprüsü - ABD",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:167",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Büyük Kemer Köprüsü - Danimarka",
+    "spokenText": "Büyük Kemer Köprüsü - Danimarka",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:169",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Ayasofya - Türkiye",
+    "spokenText": "Ayasofya - Türkiye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:172",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Millau Viyadüğü - Fransa",
+    "spokenText": "Millau Viyadüğü - Fransa",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:173",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Mostar Köprüsü - Bosna-Hersek",
+    "spokenText": "Mostar Köprüsü - Bosna-Hersek",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:174",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Öresund Köprüsü - İsveç ve Danimarka",
+    "spokenText": "Öresund Köprüsü - İsveç ve Danimarka",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:175",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Osmangazi Köprüsü - Türkiye",
+    "spokenText": "Osmangazi Köprüsü - Türkiye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:177",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Pisa Kulesi - İtalya",
+    "spokenText": "Pisa Kulesi - İtalya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:178",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Ponte Vecchio Köprüsü - İtalya",
+    "spokenText": "Ponte Vecchio Köprüsü - İtalya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:179",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Piramitler - Mısır",
+    "spokenText": "Piramitler - Mısır",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:180",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Rialto Köprüsü - İtalya",
+    "spokenText": "Rialto Köprüsü - İtalya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:181",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Si-o-se Pol Köprüsü - İran",
+    "spokenText": "Si-o-se Pol Köprüsü - İran",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:182",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Özgürlük Anıtı - Amerika Birleşik Devletleri",
+    "spokenText": "Özgürlük Anıtı - Amerika Birleşik Devletleri",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:184",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sultanahmet Camii - Türkiye",
+    "spokenText": "Sultanahmet Camii - Türkiye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:185",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sidney Liman Köprüsü - Avustralya",
+    "spokenText": "Sidney Liman Köprüsü - Avustralya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:186",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tac Mahal - Hindistan",
+    "spokenText": "Tac Mahal - Hindistan",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "buildings:189",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kule Köprüsü - İngiltere",
+    "spokenText": "Kule Köprüsü - İngiltere",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "clocks:191",
+    "before": {
+      "displayText": "sekiz saat",
+      "spokenText": "sekiz saat"
+    },
+    "displayText": "Saat sekiz",
+    "spokenText": "Saat sekiz",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:192",
+    "before": {
+      "displayText": "on bir saat",
+      "spokenText": "on bir saat"
+    },
+    "displayText": "Saat on bir",
+    "spokenText": "Saat on bir",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:193",
+    "before": {
+      "displayText": "beş saat",
+      "spokenText": "beş saat"
+    },
+    "displayText": "Saat beş",
+    "spokenText": "Saat beş",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:194",
+    "before": {
+      "displayText": "dört saat",
+      "spokenText": "dört saat"
+    },
+    "displayText": "Saat dört",
+    "spokenText": "Saat dört",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:195",
+    "before": {
+      "displayText": "dokuz saat",
+      "spokenText": "dokuz saat"
+    },
+    "displayText": "Saat dokuz",
+    "spokenText": "Saat dokuz",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:196",
+    "before": {
+      "displayText": "bir saat",
+      "spokenText": "bir saat"
+    },
+    "displayText": "Saat bir",
+    "spokenText": "Saat bir",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:197",
+    "before": {
+      "displayText": "yedi saat",
+      "spokenText": "yedi saat"
+    },
+    "displayText": "Saat yedi",
+    "spokenText": "Saat yedi",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:198",
+    "before": {
+      "displayText": "altı saat",
+      "spokenText": "altı saat"
+    },
+    "displayText": "Saat altı",
+    "spokenText": "Saat altı",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:199",
+    "before": {
+      "displayText": "on saat",
+      "spokenText": "on saat"
+    },
+    "displayText": "Saat on",
+    "spokenText": "Saat on",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:200",
+    "before": {
+      "displayText": "üç saat",
+      "spokenText": "üç saat"
+    },
+    "displayText": "Saat üç",
+    "spokenText": "Saat üç",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:201",
+    "before": {
+      "displayText": "on iki saat",
+      "spokenText": "on iki saat"
+    },
+    "displayText": "Saat on iki",
+    "spokenText": "Saat on iki",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:202",
+    "before": {
+      "displayText": "iki saat",
+      "spokenText": "iki saat"
+    },
+    "displayText": "Saat iki",
+    "spokenText": "Saat iki",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:203",
+    "before": {
+      "displayText": "sekiz buçuk",
+      "spokenText": "sekiz buçuk"
+    },
+    "displayText": "Saat sekiz buçuk",
+    "spokenText": "Saat sekiz buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:204",
+    "before": {
+      "displayText": "on bir buçuk",
+      "spokenText": "on bir buçuk"
+    },
+    "displayText": "Saat on bir buçuk",
+    "spokenText": "Saat on bir buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:205",
+    "before": {
+      "displayText": "beş buçuk",
+      "spokenText": "beş buçuk"
+    },
+    "displayText": "Saat beş buçuk",
+    "spokenText": "Saat beş buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:206",
+    "before": {
+      "displayText": "dört buçuk",
+      "spokenText": "dört buçuk"
+    },
+    "displayText": "Saat dört buçuk",
+    "spokenText": "Saat dört buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:207",
+    "before": {
+      "displayText": "dokuz buçuk",
+      "spokenText": "dokuz buçuk"
+    },
+    "displayText": "Saat dokuz buçuk",
+    "spokenText": "Saat dokuz buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:208",
+    "before": {
+      "displayText": "bir buçuk",
+      "spokenText": "bir buçuk"
+    },
+    "displayText": "Saat bir buçuk",
+    "spokenText": "Saat bir buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:209",
+    "before": {
+      "displayText": "yedi buçuk",
+      "spokenText": "yedi buçuk"
+    },
+    "displayText": "Saat yedi buçuk",
+    "spokenText": "Saat yedi buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:210",
+    "before": {
+      "displayText": "altı buçuk",
+      "spokenText": "altı buçuk"
+    },
+    "displayText": "Saat altı buçuk",
+    "spokenText": "Saat altı buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:211",
+    "before": {
+      "displayText": "on buçuk",
+      "spokenText": "on buçuk"
+    },
+    "displayText": "Saat on buçuk",
+    "spokenText": "Saat on buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:212",
+    "before": {
+      "displayText": "üç buçuk",
+      "spokenText": "üç buçuk"
+    },
+    "displayText": "Saat üç buçuk",
+    "spokenText": "Saat üç buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:213",
+    "before": {
+      "displayText": "on iki buçuk",
+      "spokenText": "on iki buçuk"
+    },
+    "displayText": "Saat on iki buçuk",
+    "spokenText": "Saat on iki buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:214",
+    "before": {
+      "displayText": "iki buçuk",
+      "spokenText": "iki buçuk"
+    },
+    "displayText": "Saat iki buçuk",
+    "spokenText": "Saat iki buçuk",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:215",
+    "before": {
+      "displayText": "sekiz çeyrek geçiyor",
+      "spokenText": "sekiz çeyrek geçiyor"
+    },
+    "displayText": "Saat sekizi çeyrek geçiyor",
+    "spokenText": "Saat sekizi çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:216",
+    "before": {
+      "displayText": "on bir çeyrek geçiyor",
+      "spokenText": "on bir çeyrek geçiyor"
+    },
+    "displayText": "Saat on biri çeyrek geçiyor",
+    "spokenText": "Saat on biri çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:217",
+    "before": {
+      "displayText": "beş çeyrek geçiyor",
+      "spokenText": "beş çeyrek geçiyor"
+    },
+    "displayText": "Saat beşi çeyrek geçiyor",
+    "spokenText": "Saat beşi çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:218",
+    "before": {
+      "displayText": "dört çeyrek geçiyor",
+      "spokenText": "dört çeyrek geçiyor"
+    },
+    "displayText": "Saat dördü çeyrek geçiyor",
+    "spokenText": "Saat dördü çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:219",
+    "before": {
+      "displayText": "dokuz çeyrek geçiyor",
+      "spokenText": "dokuz çeyrek geçiyor"
+    },
+    "displayText": "Saat dokuzu çeyrek geçiyor",
+    "spokenText": "Saat dokuzu çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:220",
+    "before": {
+      "displayText": "bir çeyrek geçiyor",
+      "spokenText": "bir çeyrek geçiyor"
+    },
+    "displayText": "Saat biri çeyrek geçiyor",
+    "spokenText": "Saat biri çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:221",
+    "before": {
+      "displayText": "yedi çeyrek geçiyor",
+      "spokenText": "yedi çeyrek geçiyor"
+    },
+    "displayText": "Saat yediyi çeyrek geçiyor",
+    "spokenText": "Saat yediyi çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:222",
+    "before": {
+      "displayText": "altı çeyrek geçiyor",
+      "spokenText": "altı çeyrek geçiyor"
+    },
+    "displayText": "Saat altıyı çeyrek geçiyor",
+    "spokenText": "Saat altıyı çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:223",
+    "before": {
+      "displayText": "on çeyrek geçiyor",
+      "spokenText": "on çeyrek geçiyor"
+    },
+    "displayText": "Saat onu çeyrek geçiyor",
+    "spokenText": "Saat onu çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:224",
+    "before": {
+      "displayText": "üç çeyrek geçiyor",
+      "spokenText": "üç çeyrek geçiyor"
+    },
+    "displayText": "Saat üçü çeyrek geçiyor",
+    "spokenText": "Saat üçü çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:225",
+    "before": {
+      "displayText": "on iki çeyrek geçiyor",
+      "spokenText": "on iki çeyrek geçiyor"
+    },
+    "displayText": "Saat on ikiyi çeyrek geçiyor",
+    "spokenText": "Saat on ikiyi çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:226",
+    "before": {
+      "displayText": "iki çeyrek geçiyor",
+      "spokenText": "iki çeyrek geçiyor"
+    },
+    "displayText": "Saat ikiyi çeyrek geçiyor",
+    "spokenText": "Saat ikiyi çeyrek geçiyor",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:227",
+    "before": {
+      "displayText": "sekiz çeyrek var",
+      "spokenText": "sekiz çeyrek var"
+    },
+    "displayText": "Saat sekize çeyrek var",
+    "spokenText": "Saat sekize çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:228",
+    "before": {
+      "displayText": "on bir çeyrek var",
+      "spokenText": "on bir çeyrek var"
+    },
+    "displayText": "Saat on bire çeyrek var",
+    "spokenText": "Saat on bire çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:229",
+    "before": {
+      "displayText": "beş çeyrek var",
+      "spokenText": "beş çeyrek var"
+    },
+    "displayText": "Saat beşe çeyrek var",
+    "spokenText": "Saat beşe çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:230",
+    "before": {
+      "displayText": "dört çeyrek var",
+      "spokenText": "dört çeyrek var"
+    },
+    "displayText": "Saat dörde çeyrek var",
+    "spokenText": "Saat dörde çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:231",
+    "before": {
+      "displayText": "dokuz çeyrek var",
+      "spokenText": "dokuz çeyrek var"
+    },
+    "displayText": "Saat dokuza çeyrek var",
+    "spokenText": "Saat dokuza çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:232",
+    "before": {
+      "displayText": "bir çeyrek var",
+      "spokenText": "bir çeyrek var"
+    },
+    "displayText": "Saat bire çeyrek var",
+    "spokenText": "Saat bire çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:233",
+    "before": {
+      "displayText": "yedi çeyrek var",
+      "spokenText": "yedi çeyrek var"
+    },
+    "displayText": "Saat yediye çeyrek var",
+    "spokenText": "Saat yediye çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:234",
+    "before": {
+      "displayText": "altı çeyrek var",
+      "spokenText": "altı çeyrek var"
+    },
+    "displayText": "Saat altıya çeyrek var",
+    "spokenText": "Saat altıya çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:235",
+    "before": {
+      "displayText": "on çeyrek var",
+      "spokenText": "on çeyrek var"
+    },
+    "displayText": "Saat ona çeyrek var",
+    "spokenText": "Saat ona çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:236",
+    "before": {
+      "displayText": "üç çeyrek var",
+      "spokenText": "üç çeyrek var"
+    },
+    "displayText": "Saat üçe çeyrek var",
+    "spokenText": "Saat üçe çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:237",
+    "before": {
+      "displayText": "on iki çeyrek var",
+      "spokenText": "on iki çeyrek var"
+    },
+    "displayText": "Saat on ikiye çeyrek var",
+    "spokenText": "Saat on ikiye çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "clocks:238",
+    "before": {
+      "displayText": "iki çeyrek var",
+      "spokenText": "iki çeyrek var"
+    },
+    "displayText": "Saat ikiye çeyrek var",
+    "spokenText": "Saat ikiye çeyrek var",
+    "reason": "Turkish_clock_grammar_corrected"
+  },
+  {
+    "conceptId": "home:1091",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Koltuk",
+    "spokenText": "Koltuk",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1092",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sırt çantası",
+    "spokenText": "Sırt çantası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1093",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çanta",
+    "spokenText": "Çanta",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1094",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Top",
+    "spokenText": "Top",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1095",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Balon",
+    "spokenText": "Balon",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1096",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Lavabo",
+    "spokenText": "Lavabo",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1097",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bornoz",
+    "spokenText": "Bornoz",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1098",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kemer",
+    "spokenText": "Kemer",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1099",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bisiklet",
+    "spokenText": "Bisiklet",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1100",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bisiklet",
+    "spokenText": "Bisiklet",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1101",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kara tahta",
+    "spokenText": "Kara tahta",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1102",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Blender",
+    "spokenText": "Blender",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1103",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bloklar",
+    "spokenText": "Bloklar",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1104",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Blüz",
+    "spokenText": "Blüz",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1105",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kitap",
+    "spokenText": "Kitap",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1106",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bot",
+    "spokenText": "Bot",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1107",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Şişe",
+    "spokenText": "Şişe",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1108",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kâse",
+    "spokenText": "Kâse",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1109",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Boksör şortu",
+    "spokenText": "Boksör şortu",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1110",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bileklik",
+    "spokenText": "Bileklik",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1111",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Ekmek tahtası",
+    "spokenText": "Ekmek tahtası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1112",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Külot",
+    "spokenText": "Külot",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1113",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Fırça",
+    "spokenText": "Fırça",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1114",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kova",
+    "spokenText": "Kova",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1115",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kemer tokası",
+    "spokenText": "Kemer tokası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1116",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Hesap makinesi",
+    "spokenText": "Hesap makinesi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1117",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Halı",
+    "spokenText": "Halı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1118",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sandalye",
+    "spokenText": "Sandalye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1119",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sandalye",
+    "spokenText": "Sandalye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1120",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tebeşir",
+    "spokenText": "Tebeşir",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1121",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Satranç",
+    "spokenText": "Satranç",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1122",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Ataş",
+    "spokenText": "Ataş",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1123",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Klipsli dosya",
+    "spokenText": "Klipsli dosya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1124",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Saat",
+    "spokenText": "Saat",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1125",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kaban",
+    "spokenText": "Kaban",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1126",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tarak",
+    "spokenText": "Tarak",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1127",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Pergel",
+    "spokenText": "Pergel",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1128",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bilgisayar",
+    "spokenText": "Bilgisayar",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1129",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Ocak",
+    "spokenText": "Ocak",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1130",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Fincan",
+    "spokenText": "Fincan",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1131",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çalışma masası",
+    "spokenText": "Çalışma masası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1133",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Zar",
+    "spokenText": "Zar",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1134",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bulaşık makinesi",
+    "spokenText": "Bulaşık makinesi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1135",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Oyuncak bebek",
+    "spokenText": "Oyuncak bebek",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1136",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Domino",
+    "spokenText": "Domino",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1137",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kapı",
+    "spokenText": "Kapı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1138",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Alt kat",
+    "spokenText": "Alt kat",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1139",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Elbise",
+    "spokenText": "Elbise",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1141",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kışlık kulaklık",
+    "spokenText": "Kışlık kulaklık",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1142",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Küpe",
+    "spokenText": "Küpe",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1143",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Asansör",
+    "spokenText": "Asansör",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1144",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Zümrüt",
+    "spokenText": "Zümrüt",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1145",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Dosya",
+    "spokenText": "Dosya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1146",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "El feneri",
+    "spokenText": "El feneri",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1147",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çatal",
+    "spokenText": "Çatal",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1148",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Buzdolabı",
+    "spokenText": "Buzdolabı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1149",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bardak",
+    "spokenText": "Bardak",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1150",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Yer küresi",
+    "spokenText": "Yer küresi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1151",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Eldiven",
+    "spokenText": "Eldiven",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1152",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Yapıştırıcı",
+    "spokenText": "Yapıştırıcı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1153",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Rende",
+    "spokenText": "Rende",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1154",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Şapka",
+    "spokenText": "Şapka",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1155",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Fosforlu kalem",
+    "spokenText": "Fosforlu kalem",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1156",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kapüşon",
+    "spokenText": "Kapüşon",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1157",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Mont",
+    "spokenText": "Mont",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1158",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kot pantolon",
+    "spokenText": "Kot pantolon",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1159",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Anahtar",
+    "spokenText": "Anahtar",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1160",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bıçak",
+    "spokenText": "Bıçak",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1161",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Abajur",
+    "spokenText": "Abajur",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1162",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Büyüteç",
+    "spokenText": "Büyüteç",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1163",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Harita",
+    "spokenText": "Harita",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1164",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tek parmaklı eldiven",
+    "spokenText": "Tek parmaklı eldiven",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1165",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Paspas",
+    "spokenText": "Paspas",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1166",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tırnak törpüsü",
+    "spokenText": "Tırnak törpüsü",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1167",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kolye",
+    "spokenText": "Kolye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1168",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "İğne",
+    "spokenText": "İğne",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1169",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Gecelik",
+    "spokenText": "Gecelik",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1170",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Defter",
+    "spokenText": "Defter",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1171",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Fırın",
+    "spokenText": "Fırın",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1172",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Pijama",
+    "spokenText": "Pijama",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1173",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Palet",
+    "spokenText": "Palet",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1174",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tava",
+    "spokenText": "Tava",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1175",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Pantolon",
+    "spokenText": "Pantolon",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1176",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kâğıt",
+    "spokenText": "Kâğıt",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1178",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Delgeç",
+    "spokenText": "Delgeç",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1179",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Raptiye",
+    "spokenText": "Raptiye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1180",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tabak",
+    "spokenText": "Tabak",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1181",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tencere",
+    "spokenText": "Tencere",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1182",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "İletki",
+    "spokenText": "İletki",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1183",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "El çantası",
+    "spokenText": "El çantası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1184",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Yüzük",
+    "spokenText": "Yüzük",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1185",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Robot",
+    "spokenText": "Robot",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1186",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Silgi",
+    "spokenText": "Silgi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1187",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Yakut",
+    "spokenText": "Yakut",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1189",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sandalet",
+    "spokenText": "Sandalet",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1190",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Şal",
+    "spokenText": "Şal",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1191",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Makas",
+    "spokenText": "Makas",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1192",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Skuter",
+    "spokenText": "Skuter",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1193",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Gömlek",
+    "spokenText": "Gömlek",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1194",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Ayakkabı",
+    "spokenText": "Ayakkabı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1195",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Ayakkabı",
+    "spokenText": "Ayakkabı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1196",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Şort",
+    "spokenText": "Şort",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1197",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Duş kabini",
+    "spokenText": "Duş kabini",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1198",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Lavabo",
+    "spokenText": "Lavabo",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1199",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Etek",
+    "spokenText": "Etek",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1200",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Terlik",
+    "spokenText": "Terlik",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1201",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sabun",
+    "spokenText": "Sabun",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1202",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çorap",
+    "spokenText": "Çorap",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1203",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Rüzgâr gülü",
+    "spokenText": "Rüzgâr gülü",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1204",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kaşık",
+    "spokenText": "Kaşık",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1206",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Zımba",
+    "spokenText": "Zımba",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1207",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tabure",
+    "spokenText": "Tabure",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1208",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çanta askısı",
+    "spokenText": "Çanta askısı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1209",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Takım elbise",
+    "spokenText": "Takım elbise",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1210",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bavul",
+    "spokenText": "Bavul",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1211",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kazak",
+    "spokenText": "Kazak",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1212",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kapüşonlu sweatshirt",
+    "spokenText": "Kapüşonlu sweatshirt",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1213",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Masa",
+    "spokenText": "Masa",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1214",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bant",
+    "spokenText": "Bant",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1215",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çay kaşığı",
+    "spokenText": "Çay kaşığı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1216",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Telefon",
+    "spokenText": "Telefon",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1217",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Televizyon",
+    "spokenText": "Televizyon",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1218",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "İplik",
+    "spokenText": "İplik",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1219",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kravat",
+    "spokenText": "Kravat",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1220",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Diş fırçası",
+    "spokenText": "Diş fırçası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1221",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Diş macunu",
+    "spokenText": "Diş macunu",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1222",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Havlu",
+    "spokenText": "Havlu",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1223",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Oyuncak",
+    "spokenText": "Oyuncak",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1224",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Trampolin",
+    "spokenText": "Trampolin",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1225",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Üç tekerli bisiklet",
+    "spokenText": "Üç tekerli bisiklet",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1226",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Smokin",
+    "spokenText": "Smokin",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1227",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Cımbız",
+    "spokenText": "Cımbız",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1228",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Şemsiye",
+    "spokenText": "Şemsiye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1229",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Üst kat",
+    "spokenText": "Üst kat",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1230",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Yelek",
+    "spokenText": "Yelek",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1231",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Yıkanma bezi",
+    "spokenText": "Yıkanma bezi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1232",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Pencere",
+    "spokenText": "Pencere",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1233",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Yo-yo",
+    "spokenText": "Yo-yo",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1236",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çalar saat",
+    "spokenText": "Çalar saat",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1237",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kese",
+    "spokenText": "Kese",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1238",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Banyo lifi",
+    "spokenText": "Banyo lifi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1239",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Papyon",
+    "spokenText": "Papyon",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1240",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Mantar pano",
+    "spokenText": "Mantar pano",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1241",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kamp çantası",
+    "spokenText": "Kamp çantası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1242",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sehpa",
+    "spokenText": "Sehpa",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1243",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Masa lambası",
+    "spokenText": "Masa lambası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1244",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Bulaşık süngeri",
+    "spokenText": "Bulaşık süngeri",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1245",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Abiye elbise",
+    "spokenText": "Abiye elbise",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1246",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Dosya dolabı",
+    "spokenText": "Dosya dolabı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1247",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Klasör",
+    "spokenText": "Klasör",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1248",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Parmak arası terlik",
+    "spokenText": "Parmak arası terlik",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1249",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Oyun konsolu",
+    "spokenText": "Oyun konsolu",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1250",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Mücevher kutusu",
+    "spokenText": "Mücevher kutusu",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1251",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Mikrodalga fırın",
+    "spokenText": "Mikrodalga fırın",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1252",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tırnak makası",
+    "spokenText": "Tırnak makası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1253",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kalemlik",
+    "spokenText": "Kalemlik",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1254",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Peluş tavşan",
+    "spokenText": "Peluş tavşan",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1255",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sallanan at",
+    "spokenText": "Sallanan at",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1256",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Gönye",
+    "spokenText": "Gönye",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1257",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Duş başlığı",
+    "spokenText": "Duş başlığı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1258",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Atlama ipi",
+    "spokenText": "Atlama ipi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1259",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Topaç",
+    "spokenText": "Topaç",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1260",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sopalı oyuncak at",
+    "spokenText": "Sopalı oyuncak at",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1261",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tişört",
+    "spokenText": "Tişört",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1262",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Oyuncak ayı",
+    "spokenText": "Oyuncak ayı",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1263",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Masa tenisi masası",
+    "spokenText": "Masa tenisi masası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1264",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Tuvalet fırçası",
+    "spokenText": "Tuvalet fırçası",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1265",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çöp sepeti",
+    "spokenText": "Çöp sepeti",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1266",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Sulu boya",
+    "spokenText": "Sulu boya",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1267",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Beyaz tahta",
+    "spokenText": "Beyaz tahta",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1268",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Kalemtıraş",
+    "spokenText": "Kalemtıraş",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1269",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Pinbol makinesi",
+    "spokenText": "Pinbol makinesi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "home:1270",
+    "before": {
+      "displayText": null,
+      "spokenText": null
+    },
+    "displayText": "Çamaşır makinesi",
+    "spokenText": "Çamaşır makinesi",
+    "reason": "missing_text_completed_with_editorial_review"
+  },
+  {
+    "conceptId": "school:1271",
+    "before": {
+      "displayText": "A",
+      "spokenText": null
+    },
+    "displayText": "A",
+    "spokenText": "a",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1272",
+    "before": {
+      "displayText": "B",
+      "spokenText": null
+    },
+    "displayText": "B",
+    "spokenText": "be",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1276",
+    "before": {
+      "displayText": "C",
+      "spokenText": null
+    },
+    "displayText": "C",
+    "spokenText": "ce",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:tr-letter-00c7",
+    "before": {
+      "displayText": "A",
+      "spokenText": "a"
+    },
+    "displayText": "Ç",
+    "spokenText": "çe",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1283",
+    "before": {
+      "displayText": "D",
+      "spokenText": null
+    },
+    "displayText": "D",
+    "spokenText": "de",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1287",
+    "before": {
+      "displayText": "E",
+      "spokenText": null
+    },
+    "displayText": "E",
+    "spokenText": "e",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1296",
+    "before": {
+      "displayText": "F",
+      "spokenText": null
+    },
+    "displayText": "F",
+    "spokenText": "fe",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1308",
+    "before": {
+      "displayText": "G",
+      "spokenText": null
+    },
+    "displayText": "G",
+    "spokenText": "ge",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:tr-letter-011e",
+    "before": {
+      "displayText": "A",
+      "spokenText": "a"
+    },
+    "displayText": "Ğ",
+    "spokenText": "yumuşak ge",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1311",
+    "before": {
+      "displayText": "H",
+      "spokenText": null
+    },
+    "displayText": "H",
+    "spokenText": "he",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1314",
+    "before": {
+      "displayText": "I",
+      "spokenText": null
+    },
+    "displayText": "I",
+    "spokenText": "ı",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:tr-letter-0130",
+    "before": {
+      "displayText": "A",
+      "spokenText": "a"
+    },
+    "displayText": "İ",
+    "spokenText": "i",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1315",
+    "before": {
+      "displayText": "J",
+      "spokenText": null
+    },
+    "displayText": "J",
+    "spokenText": "je",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1316",
+    "before": {
+      "displayText": "K",
+      "spokenText": null
+    },
+    "displayText": "K",
+    "spokenText": "ke",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1317",
+    "before": {
+      "displayText": "L",
+      "spokenText": null
+    },
+    "displayText": "L",
+    "spokenText": "le",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1319",
+    "before": {
+      "displayText": "M",
+      "spokenText": null
+    },
+    "displayText": "M",
+    "spokenText": "me",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1322",
+    "before": {
+      "displayText": "N",
+      "spokenText": null
+    },
+    "displayText": "N",
+    "spokenText": "ne",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1328",
+    "before": {
+      "displayText": "O",
+      "spokenText": null
+    },
+    "displayText": "O",
+    "spokenText": "o",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:tr-letter-00d6",
+    "before": {
+      "displayText": "A",
+      "spokenText": "a"
+    },
+    "displayText": "Ö",
+    "spokenText": "ö",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1333",
+    "before": {
+      "displayText": "P",
+      "spokenText": null
+    },
+    "displayText": "P",
+    "spokenText": "pe",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1343",
+    "before": {
+      "displayText": "R",
+      "spokenText": null
+    },
+    "displayText": "R",
+    "spokenText": "re",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1346",
+    "before": {
+      "displayText": "S",
+      "spokenText": null
+    },
+    "displayText": "S",
+    "spokenText": "se",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:tr-letter-015e",
+    "before": {
+      "displayText": "A",
+      "spokenText": "a"
+    },
+    "displayText": "Ş",
+    "spokenText": "şe",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1361",
+    "before": {
+      "displayText": "T",
+      "spokenText": null
+    },
+    "displayText": "T",
+    "spokenText": "te",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1378",
+    "before": {
+      "displayText": "U",
+      "spokenText": null
+    },
+    "displayText": "U",
+    "spokenText": "u",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:tr-letter-00dc",
+    "before": {
+      "displayText": "A",
+      "spokenText": "a"
+    },
+    "displayText": "Ü",
+    "spokenText": "ü",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1379",
+    "before": {
+      "displayText": "V",
+      "spokenText": null
+    },
+    "displayText": "V",
+    "spokenText": "ve",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1383",
+    "before": {
+      "displayText": "Y",
+      "spokenText": null
+    },
+    "displayText": "Y",
+    "spokenText": "ye",
+    "reason": "Turkish_29_letter_curriculum"
+  },
+  {
+    "conceptId": "school:1385",
+    "before": {
+      "displayText": "Z",
+      "spokenText": null
+    },
+    "displayText": "Z",
+    "spokenText": "ze",
+    "reason": "Turkish_29_letter_curriculum"
+  }
+]

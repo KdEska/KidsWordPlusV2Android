@@ -1,0 +1,82 @@
+{
+  "language": "ar",
+  "wordCount": 1744,
+  "activeWordCount": 1468,
+  "missingRequiredAudio": [],
+  "missingImages": [],
+  "editorialReviewRequired": true,
+  "contentReview": {
+    "status": "pending",
+    "scope": "learning_text_and_alphabet_images"
+  },
+  "inactiveConceptIds": [
+    "school:1271",
+    "school:1272",
+    "school:1276",
+    "school:1283",
+    "school:1287",
+    "school:1296",
+    "school:1308",
+    "school:1311",
+    "school:1314",
+    "school:1315",
+    "school:1316",
+    "school:1317",
+    "school:1319",
+    "school:1322",
+    "school:1328",
+    "school:1333",
+    "school:1342",
+    "school:1343",
+    "school:1346",
+    "school:1361",
+    "school:1378",
+    "school:1379",
+    "school:1380",
+    "school:1382",
+    "school:1383",
+    "school:1385"
+  ],
+  "missingAudio": [],
+  "audioReview": {
+    "status": "sample_approved_bulk_generated",
+    "voiceId": "QtQamNJjpordEbNFIlz3",
+    "voiceName": "Amal - Rich & Sophisticated",
+    "model": "eleven_v4",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75
+    },
+    "languageCode": "ar",
+    "targetLocale": "ar-SA",
+    "generatedRecordings": 1230,
+    "installedFiles": 1468,
+    "approvedWords": [
+      "قطة",
+      "يرقة",
+      "أيل",
+      "كلب",
+      "يعسوب",
+      "عقاب",
+      "سمكة",
+      "الساعة الواحدة والنصف",
+      "عين",
+      "غين"
+    ],
+    "bulkGenerationAuthorized": true,
+    "allPronunciationsHumanReviewed": false,
+    "source": "production/ar-amal-v4/ledger.json"
+  },
+  "sharedImageCount": 1618,
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "14-ar-chess-e3b8deed6459",
+    "archive": "archives/ar-14-ar-chess-e3b8deed6459.zip"
+  }
+}

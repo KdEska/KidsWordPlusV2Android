@@ -1,0 +1,1351 @@
+{
+  "voice_id": "24dlQ7ON1LVwBihIiCBg",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "a1 पर गया।",
+      "normalized": "a1 पर गया",
+      "file": "audio/23eea363c800f5bbbf26e198.mp3"
+    },
+    {
+      "text": "a1 से",
+      "normalized": "a1 से",
+      "file": "audio/9acbafa9d5d2b92c65dc06bd.mp3"
+    },
+    {
+      "text": "a2 पर गया।",
+      "normalized": "a2 पर गया",
+      "file": "audio/52980974fbeb512a41a31361.mp3"
+    },
+    {
+      "text": "a2 से",
+      "normalized": "a2 से",
+      "file": "audio/92307679feca1d279e882e23.mp3"
+    },
+    {
+      "text": "a3 पर गया।",
+      "normalized": "a3 पर गया",
+      "file": "audio/953d4a52634b5e4a708e56ca.mp3"
+    },
+    {
+      "text": "a3 से",
+      "normalized": "a3 से",
+      "file": "audio/3312957c8a8a16c93080d92e.mp3"
+    },
+    {
+      "text": "a4 पर गया।",
+      "normalized": "a4 पर गया",
+      "file": "audio/5568d17579ab4dc81c0617ba.mp3"
+    },
+    {
+      "text": "a4 से",
+      "normalized": "a4 से",
+      "file": "audio/d17053be1eeaff5b1d15fc79.mp3"
+    },
+    {
+      "text": "a5 पर गया।",
+      "normalized": "a5 पर गया",
+      "file": "audio/2a5d112760ba869246f96c2d.mp3"
+    },
+    {
+      "text": "a5 से",
+      "normalized": "a5 से",
+      "file": "audio/b434c8426be5b8e3be627e3a.mp3"
+    },
+    {
+      "text": "a6 पर गया।",
+      "normalized": "a6 पर गया",
+      "file": "audio/8df42d3a6e309c1802957fac.mp3"
+    },
+    {
+      "text": "a6 से",
+      "normalized": "a6 से",
+      "file": "audio/94c76783eb522c6dfb9effb3.mp3"
+    },
+    {
+      "text": "a7 पर गया।",
+      "normalized": "a7 पर गया",
+      "file": "audio/34c7aa6e7cd10f81e95c88eb.mp3"
+    },
+    {
+      "text": "a7 से",
+      "normalized": "a7 से",
+      "file": "audio/68cb6e111960240fda07b019.mp3"
+    },
+    {
+      "text": "a8 पर गया।",
+      "normalized": "a8 पर गया",
+      "file": "audio/cfbdc7392a5ace4166abd88b.mp3"
+    },
+    {
+      "text": "a8 से",
+      "normalized": "a8 से",
+      "file": "audio/9b1aeb3d3706bd46a7116ed3.mp3"
+    },
+    {
+      "text": "b1 पर गया।",
+      "normalized": "b1 पर गया",
+      "file": "audio/7baa801a6584e1244986b508.mp3"
+    },
+    {
+      "text": "b1 से",
+      "normalized": "b1 से",
+      "file": "audio/698dc76426baa424f77b6142.mp3"
+    },
+    {
+      "text": "b2 पर गया।",
+      "normalized": "b2 पर गया",
+      "file": "audio/607f5edd98cf80ad17cc7d06.mp3"
+    },
+    {
+      "text": "b2 से",
+      "normalized": "b2 से",
+      "file": "audio/df159f008f825ac469092eaf.mp3"
+    },
+    {
+      "text": "b3 पर गया।",
+      "normalized": "b3 पर गया",
+      "file": "audio/70b21fd41665535e81555859.mp3"
+    },
+    {
+      "text": "b3 से",
+      "normalized": "b3 से",
+      "file": "audio/ef28cfd4dcc2107d683a4891.mp3"
+    },
+    {
+      "text": "b4 पर गया।",
+      "normalized": "b4 पर गया",
+      "file": "audio/11b98e0bddf0e5fdcc94016b.mp3"
+    },
+    {
+      "text": "b4 से",
+      "normalized": "b4 से",
+      "file": "audio/b68e2d1bc9ba2006260ff435.mp3"
+    },
+    {
+      "text": "b5 पर गया।",
+      "normalized": "b5 पर गया",
+      "file": "audio/adb0fa5625fea29b44750e01.mp3"
+    },
+    {
+      "text": "b5 से",
+      "normalized": "b5 से",
+      "file": "audio/f66ce2503f479563ef5b277b.mp3"
+    },
+    {
+      "text": "b6 पर गया।",
+      "normalized": "b6 पर गया",
+      "file": "audio/9ed7eabdfd2d9f4936171b30.mp3"
+    },
+    {
+      "text": "b6 से",
+      "normalized": "b6 से",
+      "file": "audio/921dacfeed50521c8fe97a77.mp3"
+    },
+    {
+      "text": "b7 पर गया।",
+      "normalized": "b7 पर गया",
+      "file": "audio/c416833a4399ab02ed211058.mp3"
+    },
+    {
+      "text": "b7 से",
+      "normalized": "b7 से",
+      "file": "audio/6206ac259a92d8047212d7c9.mp3"
+    },
+    {
+      "text": "b8 पर गया।",
+      "normalized": "b8 पर गया",
+      "file": "audio/e01dfdf144b89b8c6e2b6454.mp3"
+    },
+    {
+      "text": "b8 से",
+      "normalized": "b8 से",
+      "file": "audio/14d38dd0af3b965f26e91080.mp3"
+    },
+    {
+      "text": "c1 पर गया।",
+      "normalized": "c1 पर गया",
+      "file": "audio/8d0fd95906193ea17e58a467.mp3"
+    },
+    {
+      "text": "c1 से",
+      "normalized": "c1 से",
+      "file": "audio/f3101ddaf639210672c951a5.mp3"
+    },
+    {
+      "text": "c2 पर गया।",
+      "normalized": "c2 पर गया",
+      "file": "audio/a8febf775724090218b03124.mp3"
+    },
+    {
+      "text": "c2 से",
+      "normalized": "c2 से",
+      "file": "audio/11f7c259c385464e9bf7c57d.mp3"
+    },
+    {
+      "text": "c3 पर गया।",
+      "normalized": "c3 पर गया",
+      "file": "audio/590712199bcd53235d9f5423.mp3"
+    },
+    {
+      "text": "c3 से",
+      "normalized": "c3 से",
+      "file": "audio/7fcda4f9f2b9e9ab6566c4b1.mp3"
+    },
+    {
+      "text": "c4 पर गया।",
+      "normalized": "c4 पर गया",
+      "file": "audio/bd03b081a4e4668360d1dd8a.mp3"
+    },
+    {
+      "text": "c4 से",
+      "normalized": "c4 से",
+      "file": "audio/dfd5b12ea04815fe19ade26d.mp3"
+    },
+    {
+      "text": "c5 पर गया।",
+      "normalized": "c5 पर गया",
+      "file": "audio/16ce3ab628ab960c4799eba8.mp3"
+    },
+    {
+      "text": "c5 से",
+      "normalized": "c5 से",
+      "file": "audio/f5ce1408052dafa4be08bac3.mp3"
+    },
+    {
+      "text": "c6 पर गया।",
+      "normalized": "c6 पर गया",
+      "file": "audio/fe8e13929996fc8af3e4e90b.mp3"
+    },
+    {
+      "text": "c6 से",
+      "normalized": "c6 से",
+      "file": "audio/901ae62900af838de100ac8c.mp3"
+    },
+    {
+      "text": "c7 पर गया।",
+      "normalized": "c7 पर गया",
+      "file": "audio/64101453ad9a6792a7ed8bf6.mp3"
+    },
+    {
+      "text": "c7 से",
+      "normalized": "c7 से",
+      "file": "audio/d3b134c5b789a633e382a8f0.mp3"
+    },
+    {
+      "text": "c8 पर गया।",
+      "normalized": "c8 पर गया",
+      "file": "audio/5ef60552388c13b8cd2c1fb3.mp3"
+    },
+    {
+      "text": "c8 से",
+      "normalized": "c8 से",
+      "file": "audio/5c5a9548a5f75b3446b8e32c.mp3"
+    },
+    {
+      "text": "d1 पर गया।",
+      "normalized": "d1 पर गया",
+      "file": "audio/f0537b653d0b9c645a842863.mp3"
+    },
+    {
+      "text": "d1 से",
+      "normalized": "d1 से",
+      "file": "audio/fd126931a0f0265cda28fe2a.mp3"
+    },
+    {
+      "text": "d2 पर गया।",
+      "normalized": "d2 पर गया",
+      "file": "audio/f5bdc34a819e332d11e76708.mp3"
+    },
+    {
+      "text": "d2 से",
+      "normalized": "d2 से",
+      "file": "audio/f21f7c4427d71bc90f59cae8.mp3"
+    },
+    {
+      "text": "d3 पर गया।",
+      "normalized": "d3 पर गया",
+      "file": "audio/a84a71c1f0996f7bec7b7edb.mp3"
+    },
+    {
+      "text": "d3 से",
+      "normalized": "d3 से",
+      "file": "audio/c03767db77b9926837b7e535.mp3"
+    },
+    {
+      "text": "d4 पर गया।",
+      "normalized": "d4 पर गया",
+      "file": "audio/7b8b7d8a487ec7d97a848412.mp3"
+    },
+    {
+      "text": "d4 से",
+      "normalized": "d4 से",
+      "file": "audio/3e1b94eb412a8256a547ef53.mp3"
+    },
+    {
+      "text": "d5 पर गया।",
+      "normalized": "d5 पर गया",
+      "file": "audio/8edfbf280019c2778025faa7.mp3"
+    },
+    {
+      "text": "d5 से",
+      "normalized": "d5 से",
+      "file": "audio/fada6ace463acb68e4c3747b.mp3"
+    },
+    {
+      "text": "d6 पर गया।",
+      "normalized": "d6 पर गया",
+      "file": "audio/55f55bb243f0bdfc2670a26e.mp3"
+    },
+    {
+      "text": "d6 से",
+      "normalized": "d6 से",
+      "file": "audio/ff861e6eaa66763e0f5d84fe.mp3"
+    },
+    {
+      "text": "d7 पर गया।",
+      "normalized": "d7 पर गया",
+      "file": "audio/a2bb38480ef3db0c56feb435.mp3"
+    },
+    {
+      "text": "d7 से",
+      "normalized": "d7 से",
+      "file": "audio/7fc0a8ab3e85e8bc69498c90.mp3"
+    },
+    {
+      "text": "d8 पर गया।",
+      "normalized": "d8 पर गया",
+      "file": "audio/c906aec533e1e27e21487c71.mp3"
+    },
+    {
+      "text": "d8 से",
+      "normalized": "d8 से",
+      "file": "audio/0b395272e9d44edc84765fb3.mp3"
+    },
+    {
+      "text": "e1 पर गया।",
+      "normalized": "e1 पर गया",
+      "file": "audio/f3e9d785d047da13f316c24d.mp3"
+    },
+    {
+      "text": "e1 से",
+      "normalized": "e1 से",
+      "file": "audio/47a40cd84044589986c66aa8.mp3"
+    },
+    {
+      "text": "e2 पर गया।",
+      "normalized": "e2 पर गया",
+      "file": "audio/8c84f27af8f2459a51aeaa3e.mp3"
+    },
+    {
+      "text": "e2 से",
+      "normalized": "e2 से",
+      "file": "audio/13f3b34ef25fcf6195e58536.mp3"
+    },
+    {
+      "text": "e3 पर गया।",
+      "normalized": "e3 पर गया",
+      "file": "audio/260c8752945db38a81b5cfcc.mp3"
+    },
+    {
+      "text": "e3 से",
+      "normalized": "e3 से",
+      "file": "audio/4d6c7533264def36d658290e.mp3"
+    },
+    {
+      "text": "e4 पर गया।",
+      "normalized": "e4 पर गया",
+      "file": "audio/b437949d55b05e26355da28b.mp3"
+    },
+    {
+      "text": "e4 से",
+      "normalized": "e4 से",
+      "file": "audio/dc06b4001b9f9aeb422b7067.mp3"
+    },
+    {
+      "text": "e5 पर गया।",
+      "normalized": "e5 पर गया",
+      "file": "audio/8430daba33b7bb2ef8c9445f.mp3"
+    },
+    {
+      "text": "e5 से",
+      "normalized": "e5 से",
+      "file": "audio/7a1a9cc0d11b43487aa30a36.mp3"
+    },
+    {
+      "text": "e6 पर गया।",
+      "normalized": "e6 पर गया",
+      "file": "audio/ae946c411331b3d915cdff97.mp3"
+    },
+    {
+      "text": "e6 से",
+      "normalized": "e6 से",
+      "file": "audio/09d9f6275d595b03d1bda7fd.mp3"
+    },
+    {
+      "text": "e7 पर गया।",
+      "normalized": "e7 पर गया",
+      "file": "audio/984fd74770e46c2de7a3197d.mp3"
+    },
+    {
+      "text": "e7 से",
+      "normalized": "e7 से",
+      "file": "audio/2cfa2d0e4c43ba763b600b5f.mp3"
+    },
+    {
+      "text": "e8 पर गया।",
+      "normalized": "e8 पर गया",
+      "file": "audio/e1bd53c617b052a6c9b50f87.mp3"
+    },
+    {
+      "text": "e8 से",
+      "normalized": "e8 से",
+      "file": "audio/9b929585cad8c27fd15c3803.mp3"
+    },
+    {
+      "text": "f1 पर गया।",
+      "normalized": "f1 पर गया",
+      "file": "audio/fba40b43725f36cf9f6dc869.mp3"
+    },
+    {
+      "text": "f1 से",
+      "normalized": "f1 से",
+      "file": "audio/2506e3c3cfc9c7bcdacb49df.mp3"
+    },
+    {
+      "text": "f2 पर गया।",
+      "normalized": "f2 पर गया",
+      "file": "audio/856a6522077a17e108a261ef.mp3"
+    },
+    {
+      "text": "f2 से",
+      "normalized": "f2 से",
+      "file": "audio/eca2536eab5ed4e1e57fe727.mp3"
+    },
+    {
+      "text": "f3 पर गया।",
+      "normalized": "f3 पर गया",
+      "file": "audio/e42dec05c1f82e10a03b3adb.mp3"
+    },
+    {
+      "text": "f3 से",
+      "normalized": "f3 से",
+      "file": "audio/4a4eafff3288b8a218b4e888.mp3"
+    },
+    {
+      "text": "f4 पर गया।",
+      "normalized": "f4 पर गया",
+      "file": "audio/01168bb1dfb4a217507277ac.mp3"
+    },
+    {
+      "text": "f4 से",
+      "normalized": "f4 से",
+      "file": "audio/b765dc1ffe837548fd09d83f.mp3"
+    },
+    {
+      "text": "f5 पर गया।",
+      "normalized": "f5 पर गया",
+      "file": "audio/5e0171d00071aa4f5339e7d2.mp3"
+    },
+    {
+      "text": "f5 से",
+      "normalized": "f5 से",
+      "file": "audio/fd3ea6e8dd3e94ae6ee19654.mp3"
+    },
+    {
+      "text": "f6 पर गया।",
+      "normalized": "f6 पर गया",
+      "file": "audio/d9323612d04814ee68bdc434.mp3"
+    },
+    {
+      "text": "f6 से",
+      "normalized": "f6 से",
+      "file": "audio/fb184b791e450ed331423df0.mp3"
+    },
+    {
+      "text": "f7 पर गया।",
+      "normalized": "f7 पर गया",
+      "file": "audio/23f8c714976ceb46f3eb94e7.mp3"
+    },
+    {
+      "text": "f7 से",
+      "normalized": "f7 से",
+      "file": "audio/c2d6c86476d1b17f6f1429d3.mp3"
+    },
+    {
+      "text": "f8 पर गया।",
+      "normalized": "f8 पर गया",
+      "file": "audio/251d30bf8951cb5e306970a6.mp3"
+    },
+    {
+      "text": "f8 से",
+      "normalized": "f8 से",
+      "file": "audio/224f3854f6aab0e3d95636d0.mp3"
+    },
+    {
+      "text": "g1 पर गया।",
+      "normalized": "g1 पर गया",
+      "file": "audio/02d540225bf8d8680132fa47.mp3"
+    },
+    {
+      "text": "g1 से",
+      "normalized": "g1 से",
+      "file": "audio/ff802670e3815f255a4dd43f.mp3"
+    },
+    {
+      "text": "g2 पर गया।",
+      "normalized": "g2 पर गया",
+      "file": "audio/98cb019ad5a1cf434ce05179.mp3"
+    },
+    {
+      "text": "g2 से",
+      "normalized": "g2 से",
+      "file": "audio/798099fda1ac9a6985cf5fc4.mp3"
+    },
+    {
+      "text": "g3 पर गया।",
+      "normalized": "g3 पर गया",
+      "file": "audio/dab9124b97746e19dea1facc.mp3"
+    },
+    {
+      "text": "g3 से",
+      "normalized": "g3 से",
+      "file": "audio/9b64675eef5a892c83f6b5cf.mp3"
+    },
+    {
+      "text": "g4 पर गया।",
+      "normalized": "g4 पर गया",
+      "file": "audio/481c2a6f882d1d33bcdfa75a.mp3"
+    },
+    {
+      "text": "g4 से",
+      "normalized": "g4 से",
+      "file": "audio/109c04599777a44b28a21ba3.mp3"
+    },
+    {
+      "text": "g5 पर गया।",
+      "normalized": "g5 पर गया",
+      "file": "audio/9bd272342897a3064a08c0aa.mp3"
+    },
+    {
+      "text": "g5 से",
+      "normalized": "g5 से",
+      "file": "audio/a5faab371e6cdc5ab011bfc6.mp3"
+    },
+    {
+      "text": "g6 पर गया।",
+      "normalized": "g6 पर गया",
+      "file": "audio/6918ed6e71ddcff8b757cd83.mp3"
+    },
+    {
+      "text": "g6 से",
+      "normalized": "g6 से",
+      "file": "audio/b895692fb9956b09470b08b5.mp3"
+    },
+    {
+      "text": "g7 पर गया।",
+      "normalized": "g7 पर गया",
+      "file": "audio/85cca9082ba61ccf71214304.mp3"
+    },
+    {
+      "text": "g7 से",
+      "normalized": "g7 से",
+      "file": "audio/256d4b47e27ddaf58e38d48c.mp3"
+    },
+    {
+      "text": "g8 पर गया।",
+      "normalized": "g8 पर गया",
+      "file": "audio/a93fb20143455d0bcf65d3d2.mp3"
+    },
+    {
+      "text": "g8 से",
+      "normalized": "g8 से",
+      "file": "audio/24462b2daefe15c7a7eb1f75.mp3"
+    },
+    {
+      "text": "h1 पर गया।",
+      "normalized": "h1 पर गया",
+      "file": "audio/41f577bb20dfcbaf6354ecb1.mp3"
+    },
+    {
+      "text": "h1 से",
+      "normalized": "h1 से",
+      "file": "audio/e7ccf490529b7cd7d57195b2.mp3"
+    },
+    {
+      "text": "h2 पर गया।",
+      "normalized": "h2 पर गया",
+      "file": "audio/3ba75a5e31cbf3766a80e6a9.mp3"
+    },
+    {
+      "text": "h2 से",
+      "normalized": "h2 से",
+      "file": "audio/721cfb95a803885afdec8fb2.mp3"
+    },
+    {
+      "text": "h3 पर गया।",
+      "normalized": "h3 पर गया",
+      "file": "audio/e1b239c6ada3b01901b7a6b8.mp3"
+    },
+    {
+      "text": "h3 से",
+      "normalized": "h3 से",
+      "file": "audio/81607b3d3c392d1eb9789eda.mp3"
+    },
+    {
+      "text": "h4 पर गया।",
+      "normalized": "h4 पर गया",
+      "file": "audio/96d1655787af94db82138fa4.mp3"
+    },
+    {
+      "text": "h4 से",
+      "normalized": "h4 से",
+      "file": "audio/878a8a9e3a0a24432902939d.mp3"
+    },
+    {
+      "text": "h5 पर गया।",
+      "normalized": "h5 पर गया",
+      "file": "audio/f5fa393528c2cade8b9b8f24.mp3"
+    },
+    {
+      "text": "h5 से",
+      "normalized": "h5 से",
+      "file": "audio/7e05fff4148dd5cd8a7b0a79.mp3"
+    },
+    {
+      "text": "h6 पर गया।",
+      "normalized": "h6 पर गया",
+      "file": "audio/9e229320c9541586f713cfde.mp3"
+    },
+    {
+      "text": "h6 से",
+      "normalized": "h6 से",
+      "file": "audio/1f39d3c2f6d07fda14ae3c9f.mp3"
+    },
+    {
+      "text": "h7 पर गया।",
+      "normalized": "h7 पर गया",
+      "file": "audio/d5fb72a6dca7de39dc8822de.mp3"
+    },
+    {
+      "text": "h7 से",
+      "normalized": "h7 से",
+      "file": "audio/d5c442f396831a637cd370a3.mp3"
+    },
+    {
+      "text": "h8 पर गया।",
+      "normalized": "h8 पर गया",
+      "file": "audio/6eb599b21262937c0762fb8e.mp3"
+    },
+    {
+      "text": "h8 से",
+      "normalized": "h8 से",
+      "file": "audio/c58a67b57f48c2e5e5286a42.mp3"
+    },
+    {
+      "text": "अपने मोहरे की चालें आज़माओ। यह चाल का अभ्यास है।",
+      "normalized": "अपने मोहरे की चालें आज़माओ यह चाल का अभ्यास है",
+      "file": "audio/e83e9b75f24b67d8ab9b889c.mp3"
+    },
+    {
+      "text": "इस चाल से शह-मात नहीं होती। दूसरी चाल आज़माओ।",
+      "normalized": "इस चाल से शह मात नहीं होती दूसरी चाल आज़माओ",
+      "file": "audio/7fcaaa9a0571346316a780dd.mp3"
+    },
+    {
+      "text": "ऊँट",
+      "normalized": "ऊँट",
+      "file": "audio/8f7fffc93405828eb221cbab.mp3"
+    },
+    {
+      "text": "ऊँट को c1 खाने पर रखो।",
+      "normalized": "ऊँट को c1 खाने पर रखो",
+      "file": "audio/2fb9a421a5f35a278d4e1949.mp3"
+    },
+    {
+      "text": "ऊँट को c8 खाने पर रखो।",
+      "normalized": "ऊँट को c8 खाने पर रखो",
+      "file": "audio/4f98be716cfa95789e63f03a.mp3"
+    },
+    {
+      "text": "ऊँट को f1 खाने पर रखो।",
+      "normalized": "ऊँट को f1 खाने पर रखो",
+      "file": "audio/44b57c051aebdd953d0f0c46.mp3"
+    },
+    {
+      "text": "ऊँट को f8 खाने पर रखो।",
+      "normalized": "ऊँट को f8 खाने पर रखो",
+      "file": "audio/bd8ebe739fa34113ecd24c4a.mp3"
+    },
+    {
+      "text": "ऊँट को g7 खाने पर ले जाओ।",
+      "normalized": "ऊँट को g7 खाने पर ले जाओ",
+      "file": "audio/c58ae5ea15d51b9fd7fadf00.mp3"
+    },
+    {
+      "text": "ऊँट तिरछा कितने भी खाने चल सकता है। वह हमेशा एक ही रंग के खाने पर रहता है और दूसरे मोहरों के ऊपर से नहीं कूद सकता।",
+      "normalized": "ऊँट तिरछा कितने भी खाने चल सकता है वह हमेशा एक ही रंग के खाने पर रहता है और दूसरे मोहरों के ऊपर से नहीं कूद सकता",
+      "file": "audio/3408830ecc39da577aca5627.mp3"
+    },
+    {
+      "text": "ऊँट लिया गया।",
+      "normalized": "ऊँट लिया गया",
+      "file": "audio/879b60bba1703b0359ee79bf.mp3"
+    },
+    {
+      "text": "एक चाल में शह-मात",
+      "normalized": "एक चाल में शह मात",
+      "file": "audio/69cdb203484d5dff3894f171.mp3"
+    },
+    {
+      "text": "कंप्यूटर जीत गया",
+      "normalized": "कंप्यूटर जीत गया",
+      "file": "audio/4a618fb68ff012e21a342a12.mp3"
+    },
+    {
+      "text": "काला",
+      "normalized": "काला",
+      "file": "audio/1c2f91f4bd13ceaaf081f6b2.mp3"
+    },
+    {
+      "text": "काला पक्ष का मोहरा ऊँट,",
+      "normalized": "काला पक्ष का मोहरा ऊँट",
+      "file": "audio/a99255883f8694ed04c6d312.mp3"
+    },
+    {
+      "text": "काला पक्ष का मोहरा घोड़ा,",
+      "normalized": "काला पक्ष का मोहरा घोड़ा",
+      "file": "audio/e0c69f3d1e6d2d91342cd214.mp3"
+    },
+    {
+      "text": "काला पक्ष का मोहरा प्यादा,",
+      "normalized": "काला पक्ष का मोहरा प्यादा",
+      "file": "audio/a762892fd2ee38999eaa6af1.mp3"
+    },
+    {
+      "text": "काला पक्ष का मोहरा राजा,",
+      "normalized": "काला पक्ष का मोहरा राजा",
+      "file": "audio/2bd6a683fdf87f722c1c4ff2.mp3"
+    },
+    {
+      "text": "काला पक्ष का मोहरा वज़ीर,",
+      "normalized": "काला पक्ष का मोहरा वज़ीर",
+      "file": "audio/4a650fde5a736e2a5236b68f.mp3"
+    },
+    {
+      "text": "काला पक्ष का मोहरा हाथी,",
+      "normalized": "काला पक्ष का मोहरा हाथी",
+      "file": "audio/a8a82533029049b427146c1f.mp3"
+    },
+    {
+      "text": "काले मोहरे",
+      "normalized": "काले मोहरे",
+      "file": "audio/f3c113d9cc94d08d0d8c1f5c.mp3"
+    },
+    {
+      "text": "गतिरोध",
+      "normalized": "गतिरोध",
+      "file": "audio/4e3002cfcfaf50ba82369089.mp3"
+    },
+    {
+      "text": "घोड़ा",
+      "normalized": "घोड़ा",
+      "file": "audio/8be5e30d36b8dce230075a10.mp3"
+    },
+    {
+      "text": "घोड़ा एक दिशा में दो खाने और फिर बगल में एक खाना चलता है। उसकी चाल L जैसी होती है और वह दूसरे मोहरों के ऊपर से कूद सकता है।",
+      "normalized": "घोड़ा एक दिशा में दो खाने और फिर बगल में एक खाना चलता है उसकी चाल l जैसी होती है और वह दूसरे मोहरों के ऊपर से कूद सकता है",
+      "file": "audio/fbbf6cab3d571a63a4297c6f.mp3"
+    },
+    {
+      "text": "घोड़ा को b1 खाने पर रखो।",
+      "normalized": "घोड़ा को b1 खाने पर रखो",
+      "file": "audio/bbdf88e3e6fb4064b4beddb2.mp3"
+    },
+    {
+      "text": "घोड़ा को b8 खाने पर रखो।",
+      "normalized": "घोड़ा को b8 खाने पर रखो",
+      "file": "audio/1b74c59017864ca45b8baebb.mp3"
+    },
+    {
+      "text": "घोड़ा को e6 खाने पर ले जाओ।",
+      "normalized": "घोड़ा को e6 खाने पर ले जाओ",
+      "file": "audio/8aa26c7c5879e622680caefa.mp3"
+    },
+    {
+      "text": "घोड़ा को g1 खाने पर रखो।",
+      "normalized": "घोड़ा को g1 खाने पर रखो",
+      "file": "audio/e63034cb09739552eb52ae3a.mp3"
+    },
+    {
+      "text": "घोड़ा को g8 खाने पर रखो।",
+      "normalized": "घोड़ा को g8 खाने पर रखो",
+      "file": "audio/3ccf505a23711985a9544e65.mp3"
+    },
+    {
+      "text": "घोड़ा लिया गया।",
+      "normalized": "घोड़ा लिया गया",
+      "file": "audio/fc0851a64b2c749c4dcbeb03.mp3"
+    },
+    {
+      "text": "तुम जीत गए!",
+      "normalized": "तुम जीत गए",
+      "file": "audio/04da80fdfb3c203a13424082.mp3"
+    },
+    {
+      "text": "तुमने सभी काम पूरे कर लिए! फिर से खेल सकते हो।",
+      "normalized": "तुमने सभी काम पूरे कर लिए फिर से खेल सकते हो",
+      "file": "audio/40c7168beec472fc459f2742.mp3"
+    },
+    {
+      "text": "दूर से आ रहे हमले के बीच मोहरा रख सकते हो। a2 का हाथी चुनो और e2 पर ले जाकर राजा को बचाओ।",
+      "normalized": "दूर से आ रहे हमले के बीच मोहरा रख सकते हो a2 का हाथी चुनो और e2 पर ले जाकर राजा को बचाओ",
+      "file": "audio/4393b5ee66dbf0fd692b5e0b.mp3"
+    },
+    {
+      "text": "पहले अपना मोहरा चुनो, फिर निशान वाले खाने पर टैप करो।",
+      "normalized": "पहले अपना मोहरा चुनो फिर निशान वाले खाने पर टैप करो",
+      "file": "audio/3a427b6f6a9eb7ebc9298d1a.mp3"
+    },
+    {
+      "text": "प्यादा",
+      "normalized": "प्यादा",
+      "file": "audio/2ca90870a0d3c8001ede98dc.mp3"
+    },
+    {
+      "text": "प्यादा आखिरी पंक्ति पर पहुँच गया और इस अभ्यास में वज़ीर बन गया।",
+      "normalized": "प्यादा आखिरी पंक्ति पर पहुँच गया और इस अभ्यास में वज़ीर बन गया",
+      "file": "audio/506165b3d5313a7592a14e72.mp3"
+    },
+    {
+      "text": "प्यादा ऊँट बना।",
+      "normalized": "प्यादा ऊँट बना",
+      "file": "audio/93259fc75dc2d926151e7424.mp3"
+    },
+    {
+      "text": "प्यादा एक खाना आगे चलता है। पहली चाल में रास्ता खाली हो तो दो खाने चल सकता है। वह एक खाना तिरछा आगे मारता है। आखिरी पंक्ति पर वह वज़ीर, हाथी, ऊँट या घोड़ा बन जाता है।",
+      "normalized": "प्यादा एक खाना आगे चलता है पहली चाल में रास्ता खाली हो तो दो खाने चल सकता है वह एक खाना तिरछा आगे मारता है आखिरी पंक्ति पर वह वज़ीर हाथी ऊँट या घोड़ा बन जाता है",
+      "file": "audio/3e3125884af2ea7a4a54598b.mp3"
+    },
+    {
+      "text": "प्यादा को a2 खाने पर रखो।",
+      "normalized": "प्यादा को a2 खाने पर रखो",
+      "file": "audio/ac6d46c7ef13baf6e82012cc.mp3"
+    },
+    {
+      "text": "प्यादा को a7 खाने पर रखो।",
+      "normalized": "प्यादा को a7 खाने पर रखो",
+      "file": "audio/f7a74a4673392449ca11064d.mp3"
+    },
+    {
+      "text": "प्यादा को b2 खाने पर रखो।",
+      "normalized": "प्यादा को b2 खाने पर रखो",
+      "file": "audio/ee187b0d00a0531f8bf7b6ec.mp3"
+    },
+    {
+      "text": "प्यादा को b7 खाने पर रखो।",
+      "normalized": "प्यादा को b7 खाने पर रखो",
+      "file": "audio/3ff4d4b2248905c50698c3b0.mp3"
+    },
+    {
+      "text": "प्यादा को c2 खाने पर रखो।",
+      "normalized": "प्यादा को c2 खाने पर रखो",
+      "file": "audio/bbbf352981a22a6a23d66657.mp3"
+    },
+    {
+      "text": "प्यादा को c7 खाने पर रखो।",
+      "normalized": "प्यादा को c7 खाने पर रखो",
+      "file": "audio/1527dec91167692003c8a66f.mp3"
+    },
+    {
+      "text": "प्यादा को d2 खाने पर रखो।",
+      "normalized": "प्यादा को d2 खाने पर रखो",
+      "file": "audio/131194916344221589a6a031.mp3"
+    },
+    {
+      "text": "प्यादा को d4 खाने पर ले जाओ।",
+      "normalized": "प्यादा को d4 खाने पर ले जाओ",
+      "file": "audio/4c3b09319ae90ccb21752b09.mp3"
+    },
+    {
+      "text": "प्यादा को d7 खाने पर रखो।",
+      "normalized": "प्यादा को d7 खाने पर रखो",
+      "file": "audio/16beaaaa7df37052515b2d73.mp3"
+    },
+    {
+      "text": "प्यादा को e2 खाने पर रखो।",
+      "normalized": "प्यादा को e2 खाने पर रखो",
+      "file": "audio/af702272a53bb78b681b9a11.mp3"
+    },
+    {
+      "text": "प्यादा को e7 खाने पर रखो।",
+      "normalized": "प्यादा को e7 खाने पर रखो",
+      "file": "audio/9632fc31e50418111a4f3e30.mp3"
+    },
+    {
+      "text": "प्यादा को f2 खाने पर रखो।",
+      "normalized": "प्यादा को f2 खाने पर रखो",
+      "file": "audio/01f980cd583002863e573e84.mp3"
+    },
+    {
+      "text": "प्यादा को f7 खाने पर रखो।",
+      "normalized": "प्यादा को f7 खाने पर रखो",
+      "file": "audio/363c8a25afca10fd8c7f6268.mp3"
+    },
+    {
+      "text": "प्यादा को g2 खाने पर रखो।",
+      "normalized": "प्यादा को g2 खाने पर रखो",
+      "file": "audio/fe136a4364390bd90956218b.mp3"
+    },
+    {
+      "text": "प्यादा को g7 खाने पर रखो।",
+      "normalized": "प्यादा को g7 खाने पर रखो",
+      "file": "audio/90cc648f6cf0c30d90175033.mp3"
+    },
+    {
+      "text": "प्यादा को h2 खाने पर रखो।",
+      "normalized": "प्यादा को h2 खाने पर रखो",
+      "file": "audio/36100417d8cfadd6133ba403.mp3"
+    },
+    {
+      "text": "प्यादा को h7 खाने पर रखो।",
+      "normalized": "प्यादा को h7 खाने पर रखो",
+      "file": "audio/acc12895341535155421f443.mp3"
+    },
+    {
+      "text": "प्यादा घोड़ा बना।",
+      "normalized": "प्यादा घोड़ा बना",
+      "file": "audio/784bb93329d66563e2a059a5.mp3"
+    },
+    {
+      "text": "प्यादा लिया गया।",
+      "normalized": "प्यादा लिया गया",
+      "file": "audio/b66a71c0501fb7fc9d01dd2e.mp3"
+    },
+    {
+      "text": "प्यादा वज़ीर बना।",
+      "normalized": "प्यादा वज़ीर बना",
+      "file": "audio/6dbf3cfcbf9095a1fedcf65a.mp3"
+    },
+    {
+      "text": "प्यादा से e5 पर विरोधी का मोहरा मारो।",
+      "normalized": "प्यादा से e5 पर विरोधी का मोहरा मारो",
+      "file": "audio/846afacf310d3637084d48b6.mp3"
+    },
+    {
+      "text": "प्यादा हाथी बना।",
+      "normalized": "प्यादा हाथी बना",
+      "file": "audio/03d948edb4d158531c99fee6.mp3"
+    },
+    {
+      "text": "फिर कोशिश करो। अपना मोहरा चुनो, फिर लक्ष्य वाले खाने पर जाओ।",
+      "normalized": "फिर कोशिश करो अपना मोहरा चुनो फिर लक्ष्य वाले खाने पर जाओ",
+      "file": "audio/fcb62282d4687c01757c05d9.mp3"
+    },
+    {
+      "text": "फिर कोशिश करो। मोहरे का नाम देखो और निशान वाले खाने पर टैप करो।",
+      "normalized": "फिर कोशिश करो मोहरे का नाम देखो और निशान वाले खाने पर टैप करो",
+      "file": "audio/a50da0d7121747e3fc4b28db.mp3"
+    },
+    {
+      "text": "फिर कोशिश करो। लाल किनारे वाले राजा को देखो और निर्देश सुनो।",
+      "normalized": "फिर कोशिश करो लाल किनारे वाले राजा को देखो और निर्देश सुनो",
+      "file": "audio/fd24a0ce04f7d8a7238c802a.mp3"
+    },
+    {
+      "text": "फिर देखो: क्या राजा पर हमला है? क्या कोई वैध चाल है?",
+      "normalized": "फिर देखो क्या राजा पर हमला है क्या कोई वैध चाल है",
+      "file": "audio/1eaaa65bd706781a957f1690.mp3"
+    },
+    {
+      "text": "बराबरी",
+      "normalized": "बराबरी",
+      "file": "audio/5ceac0a5dfafe3fc254e2822.mp3"
+    },
+    {
+      "text": "बहुत अच्छे! काले राजा पर हमला है और बचने की कोई वैध चाल नहीं है। शह-मात!",
+      "normalized": "बहुत अच्छे काले राजा पर हमला है और बचने की कोई वैध चाल नहीं है शह मात",
+      "file": "audio/b402b54ba345f27e3f913a41.mp3"
+    },
+    {
+      "text": "बहुत बढ़िया! तुमने काम पूरा किया।",
+      "normalized": "बहुत बढ़िया तुमने काम पूरा किया",
+      "file": "audio/5e8951438aa3914b31f32da5.mp3"
+    },
+    {
+      "text": "बहुत बढ़िया! मोहरा सही जगह पर है।",
+      "normalized": "बहुत बढ़िया मोहरा सही जगह पर है",
+      "file": "audio/b2c4732b173d9f2e5d8fbcfc.mp3"
+    },
+    {
+      "text": "बिसात तैयार है! दोनों तरफ 16 मोहरे हैं। सफेद पहले चलता है।",
+      "normalized": "बिसात तैयार है दोनों तरफ 16 मोहरे हैं सफेद पहले चलता है",
+      "file": "audio/d2daebd224d664c0b0cd8d58.mp3"
+    },
+    {
+      "text": "मोहरे को दबाकर रखो और निशान वाले खाने तक खींचो। चाहो तो मोहरे और खाने पर बारी-बारी टैप करो।",
+      "normalized": "मोहरे को दबाकर रखो और निशान वाले खाने तक खींचो चाहो तो मोहरे और खाने पर बारी बारी टैप करो",
+      "file": "audio/5a42e5df412671ef9508116d.mp3"
+    },
+    {
+      "text": "राजा",
+      "normalized": "राजा",
+      "file": "audio/19f4c9acc0cd9dfa21dc4c6c.mp3"
+    },
+    {
+      "text": "राजा किसी भी दिशा में एक खाना चलता है। वह ऐसे खाने पर नहीं जा सकता जहाँ उस पर हमला हो।",
+      "normalized": "राजा किसी भी दिशा में एक खाना चलता है वह ऐसे खाने पर नहीं जा सकता जहाँ उस पर हमला हो",
+      "file": "audio/30e1e47fe9c0ffe488a55560.mp3"
+    },
+    {
+      "text": "राजा को e1 खाने पर रखो।",
+      "normalized": "राजा को e1 खाने पर रखो",
+      "file": "audio/33bd39668a21303a457fc51b.mp3"
+    },
+    {
+      "text": "राजा को e5 खाने पर ले जाओ।",
+      "normalized": "राजा को e5 खाने पर ले जाओ",
+      "file": "audio/630e4e37d29708ea29f3573e.mp3"
+    },
+    {
+      "text": "राजा को e8 खाने पर रखो।",
+      "normalized": "राजा को e8 खाने पर रखो",
+      "file": "audio/cc517e425151a813d0082277.mp3"
+    },
+    {
+      "text": "राजा पर हमला नहीं है, लेकिन कोई वैध चाल नहीं है। गतिरोध! खेल बराबरी पर समाप्त होता है।",
+      "normalized": "राजा पर हमला नहीं है लेकिन कोई वैध चाल नहीं है गतिरोध खेल बराबरी पर समाप्त होता है",
+      "file": "audio/78b7f533a723c6845933758d.mp3"
+    },
+    {
+      "text": "राजा पर हमला है और कोई वैध चाल नहीं है। शह-मात! खेल समाप्त होता है।",
+      "normalized": "राजा पर हमला है और कोई वैध चाल नहीं है शह मात खेल समाप्त होता है",
+      "file": "audio/8d939d2a337c7fd1b487a9b8.mp3"
+    },
+    {
+      "text": "राजा पर हमला है, लेकिन सुरक्षित चाल है। खेल जारी रहता है।",
+      "normalized": "राजा पर हमला है लेकिन सुरक्षित चाल है खेल जारी रहता है",
+      "file": "audio/4d71de838edf938b565e3aae.mp3"
+    },
+    {
+      "text": "राजा पर हमला हो तो उसे शह कहते हैं। सफेद राजा पर हमला कर रहे काले मोहरे को ढूँढो और उस पर टैप करो।",
+      "normalized": "राजा पर हमला हो तो उसे शह कहते हैं सफेद राजा पर हमला कर रहे काले मोहरे को ढूँढो और उस पर टैप करो",
+      "file": "audio/27a5ba1b8c363097fffd24ac.mp3"
+    },
+    {
+      "text": "राजा लिया गया।",
+      "normalized": "राजा लिया गया",
+      "file": "audio/fc7b96623936a59c550be99f.mp3"
+    },
+    {
+      "text": "लक्ष्य विरोधी के राजा को मात देना है। राजा पर हमला हो तो उसे शह कहते हैं। अगर किसी भी वैध चाल से शह से बचना संभव नहीं हो, तो मात होती है। राजा को मारा नहीं जाता।",
+      "normalized": "लक्ष्य विरोधी के राजा को मात देना है राजा पर हमला हो तो उसे शह कहते हैं अगर किसी भी वैध चाल से शह से बचना संभव नहीं हो तो मात होती है राजा को मारा नहीं जाता",
+      "file": "audio/93a32ac3cd901e9a79d772dc.mp3"
+    },
+    {
+      "text": "वज़ीर",
+      "normalized": "वज़ीर",
+      "file": "audio/ff308ca04e95ed241298d935.mp3"
+    },
+    {
+      "text": "वज़ीर अपने रंग के खाने पर शुरू करता है: सफेद वज़ीर हल्के खाने पर और काला वज़ीर गहरे खाने पर।",
+      "normalized": "वज़ीर अपने रंग के खाने पर शुरू करता है सफेद वज़ीर हल्के खाने पर और काला वज़ीर गहरे खाने पर",
+      "file": "audio/a6113d02e8fa4d04664987f9.mp3"
+    },
+    {
+      "text": "वज़ीर आड़ा, सीधा या तिरछा कितने भी खाने चल सकता है। वह दूसरे मोहरों के ऊपर से नहीं कूद सकता।",
+      "normalized": "वज़ीर आड़ा सीधा या तिरछा कितने भी खाने चल सकता है वह दूसरे मोहरों के ऊपर से नहीं कूद सकता",
+      "file": "audio/4228a83d973d4cbba1671b4b.mp3"
+    },
+    {
+      "text": "वज़ीर को d1 खाने पर रखो।",
+      "normalized": "वज़ीर को d1 खाने पर रखो",
+      "file": "audio/931ffc32e658c98e5e525b0a.mp3"
+    },
+    {
+      "text": "वज़ीर को d8 खाने पर रखो।",
+      "normalized": "वज़ीर को d8 खाने पर रखो",
+      "file": "audio/fa921428b1993c8714b765fc.mp3"
+    },
+    {
+      "text": "वज़ीर को g7 खाने पर ले जाओ।",
+      "normalized": "वज़ीर को g7 खाने पर ले जाओ",
+      "file": "audio/6da572b3474a9b76cdb636e1.mp3"
+    },
+    {
+      "text": "वज़ीर लिया गया।",
+      "normalized": "वज़ीर लिया गया",
+      "file": "audio/449c96aff5e00539fa4b6bab.mp3"
+    },
+    {
+      "text": "शतरंज की बिसात में 8 पंक्तियाँ और 8 स्तंभ होते हैं, कुल 64 खाने। नीचे दाईं ओर हल्के रंग का खाना होना चाहिए।",
+      "normalized": "शतरंज की बिसात में 8 पंक्तियाँ और 8 स्तंभ होते हैं कुल 64 खाने नीचे दाईं ओर हल्के रंग का खाना होना चाहिए",
+      "file": "audio/df6af8085ad2f8a88566e166.mp3"
+    },
+    {
+      "text": "शह-मात",
+      "normalized": "शह मात",
+      "file": "audio/2511d1a59f7b020df3b0145e.mp3"
+    },
+    {
+      "text": "शह-मात और गतिरोध",
+      "normalized": "शह मात और गतिरोध",
+      "file": "audio/feafcdf2b3c94186c3fb36f7.mp3"
+    },
+    {
+      "text": "शह मिलने पर खतरा हटाना ज़रूरी है। e1 पर राजा चुनो और उसे सुरक्षित d1 खाने पर ले जाओ।",
+      "normalized": "शह मिलने पर खतरा हटाना ज़रूरी है e1 पर राजा चुनो और उसे सुरक्षित d1 खाने पर ले जाओ",
+      "file": "audio/03192ff6c1866e2b77e1cf4b.mp3"
+    },
+    {
+      "text": "शह है, बचाव है",
+      "normalized": "शह है बचाव है",
+      "file": "audio/97179bc21292071340a15757.mp3"
+    },
+    {
+      "text": "सफेद",
+      "normalized": "सफेद",
+      "file": "audio/6510d84fe1890ff3561e52e9.mp3"
+    },
+    {
+      "text": "सफेद की बारी है। सफेद मोहरा चुनो और एक चाल में काले राजा को शह-मात दो।",
+      "normalized": "सफेद की बारी है सफेद मोहरा चुनो और एक चाल में काले राजा को शह मात दो",
+      "file": "audio/0fb690f691a6236a9995b758.mp3"
+    },
+    {
+      "text": "सफेद की बारी है। सफेद राजा की स्थिति चुनो।",
+      "normalized": "सफेद की बारी है सफेद राजा की स्थिति चुनो",
+      "file": "audio/154f532cd6f8908f379cfb72.mp3"
+    },
+    {
+      "text": "सफेद पक्ष का मोहरा ऊँट,",
+      "normalized": "सफेद पक्ष का मोहरा ऊँट",
+      "file": "audio/623e80290a2780534e8f52e2.mp3"
+    },
+    {
+      "text": "सफेद पक्ष का मोहरा घोड़ा,",
+      "normalized": "सफेद पक्ष का मोहरा घोड़ा",
+      "file": "audio/5e9711923bc1ecc89b8069dd.mp3"
+    },
+    {
+      "text": "सफेद पक्ष का मोहरा प्यादा,",
+      "normalized": "सफेद पक्ष का मोहरा प्यादा",
+      "file": "audio/0593d25ec139eda998bc528a.mp3"
+    },
+    {
+      "text": "सफेद पक्ष का मोहरा राजा,",
+      "normalized": "सफेद पक्ष का मोहरा राजा",
+      "file": "audio/9e86d1fb36839075ebb2dd05.mp3"
+    },
+    {
+      "text": "सफेद पक्ष का मोहरा वज़ीर,",
+      "normalized": "सफेद पक्ष का मोहरा वज़ीर",
+      "file": "audio/a836e739bbe1422a3401c0bc.mp3"
+    },
+    {
+      "text": "सफेद पक्ष का मोहरा हाथी,",
+      "normalized": "सफेद पक्ष का मोहरा हाथी",
+      "file": "audio/baf3721a29eb218a2596c914.mp3"
+    },
+    {
+      "text": "सफेद मोहरे",
+      "normalized": "सफेद मोहरे",
+      "file": "audio/c07f2b123b2059a7fa1f9dad.mp3"
+    },
+    {
+      "text": "हम बिसात को सफेद की तरफ से देख रहे हैं। नीचे दायाँ खाना हल्के रंग का है। पहले सफेद, फिर काले मोहरे रखो।",
+      "normalized": "हम बिसात को सफेद की तरफ से देख रहे हैं नीचे दायाँ खाना हल्के रंग का है पहले सफेद फिर काले मोहरे रखो",
+      "file": "audio/0c8ae624909b2bb39127f91f.mp3"
+    },
+    {
+      "text": "हमला करने वाले मोहरे को मारकर भी राजा को बचा सकते हो। h1 का ऊँट चुनो और e4 का काला हाथी मारो।",
+      "normalized": "हमला करने वाले मोहरे को मारकर भी राजा को बचा सकते हो h1 का ऊँट चुनो और e4 का काला हाथी मारो",
+      "file": "audio/4206039bee41656dfd7d14a4.mp3"
+    },
+    {
+      "text": "हर खिलाड़ी 16 मोहरों से शुरू करता है। सफेद पहले चलता है। फिर खिलाड़ी बारी-बारी से एक चाल चलते हैं।",
+      "normalized": "हर खिलाड़ी 16 मोहरों से शुरू करता है सफेद पहले चलता है फिर खिलाड़ी बारी बारी से एक चाल चलते हैं",
+      "file": "audio/8c7ae95d0450d2004617061a.mp3"
+    },
+    {
+      "text": "हाथी",
+      "normalized": "हाथी",
+      "file": "audio/36377472bed93f08b7ccd1f0.mp3"
+    },
+    {
+      "text": "हाथी आड़ा या सीधा कितने भी खाने चल सकता है। वह दूसरे मोहरों के ऊपर से नहीं कूद सकता।",
+      "normalized": "हाथी आड़ा या सीधा कितने भी खाने चल सकता है वह दूसरे मोहरों के ऊपर से नहीं कूद सकता",
+      "file": "audio/a9db0296ce39882764931ac1.mp3"
+    },
+    {
+      "text": "हाथी को a1 खाने पर रखो।",
+      "normalized": "हाथी को a1 खाने पर रखो",
+      "file": "audio/2df0b6574b7539aaef00134e.mp3"
+    },
+    {
+      "text": "हाथी को a8 खाने पर रखो।",
+      "normalized": "हाथी को a8 खाने पर रखो",
+      "file": "audio/ee7f5a8284b24b83caf52931.mp3"
+    },
+    {
+      "text": "हाथी को g4 खाने पर ले जाओ।",
+      "normalized": "हाथी को g4 खाने पर ले जाओ",
+      "file": "audio/1b79c38ec8d07f63ef7af56a.mp3"
+    },
+    {
+      "text": "हाथी को h1 खाने पर रखो।",
+      "normalized": "हाथी को h1 खाने पर रखो",
+      "file": "audio/9de06e38ef750fff4d689c33.mp3"
+    },
+    {
+      "text": "हाथी को h8 खाने पर रखो।",
+      "normalized": "हाथी को h8 खाने पर रखो",
+      "file": "audio/b73cb89b9a013ec4140b7f80.mp3"
+    },
+    {
+      "text": "हाथी लिया गया।",
+      "normalized": "हाथी लिया गया",
+      "file": "audio/d88800e49a17778df8c016dc.mp3"
+    },
+    {
+      "text": "हाथी से g4 पर विरोधी का मोहरा मारो।",
+      "normalized": "हाथी से g4 पर विरोधी का मोहरा मारो",
+      "file": "audio/300f11a110da8a785dbc18cc.mp3"
+    },
+    {
+      "text": "ओपनिंग खेल की शुरुआत होती है। पहले विचार सीखो, फिर बिसात पर मशहूर उदाहरण खोजो।",
+      "normalized": "ओपनिंग खेल की शुरुआत होती है पहले विचार सीखो फिर बिसात पर मशहूर उदाहरण खोजो",
+      "file": "audio/4c7169d7562351cbb00d1e25.mp3"
+    },
+    {
+      "text": "केंद्र के प्यादों और मोहरों से बीच पर नियंत्रण रखो। केंद्र के चार खाने e4, d4, e5 और d5 हैं।",
+      "normalized": "केंद्र के प्यादों और मोहरों से बीच पर नियंत्रण रखो केंद्र के चार खाने e4 d4 e5 और d5 हैं",
+      "file": "audio/8011f9f6b782911f6b0cbbff.mp3"
+    },
+    {
+      "text": "घोड़ों और ऊँटों को खेल में लाओ। आम तौर पर एक ही मोहरे को बार-बार चलाने के बजाय अलग-अलग मोहरे विकसित करो।",
+      "normalized": "घोड़ों और ऊँटों को खेल में लाओ आम तौर पर एक ही मोहरे को बार बार चलाने के बजाय अलग अलग मोहरे विकसित करो",
+      "file": "audio/5d42701b8f12650ce86721c6.mp3"
+    },
+    {
+      "text": "जब नियमों के अनुसार संभव और सुरक्षित हो, तब कैसलिंग की तैयारी करो। हाथियों को जोड़ो और राजा को खुला मत छोड़ो।",
+      "normalized": "जब नियमों के अनुसार संभव और सुरक्षित हो तब कैसलिंग की तैयारी करो हाथियों को जोड़ो और राजा को खुला मत छोड़ो",
+      "file": "audio/482425b1866883d70358f6d7.mp3"
+    },
+    {
+      "text": "हर चाल से पहले दोनों तरफ की शह, मारने की चालें और खतरे देखो। किसी ओपनिंग का नाम चाल को सुरक्षित नहीं बनाता।",
+      "normalized": "हर चाल से पहले दोनों तरफ की शह मारने की चालें और खतरे देखो किसी ओपनिंग का नाम चाल को सुरक्षित नहीं बनाता",
+      "file": "audio/b855a1bdb818dbf1eea392b9.mp3"
+    },
+    {
+      "text": "इटालियन गेम",
+      "normalized": "इटालियन गेम",
+      "file": "audio/4a15150de087ed67967dc39f.mp3"
+    },
+    {
+      "text": "घोड़े को f3 और ऊँट को c4 पर विकसित करो। ऊँट f7 की तरफ देखता है और सफेद कैसलिंग की तैयारी करता है। काले के पास कई जवाब हैं।",
+      "normalized": "घोड़े को f3 और ऊँट को c4 पर विकसित करो ऊँट f7 की तरफ देखता है और सफेद कैसलिंग की तैयारी करता है काले के पास कई जवाब हैं",
+      "file": "audio/c62189247b7dec7f0d3f57f3.mp3"
+    },
+    {
+      "text": "रुई लोपेज़ (स्पेनिश ओपनिंग)",
+      "normalized": "रुई लोपेज़ स्पेनिश ओपनिंग",
+      "file": "audio/9bbdd2305aae02e1903070af.mp3"
+    },
+    {
+      "text": "ऊँट b5 पर जाकर e5 की रक्षा कर रहे घोड़े पर दबाव डालता है। इस उदाहरण में काला a6 चलकर ऊँट से अगली जगह चुनने को कहता है।",
+      "normalized": "ऊँट b5 पर जाकर e5 की रक्षा कर रहे घोड़े पर दबाव डालता है इस उदाहरण में काला a6 चलकर ऊँट से अगली जगह चुनने को कहता है",
+      "file": "audio/ba946b2bd6260b44e88af4fa.mp3"
+    },
+    {
+      "text": "स्कॉच गेम",
+      "normalized": "स्कॉच गेम",
+      "file": "audio/57f24babc85e8ffd1f442dd0.mp3"
+    },
+    {
+      "text": "सफेद जल्दी d4 चलकर केंद्र को चुनौती देता है। प्यादों के आदान-प्रदान के बाद घोड़ा d4 पर वापस मारता है और सक्रिय केंद्रीय खाना लेता है।",
+      "normalized": "सफेद जल्दी d4 चलकर केंद्र को चुनौती देता है प्यादों के आदान प्रदान के बाद घोड़ा d4 पर वापस मारता है और सक्रिय केंद्रीय खाना लेता है",
+      "file": "audio/847ac5e109c6a0ccdf863f55.mp3"
+    },
+    {
+      "text": "क्वीन्स गैम्बिट",
+      "normalized": "क्वीन्स गैम्बिट",
+      "file": "audio/9bf60c0b64e9c6720d4a4d76.mp3"
+    },
+    {
+      "text": "सफेद काले के d5 प्यादे को चुनौती देने के लिए c-प्यादा पेश करता है। काला स्वीकार या मना कर सकता है; यहाँ वह e6 से मना करके मोहरे विकसित करता है।",
+      "normalized": "सफेद काले के d5 प्यादे को चुनौती देने के लिए c प्यादा पेश करता है काला स्वीकार या मना कर सकता है यहाँ वह e6 से मना करके मोहरे विकसित करता है",
+      "file": "audio/11b6c1cfbb7b28890a393ab3.mp3"
+    },
+    {
+      "text": "लंदन सिस्टम",
+      "normalized": "लंदन सिस्टम",
+      "file": "audio/90721073c297cb554502895a.mp3"
+    },
+    {
+      "text": "सफेद e3 चलने से पहले गहरे रंग के खानों वाले ऊँट को f4 पर विकसित करता है। मजबूत केंद्र बनाओ, पर काले की चालों के अनुसार योजना बदलो।",
+      "normalized": "सफेद e3 चलने से पहले गहरे रंग के खानों वाले ऊँट को f4 पर विकसित करता है मजबूत केंद्र बनाओ पर काले की चालों के अनुसार योजना बदलो",
+      "file": "audio/6ca2f56f3520b6c9c808c3dd.mp3"
+    },
+    {
+      "text": "सिसिलियन डिफेंस",
+      "normalized": "सिसिलियन डिफेंस",
+      "file": "audio/0673df92dcd3d80ffe612ed9.mp3"
+    },
+    {
+      "text": "काला e4 के जवाब में c5 चलकर किनारे से d4 को चुनौती देता है। इस ओपन सिसिलियन उदाहरण में प्यादे बदले जाते हैं और सफेद घोड़ा d4 पर आता है।",
+      "normalized": "काला e4 के जवाब में c5 चलकर किनारे से d4 को चुनौती देता है इस ओपन सिसिलियन उदाहरण में प्यादे बदले जाते हैं और सफेद घोड़ा d4 पर आता है",
+      "file": "audio/2bd92bc57a1736abe205ede7.mp3"
+    },
+    {
+      "text": "फ्रेंच डिफेंस",
+      "normalized": "फ्रेंच डिफेंस",
+      "file": "audio/b1959d7ea330c519e03699e9.mp3"
+    },
+    {
+      "text": "काला e6 से d5 की तैयारी करता है। इस एडवांस वैरिएशन में सफेद e5 से जगह लेता है और काला c5 से केंद्र को चुनौती देता है।",
+      "normalized": "काला e6 से d5 की तैयारी करता है इस एडवांस वैरिएशन में सफेद e5 से जगह लेता है और काला c5 से केंद्र को चुनौती देता है",
+      "file": "audio/7cfb47574362298d6f8b7b07.mp3"
+    },
+    {
+      "text": "कारो-कान डिफेंस",
+      "normalized": "कारो कान डिफेंस",
+      "file": "audio/142a3135101d620ad4d5fddb.mp3"
+    },
+    {
+      "text": "काला c6 से d5 की तैयारी करता है। यहाँ वह e4 पर मारता है और सफेद घोड़े से वापस मारता है; दोनों को अभी और मोहरे विकसित करने हैं।",
+      "normalized": "काला c6 से d5 की तैयारी करता है यहाँ वह e4 पर मारता है और सफेद घोड़े से वापस मारता है दोनों को अभी और मोहरे विकसित करने हैं",
+      "file": "audio/3ded86e303ea9837eca37874.mp3"
+    },
+    {
+      "text": "यह प्यादे की चाल केंद्र के नियंत्रण के लिए लड़ती है और मोहरों के लिए जगह खोलती है।",
+      "normalized": "यह प्यादे की चाल केंद्र के नियंत्रण के लिए लड़ती है और मोहरों के लिए जगह खोलती है",
+      "file": "audio/5d8701843c7bf32d03c34e64.mp3"
+    },
+    {
+      "text": "एक हल्का मोहरा खेल में आता है और महत्वपूर्ण खानों पर असर डालता है।",
+      "normalized": "एक हल्का मोहरा खेल में आता है और महत्वपूर्ण खानों पर असर डालता है",
+      "file": "audio/d434e37a6d6dfc73f08393f5.mp3"
+    },
+    {
+      "text": "यह चाल विरोधी मोहरे या केंद्र पर उसके नियंत्रण को चुनौती देती है।",
+      "normalized": "यह चाल विरोधी मोहरे या केंद्र पर उसके नियंत्रण को चुनौती देती है",
+      "file": "audio/6833ffa5000e9ce3dc2a3288.mp3"
+    },
+    {
+      "text": "यह प्यादे की चाल केंद्र की बनावट को सहारा देती है या दूसरे केंद्रीय प्यादे की चाल तैयार करती है।",
+      "normalized": "यह प्यादे की चाल केंद्र की बनावट को सहारा देती है या दूसरे केंद्रीय प्यादे की चाल तैयार करती है",
+      "file": "audio/0e164afe8b37aecd408287b8.mp3"
+    },
+    {
+      "text": "मारने की चाल केंद्र को बदलती है। देखो कि कौन सा मोहरा या प्यादा उसकी जगह लेता है।",
+      "normalized": "मारने की चाल केंद्र को बदलती है देखो कि कौन सा मोहरा या प्यादा उसकी जगह लेता है",
+      "file": "audio/4b86f24d4138e06488b292eb.mp3"
+    },
+    {
+      "text": "प्यादा आगे बढ़कर जगह लेता है। देखो कि विरोधी प्यादों की श्रृंखला पर कैसे हमला कर सकता है।",
+      "normalized": "प्यादा आगे बढ़कर जगह लेता है देखो कि विरोधी प्यादों की श्रृंखला पर कैसे हमला कर सकता है",
+      "file": "audio/682e8398dd808aa516643b6f.mp3"
+    }
+  ]
+}

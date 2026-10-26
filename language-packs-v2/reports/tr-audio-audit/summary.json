@@ -1,0 +1,23 @@
+{
+  "recordCount": 225,
+  "uniqueAudioFiles": 208,
+  "transcribedUniqueFiles": 208,
+  "statuses": {
+    "asr_and_legacy_support_difference": 63,
+    "asr_text_match": 31,
+    "uncertain_transcript": 27,
+    "different_or_uncertain_transcript": 75,
+    "alphabet_manual_review": 29
+  },
+  "uniqueFilesByStatus": {
+    "asr_and_legacy_support_difference": 58,
+    "asr_text_match": 27,
+    "uncertain_transcript": 24,
+    "different_or_uncertain_transcript": 70,
+    "alphabet_manual_review": 29
+  },
+  "scope": "Only the 225 records in the editorial listening queue, not the complete Turkish package.",
+  "method": "Independent local Whisper small ASR; no expected-text prompt; original labels used only after transcription.",
+  "humanListeningVerified": false,
+  "packageAudioChanged": false
+}

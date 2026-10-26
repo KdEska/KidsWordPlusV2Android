@@ -1,0 +1,21 @@
+{
+  "tr": {
+    "addedFileReferences": 62,
+    "missingActiveAudio": 0,
+    "voiceId": "QyR5BHRdTV409EnyTeN2",
+    "inactiveConcepts": [
+      "school:1342",
+      "school:1380",
+      "school:1382"
+    ]
+  },
+  "en": {
+    "addedFileReferences": 60,
+    "missingActiveAudio": 0,
+    "voiceId": "g2Lkjc1rfRIFTu63BLDp",
+    "inactiveConcepts": []
+  },
+  "englishRejectedClonesExcluded": true,
+  "creditsAfterGenerationObserved": 37185,
+  "englishListeningReview": "pending"
+}

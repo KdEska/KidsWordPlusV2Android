@@ -1,0 +1,62 @@
+[
+  {
+    "task": 1,
+    "instruction": "Piyon taşını d4 karesine götür.",
+    "source": "d3, Beyaz Piyon",
+    "target": "d4"
+  },
+  {
+    "task": 2,
+    "instruction": "At taşını e6 karesine götür.",
+    "source": "c7, Beyaz At",
+    "target": "e6"
+  },
+  {
+    "task": 3,
+    "instruction": "Fil taşını g7 karesine götür.",
+    "source": "b2, Beyaz Fil",
+    "target": "g7"
+  },
+  {
+    "task": 4,
+    "instruction": "Kale ile g4 karesindeki rakip taşı al.",
+    "source": "e4, Beyaz Kale",
+    "target": "g4"
+  },
+  {
+    "task": 5,
+    "instruction": "At taşını e6 karesine götür.",
+    "source": "f4, Beyaz At",
+    "target": "e6"
+  },
+  {
+    "task": 6,
+    "instruction": "Şah taşını e5 karesine götür.",
+    "source": "d4, Beyaz Şah",
+    "target": "e5"
+  },
+  {
+    "task": 7,
+    "instruction": "Şah taşını e5 karesine götür.",
+    "source": "d6, Beyaz Şah",
+    "target": "e5"
+  },
+  {
+    "task": 8,
+    "instruction": "Vezir taşını g7 karesine götür.",
+    "source": "g1, Beyaz Vezir",
+    "target": "g7"
+  },
+  {
+    "task": 9,
+    "instruction": "Fil taşını g7 karesine götür.",
+    "source": "a1, Beyaz Fil",
+    "target": "g7"
+  },
+  {
+    "task": 10,
+    "instruction": "Vezir taşını g7 karesine götür.",
+    "source": "g6, Beyaz Vezir",
+    "target": "g7"
+  }
+]

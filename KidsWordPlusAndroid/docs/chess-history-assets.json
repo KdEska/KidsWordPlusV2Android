@@ -1,0 +1,116 @@
+{
+  "reference": "KidsWordPlusV2/Chess/history/credits.json",
+  "images": [
+    {
+      "id": "kasparov",
+      "source": "design/chess/history/kasparov.jpg",
+      "asset": "chess/history/kasparov.jpg",
+      "bytes": 7451140,
+      "sha256": "486be8f04bb0f078db741d22ba4a6407beea60afc27a03de807353e5407ac9c1",
+      "author": "Gage Skidmore from Peoria, AZ, United States of America",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Garry_Kasparov_(37137186253).jpg"
+    },
+    {
+      "id": "karpov",
+      "source": "design/chess/history/karpov.jpg",
+      "asset": "chess/history/karpov.jpg",
+      "bytes": 275408,
+      "sha256": "29afdd4a65fb52ee8dd2017aebd4520c4ce7ab5b689eace30eafdb06008d11e3",
+      "author": "Ahsoous",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Anatoli_Karpov_by_Ahsoous_20110107.jpg"
+    },
+    {
+      "id": "fischer",
+      "source": "design/chess/history/fischer.jpg",
+      "asset": "chess/history/fischer.jpg",
+      "bytes": 642495,
+      "sha256": "ee77d9bbec652b1b0631299f4a6ecf539e682828b10298c1814f80a72bf92628",
+      "author": "Bert Verhoeff for Anefo · Nationaal Archief",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Bobby_Fischer_1972.jpg"
+    },
+    {
+      "id": "anand",
+      "source": "design/chess/history/anand.jpg",
+      "asset": "chess/history/anand.jpg",
+      "bytes": 77635,
+      "sha256": "c1ce542aa2452f214fe169519bafcbfec954722759275cd32477b61cdb8e59d5",
+      "author": "Georgios Souleidis",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(cropped).jpg"
+    },
+    {
+      "id": "carlsen",
+      "source": "design/chess/history/carlsen.jpg",
+      "asset": "chess/history/carlsen.jpg",
+      "bytes": 767204,
+      "sha256": "1a0b815b7b1188048fdd7475e7c00b564b025b7a7c168ee802653187275e980e",
+      "author": "Sergey Rassokha",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:MagnusCarlsen.jpg"
+    },
+    {
+      "id": "polgar",
+      "source": "design/chess/history/polgar.jpg",
+      "asset": "chess/history/polgar.jpg",
+      "bytes": 1132586,
+      "sha256": "b14980f010d0b469841fdd691c2ab8f0fc98aaf4e47bc86d92f8c13bf14501a1",
+      "author": "Ygrek",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Judit_polgar_03.08.2008.jpg"
+    },
+    {
+      "id": "steinitz",
+      "source": "design/chess/history/steinitz.jpg",
+      "asset": "chess/history/steinitz.jpg",
+      "bytes": 36129,
+      "sha256": "c1c5f3ea75233d30e0fa74974370c7906719093a3525c04153aec575326d4f4b",
+      "author": "Wikimedia Commons · Wilhelm Steinitz2.jpg",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Wilhelm_Steinitz2.jpg"
+    },
+    {
+      "id": "lasker",
+      "source": "design/chess/history/lasker.jpg",
+      "asset": "chess/history/lasker.jpg",
+      "bytes": 1201344,
+      "sha256": "e655cd982de037e561608ef421a7a3f4b28f3577f57c14c8867876f684e968bf",
+      "author": "Trans-Ocean News Service · National Library of Israel, Schwadron collection",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Emanuel_Lasker.jpg"
+    },
+    {
+      "id": "capablanca",
+      "source": "design/chess/history/capablanca.jpg",
+      "asset": "chess/history/capablanca.jpg",
+      "bytes": 1953805,
+      "sha256": "529c8edbb89a9b040e42062a383968f06c505fbfd9722c1530d065007037a59f",
+      "author": "Agence Rol · Bibliothèque nationale de France (Gallica), 1921",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ra%C3%BAl_Capablanca_1921.jpg"
+    },
+    {
+      "id": "menchik",
+      "source": "design/chess/history/menchik.png",
+      "asset": "chess/history/menchik.png",
+      "bytes": 860780,
+      "sha256": "b19823d4274f9d682d17242336834ccc66f5cb8fa5073fac18a5fcbcdbdff7c8",
+      "author": "Underwood & Underwood · The Baltimore Sun, 1927",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Vera_Menchik_1927_newspaper_photo_(cropped).png"
+    }
+  ],
+  "bytes": 14398526
+}

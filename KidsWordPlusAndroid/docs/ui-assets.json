@@ -1,0 +1,1689 @@
+{
+  "derivatives": [
+    {
+      "source": "design/assets-phase-1-3/backgrounds/learning-garden.png",
+      "target": "ui/backgrounds/garden.webp",
+      "width": 941,
+      "height": 1672,
+      "sourceSha256": "d8ef9ff23f6e2830081e7dadec87f9fcdfeccdf0702e92f0b76af7fce406dfa5",
+      "outputSha256": "c759d4708643cd3361750559246b8ce2971cc286ca0c3a0aaca6cd077fb16115",
+      "bytes": 260028
+    },
+    {
+      "source": "design/assets-phase-1-3/backgrounds/learning-landscape.png",
+      "target": "ui/backgrounds/landscape.webp",
+      "width": 208,
+      "height": 140,
+      "sourceSha256": "a3cdff8fe70e668f3a995d2f83af9c3e6d4ce0451c14c83aadc6d591912d93b4",
+      "outputSha256": "ffb3f0c019588ff2c3a1fdd8be4ddebe32229a16a42d9c33b9b71fc62e21b66b",
+      "bytes": 8922
+    },
+    {
+      "source": "design/assets-phase-1-3/brand/kidswordplus-logo.png",
+      "target": "ui/brand/logo.webp",
+      "width": 1000,
+      "height": 433,
+      "sourceSha256": "149b0ffe1b30a4d9645f9bb044af999b99344120b34195e7c8d485cf49fc7f68",
+      "outputSha256": "9b5d241acd2799d4ea9790e1f540a181f7c0c1cc54463c3a53907cd93cc3649c",
+      "bytes": 93298
+    },
+    {
+      "source": "design/main-category-assets-reference/16-actions.png",
+      "target": "ui/categories/actions.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "3b443b737b7a91f018812b582c0bb1348f58e4743ed00b9c9e09e35f63c921b8",
+      "outputSha256": "4fa0e3ea048fc83c9383d40d734909a5cb76d5c03202abced9ff17d1f4f00355",
+      "bytes": 57154
+    },
+    {
+      "source": "design/main-category-assets-reference/01-animals.png",
+      "target": "ui/categories/animals.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "f63433a4258336f0677b2112cfce0d0ab0022ba490973dc96f08d0ebf519f297",
+      "outputSha256": "285b010a5b54f1ded053983d8b44d356fa21c709fb972f41be12df135030c233",
+      "bytes": 51786
+    },
+    {
+      "source": "design/main-category-assets-reference/10-buildings.png",
+      "target": "ui/categories/buildings.webp",
+      "width": 512,
+      "height": 432,
+      "sourceSha256": "d2ffa5c54ccb71a4c8078d21641e136d7f925c4d71b7ed1d299bdb61a658ffa9",
+      "outputSha256": "1f81a51dac29fdc8bdcdc25681a4ae0d75c17bf611f728cb511425012cab016a",
+      "bytes": 45298
+    },
+    {
+      "source": "design/main-category-assets-reference/13-clocks.png",
+      "target": "ui/categories/clocks.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "7687485bdda2a8533f867b7e4abfad8f6adfaaded5a4440e1819bf9dc321c561",
+      "outputSha256": "eb98a60db77b14b959eaca58749ef655bb6b0ffd2de0759e591f6288646c33fe",
+      "bytes": 39878
+    },
+    {
+      "source": "design/main-category-assets-reference/25-concepts-relationships.png",
+      "target": "ui/categories/concepts_relationships.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "e018b4acd0efc9b8e65e7fa71b0b79bb2219c4b3aa8be0c2b73746812902c0e5",
+      "outputSha256": "b87da2e52647f18c3e7995ecb94115eaea9b53d8c356990ae9623112e193b866",
+      "bytes": 43970
+    },
+    {
+      "source": "design/main-category-assets-reference/09-countries.png",
+      "target": "ui/categories/countries.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "361c5a131126318d32291986763a6b6fd003c07d66bcddf557e5fa1957d840fb",
+      "outputSha256": "f601df1cc98658747746206ccecbbc542d50de45f28121ad729c4c0e9b02c87a",
+      "bytes": 35812
+    },
+    {
+      "source": "design/main-category-assets-reference/24-daily-life-communication.png",
+      "target": "ui/categories/daily_life_communication.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "6bb93b41aacdb685355c582de4aaf8205acea7686c7cf9a195be2bd8889bd006",
+      "outputSha256": "285715964d0e8a9c200c1e67acc15335479185268744cf874e840f93e8d5f075",
+      "bytes": 40370
+    },
+    {
+      "source": "design/main-category-assets-reference/19-daily-routines.png",
+      "target": "ui/categories/daily_routines.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "1bf4fff109557add3401d38994f981f4644a64d30138f3eca9e14c91dccba87f",
+      "outputSha256": "c4b527e8c4da4702eed37ed5074bc0e2f72462f1a37b04089c2770898454aa25",
+      "bytes": 45850
+    },
+    {
+      "source": "design/main-category-assets-reference/05-farm.png",
+      "target": "ui/categories/farm.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "268faa3bf32d93c90100e9fb9812ed08e8781265a8fa53efb0779f7dd5982996",
+      "outputSha256": "953753cd61648bd1ba0318ce03af084367c25f47a6b45774c5bd719660175d8f",
+      "bytes": 42232
+    },
+    {
+      "source": "design/main-category-assets-reference/18-feelings.png",
+      "target": "ui/categories/feelings.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "a12f472d095da7c7d9c59c72ba51c7f337af86b95a55f07f9fb68bb284e977fb",
+      "outputSha256": "9542df7e2a0caeab43b1641993084f6305d64111fd3a2796de5339c0cb2718a6",
+      "bytes": 37516
+    },
+    {
+      "source": "design/main-category-assets-reference/11-flags.png",
+      "target": "ui/categories/flags.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "855302244df1b706eab3b362de6aafe48d8ecaf85821bab4a8a46f43673686df",
+      "outputSha256": "2d98da3097e9ef6f5fea16d2b3202271c1f53797308927bae8e6d8df6e3b8412",
+      "bytes": 26810
+    },
+    {
+      "source": "design/main-category-assets-reference/02-food.png",
+      "target": "ui/categories/food.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "f3ce954839e428f80661a2defad27352f3d52f73949ba95725d95c8cab7f956c",
+      "outputSha256": "2ea85b7fe26542502d8b398f188537e92876af9f944c78245c9c6add5d76defb",
+      "bytes": 56118
+    },
+    {
+      "source": "design/main-category-assets-reference/07-fruits-vegetables.png",
+      "target": "ui/categories/fruits_vegetables.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "8bcb6061d2be8dfd41aa8045b8f4061b3ca654aebd9be60736759315eca73158",
+      "outputSha256": "ae8de2ddaacb1f9f4e57518bd5e9a6bf9a59276cc1ad5cac8c79ac68faa9765f",
+      "bytes": 44636
+    },
+    {
+      "source": "design/main-category-assets-reference/08-heavy-equipment.png",
+      "target": "ui/categories/heavy_equipment.webp",
+      "width": 512,
+      "height": 444,
+      "sourceSha256": "99313efa385c027db75614db5de9f307706f5f54736837ba81a2ec4791d1c994",
+      "outputSha256": "8d9de0f57bd77a9c4a2ac131699da173d2d85c7d54d6f3a6156b455e021cf82d",
+      "bytes": 44702
+    },
+    {
+      "source": "design/main-category-assets-reference/03-home.png",
+      "target": "ui/categories/home.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "88f9aa3f63f95a8dc81345b4ac72c6197e3a68690c410a3788e421744314b4b5",
+      "outputSha256": "f79833f89063b50417805f451cd642650a8e93e16dc48f51a46a877353bded50",
+      "bytes": 33786
+    },
+    {
+      "source": "design/main-category-assets-reference/15-human-body-v2.png",
+      "target": "ui/categories/human_body.webp",
+      "width": 480,
+      "height": 512,
+      "sourceSha256": "757a655348683645d2ab18ef4bd25315f2b0dbf03998faff3770f0b811bd531c",
+      "outputSha256": "4c5b7cea658a10c5cc3c707711363b0a65068e6906880de3a5ff60d72c8460b1",
+      "bytes": 67972
+    },
+    {
+      "source": "design/main-category-assets-reference/14-musical-instruments.png",
+      "target": "ui/categories/musical_instruments.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "11344829486d7ae9895ae6b96224134cb764d7568d984844c8e9be878b1172c7",
+      "outputSha256": "2d0dd009a53c9d0377f03df5660d6ebe85df0bcf9c83494d3749450a745f5041",
+      "bytes": 33294
+    },
+    {
+      "source": "design/main-category-assets-reference/17-opposites.png",
+      "target": "ui/categories/opposites.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "bb3ca575e1e739ead4c694cf7d652c5377e92da8de90f763e28d96c704a33d20",
+      "outputSha256": "54be123e0c5e82f735055967072b89371589ab791a30e3cd5dc4fcf5b4d82a0b",
+      "bytes": 38318
+    },
+    {
+      "source": "design/main-category-assets-reference/20-positions-directions.png",
+      "target": "ui/categories/positions_directions.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "2e957cfaa97de2ec5a361efa15954f4904cdd8cab0602e37d814745ef3ae361a",
+      "outputSha256": "dd73eb578c59d07c7b6ead0ddc9125a562e926e34dd7147b2b82e0a061d8ec7d",
+      "bytes": 32840
+    },
+    {
+      "source": "design/main-category-assets-reference/12-professions.png",
+      "target": "ui/categories/professions.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "fd44e8628ea8d72ff74e94c5ceb06472bb1177aa3d8b20a45dff8176d04670e2",
+      "outputSha256": "e8209bc0608074ed47f007ba10f56539d8654ce965fed05393e1d7e975c182b1",
+      "bytes": 34634
+    },
+    {
+      "source": "design/main-category-assets-reference/21-properties.png",
+      "target": "ui/categories/properties.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "ece4bc090bb564d1617a869b2214e0290d0040b320f2f4e8d7e1113d7cf6267e",
+      "outputSha256": "de47d34bea754940a857ef1959c3eb6c0a0d3ad3e8164f9c711042719314309b",
+      "bytes": 54238
+    },
+    {
+      "source": "design/main-category-assets-reference/04-school.png",
+      "target": "ui/categories/school.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "5ffbec57843b4956be33b8369b60084a16ec9493f1e3d85505525eaa17b8fb48",
+      "outputSha256": "bae1c00fafc2714604743613c1e5c31646bfd661f69b945388e69dc154a96cb9",
+      "bytes": 38384
+    },
+    {
+      "source": "design/main-category-assets-reference/23-social-skills.png",
+      "target": "ui/categories/social_skills.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "406911b07d10571114432c66b51b9a2dc2826df741d3ba8c1ae0619e06c02b9f",
+      "outputSha256": "a26818bbc428472313bdf31a8552abd605c7416a523118c1b06c286c2930186a",
+      "bytes": 39616
+    },
+    {
+      "source": "design/main-category-assets-reference/06-space.png",
+      "target": "ui/categories/space.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "a903344666f36ba82afa4a2e80da3d3f0d60cb85bc18ddb22cf3a86892291393",
+      "outputSha256": "24c2e48cafff11fca17e3c15ba509bce662de654feb20c0435bf59b0f16d171a",
+      "bytes": 32238
+    },
+    {
+      "source": "design/main-category-assets-reference/22-time-sequence.png",
+      "target": "ui/categories/time_sequence.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "10fe1710c9510413b1527efd163f58e5f5a83d280ed17abab4c87bfc80be8160",
+      "outputSha256": "5f7bb22c05e8e56ab72b38e3d260b1dd061ca673abdfb6b8f3a02d1bfe57f579",
+      "bytes": 43334
+    },
+    {
+      "source": "design/assets-phase-1-3/characters/piko-celebrate.png",
+      "target": "ui/characters/piko-celebrate.webp",
+      "width": 449,
+      "height": 512,
+      "sourceSha256": "37934c75c4d0820489a65c70cded8d4997674719c4a7ea41ab68890f990a1a2d",
+      "outputSha256": "331c4e5b0c5030d3bfba47fff554a96eb23fbcb57d50bd811ab53630c49fed42",
+      "bytes": 43266
+    },
+    {
+      "source": "design/assets-phase-1-3/characters/piko-controller.png",
+      "target": "ui/characters/piko-controller.webp",
+      "width": 480,
+      "height": 512,
+      "sourceSha256": "caa8f302da38bf844b2546985452d2c43b0dbcfdb04f025d0f17de036e4be7ee",
+      "outputSha256": "b31569f0a34351cdc2cb49c4d06297d903853b9ccc61f147191145be00d7f462",
+      "bytes": 54512
+    },
+    {
+      "source": "design/assets-phase-1-3/characters/piko-wave.png",
+      "target": "ui/characters/piko-wave.webp",
+      "width": 493,
+      "height": 512,
+      "sourceSha256": "5dc0bd20b64b2361eff0889bd51a180e975627dd469198612a8eaf195020257a",
+      "outputSha256": "19d53d2ae72dff4ddd9e392c6f419280c11859b3af25932c6713aae2dd55e205",
+      "bytes": 58136
+    },
+    {
+      "source": "design/chess/menu/computer.png",
+      "target": "ui/chess/computer.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "2603f2d2d13fe545d61924a47eae787aafa0d77ba4d517e76a33a64e8b4f471a",
+      "outputSha256": "ef2d20c2ad1c069d3cc82ad88014e296872c9013d6794fbd80aec2dbbf883e07",
+      "bytes": 37852
+    },
+    {
+      "source": "design/chess/menu/custom.png",
+      "target": "ui/chess/custom.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "9da49efc66e2d974bcd7908792b58ae6b152f7512d18becc057f1610df7d9468",
+      "outputSha256": "8d98684f1377fedc4defab6b7a6bc5977cf553bb8acbee1c90653e7b9f2d1409",
+      "bytes": 42182
+    },
+    {
+      "source": "design/chess/menu/endings.png",
+      "target": "ui/chess/endings.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "abd5777f0ece345a1319e332610e388b715e6b4346749e6c29d9c56ccc664b57",
+      "outputSha256": "2aa5f6433c9758db0a19d65b57d77865b03034f99c64003c5e2dd6f9d6e82871",
+      "bytes": 38636
+    },
+    {
+      "source": "design/chess/menu/learn.png",
+      "target": "ui/chess/learn.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "cd838bce86ea76732e40aa0309af6762f6e583ba28777cbfaaeadf11af9623a9",
+      "outputSha256": "1f926c7488655e882eb1e66461f4da7414ab13bc5523da4d8e8ae1565f076ef1",
+      "bytes": 35112
+    },
+    {
+      "source": "design/chess/menu/mate.png",
+      "target": "ui/chess/mate.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "073c76d0528357313fbf3c905b90adad262608abf06ed3db68c186e874b5485f",
+      "outputSha256": "368652e2f429e41c3f07d9f82e2c98bf1809c9c75d47377694aec29bba7ccf70",
+      "bytes": 29868
+    },
+    {
+      "source": "design/chess/menu/openings-lesson-hero.png",
+      "target": "ui/chess/openings-lesson-hero.webp",
+      "width": 768,
+      "height": 384,
+      "sourceSha256": "22d435ad6dfd19168694c9eac78aaa55ab222feb5f6f5ce74b45d9fe89fc3d5e",
+      "outputSha256": "728817ca6e11cfbab10285973955fe7ca8e62a1220d8b4135ca7050b4d82456d",
+      "bytes": 90760
+    },
+    {
+      "source": "design/chess/menu/openings.png",
+      "target": "ui/chess/openings.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "b081ab61b682e89a0b799b3ea05eb4270de1467ccde7a2e003427e8b1f296a7b",
+      "outputSha256": "e74a330b89fddb1d93a9d9f9ca202477f0467efa148d6d1211d235d228405d98",
+      "bytes": 41798
+    },
+    {
+      "source": "design/chess/menu/pieces.png",
+      "target": "ui/chess/pieces.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "6fd05106af82d1bab35f9f58fd27fd68ce1ef9f9eb2e7ac3258844b3240c3295",
+      "outputSha256": "fce9409568e6571a4b695544f8d1a1ca4e23dbd2d629022edd0f70e4cb88614a",
+      "bytes": 31196
+    },
+    {
+      "source": "design/chess/menu/practice.png",
+      "target": "ui/chess/practice.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "48d93da389ee2e179e91a95dd05846b8e735970a98b18ccc5700d90e02efeee0",
+      "outputSha256": "599c8338ad67d26cda821085363b3b86ddbbf8c5fdba60e900e6243953807e9a",
+      "bytes": 33490
+    },
+    {
+      "source": "design/chess/menu/safety.png",
+      "target": "ui/chess/safety.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "ac19c5ef441286431405c35f430ff77a293c45eb94839f32e0cf7e0b07d441d1",
+      "outputSha256": "be534a9b9d794b68cb792b8ec94961a32885a240b84a2f9cb8f71ccbdceed81d",
+      "bytes": 31116
+    },
+    {
+      "source": "design/chess/menu/setup.png",
+      "target": "ui/chess/setup.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "6da353be4d9732e7eea9c188f4f545fcb55705e917dc946afd5dfee48d496a72",
+      "outputSha256": "82e4b65ad8a1c849a9175f9e612c841125eafd5b42cfaeaa3688ff001dd81910",
+      "bytes": 37462
+    },
+    {
+      "source": "design/chess/world-hero.png",
+      "target": "ui/chess/world.webp",
+      "width": 1200,
+      "height": 800,
+      "sourceSha256": "a53b3c821e82978d8126fdedd7a2ebdb40464280ec4a921147e4e65e405a42ec",
+      "outputSha256": "c5e998799b0fe1f7caef327e6a3d31d3e5049af48ac248101cb561051b6b6224",
+      "bytes": 131060
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/calendar.png",
+      "target": "ui/games/calendar.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "2c272376a6a4a0263c71ad0b08a73e1a53c6e7bfd4e37bb71207dfe5be7abaf4",
+      "outputSha256": "232fdf2341714c0f1a70f52bab104198b6ba42ec87099ad91bae559591843471",
+      "bytes": 13154
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/congrats-ribbon.png",
+      "target": "ui/games/congrats-ribbon.webp",
+      "width": 384,
+      "height": 201,
+      "sourceSha256": "360996af2a85178dd2abacafefa43222798ef109490d54054795893b761ed885",
+      "outputSha256": "dca93d4335e530ef7ef7e3278a74c50fa13b085d064f3727a00c9badfcab873f",
+      "bytes": 16212
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/daily-controller.png",
+      "target": "ui/games/daily-controller.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "c0c943ccbf32edafdefffd6cbcaba2369afa016cda16581208e258baf9ed2ffe",
+      "outputSha256": "54af9f54c5726a4f19b210b2e6245ebd5f6eca3c9be7d5934fa8dd0d191223a9",
+      "bytes": 26106
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/daily-star.png",
+      "target": "ui/games/daily-star.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "0c2b9092563e42727b7895b84de779f090c998b7af20cedefdb9a045ca7e71c8",
+      "outputSha256": "4df605012d143f069deaa9ede99b23df84c75bc033c4b5db1da38a31430f0d2f",
+      "bytes": 22790
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/elephant-review-card.png",
+      "target": "ui/games/elephant-review-card.webp",
+      "width": 384,
+      "height": 353,
+      "sourceSha256": "172f010f1dcc0005b8447e0f50c9263eb20e6cc941e566bb3dea154e3e026859",
+      "outputSha256": "91d6e1c769c216a69eface886e151b718b3091b6c28f10517d4a7fcce9c96f7c",
+      "bytes": 45406
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/fire.png",
+      "target": "ui/games/fire.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "0e290778057129382f1dec95dd265b898125635104b5f242493dfaa37f3f8ed9",
+      "outputSha256": "52d891294510549ab8640213ebed0a111b3539a1cc1ce78a91511150b5b0d2ab",
+      "bytes": 15942
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/listen-choose.png",
+      "target": "ui/games/listen-choose.webp",
+      "width": 384,
+      "height": 335,
+      "sourceSha256": "19e1416fcc655f93093d788e472a079bff45f34d21494e02a8bdb0ec601d6284",
+      "outputSha256": "a7b43f89a47b8f9efd16006a0b9435006e744ea8500a5b80c88ec58e5932f79f",
+      "bytes": 22102
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/match.png",
+      "target": "ui/games/match.webp",
+      "width": 384,
+      "height": 309,
+      "sourceSha256": "cc05b080b7e9989324848eac69be300ab3e154eb9270870366dd9c13c00eac3f",
+      "outputSha256": "67e50a6af88f8137daf100f61072ac617126a378c35df05b5379321fc641b023",
+      "bytes": 18700
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/memory-cards.png",
+      "target": "ui/games/memory-cards.webp",
+      "width": 384,
+      "height": 310,
+      "sourceSha256": "9765e432b5a8a12b4c355ed9bbb1220baf987b1eef1a51610f851e8f50a75926",
+      "outputSha256": "b7d50ed17d956fd1240f3068f2aa4522af6425f5756019991f8b11ba025164d3",
+      "bytes": 14750
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/new-words.png",
+      "target": "ui/games/new-words.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "43c3a459d95aa4dc3166bab2c57bd735ad4098e8d7831fedceac59e8ec7e4277",
+      "outputSha256": "84cd7b69541c7ccdebea146abc63c52372b779cf0f064297fdbecff6be31dbba",
+      "bytes": 18690
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/repeat-words.png",
+      "target": "ui/games/repeat-words.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "d0785dd4b7981dee52aac753bcb850bff510d952bd555f081854a020bf4e31c0",
+      "outputSha256": "72e573cc5d4a84bdedb5607decf9768e70925e4b4ecb75927283443a93ae4573",
+      "bytes": 17780
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/scoreboard.png",
+      "target": "ui/games/scoreboard.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "4674bfb562858c51e97481c7a84524e75ff537589b50261fe9605fa2e6d24802",
+      "outputSha256": "ea942cc953ef74805178cc6d9dcf490736982bc0ec6e6dc0e27f16908dc4d860",
+      "bytes": 23556
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-2/speak-microphone.png",
+      "target": "ui/games/speak-microphone.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "49fb10bbe85de3e84bf15d0f2e60a530e55f699bef4abe5ed269e8d089ba7e09",
+      "outputSha256": "e704bcffcfa1954eff7c7c2c05ec7ba38964be0097eff0bc31816fcf03c9a40c",
+      "bytes": 22616
+    },
+    {
+      "source": "design/navigation-status-icons-reference/back.png",
+      "target": "ui/navigation/back.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "d59d5f05e68c43c4baa3eeb4b172a4b2d5c45299b42aff7277809e378204c063",
+      "outputSha256": "7d990487cd820ad2c4be7adfeb5b594ae198fa2dec15fabff47a7b7f5e3ae361",
+      "bytes": 12138
+    },
+    {
+      "source": "design/navigation-status-icons-reference/green-tick.png",
+      "target": "ui/navigation/green-tick.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "9be1c6b0f159a59b24100e6a5cad57516f9d251f98d9cbed0d83d315b4659a53",
+      "outputSha256": "b64f5b8a174b6a92a783b1a10ced863554a81f9ddd5d1e15768f682499dd17c9",
+      "bytes": 22896
+    },
+    {
+      "source": "design/navigation-status-icons-reference/next.png",
+      "target": "ui/navigation/next.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "721e2c4a9a36eb43385fc8cc50fd6d930c0c1df5625a6733580baf8d1e30bd1b",
+      "outputSha256": "be932d0b2e9ce0ccbeb94fc466c0931d29db58303e5f6485b3483a6cc79ca1f2",
+      "bytes": 11672
+    },
+    {
+      "source": "design/navigation-status-icons-reference/wrong-cross.png",
+      "target": "ui/navigation/wrong-cross.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "60820a557f5ffb290cb42fbec3d3d357bd911fef229e918b797636118e676e81",
+      "outputSha256": "4cf41be19418073516e3e2dee89bc3de9dcfd0572e7c47fb462a339ea31420cb",
+      "bytes": 25684
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/daily-goal.png",
+      "target": "ui/parent/daily-goal.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "840f917a3850a972535bd2cb0706fa540820f3a2f3585af036caca48f7248800",
+      "outputSha256": "df135c5d9434c1fc231f1b559c7dbdd343442764a8a66c52623980b4ebb6e285",
+      "bytes": 26788
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/learning-days.png",
+      "target": "ui/parent/learning-days.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "8814ab0285b63c6f791d350fc36d8238a965217f1a5ab14784d78a7cb82edd96",
+      "outputSha256": "519bebf97873a5f4f961b6c015dcc2b39f7d9ae012b58923873fe3bc176bfb34",
+      "bytes": 16518
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/learning-language.png",
+      "target": "ui/parent/learning-language.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "61c4a60a001a01c5700b2dc9b6427b1f39a1ca48950983fbb283119eb663e1f8",
+      "outputSha256": "0e5820ccc481fa26682073df5e0844a8eefe9f7e103e3d47034791430c0e8ee2",
+      "bytes": 29400
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/mastered.png",
+      "target": "ui/parent/mastered.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "3b59d0e139569b5570a3719042e74772f4d7364f42c4e8afa9d8087339c73e0e",
+      "outputSha256": "a1fc3e4b0f842a2151cd6f95a2440a0911340ab0e551d549b8d1f00dbaf3a015",
+      "bytes": 19510
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/need-practice.png",
+      "target": "ui/parent/need-practice.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "4a2fa4d30a482665e6b52fa10eaed8f59b60f5b5b8ca1ef7e041a0f1ea3294de",
+      "outputSha256": "959fdd277f3b12da6c4ed9216025d3875b73d89bc0b06559824c3d7c9a99097e",
+      "bytes": 13302
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/notifications.png",
+      "target": "ui/parent/notifications.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "f76ee6f44f71d5758e7707fffadfd63a440eed95670b000961dede34a8692d14",
+      "outputSha256": "8a5f06eb1c7eaf8365077af57643e227475e46115a23f6a229b3cd066f4d9993",
+      "bytes": 9376
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/parent-lock.png",
+      "target": "ui/parent/parent-lock.webp",
+      "width": 303,
+      "height": 308,
+      "sourceSha256": "39eb57a4bdfbb616ffc108a0049c895e9944e45fe1587726ddd74162b30fccb6",
+      "outputSha256": "31754431ad1c1131f5750013c73ced9d071f0efcf88a319a35ba3d3374afc37e",
+      "bytes": 23658
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/privacy.png",
+      "target": "ui/parent/privacy.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "d6a1d4ba46f70ea16461e2e15b356f4cb501873526e107ef6a72d763f7291805",
+      "outputSha256": "2529008b7b27611cebe31e3a4535c7773a0399778d97f621fe7e1c59263c7bb9",
+      "bytes": 16904
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/profile-edit.png",
+      "target": "ui/parent/profile-edit.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "c86db9d20c1ab2be46f8e495278b28cda075b4ae7f31357809302d04e6a27b64",
+      "outputSha256": "edf014d1231d2ff90c7c8696994b8224973ba528bfcb6fe10d35350eb358176b",
+      "bytes": 9558
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/settings.png",
+      "target": "ui/parent/settings.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "a3adee9bca02e30a53b8b06e415265b8cf2a9de9b3e0a1efd6f25ce237bfadac",
+      "outputSha256": "f374edf8e7265d6a61a77c6d6ad114583e9f0a553d865de1fd36e9ea432324e3",
+      "bytes": 19144
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/sound.png",
+      "target": "ui/parent/sound.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "03b3ca1ef3d199bb70e3e02ad8ff56e4af950714f3f4195507595a6585806ee0",
+      "outputSha256": "25e4aa6ad3fcba2fa2f477804005fc412c13ef52a013f0530892b27baebaa206",
+      "bytes": 11382
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/strongest-category.png",
+      "target": "ui/parent/strongest-category.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "dba07ed581f4cd4bd57c8e7c0e96b0287d1f03d2ab2eccd443995981ac963719",
+      "outputSha256": "ef2c34049c27a59996e7f798871ef6267da50b793cbf2e415265e5ddbea6f0ae",
+      "bytes": 16134
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/study-time.png",
+      "target": "ui/parent/study-time.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "f5c192b7c02720617c7ef131c1746da7116e4176fe9c5ebcd54b1263e608361f",
+      "outputSha256": "e02c078da98a3d7e86aa01b317801568955b24cac7c11f11e03b1efe7fcd7b4c",
+      "bytes": 12514
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/target.png",
+      "target": "ui/parent/target.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "6171d01804d509afbecd490b443cdc09bbde1c2845882e3aa6f8669e86663c33",
+      "outputSha256": "b882f457defb630b04b64b72365f550797204c6bb1ee8e1c561bea45089213db",
+      "bytes": 16464
+    },
+    {
+      "source": "design/phase-2-3-assets-reference/phase-3/words-learned.png",
+      "target": "ui/parent/words-learned.webp",
+      "width": 384,
+      "height": 384,
+      "sourceSha256": "5e8a34c71964162364825e8c9c777baf69a8996b3d008d0d02fc7f3b8d32b24a",
+      "outputSha256": "47af0edfbbfeb9e34615fe8da8d9dab265643a1300864a9f31808f1a2ce4d71c",
+      "bytes": 9084
+    },
+    {
+      "source": "design/subcategory-assets-reference/actions/actions.png",
+      "target": "ui/subcategories/actions/actions.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "08be11e20ba9b9e186d840d3b946c9e07d68827b44cf6958eda504d9517fb227",
+      "outputSha256": "460ae74b72d9071c70b9c4454c981feb32a39029e4a3cedf8137a077c77fbb4e",
+      "bytes": 50354
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/birds.png",
+      "target": "ui/subcategories/animals/birds.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "71d9e6d191cd88e177431f8f7f76d2965d7af76ac72eee0428bc262decb386f1",
+      "outputSha256": "bceaab1b6d129e1a36faaa33485d002b88ccadba4968264d0e9c7dbd53166a6e",
+      "bytes": 64426
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/farm_animals.png",
+      "target": "ui/subcategories/animals/farm_animals.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "1e9a96345f7e9143bf668f2a9c0abb8db62566395e74813001bd2751a44b1a1f",
+      "outputSha256": "4cdbf0224294d80d5566b5d4452bd24dabab08ba41470323d0d5349a328ed6b7",
+      "bytes": 63924
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/forest_animals.png",
+      "target": "ui/subcategories/animals/forest_animals.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "a38b2d5089b5dcbef199a003b4327411a750683b7bb20cdbcabf454488b95543",
+      "outputSha256": "8e143508fb7cd132fc9f0c16ac95e67b0636ecf1377f18f0b1a65639ff93fcc3",
+      "bytes": 54638
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/insects_small_animals.png",
+      "target": "ui/subcategories/animals/insects_small_animals.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "9351e6fff42b3066184d3c556bfeb8ec41b2ce84f034e86b239c9c1b10a3c800",
+      "outputSha256": "39d425c0278085da4c9f1f8a7e455edd43b3f5c22f1b7e9c1f5a099b287a12d3",
+      "bytes": 70796
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/pets.png",
+      "target": "ui/subcategories/animals/pets.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "0ef2a57f506c3514d541b72f8223dde7fbf3c50f52eeca60f1956949dcb485a7",
+      "outputSha256": "e6ae0e40d7c68b289a19e75ad75136afcf05f4ae58386d9a31551dec31eb4bf8",
+      "bytes": 57452
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/reptiles_amphibians.png",
+      "target": "ui/subcategories/animals/reptiles_amphibians.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "b4d7ee335eb1410781c2ae4cdb458d8e952ec7cf5efc9b368996a2c29fd06480",
+      "outputSha256": "44ff46c0d18eda431e0a96e076f0b1723938bc6c5d473e8609e1b0e08c936689",
+      "bytes": 58972
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/sea_animals.png",
+      "target": "ui/subcategories/animals/sea_animals.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "d6f479a52c4839a29c40a987137f1dd819bf0e23152c7491014cca0387f0c41b",
+      "outputSha256": "7923f669ec63377b5ef7cc82cc258c3d61199f9ae0632f5729fcb288e70cb0d2",
+      "bytes": 63218
+    },
+    {
+      "source": "design/subcategory-assets-reference/animals/wild_animals.png",
+      "target": "ui/subcategories/animals/wild_animals.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "30cde51790112a43a128b9eb42bbedd91128a994ed2385fd8649f9c9c4c71cab",
+      "outputSha256": "6b2fe69d3aef5a2c6e281ac6ca982beb5a7abb13d3ae3c2e89e8f6bbbbbee8c8",
+      "bytes": 65776
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/education_culture.png",
+      "target": "ui/subcategories/buildings/education_culture.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "abf0ff26ac079c58397bfc8f48efc31c7116a3c82c0995d2c14097f80081605e",
+      "outputSha256": "20818ca4681a14e0ebd7ac98d3294ac1573bd6302cdcb6e681839062e06e0fc1",
+      "bytes": 54594
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/homes_structures.png",
+      "target": "ui/subcategories/buildings/homes_structures.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "cb6606eb2fed01b2f2801e8638ee7964ff21bea8ea7c38415368102de3314540",
+      "outputSha256": "a81c4b6067065494defbe72236eff9f927f858d34c903ba97ee1b5b8a9085798",
+      "bytes": 60940
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/landmarks_bridges.png",
+      "target": "ui/subcategories/buildings/landmarks_bridges.webp",
+      "width": 512,
+      "height": 430,
+      "sourceSha256": "eee2826ca6bca5bdb7ceefa284ca9fe8db026eed151164659030a78f734c1c97",
+      "outputSha256": "07acc6fea2e12cbd8b4cc6be7cb1054c1081f943000e1a11520022c34dc0e8e5",
+      "bytes": 64194
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/leisure_commercial.png",
+      "target": "ui/subcategories/buildings/leisure_commercial.webp",
+      "width": 512,
+      "height": 430,
+      "sourceSha256": "f0ead46946aefe31f2986cc3fe0f1941a4c180df6dbf4310ef6f0fabc444f4d1",
+      "outputSha256": "77f254087aca01dff7579d7b3ff53cc9793c3ea79888a0801ffa248eb1cbd289",
+      "bytes": 52012
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/natural_places.png",
+      "target": "ui/subcategories/buildings/natural_places.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "e96eb9268f41c3def14657778d92f1b297f310e42f35264656980c35155a4f06",
+      "outputSha256": "440caeee8d6839f1a02971a0bb20bb90856e4a2cb89d3b7254e907db1ffcfe34",
+      "bytes": 63490
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/public_services_work.png",
+      "target": "ui/subcategories/buildings/public_services_work.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "93e672e00bfecfd8cd3f3ca2a1e52c8356771f5622f5fd4924bf3ffa8eb3f0c7",
+      "outputSha256": "aedfc7a88152e7025cabd5f9e20586f6564aa8516921a5dc5c5d1c465e933421",
+      "bytes": 54442
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/religious_buildings.png",
+      "target": "ui/subcategories/buildings/religious_buildings.webp",
+      "width": 512,
+      "height": 430,
+      "sourceSha256": "778aad099b584f358f2bd10638c91143ebbe05fca0ee548c4f946ef1b5372226",
+      "outputSha256": "50b56edd6067f100e991c57331a98cf5626a710f2fb8091acf5345a03c3e95fa",
+      "bytes": 57306
+    },
+    {
+      "source": "design/subcategory-assets-reference/buildings/transport_city.png",
+      "target": "ui/subcategories/buildings/transport_city.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "4077c6167a1c6b5bea82f3f708a91a02343af3ecca05bee3ac3fb7b3aff28400",
+      "outputSha256": "c3dfbb58170bb6386ea3fde701cb73ce35a4acc836b56fd7474931d50493cb6d",
+      "bytes": 52606
+    },
+    {
+      "source": "design/subcategory-assets-reference/clocks/full_hours.png",
+      "target": "ui/subcategories/clocks/full_hours.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "20a58d66fd1d6bbbbb27410669acde29de3c6b8c21bfa44f3b3488f3c0ebc703",
+      "outputSha256": "09026cafb7b58c11834efe9d69b72de72b5b87182b820fafb5673a0e56f1779f",
+      "bytes": 57246
+    },
+    {
+      "source": "design/subcategory-assets-reference/clocks/half_hours.png",
+      "target": "ui/subcategories/clocks/half_hours.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "b72d26c07ba7a3fec01e07b033dba9d2a68ed70b8b80b755a4134aeb277a8419",
+      "outputSha256": "0fdd44fcf94d1a09b8b880fa71e18d7b8a66400307705ece3c459657a1216ce0",
+      "bytes": 61266
+    },
+    {
+      "source": "design/subcategory-assets-reference/clocks/minutes_past.png",
+      "target": "ui/subcategories/clocks/minutes_past.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "fe9f643911a2e1fcc46c325b24fc297c7a8f58194d43cd4dbd7a05f2f2b365b1",
+      "outputSha256": "da0c4469c4bc822a76ac48d8b8d1acac972ddf02817a4ef6a7912f533111bc9b",
+      "bytes": 59192
+    },
+    {
+      "source": "design/subcategory-assets-reference/clocks/quarter_past.png",
+      "target": "ui/subcategories/clocks/quarter_past.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "f9e5b7c596b8e2aa94944390435cadb032dab3967fa68872a9bf0dd6c26f0526",
+      "outputSha256": "343324c9735a44736ec728b2b3283c97ecd9fb95126e84f3815d74a8d25188c3",
+      "bytes": 67654
+    },
+    {
+      "source": "design/subcategory-assets-reference/clocks/quarter_to.png",
+      "target": "ui/subcategories/clocks/quarter_to.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "85d603c0582d2861f1ccd386d44f47282898c7c3d96f2b6903e29ea801e2c846",
+      "outputSha256": "634f8aed0cd28009cf981420946aef96e6c0693419ec327e7f3fada793956818",
+      "bytes": 48812
+    },
+    {
+      "source": "design/subcategory-assets-reference/concepts_relationships/opposites.png",
+      "target": "ui/subcategories/concepts_relationships/opposites.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "19f16d65830e21315e91e123defa5e8fb733c615d2c3ffec14470c855c00cbce",
+      "outputSha256": "4a6ad1df8045da9d2c617e8bbd84b69fa93ec4763c63dd4b52ec36ebe8424390",
+      "bytes": 23120
+    },
+    {
+      "source": "design/subcategory-assets-reference/concepts_relationships/positions_directions.png",
+      "target": "ui/subcategories/concepts_relationships/positions_directions.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "8c7d6a05bcc74d6fecfd22ba4347f81a746e12260e3c4ebdc81ecd1e6ee5990d",
+      "outputSha256": "08fa155a5d9a3bc58a5751e97745ea73439a20550753bc7cebc074ea2b916a5a",
+      "bytes": 33990
+    },
+    {
+      "source": "design/subcategory-assets-reference/concepts_relationships/properties.png",
+      "target": "ui/subcategories/concepts_relationships/properties.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "191127d066cd12cbe514f8f5c5c0e9c71b034d3382e0c098e1cc61c5c13b64f7",
+      "outputSha256": "3c645d82e458343785e54bce4aefff3234dcccb5b99cac4c0acb17060ba41737",
+      "bytes": 45618
+    },
+    {
+      "source": "design/subcategory-assets-reference/concepts_relationships/time_sequence.png",
+      "target": "ui/subcategories/concepts_relationships/time_sequence.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "d960b65e1642f7e8d3155e3f91d1cf50bac5a9a09ee0f94a08538cc3cd98afe3",
+      "outputSha256": "05fe923e2b3f68151680ba2bef49cb662e3bc54bdc57978500ecfc71330a5cdf",
+      "bytes": 47140
+    },
+    {
+      "source": "design/subcategory-assets-reference/countries/africa.png",
+      "target": "ui/subcategories/countries/africa.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "ecfead20068dee8ce6aa06b9cc0daddfea21389ac5728e65345cd1f6b9307b95",
+      "outputSha256": "82cc4895e1ab93e988370e09ae83a62e1fa6417d2eab2fa29db878dbb8908cff",
+      "bytes": 55322
+    },
+    {
+      "source": "design/subcategory-assets-reference/countries/asia.png",
+      "target": "ui/subcategories/countries/asia.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "10aec92ccc52debca89f3f9527aed9135dc9b2421282954436d8d52eb92194e2",
+      "outputSha256": "75ccdf080abea8bfc3e6d4aaa80128a759daa22433461fee17d613c7387a3d63",
+      "bytes": 50098
+    },
+    {
+      "source": "design/subcategory-assets-reference/countries/europe.png",
+      "target": "ui/subcategories/countries/europe.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "c7d5b3e9c16e23b52122d0606ba4e7385f65c913c58117cd643fe1aeb3219483",
+      "outputSha256": "c654a43cb76e849641fdc18dd449bb39a26fbfc17d8c1a35aaba62f7adfa3dfa",
+      "bytes": 49808
+    },
+    {
+      "source": "design/subcategory-assets-reference/countries/north_america.png",
+      "target": "ui/subcategories/countries/north_america.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "635ed521222e4d9ee9a2f73472216acabf45302c08cf81e5529967395718c348",
+      "outputSha256": "cf7c11e600c4a50a297f343414b53f73459487410ed921ecf054e958ecf4b4d5",
+      "bytes": 85586
+    },
+    {
+      "source": "design/subcategory-assets-reference/countries/oceania.png",
+      "target": "ui/subcategories/countries/oceania.webp",
+      "width": 512,
+      "height": 341,
+      "sourceSha256": "ff5150d6b9bc81a68c4b7e2f98c043a1e6ff3b9aba2ec03540820bbef09280a0",
+      "outputSha256": "4800b98d731df2c22754ccefb7c31c7b41f632b1ce52a9bfd203ae0737de2cb3",
+      "bytes": 59482
+    },
+    {
+      "source": "design/subcategory-assets-reference/countries/south_america.png",
+      "target": "ui/subcategories/countries/south_america.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "04e59c81b39883e01d12374c0e0078b90985087b60b70cde09749c2d00edc2aa",
+      "outputSha256": "50e9caf2563a442bdf838692f697f996d5bbc5e3cf5c3404c6ab4ac2171c4f08",
+      "bytes": 77672
+    },
+    {
+      "source": "design/subcategory-assets-reference/daily_life_communication/actions.png",
+      "target": "ui/subcategories/daily_life_communication/actions.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "08be11e20ba9b9e186d840d3b946c9e07d68827b44cf6958eda504d9517fb227",
+      "outputSha256": "460ae74b72d9071c70b9c4454c981feb32a39029e4a3cedf8137a077c77fbb4e",
+      "bytes": 50354
+    },
+    {
+      "source": "design/subcategory-assets-reference/daily_life_communication/daily_routines.png",
+      "target": "ui/subcategories/daily_life_communication/daily_routines.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "3f429cd2aa27cdd115c8d67117d79d7b29c010f8663b5acd48eff919243ddca0",
+      "outputSha256": "283c935dd26b2d749a2f485d9a90807228ecb44210bb31b29fb4b273500d8f7c",
+      "bytes": 41950
+    },
+    {
+      "source": "design/subcategory-assets-reference/daily_life_communication/feelings.png",
+      "target": "ui/subcategories/daily_life_communication/feelings.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "80f1804e5bde8841c81cf13b07c97f2d37d40c0a3587f004bb0ce9110bde03d5",
+      "outputSha256": "6cb584286086fa3bc9347c3b119bc8d76958d25d15031d0df3622a1038841c98",
+      "bytes": 33108
+    },
+    {
+      "source": "design/subcategory-assets-reference/daily_life_communication/social_skills.png",
+      "target": "ui/subcategories/daily_life_communication/social_skills.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "77e7407902d7dddd1e968c7071501029e16dcf12e62c5d20a467705c4777c356",
+      "outputSha256": "9827a028b4675ddc515f6348d1f48e21890087ac423827059d259864fdb7b507",
+      "bytes": 31506
+    },
+    {
+      "source": "design/subcategory-assets-reference/daily_routines/daily_routines.png",
+      "target": "ui/subcategories/daily_routines/daily_routines.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "3f429cd2aa27cdd115c8d67117d79d7b29c010f8663b5acd48eff919243ddca0",
+      "outputSha256": "283c935dd26b2d749a2f485d9a90807228ecb44210bb31b29fb4b273500d8f7c",
+      "bytes": 41950
+    },
+    {
+      "source": "design/subcategory-assets-reference/farm/crops_products.png",
+      "target": "ui/subcategories/farm/crops_products.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "3d08dae3b0b6dc6ad61379ed7bad4d4143c042a134b37bba8760779d4a559476",
+      "outputSha256": "b310c5fc0c0178f28d47be08ccd8ee81e119893135cfb057642bb56ded4926ec",
+      "bytes": 42786
+    },
+    {
+      "source": "design/subcategory-assets-reference/farm/farm_animals.png",
+      "target": "ui/subcategories/farm/farm_animals.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "c1d162df0effed0e898fdb06acc48954eca59afa0a00e46f9f01fc0387bb60ec",
+      "outputSha256": "616d9cc1a630b90cf2007e01c52c75818b20178888fbab7800774379ee29c28b",
+      "bytes": 51050
+    },
+    {
+      "source": "design/subcategory-assets-reference/farm/farm_buildings_areas.png",
+      "target": "ui/subcategories/farm/farm_buildings_areas.webp",
+      "width": 512,
+      "height": 384,
+      "sourceSha256": "536266a8ce4ddb7d53693089d7eea46d93aee5bb9136ef0ef0845c49014a4aa4",
+      "outputSha256": "1b63a553daf7478aba30a5eea95ec4d52b32bb3ca261158bd309cbac6108dd00",
+      "bytes": 50714
+    },
+    {
+      "source": "design/subcategory-assets-reference/farm/farm_tools_machines.png",
+      "target": "ui/subcategories/farm/farm_tools_machines.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "d072f3af21d88960e9b65a1ceb8538a02a52b24c2c3ffac40ed83d34db059616",
+      "outputSha256": "6f854819ef14db4b57a0651d56f84c79ff2c6890055d34ec4c77443457a3fe81",
+      "bytes": 57364
+    },
+    {
+      "source": "design/subcategory-assets-reference/farm/plants_nature.png",
+      "target": "ui/subcategories/farm/plants_nature.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "d64810c17882e01bcdb0e8a3aa91d8c467d9432b986739a88fc320577be88614",
+      "outputSha256": "25380988ea96193655cf20cbb4cca28bc063a6ff7391b83c7309f492c013c04b",
+      "bytes": 45282
+    },
+    {
+      "source": "design/subcategory-assets-reference/feelings/feelings.png",
+      "target": "ui/subcategories/feelings/feelings.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "80f1804e5bde8841c81cf13b07c97f2d37d40c0a3587f004bb0ce9110bde03d5",
+      "outputSha256": "6cb584286086fa3bc9347c3b119bc8d76958d25d15031d0df3622a1038841c98",
+      "bytes": 33108
+    },
+    {
+      "source": "design/subcategory-assets-reference/flags/africa.png",
+      "target": "ui/subcategories/flags/africa.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "e9fc90f15a989facc12aed3db59267f0669e0b55f31d675f4f927da36e906e9b",
+      "outputSha256": "d28e2b22bd6a950adabbf97b065c495e49832cbf0169271183abdbfa1fe16524",
+      "bytes": 43976
+    },
+    {
+      "source": "design/subcategory-assets-reference/flags/asia.png",
+      "target": "ui/subcategories/flags/asia.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "446fef44f6bb6da3b0fd239086c6108aeea08f984d92a28c258959cc55565362",
+      "outputSha256": "2705890e6c4aab8a628b9f18f364011566bd3cfbefe2fd7a9941521fcf794442",
+      "bytes": 39162
+    },
+    {
+      "source": "design/subcategory-assets-reference/flags/europe.png",
+      "target": "ui/subcategories/flags/europe.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "89cc21adfbc2642333911e8694f6eb4ee68f5f3e8e274e5e50e7edba9fb7e2f5",
+      "outputSha256": "0ba334c08b24bf3c8507576cb0c37de6915c8b455e4d51acedd47c4d5f6a5c4e",
+      "bytes": 52440
+    },
+    {
+      "source": "design/subcategory-assets-reference/flags/north_america.png",
+      "target": "ui/subcategories/flags/north_america.webp",
+      "width": 512,
+      "height": 341,
+      "sourceSha256": "97a8e69ef17630b03ffccd2ebcaabd9709c2ca69ffc3a0f545f9340d95d36ee4",
+      "outputSha256": "8106afa73e0adbfc8c3fcc614a8efaa5d89178ea259e281a1cc50544d376134c",
+      "bytes": 37958
+    },
+    {
+      "source": "design/subcategory-assets-reference/flags/oceania.png",
+      "target": "ui/subcategories/flags/oceania.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "c11f6c5b35c1864081ed95394691cbfcaba3ab73ccf8925d7dca5a791ecd60f4",
+      "outputSha256": "8560de13fb2a1eedbe4f04ee449592df04afb9577c78176bc6d82de6ae05a455",
+      "bytes": 52618
+    },
+    {
+      "source": "design/subcategory-assets-reference/flags/south_america.png",
+      "target": "ui/subcategories/flags/south_america.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "c699b01a676657b5013c4ff81b1bcc755ba98a9bc2792f1cd71f681410d8a776",
+      "outputSha256": "eacff70161dbe2f384522a3bc8241d07cb0651d751172ddca78a48aba5f3bba4",
+      "bytes": 45016
+    },
+    {
+      "source": "design/subcategory-assets-reference/food/dairy_breakfast.png",
+      "target": "ui/subcategories/food/dairy_breakfast.webp",
+      "width": 512,
+      "height": 388,
+      "sourceSha256": "37eae23bf575ccef450d1e7bf6da144ff0f93428dc3dab385da76864a6cdbd8f",
+      "outputSha256": "a39fda7db697cf8b2e2233a49bb369e59ae63deb910e22cd1310b6fd97935cde",
+      "bytes": 31288
+    },
+    {
+      "source": "design/subcategory-assets-reference/food/drinks.png",
+      "target": "ui/subcategories/food/drinks.webp",
+      "width": 512,
+      "height": 386,
+      "sourceSha256": "34338c4240d894e1cf844e466e74836062bb9b49ab6ce7bbd0f757e3723b1375",
+      "outputSha256": "9ac903ccb78ae3c446d071181c94d19d3efdd7407e51ece0769afb057e70305b",
+      "bytes": 50688
+    },
+    {
+      "source": "design/subcategory-assets-reference/food/ingredients_basics.png",
+      "target": "ui/subcategories/food/ingredients_basics.webp",
+      "width": 512,
+      "height": 384,
+      "sourceSha256": "8ae3ddf8f53ec7b35c14e5ec09155cdc52dcc0b255f6da7513d71631f3f9b144",
+      "outputSha256": "9c203d6769f77fc464a584d2d240465251d8d233a802be174b84140586b2f593",
+      "bytes": 49436
+    },
+    {
+      "source": "design/subcategory-assets-reference/food/meals_fast_food.png",
+      "target": "ui/subcategories/food/meals_fast_food.webp",
+      "width": 512,
+      "height": 387,
+      "sourceSha256": "78ede008ce773183031b821a932bd74a6bded143afd69649446386fe1227c8a1",
+      "outputSha256": "9c4ea39be233b70bffac0f9ed16a84f356cc530ba26f9a69e9d7c02d0ce3d4bb",
+      "bytes": 39742
+    },
+    {
+      "source": "design/subcategory-assets-reference/food/spices_condiments.png",
+      "target": "ui/subcategories/food/spices_condiments.webp",
+      "width": 512,
+      "height": 387,
+      "sourceSha256": "d88421aed5272c4dc48585b19f007cd5b1a2ba9ba6a1e42f00a181889ddac2c3",
+      "outputSha256": "cb12c8b84a0245d1e1e1356a798d6c2f7ae58c8e157a2f7816020331e9a85b70",
+      "bytes": 37616
+    },
+    {
+      "source": "design/subcategory-assets-reference/food/sweets_snacks.png",
+      "target": "ui/subcategories/food/sweets_snacks.webp",
+      "width": 512,
+      "height": 387,
+      "sourceSha256": "a3f67a548a7623b3e29371a9d6984abb2cff78aace92121bc3370850b08414ed",
+      "outputSha256": "d6fd4a25ccd9697b0affdcc819ab94bc83b2c3a810256719597e690229bd7b6d",
+      "bytes": 60406
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/berries_small_fruits.png",
+      "target": "ui/subcategories/fruits_vegetables/berries_small_fruits.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "ea2baa50512c377974e287a7695bec75c77472405b43c94447d8b34ecf7829a6",
+      "outputSha256": "0bfdec109e6ce11f7b8acbdacd49696f1fc5591b9af1442d28e5b76069dfe641",
+      "bytes": 48536
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/common_fruits.png",
+      "target": "ui/subcategories/fruits_vegetables/common_fruits.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "545b33662d5bdeb400dba97a071a464c2530d81e1c8b95397b869766b8ba5a48",
+      "outputSha256": "8aaa7a858850c54ce8e86df8552c2b1ca06529cf9a6248bb0d4cfb5ccf5b01f8",
+      "bytes": 42100
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/leafy_green_vegetables.png",
+      "target": "ui/subcategories/fruits_vegetables/leafy_green_vegetables.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "5e8888e0f0203b4b6f45166b3faf5177265dc5f13f75fdb33b744cce000d8cc4",
+      "outputSha256": "c34fd522a7ad070bc5b62247dda22f32b7b779b34d5d72e39fcc389986b2763e",
+      "bytes": 50164
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/nuts_seeds.png",
+      "target": "ui/subcategories/fruits_vegetables/nuts_seeds.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "6e64815fb9bdfe04e70c2403a1c076c6e9f5a26990bc204675da606e8e3ba051",
+      "outputSha256": "7dedc1f98b4cb1191174fbfe0d984ac1031033f6f87da4d0854b719c8ed85b1e",
+      "bytes": 33746
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/other_vegetables.png",
+      "target": "ui/subcategories/fruits_vegetables/other_vegetables.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "e7eb664a040f35ac9b91febeed94a100089182992adf6752edf3e4eecff90797",
+      "outputSha256": "8fb0b03e3273da345f4ec8d5a4d73f75139a069898996a8e541f8a47e9f0b78b",
+      "bytes": 52130
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/root_bulb_vegetables.png",
+      "target": "ui/subcategories/fruits_vegetables/root_bulb_vegetables.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "2110f74e6394011b229cb2d60701d2fb576aa28ef8ed24d5fd60958794dde03c",
+      "outputSha256": "144523715371684d75936b529e9007e336380d82e9b10846c7ec9005b1184266",
+      "bytes": 39942
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/tropical_exotic_fruits.png",
+      "target": "ui/subcategories/fruits_vegetables/tropical_exotic_fruits.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "5b76d762e58257449649af595c0e5fb60a66111e3920ffc779e638b16ca2d158",
+      "outputSha256": "6396ec30542757399979e70b82d578173e75df3bc4a1d21240707abfb010f69a",
+      "bytes": 61680
+    },
+    {
+      "source": "design/subcategory-assets-reference/fruits_vegetables/wild_orchard_fruits.png",
+      "target": "ui/subcategories/fruits_vegetables/wild_orchard_fruits.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "da11be4f653a632609a25cdb6f69aa952af0b2c1eac1cdbfd5b512f6dfa1d6a4",
+      "outputSha256": "1123765da50a05df6fc99382f3c5166939378b74f703a69134b44bb40c7ca465",
+      "bytes": 50104
+    },
+    {
+      "source": "design/subcategory-assets-reference/heavy_equipment/air_vehicles.png",
+      "target": "ui/subcategories/heavy_equipment/air_vehicles.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "6a1678605e1bf3455b00a1ee8cc30441093a3240d327a1f7a47cf1ca676b454a",
+      "outputSha256": "d57528f598289aa8a5aa23b326ed1f39ca49cf3f6cda45099c0bc6830206fec0",
+      "bytes": 63154
+    },
+    {
+      "source": "design/subcategory-assets-reference/heavy_equipment/construction_machines.png",
+      "target": "ui/subcategories/heavy_equipment/construction_machines.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "10dac8dd5d9faf0dcc2363b139535cdcf1f198692f57d6e449bc7bc99dc9f628",
+      "outputSha256": "296c68700ddabcf54cc9b1ab366435369c6969d5ecb3715ae8f8474a7d5b52fc",
+      "bytes": 75872
+    },
+    {
+      "source": "design/subcategory-assets-reference/heavy_equipment/safety_equipment.png",
+      "target": "ui/subcategories/heavy_equipment/safety_equipment.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "f4437aee9f0b223fb451aaea93bc7666281210bffeb3839e933b85da94d76ef7",
+      "outputSha256": "57ccd39f8afd71b89055e4b23070be98a02bfb18c29976826f942bd78440ad6b",
+      "bytes": 64540
+    },
+    {
+      "source": "design/subcategory-assets-reference/heavy_equipment/tools_measurement.png",
+      "target": "ui/subcategories/heavy_equipment/tools_measurement.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "e28be7719e6152c2f29579ad422fda5ea2d1dc90a523cc8ca1fe98832d006134",
+      "outputSha256": "55b34675bbb54b54c9f63faf3df75f8e4d3598f54ac5eec490f248ef0990c180",
+      "bytes": 58944
+    },
+    {
+      "source": "design/subcategory-assets-reference/heavy_equipment/transport_vehicles.png",
+      "target": "ui/subcategories/heavy_equipment/transport_vehicles.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "5f5daa5c0b374be07442b12b90a60962244d75690a3f5010b40eba14ef9ce882",
+      "outputSha256": "960874f0042dd10c6cf32c5d13242f0c36f5aae2c5bef8c72ce40775e8102a61",
+      "bytes": 71046
+    },
+    {
+      "source": "design/subcategory-assets-reference/heavy_equipment/water_vehicles.png",
+      "target": "ui/subcategories/heavy_equipment/water_vehicles.webp",
+      "width": 512,
+      "height": 461,
+      "sourceSha256": "99a986fdb6c413b7a9b0ddedb7ccb2659722b4e5b9b5a0b13c082d5db750af87",
+      "outputSha256": "8505e8ddce60ed60299146cbc02201c17487ebf0d8bdb15423629324e9b6ae2b",
+      "bytes": 59328
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/accessories_jewelry.png",
+      "target": "ui/subcategories/home/accessories_jewelry.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "088dcd9474a1af1512ed09fee81bf9a83168e92b318ee09d9d05c6a4a8500449",
+      "outputSha256": "da3c021f5d1833ed367e5603aa8514e4d9a6aa9cc2c0c5e928dacb8c2da4bcbd",
+      "bytes": 41526
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/bathroom_personal_care.png",
+      "target": "ui/subcategories/home/bathroom_personal_care.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "a6bcdc22b88f10e3f1662eafbae0e21f736638a23259364dafc268fbb908ae87",
+      "outputSha256": "21173440ec2d9921fc6b59249085e802c5ed2d38b645d32bcdc65e63cb13f5c4",
+      "bytes": 46156
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/bedroom.png",
+      "target": "ui/subcategories/home/bedroom.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "a977da4199dc13f9dabe43bd536b58413f07b49f38cc1a144ac01509a4541c80",
+      "outputSha256": "05031e4831b4ab902249abdb7c1bacb9fcdabd7a53a3d7b7e77e39ffafcbb53c",
+      "bytes": 37664
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/clothes.png",
+      "target": "ui/subcategories/home/clothes.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "66d58134fa5d3744a07ee1709a65ecd1ab806667f2c52947eac155f69db8ee3b",
+      "outputSha256": "e7207913ab01f4a4f435e7ea73c8f5ea198682accef6eaddf34f0fcee8eb6eb2",
+      "bytes": 56168
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/household_items.png",
+      "target": "ui/subcategories/home/household_items.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "9f4dfe75593d4c8fa7ba3879c59aeef60af7e3b207bc7aabc312aadcf24025dc",
+      "outputSha256": "df688fb1c064e4ac832ab9df5eebfeb80f79f478a6fed160883477eba7d54def",
+      "bytes": 40202
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/kitchen.png",
+      "target": "ui/subcategories/home/kitchen.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "8ca76906d3d9a034c00f51cadf032915965dd331fc7463f89f2d390d89db3c40",
+      "outputSha256": "23c35e4b6b3fd583931431c55754c84e5ed361f6e599434c1b898f9403805ae2",
+      "bytes": 39544
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/living_room.png",
+      "target": "ui/subcategories/home/living_room.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "1e1465d13cc2166a42af7e6b51b9cec0c58b87efffa97762453556671f0da631",
+      "outputSha256": "af2fe3e9d80e6260e0bea7737e4db21117b43ff080d27976030b2cb285a84ca6",
+      "bytes": 50136
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/study_area.png",
+      "target": "ui/subcategories/home/study_area.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "5d8f03ec87753fa186cf94c3968f0c01de7604d034a1380cd9cc8b0b5ac3bb34",
+      "outputSha256": "11720c00474aa9fb338fe6ecbf31913319557724cb53dcea6f43adae84af0370",
+      "bytes": 44194
+    },
+    {
+      "source": "design/subcategory-assets-reference/home/toys_games.png",
+      "target": "ui/subcategories/home/toys_games.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "a3cf804cbaec678cd1525aecfcba089b650d4619e1af868a894aa1d4ea04e6a2",
+      "outputSha256": "4349961dbdd5c006e808d445d5e0af64abf222801c453b6b831c4265d2cd5add",
+      "bytes": 62802
+    },
+    {
+      "source": "design/subcategory-assets-reference/human_body/arms_hands.png",
+      "target": "ui/subcategories/human_body/arms_hands.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "08380109adeb8a8d069a6c63ec3d40f51f5741f10da70036053f74891b76c732",
+      "outputSha256": "437bebb1609d175719c915ad1f08d18627696f674b35c934b542fcfad56073d4",
+      "bytes": 41032
+    },
+    {
+      "source": "design/subcategory-assets-reference/human_body/body_systems.png",
+      "target": "ui/subcategories/human_body/body_systems.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "25c8f2b8b5d20d6a1a3d13babe7524d59c5f29764422ba591fbc465bbf122552",
+      "outputSha256": "fcabbe593853546ee7a42c67a2be6dfa833725e3c238f3356b7ab78132161acb",
+      "bytes": 102176
+    },
+    {
+      "source": "design/subcategory-assets-reference/human_body/head_face.png",
+      "target": "ui/subcategories/human_body/head_face.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "46d94a0333fd2bd5d1e1aa0a1b7562c2631e8e139b774852f2b1c8afdbb63183",
+      "outputSha256": "b1648f289fcda371fb8324cda23dcd27f3cefd538d75b9ae96a9cefcb58dfd5c",
+      "bytes": 51448
+    },
+    {
+      "source": "design/subcategory-assets-reference/human_body/legs_feet.png",
+      "target": "ui/subcategories/human_body/legs_feet.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "36ce89abd9974e474599b614a9247d57581134ac71f560634b91e4e75ae6d01f",
+      "outputSha256": "c0abe4e10db3f1de785dd18843bf15820c349b8f5b1a6ab243757fa180c98065",
+      "bytes": 38538
+    },
+    {
+      "source": "design/subcategory-assets-reference/human_body/organs.png",
+      "target": "ui/subcategories/human_body/organs.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "52cb6f2ef2dda2c990ff576d1969b52e0df19dbdfce04a45cfaa2dc5c8c1a8c8",
+      "outputSha256": "aff4157da38ca3e24f9fffef37ad7d9786af8dd87a169783be6d9546a6ff5339",
+      "bytes": 48754
+    },
+    {
+      "source": "design/subcategory-assets-reference/human_body/torso.png",
+      "target": "ui/subcategories/human_body/torso.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "8a9219ada2ee64e8c0c7aee9e42d95aec68081367ebabe530a217aebd9136d0c",
+      "outputSha256": "afd41faeb39acc34da89cfa3e25b8fbc9ac98f0c2f3f77211eaf443b0d7253ad",
+      "bytes": 59992
+    },
+    {
+      "source": "design/subcategory-assets-reference/musical_instruments/keyboard_instruments.png",
+      "target": "ui/subcategories/musical_instruments/keyboard_instruments.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "1922b596b5cb98af466a2393b1d08e2c29f63eb8a4e9305655439c5cf5a45679",
+      "outputSha256": "f10bfdcfc509d24c7d522530095684eb2e3c617d25050dbf3d2e0927e3b59b14",
+      "bytes": 64166
+    },
+    {
+      "source": "design/subcategory-assets-reference/musical_instruments/percussion_instruments.png",
+      "target": "ui/subcategories/musical_instruments/percussion_instruments.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "80de8646a0c6b2f597739988a446d182b84630bea73d8b4cf3281b2d1313353f",
+      "outputSha256": "6740d498e21f046b89ef390cce65a4dbb5442da1f4e65747d9551c24a9c8249b",
+      "bytes": 57702
+    },
+    {
+      "source": "design/subcategory-assets-reference/musical_instruments/string_instruments.png",
+      "target": "ui/subcategories/musical_instruments/string_instruments.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "fcf7fce1d0444bb7c50ff76d89b6345ad720b43df5d826e0d0a5c69768986e44",
+      "outputSha256": "878c11e4205bfa3d87d1aa2165c546754d15792506fcc1c8c2d475f2cfce7d6e",
+      "bytes": 65698
+    },
+    {
+      "source": "design/subcategory-assets-reference/musical_instruments/wind_instruments.png",
+      "target": "ui/subcategories/musical_instruments/wind_instruments.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "3fd320c58c275bc3ee86e1ad2c6519cc4a36d556b4a048d03621584912d90e10",
+      "outputSha256": "29fe4891f85e3f37d25766d767570f37c2d1bef12d93765ca4ede0e8d73b5858",
+      "bytes": 51828
+    },
+    {
+      "source": "design/subcategory-assets-reference/opposites/opposites.png",
+      "target": "ui/subcategories/opposites/opposites.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "19f16d65830e21315e91e123defa5e8fb733c615d2c3ffec14470c855c00cbce",
+      "outputSha256": "aeb9e688951950cf1aa236fd941281bd5e83d35ccb019a147380a8c413169ce0",
+      "bytes": 24528
+    },
+    {
+      "source": "design/subcategory-assets-reference/positions_directions/positions_directions.png",
+      "target": "ui/subcategories/positions_directions/positions_directions.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "8c7d6a05bcc74d6fecfd22ba4347f81a746e12260e3c4ebdc81ecd1e6ee5990d",
+      "outputSha256": "802af92e7fa2c0c9f7931dd94705892dada8b6c083d55f699c48a2cb0a0a2235",
+      "bytes": 34518
+    },
+    {
+      "source": "design/subcategory-assets-reference/professions/arts_entertainment_sports.png",
+      "target": "ui/subcategories/professions/arts_entertainment_sports.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "52929676556684108fec7916462cf545fac40ba9424a535008e0f9aeb5192a79",
+      "outputSha256": "a7ef407580d4a8ded1cf95123df55526accf85b0eb15ed996675c5855145fd56",
+      "bytes": 76768
+    },
+    {
+      "source": "design/subcategory-assets-reference/professions/education_law_public.png",
+      "target": "ui/subcategories/professions/education_law_public.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "02397674e146d4600077bf7f169d47044e9a0c0b0eaa0f95e24b5ae55ba137dd",
+      "outputSha256": "a7cd3e4d295a0d0f837abc98fe5ce94630796ca8a5d740894037e6e9619dd089",
+      "bytes": 67904
+    },
+    {
+      "source": "design/subcategory-assets-reference/professions/engineering_technology.png",
+      "target": "ui/subcategories/professions/engineering_technology.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "6b46d9eaeb71bce532bc7d5491751d334afe834133fa29efe0278dd9e6473e00",
+      "outputSha256": "ed56423d0de9765d1050be29cdcaa4e4f33ca2f945712a46a397fe7f92674bd1",
+      "bytes": 62674
+    },
+    {
+      "source": "design/subcategory-assets-reference/professions/health_science.png",
+      "target": "ui/subcategories/professions/health_science.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "2edb0dc85aba6fcc3541a75e511d54eda76be605ee21d65fd8d2e66c088ef6ab",
+      "outputSha256": "f897c8086f1b89c39d900c4d3d635de01e63fde5485ae1488b2b3bb5a36d7588",
+      "bytes": 67948
+    },
+    {
+      "source": "design/subcategory-assets-reference/professions/nature_transport.png",
+      "target": "ui/subcategories/professions/nature_transport.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "2d47ababe5be81a5f54e774d8e8d6cab131b5d79c81b3fbec3b5115a38365bdb",
+      "outputSha256": "82b74320fc12c60468bfe67f458235fd23772b30e63b48eca92bd90ddf8591fb",
+      "bytes": 70736
+    },
+    {
+      "source": "design/subcategory-assets-reference/professions/services_trades.png",
+      "target": "ui/subcategories/professions/services_trades.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "a4f6dd10a4adf9e51cb3c42c438eb236553cbecc338f633d8dccfbac29200c75",
+      "outputSha256": "aaf950e31c2477aead9aa6ab87e126d4edf3e41fd27bbede43f5e985fa2e39bd",
+      "bytes": 55302
+    },
+    {
+      "source": "design/subcategory-assets-reference/properties/properties.png",
+      "target": "ui/subcategories/properties/properties.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "191127d066cd12cbe514f8f5c5c0e9c71b034d3382e0c098e1cc61c5c13b64f7",
+      "outputSha256": "21ad1cd79184bbc4e8080227b308b30e03fd9d1a7a9c71e42e1a142a8f80ad2d",
+      "bytes": 47050
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/alphabet.png",
+      "target": "ui/subcategories/school/alphabet.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "a2ef43728516126cc88ce7b1eb5120f246a8ef6f91e47d09d32e440c0cf5530d",
+      "outputSha256": "fb2d2c053793d9e2ee85eb139912a2de386d54ebc97d9c9eb8eead2edfb85349",
+      "bytes": 47004
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/cardinal_numbers.png",
+      "target": "ui/subcategories/school/cardinal_numbers.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "270d1518a7813d7cf5de5e7226ddc295b90c4d692b234470cdab848899a3785f",
+      "outputSha256": "357075bbd6e32ebbac85307ecd39cd7629a1203b67e49b234c8bf6a50d186874",
+      "bytes": 46198
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/classroom_learning.png",
+      "target": "ui/subcategories/school/classroom_learning.webp",
+      "width": 512,
+      "height": 410,
+      "sourceSha256": "443a3a06ca5ce07b202185215c08585125abfe86b283f24a61b16003e875947b",
+      "outputSha256": "70f1961a44c10c273323506a1f44ae42d11f0c2535012eb833e3445613244af5",
+      "bytes": 36890
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/colors.png",
+      "target": "ui/subcategories/school/colors.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "6ba781ff75429bfb70baf89f3f5dcf7c7382284e762766538e3a0094c39453dc",
+      "outputSha256": "21300bf172e7707783cb7e7995c25dfebabc9d2e9f584ce394ae5cd2f1761cee",
+      "bytes": 40212
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/mathematics.png",
+      "target": "ui/subcategories/school/mathematics.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "35fc528a4d550cec47ee975131228e4f64d89a785f06b6ecf22bdf8b7675369e",
+      "outputSha256": "20f1e578b4d7c315e38a0d39d05be241abb8b30777b4c22d25fe71b7735d2270",
+      "bytes": 46264
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/ordinal_numbers.png",
+      "target": "ui/subcategories/school/ordinal_numbers.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "2f21fbed3362131e982c5d8b8da1db5ad95e7d62a27b60065f6b4f459014759f",
+      "outputSha256": "748e0bb390115bf7819b598162d50bbbdde4d36f40beee4b29aba9262e9659ff",
+      "bytes": 53958
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/punctuation.png",
+      "target": "ui/subcategories/school/punctuation.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "167ea4e8165fb607b0f51f0304d37b2ae8ba8f4fc9c35b135a20bf2578e289b8",
+      "outputSha256": "1d573bb7ae82a430eab714bfb84b62633dbdc5064e13f1dc4abb86276de8c78f",
+      "bytes": 38770
+    },
+    {
+      "source": "design/subcategory-assets-reference/school/shapes_geometry.png",
+      "target": "ui/subcategories/school/shapes_geometry.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "4a372727b5c7e94c756059cc6c3c99ba1888b9cd686dd9b3176928585bb0a27b",
+      "outputSha256": "26b30b81d99d116fadeddf0706e9c5ee456d5276bce80637ba9be4a42cf496a0",
+      "bytes": 22900
+    },
+    {
+      "source": "design/subcategory-assets-reference/social_skills/social_skills.png",
+      "target": "ui/subcategories/social_skills/social_skills.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "77e7407902d7dddd1e968c7071501029e16dcf12e62c5d20a467705c4777c356",
+      "outputSha256": "0e43813ad8525c9f0f9e026d18f614a8c9515941753c8e7737e9ac0e9325394d",
+      "bytes": 32012
+    },
+    {
+      "source": "design/subcategory-assets-reference/space/astronauts_equipment.png",
+      "target": "ui/subcategories/space/astronauts_equipment.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "7bab207e108e2eb143a2f04a7c756f933af711e477991f5acb190ea479c6aae9",
+      "outputSha256": "d0d500056583d43d5b0f92dd7348e08c85308cbb6e031edce09e1103fd1ec95e",
+      "bytes": 55752
+    },
+    {
+      "source": "design/subcategory-assets-reference/space/celestial_objects_space_science.png",
+      "target": "ui/subcategories/space/celestial_objects_space_science.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "7303787befe9418e65230dca233ba6cd3f60e6db15024ed8d6f29bd4e3c7331b",
+      "outputSha256": "a5dbe6da42119251e20236073260028bb687091bbbdb6257e792125f421067e3",
+      "bytes": 48678
+    },
+    {
+      "source": "design/subcategory-assets-reference/space/constellations.png",
+      "target": "ui/subcategories/space/constellations.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "9130851430fcaae0205228975ae51a775f5aac0cb43245096250618a1b86e51a",
+      "outputSha256": "39046ff588355638aeb8d37642738c311589454f74c9080c8906e0810af67299",
+      "bytes": 66172
+    },
+    {
+      "source": "design/subcategory-assets-reference/space/observation.png",
+      "target": "ui/subcategories/space/observation.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "e8759fd9db3b4b396ef00e55ec2d710b3f1151b34d1698e8559a6b686428ff90",
+      "outputSha256": "d75442d8ccab1975ed4fdbb019c39ce74162e327be97334035c17840caf3e654",
+      "bytes": 53878
+    },
+    {
+      "source": "design/subcategory-assets-reference/space/spacecraft_technology.png",
+      "target": "ui/subcategories/space/spacecraft_technology.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "acf861596480b8f485deb18155496e3b62da1982bb7996efbdfdf69f7633ec7b",
+      "outputSha256": "77618ac3b4f04702d69e96868d4866d1f448f454f073beadac9a9abe0c3d9cc5",
+      "bytes": 65598
+    },
+    {
+      "source": "design/subcategory-assets-reference/time_sequence/time_sequence.png",
+      "target": "ui/subcategories/time_sequence/time_sequence.webp",
+      "width": 512,
+      "height": 512,
+      "sourceSha256": "d960b65e1642f7e8d3155e3f91d1cf50bac5a9a09ee0f94a08538cc3cd98afe3",
+      "outputSha256": "2142ebaf90e63f840852d78e37b48f08a46061d8cf6c31f021b736b4d038e612",
+      "bytes": 48928
+    }
+  ],
+  "launcherSource": "KidsWordPlusV2/Assets.xcassets/AppIcon.appiconset/icon.png",
+  "launcherSha256": "855b539bacbed96e945808fc7bc087c4915d3a3155999a054f597ee81fbe4e02"
+}

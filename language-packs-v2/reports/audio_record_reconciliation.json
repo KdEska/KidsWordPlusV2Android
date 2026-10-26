@@ -1,0 +1,5163 @@
+{
+  "tr": {
+    "databaseRecords": 1456,
+    "activeRecords": 1453,
+    "uniqueReferencedAudioPaths": 1259,
+    "actualMp3Files": 1256,
+    "sharedReferenceSavings": 197,
+    "sharedAudioGroups": [
+      {
+        "audioPath": "audio/slide_countries_afghanistan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:241",
+            "text": "Afganistan"
+          },
+          {
+            "conceptId": "flags:591",
+            "text": "Afganistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_albania_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:242",
+            "text": "Arnavutluk"
+          },
+          {
+            "conceptId": "flags:592",
+            "text": "Arnavutluk"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_algeria_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:243",
+            "text": "Cezayir"
+          },
+          {
+            "conceptId": "flags:593",
+            "text": "Cezayir"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_andorra_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:244",
+            "text": "Andorra"
+          },
+          {
+            "conceptId": "flags:594",
+            "text": "Andorra"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_angola_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:245",
+            "text": "Angola"
+          },
+          {
+            "conceptId": "flags:595",
+            "text": "Angola"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_argentina_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:246",
+            "text": "Arjantin"
+          },
+          {
+            "conceptId": "flags:596",
+            "text": "Arjantin"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_armenia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:247",
+            "text": "Ermenistan"
+          },
+          {
+            "conceptId": "flags:597",
+            "text": "Ermenistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_australia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:248",
+            "text": "Avustralya"
+          },
+          {
+            "conceptId": "flags:598",
+            "text": "Avustralya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_austria_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:249",
+            "text": "Avusturya"
+          },
+          {
+            "conceptId": "flags:599",
+            "text": "Avusturya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_azerbaijan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:250",
+            "text": "Azerbaycan"
+          },
+          {
+            "conceptId": "flags:600",
+            "text": "Azerbaycan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bahamas_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:251",
+            "text": "Bahamalar"
+          },
+          {
+            "conceptId": "flags:601",
+            "text": "Bahamalar"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bahrain_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:252",
+            "text": "Bahreyn"
+          },
+          {
+            "conceptId": "flags:602",
+            "text": "Bahreyn"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bangladesh_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:253",
+            "text": "Bangladeş"
+          },
+          {
+            "conceptId": "flags:603",
+            "text": "Bangladeş"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_barbados_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:254",
+            "text": "Barbados"
+          },
+          {
+            "conceptId": "flags:604",
+            "text": "Barbados"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_belarus_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:255",
+            "text": "Belarus"
+          },
+          {
+            "conceptId": "flags:605",
+            "text": "Belarus"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_belgium_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:256",
+            "text": "Belçika"
+          },
+          {
+            "conceptId": "flags:606",
+            "text": "Belçika"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_belize_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:257",
+            "text": "Belize"
+          },
+          {
+            "conceptId": "flags:607",
+            "text": "Belize"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_benin_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:258",
+            "text": "Benin"
+          },
+          {
+            "conceptId": "flags:608",
+            "text": "Benin"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bhutan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:259",
+            "text": "Butan"
+          },
+          {
+            "conceptId": "flags:609",
+            "text": "Butan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bolivia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:260",
+            "text": "Bolivya"
+          },
+          {
+            "conceptId": "flags:610",
+            "text": "Bolivya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_botswana_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:261",
+            "text": "Botsvana"
+          },
+          {
+            "conceptId": "flags:611",
+            "text": "Botsvana"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_brazil_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:262",
+            "text": "Brezilya"
+          },
+          {
+            "conceptId": "flags:612",
+            "text": "Brezilya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_brunei_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:263",
+            "text": "Brunei"
+          },
+          {
+            "conceptId": "flags:613",
+            "text": "Brunei"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bulgaria_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:264",
+            "text": "Bulgaristan"
+          },
+          {
+            "conceptId": "flags:614",
+            "text": "Bulgaristan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_burundi_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:265",
+            "text": "Burundi"
+          },
+          {
+            "conceptId": "flags:615",
+            "text": "Burundi"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cambodia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:266",
+            "text": "Kamboçya"
+          },
+          {
+            "conceptId": "flags:616",
+            "text": "Kamboçya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cameroon_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:267",
+            "text": "Kamerun"
+          },
+          {
+            "conceptId": "flags:617",
+            "text": "Kamerun"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_canada_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:268",
+            "text": "Kanada"
+          },
+          {
+            "conceptId": "flags:618",
+            "text": "Kanada"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_chad_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:269",
+            "text": "Çad"
+          },
+          {
+            "conceptId": "flags:619",
+            "text": "Çad"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_chile_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:270",
+            "text": "Şili"
+          },
+          {
+            "conceptId": "flags:620",
+            "text": "Şili"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_china_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:271",
+            "text": "Çin"
+          },
+          {
+            "conceptId": "flags:621",
+            "text": "Çin"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_colombia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:272",
+            "text": "Kolombiya"
+          },
+          {
+            "conceptId": "flags:622",
+            "text": "Kolombiya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_comoros_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:273",
+            "text": "Komorlar"
+          },
+          {
+            "conceptId": "flags:623",
+            "text": "Komorlar"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_croatia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:274",
+            "text": "Hırvatistan"
+          },
+          {
+            "conceptId": "flags:624",
+            "text": "Hırvatistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cuba_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:275",
+            "text": "Küba"
+          },
+          {
+            "conceptId": "flags:625",
+            "text": "Küba"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cyprus_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:276",
+            "text": "Kıbrıs"
+          },
+          {
+            "conceptId": "flags:626",
+            "text": "Kıbrıs"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_denmark_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:277",
+            "text": "Danimarka"
+          },
+          {
+            "conceptId": "flags:627",
+            "text": "Danimarka"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_djibouti_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:278",
+            "text": "Cibuti"
+          },
+          {
+            "conceptId": "flags:628",
+            "text": "Cibuti"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_dominica_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:279",
+            "text": "Dominika"
+          },
+          {
+            "conceptId": "flags:629",
+            "text": "Dominika"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ecuador_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:280",
+            "text": "Ekvador"
+          },
+          {
+            "conceptId": "flags:630",
+            "text": "Ekvador"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_egypt_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:281",
+            "text": "Mısır"
+          },
+          {
+            "conceptId": "flags:631",
+            "text": "Mısır"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_estonia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:282",
+            "text": "Estonya"
+          },
+          {
+            "conceptId": "flags:632",
+            "text": "Estonya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_eswatini_swaziland_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:283",
+            "text": "Esvatini"
+          },
+          {
+            "conceptId": "flags:633",
+            "text": "Esvatini"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ethiopia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:284",
+            "text": "Etiyopya"
+          },
+          {
+            "conceptId": "flags:634",
+            "text": "Etiyopya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_fiji_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:285",
+            "text": "Fiji"
+          },
+          {
+            "conceptId": "flags:635",
+            "text": "Fiji"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_finland_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:286",
+            "text": "Finlandiya"
+          },
+          {
+            "conceptId": "flags:636",
+            "text": "Finlandiya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_france_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:287",
+            "text": "Fransa"
+          },
+          {
+            "conceptId": "flags:637",
+            "text": "Fransa"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_gabon_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:288",
+            "text": "Gabon"
+          },
+          {
+            "conceptId": "flags:638",
+            "text": "Gabon"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_gambia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:289",
+            "text": "Gambiya"
+          },
+          {
+            "conceptId": "flags:639",
+            "text": "Gambiya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_georgia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:290",
+            "text": "Gürcistan"
+          },
+          {
+            "conceptId": "flags:640",
+            "text": "Gürcistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_germany_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:291",
+            "text": "Almanya"
+          },
+          {
+            "conceptId": "flags:641",
+            "text": "Almanya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ghana_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:292",
+            "text": "Gana"
+          },
+          {
+            "conceptId": "flags:642",
+            "text": "Gana"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_greece_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:293",
+            "text": "Yunanistan"
+          },
+          {
+            "conceptId": "flags:643",
+            "text": "Yunanistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_grenada_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:294",
+            "text": "Grenada"
+          },
+          {
+            "conceptId": "flags:644",
+            "text": "Grenada"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guatemala_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:295",
+            "text": "Guatemala"
+          },
+          {
+            "conceptId": "flags:645",
+            "text": "Guatemala"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guinea_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:296",
+            "text": "Gine"
+          },
+          {
+            "conceptId": "flags:646",
+            "text": "Gine"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guyana_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:297",
+            "text": "Guyana"
+          },
+          {
+            "conceptId": "flags:647",
+            "text": "Guyana"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_haiti_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:298",
+            "text": "Haiti"
+          },
+          {
+            "conceptId": "flags:648",
+            "text": "Haiti"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_honduras_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:299",
+            "text": "Honduras"
+          },
+          {
+            "conceptId": "flags:649",
+            "text": "Honduras"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_hungary_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:300",
+            "text": "Macaristan"
+          },
+          {
+            "conceptId": "flags:650",
+            "text": "Macaristan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_iceland_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:301",
+            "text": "İzlanda"
+          },
+          {
+            "conceptId": "flags:651",
+            "text": "İzlanda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_india_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:302",
+            "text": "Hindistan"
+          },
+          {
+            "conceptId": "flags:652",
+            "text": "Hindistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_indonesia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:303",
+            "text": "Endonezya"
+          },
+          {
+            "conceptId": "flags:653",
+            "text": "Endonezya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_iran_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:304",
+            "text": "İran"
+          },
+          {
+            "conceptId": "flags:654",
+            "text": "İran"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_iraq_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:305",
+            "text": "Irak"
+          },
+          {
+            "conceptId": "flags:655",
+            "text": "Irak"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ireland_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:306",
+            "text": "İrlanda"
+          },
+          {
+            "conceptId": "flags:656",
+            "text": "İrlanda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_israel_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:307",
+            "text": "İsrail"
+          },
+          {
+            "conceptId": "flags:657",
+            "text": "İsrail"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_italy_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:308",
+            "text": "İtalya"
+          },
+          {
+            "conceptId": "flags:658",
+            "text": "İtalya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_jamaica_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:309",
+            "text": "Jamaika"
+          },
+          {
+            "conceptId": "flags:659",
+            "text": "Jamaika"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_japan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:310",
+            "text": "Japonya"
+          },
+          {
+            "conceptId": "flags:660",
+            "text": "Japonya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_jordan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:311",
+            "text": "Ürdün"
+          },
+          {
+            "conceptId": "flags:661",
+            "text": "Ürdün"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kazakhstan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:312",
+            "text": "Kazakistan"
+          },
+          {
+            "conceptId": "flags:662",
+            "text": "Kazakistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kenya_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:313",
+            "text": "Kenya"
+          },
+          {
+            "conceptId": "flags:663",
+            "text": "Kenya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kiribati_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:314",
+            "text": "Kiribati"
+          },
+          {
+            "conceptId": "flags:664",
+            "text": "Kiribati"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kosovo_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:315",
+            "text": "Kosova"
+          },
+          {
+            "conceptId": "flags:665",
+            "text": "Kosova"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kuwait_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:316",
+            "text": "Kuveyt"
+          },
+          {
+            "conceptId": "flags:666",
+            "text": "Kuveyt"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kyrgyzstan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:317",
+            "text": "Kırgızistan"
+          },
+          {
+            "conceptId": "flags:667",
+            "text": "Kırgızistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_laos_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:318",
+            "text": "Laos"
+          },
+          {
+            "conceptId": "flags:668",
+            "text": "Laos"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_latvia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:319",
+            "text": "Letonya"
+          },
+          {
+            "conceptId": "flags:669",
+            "text": "Letonya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_lebanon_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:320",
+            "text": "Lübnan"
+          },
+          {
+            "conceptId": "flags:670",
+            "text": "Lübnan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_lesotho_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:321",
+            "text": "Lesotho"
+          },
+          {
+            "conceptId": "flags:671",
+            "text": "Lesotho"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_liberia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:322",
+            "text": "Liberya"
+          },
+          {
+            "conceptId": "flags:672",
+            "text": "Liberya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_libya_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:323",
+            "text": "Libya"
+          },
+          {
+            "conceptId": "flags:673",
+            "text": "Libya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_lithuania_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:324",
+            "text": "Litvanya"
+          },
+          {
+            "conceptId": "flags:674",
+            "text": "Litvanya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_luxembourg_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:325",
+            "text": "Lüksemburg"
+          },
+          {
+            "conceptId": "flags:675",
+            "text": "Lüksemburg"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_macedonia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:326",
+            "text": "Kuzey Makedonya"
+          },
+          {
+            "conceptId": "flags:676",
+            "text": "Kuzey Makedonya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_madagascar_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:327",
+            "text": "Madagaskar"
+          },
+          {
+            "conceptId": "flags:677",
+            "text": "Madagaskar"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_malawi_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:328",
+            "text": "Malavi"
+          },
+          {
+            "conceptId": "flags:678",
+            "text": "Malavi"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_malaysia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:329",
+            "text": "Malezya"
+          },
+          {
+            "conceptId": "flags:679",
+            "text": "Malezya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_maldives_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:330",
+            "text": "Maldivler"
+          },
+          {
+            "conceptId": "flags:680",
+            "text": "Maldivler"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mali_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:331",
+            "text": "Mali"
+          },
+          {
+            "conceptId": "flags:681",
+            "text": "Mali"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_malta_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:332",
+            "text": "Malta"
+          },
+          {
+            "conceptId": "flags:682",
+            "text": "Malta"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mauritania_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:333",
+            "text": "Moritanya"
+          },
+          {
+            "conceptId": "flags:683",
+            "text": "Moritanya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mauritius_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:334",
+            "text": "Mauritius"
+          },
+          {
+            "conceptId": "flags:684",
+            "text": "Mauritius"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mexico_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:335",
+            "text": "Meksika"
+          },
+          {
+            "conceptId": "flags:685",
+            "text": "Meksika"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_micronesia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:336",
+            "text": "Mikronezya"
+          },
+          {
+            "conceptId": "flags:686",
+            "text": "Mikronezya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_moldova_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:337",
+            "text": "Moldova"
+          },
+          {
+            "conceptId": "flags:687",
+            "text": "Moldova"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_monaco_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:338",
+            "text": "Monako"
+          },
+          {
+            "conceptId": "flags:688",
+            "text": "Monako"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mongolia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:339",
+            "text": "Moğolistan"
+          },
+          {
+            "conceptId": "flags:689",
+            "text": "Moğolistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_montenegro_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:340",
+            "text": "Karadağ"
+          },
+          {
+            "conceptId": "flags:690",
+            "text": "Karadağ"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_morocco_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:341",
+            "text": "Fas"
+          },
+          {
+            "conceptId": "flags:691",
+            "text": "Fas"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mozambique_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:342",
+            "text": "Mozambik"
+          },
+          {
+            "conceptId": "flags:692",
+            "text": "Mozambik"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_myanmar_burma_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:343",
+            "text": "Myanmar (Burma)"
+          },
+          {
+            "conceptId": "flags:693",
+            "text": "Myanmar (Burma)"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_namibia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:344",
+            "text": "Namibya"
+          },
+          {
+            "conceptId": "flags:694",
+            "text": "Namibya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nauru_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:345",
+            "text": "Nauru"
+          },
+          {
+            "conceptId": "flags:695",
+            "text": "Nauru"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nepal_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:346",
+            "text": "Nepal"
+          },
+          {
+            "conceptId": "flags:696",
+            "text": "Nepal"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_netherlands_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:347",
+            "text": "Hollanda"
+          },
+          {
+            "conceptId": "flags:697",
+            "text": "Hollanda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_new_zealand_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:348",
+            "text": "Yeni Zelanda"
+          },
+          {
+            "conceptId": "flags:698",
+            "text": "Yeni Zelanda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nicaragua_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:349",
+            "text": "Nikaragua"
+          },
+          {
+            "conceptId": "flags:699",
+            "text": "Nikaragua"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_niger_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:350",
+            "text": "Nijer"
+          },
+          {
+            "conceptId": "flags:700",
+            "text": "Nijer"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nigeria_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:351",
+            "text": "Nijerya"
+          },
+          {
+            "conceptId": "flags:701",
+            "text": "Nijerya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_norway_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:352",
+            "text": "Norveç"
+          },
+          {
+            "conceptId": "flags:702",
+            "text": "Norveç"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_oman_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:353",
+            "text": "Umman"
+          },
+          {
+            "conceptId": "flags:703",
+            "text": "Umman"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_pakistan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:354",
+            "text": "Pakistan"
+          },
+          {
+            "conceptId": "flags:704",
+            "text": "Pakistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_palau_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:355",
+            "text": "Palau"
+          },
+          {
+            "conceptId": "flags:705",
+            "text": "Palau"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_palestine_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:356",
+            "text": "Filistin Bölgeleri"
+          },
+          {
+            "conceptId": "flags:706",
+            "text": "Filistin Bölgeleri"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_panama_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:357",
+            "text": "Panama"
+          },
+          {
+            "conceptId": "flags:707",
+            "text": "Panama"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_paraguay_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:358",
+            "text": "Paraguay"
+          },
+          {
+            "conceptId": "flags:708",
+            "text": "Paraguay"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_peru_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:359",
+            "text": "Peru"
+          },
+          {
+            "conceptId": "flags:709",
+            "text": "Peru"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_philippines_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:360",
+            "text": "Filipinler"
+          },
+          {
+            "conceptId": "flags:710",
+            "text": "Filipinler"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_poland_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:361",
+            "text": "Polonya"
+          },
+          {
+            "conceptId": "flags:711",
+            "text": "Polonya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_portugal_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:362",
+            "text": "Portekiz"
+          },
+          {
+            "conceptId": "flags:712",
+            "text": "Portekiz"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_qatar_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:363",
+            "text": "Katar"
+          },
+          {
+            "conceptId": "flags:713",
+            "text": "Katar"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_romania_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:364",
+            "text": "Romanya"
+          },
+          {
+            "conceptId": "flags:714",
+            "text": "Romanya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_russia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:365",
+            "text": "Rusya"
+          },
+          {
+            "conceptId": "flags:715",
+            "text": "Rusya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_rwanda_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:366",
+            "text": "Ruanda"
+          },
+          {
+            "conceptId": "flags:716",
+            "text": "Ruanda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_samoa_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:367",
+            "text": "Samoa"
+          },
+          {
+            "conceptId": "flags:717",
+            "text": "Samoa"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_senegal_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:368",
+            "text": "Senegal"
+          },
+          {
+            "conceptId": "flags:718",
+            "text": "Senegal"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_serbia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:369",
+            "text": "Sırbistan"
+          },
+          {
+            "conceptId": "flags:719",
+            "text": "Sırbistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_seychelles_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:370",
+            "text": "Seyşeller"
+          },
+          {
+            "conceptId": "flags:720",
+            "text": "Seyşeller"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_singapore_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:371",
+            "text": "Singapur"
+          },
+          {
+            "conceptId": "flags:721",
+            "text": "Singapur"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_slovakia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:372",
+            "text": "Slovakya"
+          },
+          {
+            "conceptId": "flags:722",
+            "text": "Slovakya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_slovenia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:373",
+            "text": "Slovenya"
+          },
+          {
+            "conceptId": "flags:723",
+            "text": "Slovenya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_somalia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:374",
+            "text": "Somali"
+          },
+          {
+            "conceptId": "flags:724",
+            "text": "Somali"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_south_korea_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:375",
+            "text": "Güney Kore"
+          },
+          {
+            "conceptId": "flags:725",
+            "text": "Güney Kore"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_spain_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:376",
+            "text": "İspanya"
+          },
+          {
+            "conceptId": "flags:726",
+            "text": "İspanya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sudan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:377",
+            "text": "Sudan"
+          },
+          {
+            "conceptId": "flags:727",
+            "text": "Sudan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_suriname_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:378",
+            "text": "Surinam"
+          },
+          {
+            "conceptId": "flags:728",
+            "text": "Surinam"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sweden_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:379",
+            "text": "İsveç"
+          },
+          {
+            "conceptId": "flags:729",
+            "text": "İsveç"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_switzerland_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:380",
+            "text": "İsviçre"
+          },
+          {
+            "conceptId": "flags:730",
+            "text": "İsviçre"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_syria_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:381",
+            "text": "Suriye"
+          },
+          {
+            "conceptId": "flags:731",
+            "text": "Suriye"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_taiwan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:382",
+            "text": "Tayvan"
+          },
+          {
+            "conceptId": "flags:732",
+            "text": "Tayvan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tajikistan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:383",
+            "text": "Tacikistan"
+          },
+          {
+            "conceptId": "flags:733",
+            "text": "Tacikistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tanzania_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:384",
+            "text": "Tanzanya"
+          },
+          {
+            "conceptId": "flags:734",
+            "text": "Tanzanya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_thailand_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:385",
+            "text": "Tayland"
+          },
+          {
+            "conceptId": "flags:735",
+            "text": "Tayland"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_togo_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:386",
+            "text": "Togo"
+          },
+          {
+            "conceptId": "flags:736",
+            "text": "Togo"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tonga_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:387",
+            "text": "Tonga"
+          },
+          {
+            "conceptId": "flags:737",
+            "text": "Tonga"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tunisia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:388",
+            "text": "Tunus"
+          },
+          {
+            "conceptId": "flags:738",
+            "text": "Tunus"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_turkey_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:389",
+            "text": "Türkiye"
+          },
+          {
+            "conceptId": "flags:739",
+            "text": "Türkiye"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tuvalu_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:390",
+            "text": "Tuvalu"
+          },
+          {
+            "conceptId": "flags:740",
+            "text": "Tuvalu"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_uganda_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:391",
+            "text": "Uganda"
+          },
+          {
+            "conceptId": "flags:741",
+            "text": "Uganda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ukraine_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:392",
+            "text": "Ukrayna"
+          },
+          {
+            "conceptId": "flags:742",
+            "text": "Ukrayna"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_united_kingdom_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:393",
+            "text": "Birleşik Krallık"
+          },
+          {
+            "conceptId": "flags:743",
+            "text": "Birleşik Krallık"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_united_states_of_america_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:394",
+            "text": "Amerika Birleşik Devletleri"
+          },
+          {
+            "conceptId": "flags:744",
+            "text": "Amerika Birleşik Devletleri"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_uruguay_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:395",
+            "text": "Uruguay"
+          },
+          {
+            "conceptId": "flags:745",
+            "text": "Uruguay"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_uzbekistan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:396",
+            "text": "Özbekistan"
+          },
+          {
+            "conceptId": "flags:746",
+            "text": "Özbekistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_vanuatu_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:397",
+            "text": "Vanuatu"
+          },
+          {
+            "conceptId": "flags:747",
+            "text": "Vanuatu"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_venezuela_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:398",
+            "text": "Venezuela"
+          },
+          {
+            "conceptId": "flags:748",
+            "text": "Venezuela"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_vietnam_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:399",
+            "text": "Vietnam"
+          },
+          {
+            "conceptId": "flags:749",
+            "text": "Vietnam"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_yemen_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:400",
+            "text": "Yemen"
+          },
+          {
+            "conceptId": "flags:750",
+            "text": "Yemen"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_zambia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:401",
+            "text": "Zambiya"
+          },
+          {
+            "conceptId": "flags:751",
+            "text": "Zambiya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_zimbabwe_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:402",
+            "text": "Zimbabve"
+          },
+          {
+            "conceptId": "flags:752",
+            "text": "Zimbabve"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_liechtenstein_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:407",
+            "text": "Liechtenstein"
+          },
+          {
+            "conceptId": "flags:757",
+            "text": "Liechtenstein"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_turkmenistan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:408",
+            "text": "Türkmenistan"
+          },
+          {
+            "conceptId": "flags:758",
+            "text": "Türkmenistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_antigua_and_barbuda_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:409",
+            "text": "Antigua ve Barbuda"
+          },
+          {
+            "conceptId": "flags:759",
+            "text": "Antigua ve Barbuda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bosnia_and_herzegovina_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:410",
+            "text": "Bosna-Hersek"
+          },
+          {
+            "conceptId": "flags:760",
+            "text": "Bosna-Hersek"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_burkina_faso_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:411",
+            "text": "Burkina Faso"
+          },
+          {
+            "conceptId": "flags:761",
+            "text": "Burkina Faso"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cabo_verde_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:412",
+            "text": "Cape Verde"
+          },
+          {
+            "conceptId": "flags:762",
+            "text": "Cape Verde"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_central_african_republic_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:413",
+            "text": "Orta Afrika Cumhuriyeti"
+          },
+          {
+            "conceptId": "flags:763",
+            "text": "Orta Afrika Cumhuriyeti"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_costa_rica_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:414",
+            "text": "Kosta Rika"
+          },
+          {
+            "conceptId": "flags:764",
+            "text": "Kosta Rika"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cote_divoire_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:415",
+            "text": "Côte d’Ivoire"
+          },
+          {
+            "conceptId": "flags:765",
+            "text": "Côte d’Ivoire"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_czech_republic_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:416",
+            "text": "Çekya"
+          },
+          {
+            "conceptId": "flags:766",
+            "text": "Çekya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_democratic_republic_of_the_congo_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:417",
+            "text": "Kongo - Kinşasa"
+          },
+          {
+            "conceptId": "flags:767",
+            "text": "Kongo - Kinşasa"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_dominican_republic_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:418",
+            "text": "Dominik Cumhuriyeti"
+          },
+          {
+            "conceptId": "flags:768",
+            "text": "Dominik Cumhuriyeti"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_el_salvador_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:419",
+            "text": "El Salvador"
+          },
+          {
+            "conceptId": "flags:769",
+            "text": "El Salvador"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_equatorial_guinea_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:420",
+            "text": "Ekvator Ginesi"
+          },
+          {
+            "conceptId": "flags:770",
+            "text": "Ekvator Ginesi"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guinea_bissau_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:421",
+            "text": "Gine-Bissau"
+          },
+          {
+            "conceptId": "flags:771",
+            "text": "Gine-Bissau"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_marshall_islands_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:422",
+            "text": "Marshall Adaları"
+          },
+          {
+            "conceptId": "flags:772",
+            "text": "Marshall Adaları"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_north_korea_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:423",
+            "text": "Kuzey Kore"
+          },
+          {
+            "conceptId": "flags:773",
+            "text": "Kuzey Kore"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_papua_new_guinea_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:424",
+            "text": "Papua Yeni Gine"
+          },
+          {
+            "conceptId": "flags:774",
+            "text": "Papua Yeni Gine"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_republic_of_the_congo_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:425",
+            "text": "Kongo - Brazavil"
+          },
+          {
+            "conceptId": "flags:775",
+            "text": "Kongo - Brazavil"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saint_kitts_and_nevis_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:426",
+            "text": "Saint Kitts ve Nevis"
+          },
+          {
+            "conceptId": "flags:776",
+            "text": "Saint Kitts ve Nevis"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saint_lucia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:427",
+            "text": "Saint Lucia"
+          },
+          {
+            "conceptId": "flags:777",
+            "text": "Saint Lucia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saint_vincent_and_the_grenadines_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:428",
+            "text": "Saint Vincent ve Grenadinler"
+          },
+          {
+            "conceptId": "flags:778",
+            "text": "Saint Vincent ve Grenadinler"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_san_marino_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:429",
+            "text": "San Marino"
+          },
+          {
+            "conceptId": "flags:779",
+            "text": "San Marino"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sao_tome_and_principe_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:430",
+            "text": "Sao Tome ve Principe"
+          },
+          {
+            "conceptId": "flags:780",
+            "text": "Sao Tome ve Principe"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saudi_arabia_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:431",
+            "text": "Suudi Arabistan"
+          },
+          {
+            "conceptId": "flags:781",
+            "text": "Suudi Arabistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sierra_leone_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:432",
+            "text": "Sierra Leone"
+          },
+          {
+            "conceptId": "flags:782",
+            "text": "Sierra Leone"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_solomon_islands_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:433",
+            "text": "Solomon Adaları"
+          },
+          {
+            "conceptId": "flags:783",
+            "text": "Solomon Adaları"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_south_africa_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:434",
+            "text": "Güney Afrika"
+          },
+          {
+            "conceptId": "flags:784",
+            "text": "Güney Afrika"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_south_sudan_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:435",
+            "text": "Güney Sudan"
+          },
+          {
+            "conceptId": "flags:785",
+            "text": "Güney Sudan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sri_lanka_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:436",
+            "text": "Sri Lanka"
+          },
+          {
+            "conceptId": "flags:786",
+            "text": "Sri Lanka"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_timor_leste_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:437",
+            "text": "Timor-Leste"
+          },
+          {
+            "conceptId": "flags:787",
+            "text": "Timor-Leste"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_trinidad_and_tobago_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:438",
+            "text": "Trinidad ve Tobago"
+          },
+          {
+            "conceptId": "flags:788",
+            "text": "Trinidad ve Tobago"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_united_arab_emirates_tr.mp3",
+        "records": [
+          {
+            "conceptId": "countries:439",
+            "text": "Birleşik Arap Emirlikleri"
+          },
+          {
+            "conceptId": "flags:789",
+            "text": "Birleşik Arap Emirlikleri"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_my_home_chair_tr.mp3",
+        "records": [
+          {
+            "conceptId": "home:1118",
+            "text": "Sandalye"
+          },
+          {
+            "conceptId": "home:1119",
+            "text": "Sandalye"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_my_home_shoe_tr.mp3",
+        "records": [
+          {
+            "conceptId": "home:1194",
+            "text": "Ayakkabı"
+          },
+          {
+            "conceptId": "home:1195",
+            "text": "Ayakkabı"
+          }
+        ]
+      }
+    ],
+    "missingReferences": [
+      {
+        "conceptId": "school:1342",
+        "text": "Q",
+        "active": false,
+        "audioPath": "audio/slide_my_school_alphabets_q_tr.mp3"
+      },
+      {
+        "conceptId": "school:1380",
+        "text": "W",
+        "active": false,
+        "audioPath": "audio/slide_my_school_alphabets_w_tr.mp3"
+      },
+      {
+        "conceptId": "school:1382",
+        "text": "X",
+        "active": false,
+        "audioPath": "audio/slide_my_school_alphabets_x_tr.mp3"
+      }
+    ]
+  },
+  "en": {
+    "databaseRecords": 1450,
+    "activeRecords": 1450,
+    "uniqueReferencedAudioPaths": 1253,
+    "actualMp3Files": 1253,
+    "sharedReferenceSavings": 197,
+    "sharedAudioGroups": [
+      {
+        "audioPath": "audio/slide_countries_afghanistan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:241",
+            "text": "Afghanistan"
+          },
+          {
+            "conceptId": "flags:591",
+            "text": "Afghanistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_albania_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:242",
+            "text": "Albania"
+          },
+          {
+            "conceptId": "flags:592",
+            "text": "Albania"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_algeria_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:243",
+            "text": "Algeria"
+          },
+          {
+            "conceptId": "flags:593",
+            "text": "Algeria"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_andorra_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:244",
+            "text": "Andorra"
+          },
+          {
+            "conceptId": "flags:594",
+            "text": "Andorra"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_angola_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:245",
+            "text": "Angola"
+          },
+          {
+            "conceptId": "flags:595",
+            "text": "Angola"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_argentina_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:246",
+            "text": "Argentina"
+          },
+          {
+            "conceptId": "flags:596",
+            "text": "Argentina"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_armenia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:247",
+            "text": "Armenia"
+          },
+          {
+            "conceptId": "flags:597",
+            "text": "Armenia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_australia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:248",
+            "text": "Australia"
+          },
+          {
+            "conceptId": "flags:598",
+            "text": "Australia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_austria_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:249",
+            "text": "Austria"
+          },
+          {
+            "conceptId": "flags:599",
+            "text": "Austria"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_azerbaijan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:250",
+            "text": "Azerbaijan"
+          },
+          {
+            "conceptId": "flags:600",
+            "text": "Azerbaijan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bahamas_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:251",
+            "text": "Bahamas"
+          },
+          {
+            "conceptId": "flags:601",
+            "text": "Bahamas"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bahrain_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:252",
+            "text": "Bahrain"
+          },
+          {
+            "conceptId": "flags:602",
+            "text": "Bahrain"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bangladesh_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:253",
+            "text": "Bangladesh"
+          },
+          {
+            "conceptId": "flags:603",
+            "text": "Bangladesh"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_barbados_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:254",
+            "text": "Barbados"
+          },
+          {
+            "conceptId": "flags:604",
+            "text": "Barbados"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_belarus_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:255",
+            "text": "Belarus"
+          },
+          {
+            "conceptId": "flags:605",
+            "text": "Belarus"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_belgium_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:256",
+            "text": "Belgium"
+          },
+          {
+            "conceptId": "flags:606",
+            "text": "Belgium"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_belize_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:257",
+            "text": "Belize"
+          },
+          {
+            "conceptId": "flags:607",
+            "text": "Belize"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_benin_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:258",
+            "text": "Benin"
+          },
+          {
+            "conceptId": "flags:608",
+            "text": "Benin"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bhutan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:259",
+            "text": "Bhutan"
+          },
+          {
+            "conceptId": "flags:609",
+            "text": "Bhutan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bolivia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:260",
+            "text": "Bolivia"
+          },
+          {
+            "conceptId": "flags:610",
+            "text": "Bolivia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_botswana_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:261",
+            "text": "Botswana"
+          },
+          {
+            "conceptId": "flags:611",
+            "text": "Botswana"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_brazil_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:262",
+            "text": "Brazil"
+          },
+          {
+            "conceptId": "flags:612",
+            "text": "Brazil"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_brunei_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:263",
+            "text": "Brunei"
+          },
+          {
+            "conceptId": "flags:613",
+            "text": "Brunei"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bulgaria_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:264",
+            "text": "Bulgaria"
+          },
+          {
+            "conceptId": "flags:614",
+            "text": "Bulgaria"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_burundi_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:265",
+            "text": "Burundi"
+          },
+          {
+            "conceptId": "flags:615",
+            "text": "Burundi"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cambodia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:266",
+            "text": "Cambodia"
+          },
+          {
+            "conceptId": "flags:616",
+            "text": "Cambodia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cameroon_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:267",
+            "text": "Cameroon"
+          },
+          {
+            "conceptId": "flags:617",
+            "text": "Cameroon"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_canada_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:268",
+            "text": "Canada"
+          },
+          {
+            "conceptId": "flags:618",
+            "text": "Canada"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_chad_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:269",
+            "text": "Chad"
+          },
+          {
+            "conceptId": "flags:619",
+            "text": "Chad"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_chile_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:270",
+            "text": "Chile"
+          },
+          {
+            "conceptId": "flags:620",
+            "text": "Chile"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_china_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:271",
+            "text": "China"
+          },
+          {
+            "conceptId": "flags:621",
+            "text": "China"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_colombia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:272",
+            "text": "Colombia"
+          },
+          {
+            "conceptId": "flags:622",
+            "text": "Colombia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_comoros_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:273",
+            "text": "Comoros"
+          },
+          {
+            "conceptId": "flags:623",
+            "text": "Comoros"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_croatia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:274",
+            "text": "Croatia"
+          },
+          {
+            "conceptId": "flags:624",
+            "text": "Croatia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cuba_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:275",
+            "text": "Cuba"
+          },
+          {
+            "conceptId": "flags:625",
+            "text": "Cuba"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cyprus_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:276",
+            "text": "Cyprus"
+          },
+          {
+            "conceptId": "flags:626",
+            "text": "Cyprus"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_denmark_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:277",
+            "text": "Denmark"
+          },
+          {
+            "conceptId": "flags:627",
+            "text": "Denmark"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_djibouti_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:278",
+            "text": "Djibouti"
+          },
+          {
+            "conceptId": "flags:628",
+            "text": "Djibouti"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_dominica_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:279",
+            "text": "Dominica"
+          },
+          {
+            "conceptId": "flags:629",
+            "text": "Dominica"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ecuador_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:280",
+            "text": "Ecuador"
+          },
+          {
+            "conceptId": "flags:630",
+            "text": "Ecuador"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_egypt_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:281",
+            "text": "Egypt"
+          },
+          {
+            "conceptId": "flags:631",
+            "text": "Egypt"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_estonia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:282",
+            "text": "Estonia"
+          },
+          {
+            "conceptId": "flags:632",
+            "text": "Estonia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_eswatini_swaziland_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:283",
+            "text": "Eswatini"
+          },
+          {
+            "conceptId": "flags:633",
+            "text": "Eswatini"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ethiopia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:284",
+            "text": "Ethiopia"
+          },
+          {
+            "conceptId": "flags:634",
+            "text": "Ethiopia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_fiji_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:285",
+            "text": "Fiji"
+          },
+          {
+            "conceptId": "flags:635",
+            "text": "Fiji"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_finland_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:286",
+            "text": "Finland"
+          },
+          {
+            "conceptId": "flags:636",
+            "text": "Finland"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_france_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:287",
+            "text": "France"
+          },
+          {
+            "conceptId": "flags:637",
+            "text": "France"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_gabon_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:288",
+            "text": "Gabon"
+          },
+          {
+            "conceptId": "flags:638",
+            "text": "Gabon"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_gambia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:289",
+            "text": "Gambia"
+          },
+          {
+            "conceptId": "flags:639",
+            "text": "Gambia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_georgia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:290",
+            "text": "Georgia"
+          },
+          {
+            "conceptId": "flags:640",
+            "text": "Georgia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_germany_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:291",
+            "text": "Germany"
+          },
+          {
+            "conceptId": "flags:641",
+            "text": "Germany"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ghana_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:292",
+            "text": "Ghana"
+          },
+          {
+            "conceptId": "flags:642",
+            "text": "Ghana"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_greece_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:293",
+            "text": "Greece"
+          },
+          {
+            "conceptId": "flags:643",
+            "text": "Greece"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_grenada_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:294",
+            "text": "Grenada"
+          },
+          {
+            "conceptId": "flags:644",
+            "text": "Grenada"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guatemala_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:295",
+            "text": "Guatemala"
+          },
+          {
+            "conceptId": "flags:645",
+            "text": "Guatemala"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guinea_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:296",
+            "text": "Guinea"
+          },
+          {
+            "conceptId": "flags:646",
+            "text": "Guinea"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guyana_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:297",
+            "text": "Guyana"
+          },
+          {
+            "conceptId": "flags:647",
+            "text": "Guyana"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_haiti_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:298",
+            "text": "Haiti"
+          },
+          {
+            "conceptId": "flags:648",
+            "text": "Haiti"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_honduras_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:299",
+            "text": "Honduras"
+          },
+          {
+            "conceptId": "flags:649",
+            "text": "Honduras"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_hungary_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:300",
+            "text": "Hungary"
+          },
+          {
+            "conceptId": "flags:650",
+            "text": "Hungary"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_iceland_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:301",
+            "text": "Iceland"
+          },
+          {
+            "conceptId": "flags:651",
+            "text": "Iceland"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_india_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:302",
+            "text": "India"
+          },
+          {
+            "conceptId": "flags:652",
+            "text": "India"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_indonesia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:303",
+            "text": "Indonesia"
+          },
+          {
+            "conceptId": "flags:653",
+            "text": "Indonesia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_iran_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:304",
+            "text": "Iran"
+          },
+          {
+            "conceptId": "flags:654",
+            "text": "Iran"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_iraq_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:305",
+            "text": "Iraq"
+          },
+          {
+            "conceptId": "flags:655",
+            "text": "Iraq"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ireland_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:306",
+            "text": "Ireland"
+          },
+          {
+            "conceptId": "flags:656",
+            "text": "Ireland"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_israel_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:307",
+            "text": "Israel"
+          },
+          {
+            "conceptId": "flags:657",
+            "text": "Israel"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_italy_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:308",
+            "text": "Italy"
+          },
+          {
+            "conceptId": "flags:658",
+            "text": "Italy"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_jamaica_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:309",
+            "text": "Jamaica"
+          },
+          {
+            "conceptId": "flags:659",
+            "text": "Jamaica"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_japan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:310",
+            "text": "Japan"
+          },
+          {
+            "conceptId": "flags:660",
+            "text": "Japan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_jordan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:311",
+            "text": "Jordan"
+          },
+          {
+            "conceptId": "flags:661",
+            "text": "Jordan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kazakhstan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:312",
+            "text": "Kazakhstan"
+          },
+          {
+            "conceptId": "flags:662",
+            "text": "Kazakhstan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kenya_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:313",
+            "text": "Kenya"
+          },
+          {
+            "conceptId": "flags:663",
+            "text": "Kenya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kiribati_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:314",
+            "text": "Kiribati"
+          },
+          {
+            "conceptId": "flags:664",
+            "text": "Kiribati"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kosovo_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:315",
+            "text": "Kosovo"
+          },
+          {
+            "conceptId": "flags:665",
+            "text": "Kosovo"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kuwait_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:316",
+            "text": "Kuwait"
+          },
+          {
+            "conceptId": "flags:666",
+            "text": "Kuwait"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_kyrgyzstan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:317",
+            "text": "Kyrgyzstan"
+          },
+          {
+            "conceptId": "flags:667",
+            "text": "Kyrgyzstan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_laos_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:318",
+            "text": "Laos"
+          },
+          {
+            "conceptId": "flags:668",
+            "text": "Laos"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_latvia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:319",
+            "text": "Latvia"
+          },
+          {
+            "conceptId": "flags:669",
+            "text": "Latvia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_lebanon_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:320",
+            "text": "Lebanon"
+          },
+          {
+            "conceptId": "flags:670",
+            "text": "Lebanon"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_lesotho_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:321",
+            "text": "Lesotho"
+          },
+          {
+            "conceptId": "flags:671",
+            "text": "Lesotho"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_liberia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:322",
+            "text": "Liberia"
+          },
+          {
+            "conceptId": "flags:672",
+            "text": "Liberia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_libya_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:323",
+            "text": "Libya"
+          },
+          {
+            "conceptId": "flags:673",
+            "text": "Libya"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_lithuania_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:324",
+            "text": "Lithuania"
+          },
+          {
+            "conceptId": "flags:674",
+            "text": "Lithuania"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_luxembourg_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:325",
+            "text": "Luxembourg"
+          },
+          {
+            "conceptId": "flags:675",
+            "text": "Luxembourg"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_macedonia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:326",
+            "text": "Macedonia"
+          },
+          {
+            "conceptId": "flags:676",
+            "text": "Macedonia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_madagascar_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:327",
+            "text": "Madagascar"
+          },
+          {
+            "conceptId": "flags:677",
+            "text": "Madagascar"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_malawi_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:328",
+            "text": "Malawi"
+          },
+          {
+            "conceptId": "flags:678",
+            "text": "Malawi"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_malaysia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:329",
+            "text": "Malaysia"
+          },
+          {
+            "conceptId": "flags:679",
+            "text": "Malaysia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_maldives_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:330",
+            "text": "Maldives"
+          },
+          {
+            "conceptId": "flags:680",
+            "text": "Maldives"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mali_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:331",
+            "text": "Mali"
+          },
+          {
+            "conceptId": "flags:681",
+            "text": "Mali"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_malta_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:332",
+            "text": "Malta"
+          },
+          {
+            "conceptId": "flags:682",
+            "text": "Malta"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mauritania_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:333",
+            "text": "Mauritania"
+          },
+          {
+            "conceptId": "flags:683",
+            "text": "Mauritania"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mauritius_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:334",
+            "text": "Mauritius"
+          },
+          {
+            "conceptId": "flags:684",
+            "text": "Mauritius"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mexico_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:335",
+            "text": "Mexico"
+          },
+          {
+            "conceptId": "flags:685",
+            "text": "Mexico"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_micronesia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:336",
+            "text": "Micronesia"
+          },
+          {
+            "conceptId": "flags:686",
+            "text": "Micronesia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_moldova_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:337",
+            "text": "Moldova"
+          },
+          {
+            "conceptId": "flags:687",
+            "text": "Moldova"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_monaco_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:338",
+            "text": "Monaco"
+          },
+          {
+            "conceptId": "flags:688",
+            "text": "Monaco"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mongolia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:339",
+            "text": "Mongolia"
+          },
+          {
+            "conceptId": "flags:689",
+            "text": "Mongolia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_montenegro_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:340",
+            "text": "Montenegro"
+          },
+          {
+            "conceptId": "flags:690",
+            "text": "Montenegro"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_morocco_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:341",
+            "text": "Morocco"
+          },
+          {
+            "conceptId": "flags:691",
+            "text": "Morocco"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_mozambique_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:342",
+            "text": "Mozambique"
+          },
+          {
+            "conceptId": "flags:692",
+            "text": "Mozambique"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_myanmar_burma_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:343",
+            "text": "Myanmar"
+          },
+          {
+            "conceptId": "flags:693",
+            "text": "Myanmar"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_namibia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:344",
+            "text": "Namibia"
+          },
+          {
+            "conceptId": "flags:694",
+            "text": "Namibia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nauru_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:345",
+            "text": "Nauru"
+          },
+          {
+            "conceptId": "flags:695",
+            "text": "Nauru"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nepal_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:346",
+            "text": "Nepal"
+          },
+          {
+            "conceptId": "flags:696",
+            "text": "Nepal"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_netherlands_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:347",
+            "text": "Netherlands"
+          },
+          {
+            "conceptId": "flags:697",
+            "text": "Netherlands"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_new_zealand_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:348",
+            "text": "New Zealand"
+          },
+          {
+            "conceptId": "flags:698",
+            "text": "New Zealand"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nicaragua_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:349",
+            "text": "Nicaragua"
+          },
+          {
+            "conceptId": "flags:699",
+            "text": "Nicaragua"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_niger_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:350",
+            "text": "Niger"
+          },
+          {
+            "conceptId": "flags:700",
+            "text": "Niger"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_nigeria_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:351",
+            "text": "Nigeria"
+          },
+          {
+            "conceptId": "flags:701",
+            "text": "Nigeria"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_norway_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:352",
+            "text": "Norway"
+          },
+          {
+            "conceptId": "flags:702",
+            "text": "Norway"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_oman_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:353",
+            "text": "Oman"
+          },
+          {
+            "conceptId": "flags:703",
+            "text": "Oman"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_pakistan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:354",
+            "text": "Pakistan"
+          },
+          {
+            "conceptId": "flags:704",
+            "text": "Pakistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_palau_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:355",
+            "text": "Palau"
+          },
+          {
+            "conceptId": "flags:705",
+            "text": "Palau"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_palestine_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:356",
+            "text": "Palestine"
+          },
+          {
+            "conceptId": "flags:706",
+            "text": "Palestine"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_panama_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:357",
+            "text": "Panama"
+          },
+          {
+            "conceptId": "flags:707",
+            "text": "Panama"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_paraguay_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:358",
+            "text": "Paraguay"
+          },
+          {
+            "conceptId": "flags:708",
+            "text": "Paraguay"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_peru_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:359",
+            "text": "Peru"
+          },
+          {
+            "conceptId": "flags:709",
+            "text": "Peru"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_philippines_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:360",
+            "text": "Philippines"
+          },
+          {
+            "conceptId": "flags:710",
+            "text": "Philippines"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_poland_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:361",
+            "text": "Poland"
+          },
+          {
+            "conceptId": "flags:711",
+            "text": "Poland"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_portugal_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:362",
+            "text": "Portugal"
+          },
+          {
+            "conceptId": "flags:712",
+            "text": "Portugal"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_qatar_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:363",
+            "text": "Qatar"
+          },
+          {
+            "conceptId": "flags:713",
+            "text": "Qatar"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_romania_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:364",
+            "text": "Romania"
+          },
+          {
+            "conceptId": "flags:714",
+            "text": "Romania"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_russia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:365",
+            "text": "Russia"
+          },
+          {
+            "conceptId": "flags:715",
+            "text": "Russia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_rwanda_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:366",
+            "text": "Rwanda"
+          },
+          {
+            "conceptId": "flags:716",
+            "text": "Rwanda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_samoa_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:367",
+            "text": "Samoa"
+          },
+          {
+            "conceptId": "flags:717",
+            "text": "Samoa"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_senegal_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:368",
+            "text": "Senegal"
+          },
+          {
+            "conceptId": "flags:718",
+            "text": "Senegal"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_serbia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:369",
+            "text": "Serbia"
+          },
+          {
+            "conceptId": "flags:719",
+            "text": "Serbia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_seychelles_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:370",
+            "text": "Seychelles"
+          },
+          {
+            "conceptId": "flags:720",
+            "text": "Seychelles"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_singapore_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:371",
+            "text": "Singapore"
+          },
+          {
+            "conceptId": "flags:721",
+            "text": "Singapore"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_slovakia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:372",
+            "text": "Slovakia"
+          },
+          {
+            "conceptId": "flags:722",
+            "text": "Slovakia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_slovenia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:373",
+            "text": "Slovenia"
+          },
+          {
+            "conceptId": "flags:723",
+            "text": "Slovenia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_somalia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:374",
+            "text": "Somalia"
+          },
+          {
+            "conceptId": "flags:724",
+            "text": "Somalia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_south_korea_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:375",
+            "text": "South Korea"
+          },
+          {
+            "conceptId": "flags:725",
+            "text": "South Korea"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_spain_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:376",
+            "text": "Spain"
+          },
+          {
+            "conceptId": "flags:726",
+            "text": "Spain"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sudan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:377",
+            "text": "Sudan"
+          },
+          {
+            "conceptId": "flags:727",
+            "text": "Sudan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_suriname_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:378",
+            "text": "Suriname"
+          },
+          {
+            "conceptId": "flags:728",
+            "text": "Suriname"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sweden_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:379",
+            "text": "Sweden"
+          },
+          {
+            "conceptId": "flags:729",
+            "text": "Sweden"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_switzerland_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:380",
+            "text": "Switzerland"
+          },
+          {
+            "conceptId": "flags:730",
+            "text": "Switzerland"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_syria_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:381",
+            "text": "Syria"
+          },
+          {
+            "conceptId": "flags:731",
+            "text": "Syria"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_taiwan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:382",
+            "text": "Taiwan"
+          },
+          {
+            "conceptId": "flags:732",
+            "text": "Taiwan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tajikistan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:383",
+            "text": "Tajikistan"
+          },
+          {
+            "conceptId": "flags:733",
+            "text": "Tajikistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tanzania_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:384",
+            "text": "Tanzania"
+          },
+          {
+            "conceptId": "flags:734",
+            "text": "Tanzania"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_thailand_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:385",
+            "text": "Thailand"
+          },
+          {
+            "conceptId": "flags:735",
+            "text": "Thailand"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_togo_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:386",
+            "text": "Togo"
+          },
+          {
+            "conceptId": "flags:736",
+            "text": "Togo"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tonga_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:387",
+            "text": "Tonga"
+          },
+          {
+            "conceptId": "flags:737",
+            "text": "Tonga"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tunisia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:388",
+            "text": "Tunisia"
+          },
+          {
+            "conceptId": "flags:738",
+            "text": "Tunisia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_turkey_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:389",
+            "text": "Turkey"
+          },
+          {
+            "conceptId": "flags:739",
+            "text": "Turkey"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_tuvalu_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:390",
+            "text": "Tuvalu"
+          },
+          {
+            "conceptId": "flags:740",
+            "text": "Tuvalu"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_uganda_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:391",
+            "text": "Uganda"
+          },
+          {
+            "conceptId": "flags:741",
+            "text": "Uganda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_ukraine_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:392",
+            "text": "Ukraine"
+          },
+          {
+            "conceptId": "flags:742",
+            "text": "Ukraine"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_united_kingdom_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:393",
+            "text": "United Kingdom"
+          },
+          {
+            "conceptId": "flags:743",
+            "text": "United Kingdom"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_united_states_of_america_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:394",
+            "text": "United States of America"
+          },
+          {
+            "conceptId": "flags:744",
+            "text": "United States of America"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_uruguay_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:395",
+            "text": "Uruguay"
+          },
+          {
+            "conceptId": "flags:745",
+            "text": "Uruguay"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_uzbekistan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:396",
+            "text": "Uzbekistan"
+          },
+          {
+            "conceptId": "flags:746",
+            "text": "Uzbekistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_vanuatu_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:397",
+            "text": "Vanuatu"
+          },
+          {
+            "conceptId": "flags:747",
+            "text": "Vanuatu"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_venezuela_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:398",
+            "text": "Venezuela"
+          },
+          {
+            "conceptId": "flags:748",
+            "text": "Venezuela"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_vietnam_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:399",
+            "text": "Vietnam"
+          },
+          {
+            "conceptId": "flags:749",
+            "text": "Vietnam"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_yemen_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:400",
+            "text": "Yemen"
+          },
+          {
+            "conceptId": "flags:750",
+            "text": "Yemen"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_zambia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:401",
+            "text": "Zambia"
+          },
+          {
+            "conceptId": "flags:751",
+            "text": "Zambia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_zimbabwe_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:402",
+            "text": "Zimbabwe"
+          },
+          {
+            "conceptId": "flags:752",
+            "text": "Zimbabwe"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_liechtenstein_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:407",
+            "text": "Liechtenstein"
+          },
+          {
+            "conceptId": "flags:757",
+            "text": "Liechtenstein"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_turkmenistan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:408",
+            "text": "Turkmenistan"
+          },
+          {
+            "conceptId": "flags:758",
+            "text": "Turkmenistan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_antigua_and_barbuda_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:409",
+            "text": "Antigua and Barbuda"
+          },
+          {
+            "conceptId": "flags:759",
+            "text": "Antigua and Barbuda"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_bosnia_and_herzegovina_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:410",
+            "text": "Bosnia and Herzegovina"
+          },
+          {
+            "conceptId": "flags:760",
+            "text": "Bosnia and Herzegovina"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_burkina_faso_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:411",
+            "text": "Burkina Faso"
+          },
+          {
+            "conceptId": "flags:761",
+            "text": "Burkina Faso"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cabo_verde_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:412",
+            "text": "Cabo Verde"
+          },
+          {
+            "conceptId": "flags:762",
+            "text": "Cabo Verde"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_central_african_republic_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:413",
+            "text": "Central African Republic"
+          },
+          {
+            "conceptId": "flags:763",
+            "text": "Central African Republic"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_costa_rica_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:414",
+            "text": "Costa Rica"
+          },
+          {
+            "conceptId": "flags:764",
+            "text": "Costa Rica"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_cote_divoire_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:415",
+            "text": "Cote d'Ivoire"
+          },
+          {
+            "conceptId": "flags:765",
+            "text": "Cote d'Ivoire"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_czech_republic_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:416",
+            "text": "Czech Republic"
+          },
+          {
+            "conceptId": "flags:766",
+            "text": "Czech Republic"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_democratic_republic_of_the_congo_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:417",
+            "text": "Democratic Republic of the Congo"
+          },
+          {
+            "conceptId": "flags:767",
+            "text": "Democratic Republic of the Congo"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_dominican_republic_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:418",
+            "text": "Dominican Republic"
+          },
+          {
+            "conceptId": "flags:768",
+            "text": "Dominican Republic"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_el_salvador_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:419",
+            "text": "El Salvador"
+          },
+          {
+            "conceptId": "flags:769",
+            "text": "El Salvador"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_equatorial_guinea_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:420",
+            "text": "Equatorial Guinea"
+          },
+          {
+            "conceptId": "flags:770",
+            "text": "Equatorial Guinea"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_guinea_bissau_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:421",
+            "text": "Guinea-Bissau"
+          },
+          {
+            "conceptId": "flags:771",
+            "text": "Guinea-Bissau"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_marshall_islands_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:422",
+            "text": "Marshall Islands"
+          },
+          {
+            "conceptId": "flags:772",
+            "text": "Marshall Islands"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_north_korea_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:423",
+            "text": "North Korea"
+          },
+          {
+            "conceptId": "flags:773",
+            "text": "North Korea"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_papua_new_guinea_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:424",
+            "text": "Papua New Guinea"
+          },
+          {
+            "conceptId": "flags:774",
+            "text": "Papua New Guinea"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_republic_of_the_congo_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:425",
+            "text": "Republic of the Congo"
+          },
+          {
+            "conceptId": "flags:775",
+            "text": "Republic of the Congo"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saint_kitts_and_nevis_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:426",
+            "text": "Saint Kitts and Nevis"
+          },
+          {
+            "conceptId": "flags:776",
+            "text": "Saint Kitts and Nevis"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saint_lucia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:427",
+            "text": "Saint Lucia"
+          },
+          {
+            "conceptId": "flags:777",
+            "text": "Saint Lucia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saint_vincent_and_the_grenadines_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:428",
+            "text": "Saint Vincent and the Grenadines"
+          },
+          {
+            "conceptId": "flags:778",
+            "text": "Saint Vincent and the Grenadines"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_san_marino_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:429",
+            "text": "San Marino"
+          },
+          {
+            "conceptId": "flags:779",
+            "text": "San Marino"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sao_tome_and_principe_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:430",
+            "text": "Sao Tome and Principe"
+          },
+          {
+            "conceptId": "flags:780",
+            "text": "Sao Tome and Principe"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_saudi_arabia_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:431",
+            "text": "Saudi Arabia"
+          },
+          {
+            "conceptId": "flags:781",
+            "text": "Saudi Arabia"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sierra_leone_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:432",
+            "text": "Sierra Leone"
+          },
+          {
+            "conceptId": "flags:782",
+            "text": "Sierra Leone"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_solomon_islands_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:433",
+            "text": "Solomon Islands"
+          },
+          {
+            "conceptId": "flags:783",
+            "text": "Solomon Islands"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_south_africa_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:434",
+            "text": "South Africa"
+          },
+          {
+            "conceptId": "flags:784",
+            "text": "South Africa"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_south_sudan_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:435",
+            "text": "South Sudan"
+          },
+          {
+            "conceptId": "flags:785",
+            "text": "South Sudan"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_sri_lanka_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:436",
+            "text": "Sri Lanka"
+          },
+          {
+            "conceptId": "flags:786",
+            "text": "Sri Lanka"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_timor_leste_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:437",
+            "text": "Timor-Leste"
+          },
+          {
+            "conceptId": "flags:787",
+            "text": "Timor-Leste"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_trinidad_and_tobago_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:438",
+            "text": "Trinidad and Tobago"
+          },
+          {
+            "conceptId": "flags:788",
+            "text": "Trinidad and Tobago"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_countries_united_arab_emirates_en.mp3",
+        "records": [
+          {
+            "conceptId": "countries:439",
+            "text": "United Arab Emirates"
+          },
+          {
+            "conceptId": "flags:789",
+            "text": "United Arab Emirates"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_my_home_chair_en.mp3",
+        "records": [
+          {
+            "conceptId": "home:1118",
+            "text": "Chair"
+          },
+          {
+            "conceptId": "home:1119",
+            "text": "Chair"
+          }
+        ]
+      },
+      {
+        "audioPath": "audio/slide_my_home_shoe_en.mp3",
+        "records": [
+          {
+            "conceptId": "home:1194",
+            "text": "Shoe"
+          },
+          {
+            "conceptId": "home:1195",
+            "text": "Shoe"
+          }
+        ]
+      }
+    ],
+    "missingReferences": []
+  }
+}

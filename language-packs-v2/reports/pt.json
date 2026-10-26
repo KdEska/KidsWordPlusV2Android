@@ -1,0 +1,59 @@
+{
+  "language": "pt",
+  "wordCount": 1712,
+  "activeWordCount": 1462,
+  "missingAudio": [],
+  "missingRequiredAudio": [],
+  "missingImages": [],
+  "inactiveConceptIds": [],
+  "missingInactiveImages": [],
+  "reviewRecords": [],
+  "editorialReviewRequired": false,
+  "contentReview": {
+    "status": "user_approved",
+    "scope": "learning_text_and_alphabet_images",
+    "approvedAt": "2026-09-27T14:36:49.756974+00:00"
+  },
+  "sharedImageCount": 1672,
+  "localImageCount": 38,
+  "audioReview": {
+    "status": "sample_approved_bulk_generated",
+    "voiceId": "ORgG8rwdAiMYRug8RJwR",
+    "voiceName": "Ana Alice - Friendly & Clear",
+    "model": "eleven_v4",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    },
+    "languageCode": "pt",
+    "targetLocale": "pt-BR",
+    "generatedRecordings": 1218,
+    "installedFiles": 1265,
+    "approvedWords": [
+      "Gato",
+      "Lagarta",
+      "Veado",
+      "Cachorro",
+      "Libélula",
+      "Águia",
+      "Peixe"
+    ],
+    "bulkGenerationAuthorized": true,
+    "allPronunciationsHumanReviewed": false,
+    "source": "production/pt-ana-alice-v4/ledger.json"
+  },
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "14-pt-chess-afccc4e3ae20",
+    "archive": "archives/pt-14-pt-chess-afccc4e3ae20.zip"
+  }
+}

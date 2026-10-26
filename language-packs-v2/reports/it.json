@@ -1,0 +1,56 @@
+{
+  "language": "it",
+  "wordCount": 1707,
+  "activeWordCount": 1457,
+  "missingAudio": [],
+  "missingRequiredAudio": [],
+  "missingImages": [],
+  "inactiveConceptIds": [],
+  "missingInactiveImages": [],
+  "reviewRecords": [],
+  "editorialReviewRequired": false,
+  "contentReview": {
+    "status": "user_approved",
+    "scope": "learning_text_and_alphabet_images",
+    "approvedAt": "2026-09-27T14:36:49.756974+00:00"
+  },
+  "sharedImageCount": 1672,
+  "localImageCount": 33,
+  "audioReview": {
+    "status": "sample_approved_bulk_generated",
+    "voiceId": "RZ9oBlQ97k7Ug7uU1Ij0",
+    "voiceName": "Giulia Pro - Clear, Upbeat and Nuanced",
+    "model": "eleven_v4",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75
+    },
+    "languageCode": "it",
+    "targetLocale": "it-IT",
+    "generatedRecordings": 1216,
+    "installedFiles": 1260,
+    "approvedWords": [
+      "Gatto",
+      "Bruco",
+      "Cervo",
+      "Cane",
+      "Libellula",
+      "Aquila",
+      "Pesce"
+    ],
+    "bulkGenerationAuthorized": true,
+    "allPronunciationsHumanReviewed": false,
+    "source": "production/it-giulia-pro-v4/ledger.json"
+  },
+  "chess": {
+    "status": "PASS",
+    "entries": {
+      "content": 85,
+      "interface": 157,
+      "history": 38
+    },
+    "audioClips": 269,
+    "version": "14-it-chess-415b9091a820",
+    "archive": "archives/it-14-it-chess-415b9091a820.zip"
+  }
+}

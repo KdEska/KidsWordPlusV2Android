@@ -1,0 +1,1351 @@
+{
+  "voice_id": "8kgj5469z1URcH4MB2G4",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "1手でチェックメイト",
+      "normalized": "1手でチェックメイト",
+      "file": "audio/4d5bd9842c6423fad979f1f2.mp3"
+    },
+    {
+      "text": "a1から",
+      "normalized": "a1から",
+      "file": "audio/e3deed705f29a0b82c7d5e75.mp3"
+    },
+    {
+      "text": "a1へ移動しました。",
+      "normalized": "a1へ移動しました",
+      "file": "audio/33e34a2a981d38878dd7f657.mp3"
+    },
+    {
+      "text": "a2から",
+      "normalized": "a2から",
+      "file": "audio/7edc09b9b6469366c6c30f69.mp3"
+    },
+    {
+      "text": "a2へ移動しました。",
+      "normalized": "a2へ移動しました",
+      "file": "audio/f215b6351a7708570ae14e0f.mp3"
+    },
+    {
+      "text": "a3から",
+      "normalized": "a3から",
+      "file": "audio/26ae41462ca4eb0a44033219.mp3"
+    },
+    {
+      "text": "a3へ移動しました。",
+      "normalized": "a3へ移動しました",
+      "file": "audio/d80f6bf99922425237754854.mp3"
+    },
+    {
+      "text": "a4から",
+      "normalized": "a4から",
+      "file": "audio/ab3d6ba872b7a3694341295a.mp3"
+    },
+    {
+      "text": "a4へ移動しました。",
+      "normalized": "a4へ移動しました",
+      "file": "audio/31b6d88e5e825685e763e205.mp3"
+    },
+    {
+      "text": "a5から",
+      "normalized": "a5から",
+      "file": "audio/0512448f14974a66c9ecbc1c.mp3"
+    },
+    {
+      "text": "a5へ移動しました。",
+      "normalized": "a5へ移動しました",
+      "file": "audio/68d768fadf96794e811e2ecb.mp3"
+    },
+    {
+      "text": "a6から",
+      "normalized": "a6から",
+      "file": "audio/9db3d7131da20da3a900c5ba.mp3"
+    },
+    {
+      "text": "a6へ移動しました。",
+      "normalized": "a6へ移動しました",
+      "file": "audio/0a16e40943971fbbc3749a33.mp3"
+    },
+    {
+      "text": "a7から",
+      "normalized": "a7から",
+      "file": "audio/130ce93fc0cfd14ee6cfaf80.mp3"
+    },
+    {
+      "text": "a7へ移動しました。",
+      "normalized": "a7へ移動しました",
+      "file": "audio/7d23ffbd3b8c82346a1dcf35.mp3"
+    },
+    {
+      "text": "a8から",
+      "normalized": "a8から",
+      "file": "audio/a55891dc77aeedea36ab1669.mp3"
+    },
+    {
+      "text": "a8へ移動しました。",
+      "normalized": "a8へ移動しました",
+      "file": "audio/e42d218a70d588f293060792.mp3"
+    },
+    {
+      "text": "b1から",
+      "normalized": "b1から",
+      "file": "audio/51f74f564b95d1b4afb457f7.mp3"
+    },
+    {
+      "text": "b1へ移動しました。",
+      "normalized": "b1へ移動しました",
+      "file": "audio/15e29426d6c692716d7a7e9b.mp3"
+    },
+    {
+      "text": "b2から",
+      "normalized": "b2から",
+      "file": "audio/caff2461cdce78057e8f0f5e.mp3"
+    },
+    {
+      "text": "b2へ移動しました。",
+      "normalized": "b2へ移動しました",
+      "file": "audio/499c3214713c7da2e1851b15.mp3"
+    },
+    {
+      "text": "b3から",
+      "normalized": "b3から",
+      "file": "audio/7075d1e41d2c5a04ea54903b.mp3"
+    },
+    {
+      "text": "b3へ移動しました。",
+      "normalized": "b3へ移動しました",
+      "file": "audio/a6e57a08a0778059d79640cd.mp3"
+    },
+    {
+      "text": "b4から",
+      "normalized": "b4から",
+      "file": "audio/7ea16c2987317ab503d7be1d.mp3"
+    },
+    {
+      "text": "b4へ移動しました。",
+      "normalized": "b4へ移動しました",
+      "file": "audio/d5ead1396312c0e98488d08c.mp3"
+    },
+    {
+      "text": "b5から",
+      "normalized": "b5から",
+      "file": "audio/ab67f1de61d934caa0159a48.mp3"
+    },
+    {
+      "text": "b5へ移動しました。",
+      "normalized": "b5へ移動しました",
+      "file": "audio/db076db215a8f6fce9a3e6a0.mp3"
+    },
+    {
+      "text": "b6から",
+      "normalized": "b6から",
+      "file": "audio/c2cccd9dd8f1b26a2917248f.mp3"
+    },
+    {
+      "text": "b6へ移動しました。",
+      "normalized": "b6へ移動しました",
+      "file": "audio/1ba125f1289d7739b5827682.mp3"
+    },
+    {
+      "text": "b7から",
+      "normalized": "b7から",
+      "file": "audio/df1c419b65e3de1f8d2954c3.mp3"
+    },
+    {
+      "text": "b7へ移動しました。",
+      "normalized": "b7へ移動しました",
+      "file": "audio/00b0804b3aa7f3e61f7c7da3.mp3"
+    },
+    {
+      "text": "b8から",
+      "normalized": "b8から",
+      "file": "audio/0c0851d86fbe91d09dac8742.mp3"
+    },
+    {
+      "text": "b8へ移動しました。",
+      "normalized": "b8へ移動しました",
+      "file": "audio/a42faa555cac8ec0ee026c2d.mp3"
+    },
+    {
+      "text": "c1から",
+      "normalized": "c1から",
+      "file": "audio/87ceb9fffc0672ff44276db6.mp3"
+    },
+    {
+      "text": "c1へ移動しました。",
+      "normalized": "c1へ移動しました",
+      "file": "audio/73bc5d97083306949d559c82.mp3"
+    },
+    {
+      "text": "c2から",
+      "normalized": "c2から",
+      "file": "audio/f609a45cb3eb1a972d99c367.mp3"
+    },
+    {
+      "text": "c2へ移動しました。",
+      "normalized": "c2へ移動しました",
+      "file": "audio/16b81f10917b6dd2cefd2603.mp3"
+    },
+    {
+      "text": "c3から",
+      "normalized": "c3から",
+      "file": "audio/05f98c5fe35315a02f69b71f.mp3"
+    },
+    {
+      "text": "c3へ移動しました。",
+      "normalized": "c3へ移動しました",
+      "file": "audio/3b35800ece05042eb00e567d.mp3"
+    },
+    {
+      "text": "c4から",
+      "normalized": "c4から",
+      "file": "audio/1fab9c406315d4d7536e1253.mp3"
+    },
+    {
+      "text": "c4へ移動しました。",
+      "normalized": "c4へ移動しました",
+      "file": "audio/98673e2cebb96adf585629f1.mp3"
+    },
+    {
+      "text": "c5から",
+      "normalized": "c5から",
+      "file": "audio/36875d7569e8b4707f76e918.mp3"
+    },
+    {
+      "text": "c5へ移動しました。",
+      "normalized": "c5へ移動しました",
+      "file": "audio/6a6f4b0428386c2998862b37.mp3"
+    },
+    {
+      "text": "c6から",
+      "normalized": "c6から",
+      "file": "audio/46564731d746388133511361.mp3"
+    },
+    {
+      "text": "c6へ移動しました。",
+      "normalized": "c6へ移動しました",
+      "file": "audio/e0ed46ea602981604be1aa44.mp3"
+    },
+    {
+      "text": "c7から",
+      "normalized": "c7から",
+      "file": "audio/7b32c756ac11e326d3abb403.mp3"
+    },
+    {
+      "text": "c7へ移動しました。",
+      "normalized": "c7へ移動しました",
+      "file": "audio/38173eec8d64a8a2c6208e75.mp3"
+    },
+    {
+      "text": "c8から",
+      "normalized": "c8から",
+      "file": "audio/fd3921391d084bafbc907c15.mp3"
+    },
+    {
+      "text": "c8へ移動しました。",
+      "normalized": "c8へ移動しました",
+      "file": "audio/89f58959e5e94c20766c08e5.mp3"
+    },
+    {
+      "text": "d1から",
+      "normalized": "d1から",
+      "file": "audio/af9d9730a773f8c096f9aee0.mp3"
+    },
+    {
+      "text": "d1へ移動しました。",
+      "normalized": "d1へ移動しました",
+      "file": "audio/0eb9b54077398b083ec027c4.mp3"
+    },
+    {
+      "text": "d2から",
+      "normalized": "d2から",
+      "file": "audio/72ffe10245c916f07d02a609.mp3"
+    },
+    {
+      "text": "d2へ移動しました。",
+      "normalized": "d2へ移動しました",
+      "file": "audio/1043dffab4e69304cdbbfcea.mp3"
+    },
+    {
+      "text": "d3から",
+      "normalized": "d3から",
+      "file": "audio/d792f1dde92fdc0072297e39.mp3"
+    },
+    {
+      "text": "d3へ移動しました。",
+      "normalized": "d3へ移動しました",
+      "file": "audio/3a26ce80aa9d9c8c028f2327.mp3"
+    },
+    {
+      "text": "d4から",
+      "normalized": "d4から",
+      "file": "audio/a171940b018db36f26e0a300.mp3"
+    },
+    {
+      "text": "d4へ移動しました。",
+      "normalized": "d4へ移動しました",
+      "file": "audio/96ecbc96b4afd89b1b5ab146.mp3"
+    },
+    {
+      "text": "d5から",
+      "normalized": "d5から",
+      "file": "audio/1ebc5366059108ec4c46f474.mp3"
+    },
+    {
+      "text": "d5へ移動しました。",
+      "normalized": "d5へ移動しました",
+      "file": "audio/0b21d7f4b6f339d0682aeaec.mp3"
+    },
+    {
+      "text": "d6から",
+      "normalized": "d6から",
+      "file": "audio/737e4a11bd070706dc228e3c.mp3"
+    },
+    {
+      "text": "d6へ移動しました。",
+      "normalized": "d6へ移動しました",
+      "file": "audio/bb7ef465fca641ec8620537c.mp3"
+    },
+    {
+      "text": "d7から",
+      "normalized": "d7から",
+      "file": "audio/ee274a2c6b4bc3cdfb1f4d63.mp3"
+    },
+    {
+      "text": "d7へ移動しました。",
+      "normalized": "d7へ移動しました",
+      "file": "audio/7a31a417f517fc656fd98769.mp3"
+    },
+    {
+      "text": "d8から",
+      "normalized": "d8から",
+      "file": "audio/343cc65e2e690e00f7215142.mp3"
+    },
+    {
+      "text": "d8へ移動しました。",
+      "normalized": "d8へ移動しました",
+      "file": "audio/9a5fc113047893642bff25c6.mp3"
+    },
+    {
+      "text": "e1から",
+      "normalized": "e1から",
+      "file": "audio/2ac2809ccec74343680caf48.mp3"
+    },
+    {
+      "text": "e1へ移動しました。",
+      "normalized": "e1へ移動しました",
+      "file": "audio/95752029d09c40a940d6988c.mp3"
+    },
+    {
+      "text": "e2から",
+      "normalized": "e2から",
+      "file": "audio/d4ceaa0d2be9dadd692b50f5.mp3"
+    },
+    {
+      "text": "e2へ移動しました。",
+      "normalized": "e2へ移動しました",
+      "file": "audio/365c90077e0dc0bd67a0a1db.mp3"
+    },
+    {
+      "text": "e3から",
+      "normalized": "e3から",
+      "file": "audio/75adb97d041dcdc4deb51617.mp3"
+    },
+    {
+      "text": "e3へ移動しました。",
+      "normalized": "e3へ移動しました",
+      "file": "audio/de7c8650cb3db30397fc7dbb.mp3"
+    },
+    {
+      "text": "e4から",
+      "normalized": "e4から",
+      "file": "audio/755a2d792c2a13c7f39c396e.mp3"
+    },
+    {
+      "text": "e4へ移動しました。",
+      "normalized": "e4へ移動しました",
+      "file": "audio/ac9a17c16ca0448a9b16cabc.mp3"
+    },
+    {
+      "text": "e5から",
+      "normalized": "e5から",
+      "file": "audio/f749e483c8ae29b8916ed739.mp3"
+    },
+    {
+      "text": "e5へ移動しました。",
+      "normalized": "e5へ移動しました",
+      "file": "audio/65ebfc8d26536160d4df347b.mp3"
+    },
+    {
+      "text": "e6から",
+      "normalized": "e6から",
+      "file": "audio/cd8b81bc5fe9c8cc8fcb7fe1.mp3"
+    },
+    {
+      "text": "e6へ移動しました。",
+      "normalized": "e6へ移動しました",
+      "file": "audio/488f8ebde8ad685173ad265b.mp3"
+    },
+    {
+      "text": "e7から",
+      "normalized": "e7から",
+      "file": "audio/54ed22685faca713d13864d6.mp3"
+    },
+    {
+      "text": "e7へ移動しました。",
+      "normalized": "e7へ移動しました",
+      "file": "audio/24eb536c2d65535f9bc9bf75.mp3"
+    },
+    {
+      "text": "e8から",
+      "normalized": "e8から",
+      "file": "audio/205838fa4295c81060b3b9b9.mp3"
+    },
+    {
+      "text": "e8へ移動しました。",
+      "normalized": "e8へ移動しました",
+      "file": "audio/8f3d7757ffcdaf448e0bbc44.mp3"
+    },
+    {
+      "text": "f1から",
+      "normalized": "f1から",
+      "file": "audio/b557f9e5c9c72cb208ebaed9.mp3"
+    },
+    {
+      "text": "f1へ移動しました。",
+      "normalized": "f1へ移動しました",
+      "file": "audio/a918efc6563217a1f11266c0.mp3"
+    },
+    {
+      "text": "f2から",
+      "normalized": "f2から",
+      "file": "audio/d04d2470c179c4ff6bf878da.mp3"
+    },
+    {
+      "text": "f2へ移動しました。",
+      "normalized": "f2へ移動しました",
+      "file": "audio/dd03c97881c8220a48b799ca.mp3"
+    },
+    {
+      "text": "f3から",
+      "normalized": "f3から",
+      "file": "audio/bfd245a10e5375d258848785.mp3"
+    },
+    {
+      "text": "f3へ移動しました。",
+      "normalized": "f3へ移動しました",
+      "file": "audio/bd903d3d90b89ad26550141d.mp3"
+    },
+    {
+      "text": "f4から",
+      "normalized": "f4から",
+      "file": "audio/bc89e88b22f5acccf3b4e74d.mp3"
+    },
+    {
+      "text": "f4へ移動しました。",
+      "normalized": "f4へ移動しました",
+      "file": "audio/660c6ed3c9cfa4d5037b93f4.mp3"
+    },
+    {
+      "text": "f5から",
+      "normalized": "f5から",
+      "file": "audio/bf3d4bf4ae02c4aaaf62d147.mp3"
+    },
+    {
+      "text": "f5へ移動しました。",
+      "normalized": "f5へ移動しました",
+      "file": "audio/b72ba9690dd9b298fb3fd683.mp3"
+    },
+    {
+      "text": "f6から",
+      "normalized": "f6から",
+      "file": "audio/bd3aa82207915a78b2cc2ef1.mp3"
+    },
+    {
+      "text": "f6へ移動しました。",
+      "normalized": "f6へ移動しました",
+      "file": "audio/77cbb49e603b02daa67a58c2.mp3"
+    },
+    {
+      "text": "f7から",
+      "normalized": "f7から",
+      "file": "audio/fad116bcf66f1156d339de53.mp3"
+    },
+    {
+      "text": "f7へ移動しました。",
+      "normalized": "f7へ移動しました",
+      "file": "audio/814f94988059fad37196c30c.mp3"
+    },
+    {
+      "text": "f8から",
+      "normalized": "f8から",
+      "file": "audio/f8ad4a08e2d1758567244d37.mp3"
+    },
+    {
+      "text": "f8へ移動しました。",
+      "normalized": "f8へ移動しました",
+      "file": "audio/1264a8e33217546b24f2bfb0.mp3"
+    },
+    {
+      "text": "g1から",
+      "normalized": "g1から",
+      "file": "audio/faa29c2e6bd6f09fa5107bb9.mp3"
+    },
+    {
+      "text": "g1へ移動しました。",
+      "normalized": "g1へ移動しました",
+      "file": "audio/81c1112fc7c381c53287c1b2.mp3"
+    },
+    {
+      "text": "g2から",
+      "normalized": "g2から",
+      "file": "audio/9f78762612f59d91946e8780.mp3"
+    },
+    {
+      "text": "g2へ移動しました。",
+      "normalized": "g2へ移動しました",
+      "file": "audio/be1c3fa3a1f077f58fdc9e5d.mp3"
+    },
+    {
+      "text": "g3から",
+      "normalized": "g3から",
+      "file": "audio/e59bac2522fdd6161337de7c.mp3"
+    },
+    {
+      "text": "g3へ移動しました。",
+      "normalized": "g3へ移動しました",
+      "file": "audio/bfe0e22575c859b4d5f15cfc.mp3"
+    },
+    {
+      "text": "g4から",
+      "normalized": "g4から",
+      "file": "audio/a26525a7733fb2ecb32c9376.mp3"
+    },
+    {
+      "text": "g4へ移動しました。",
+      "normalized": "g4へ移動しました",
+      "file": "audio/cb5d8fcef0bd8ecde6ea59ee.mp3"
+    },
+    {
+      "text": "g5から",
+      "normalized": "g5から",
+      "file": "audio/50bf32a52da022f5dd3cf4af.mp3"
+    },
+    {
+      "text": "g5へ移動しました。",
+      "normalized": "g5へ移動しました",
+      "file": "audio/b112abc028012a8603663128.mp3"
+    },
+    {
+      "text": "g6から",
+      "normalized": "g6から",
+      "file": "audio/1412e2be42a384d204554e65.mp3"
+    },
+    {
+      "text": "g6へ移動しました。",
+      "normalized": "g6へ移動しました",
+      "file": "audio/e60316190610fbc9bc50ceb0.mp3"
+    },
+    {
+      "text": "g7から",
+      "normalized": "g7から",
+      "file": "audio/ee06a8a6d3a2f11465819ad4.mp3"
+    },
+    {
+      "text": "g7へ移動しました。",
+      "normalized": "g7へ移動しました",
+      "file": "audio/2b9d6e7d55abb2ee0f2e2d5d.mp3"
+    },
+    {
+      "text": "g8から",
+      "normalized": "g8から",
+      "file": "audio/d5db7b4fe56b6faa00788423.mp3"
+    },
+    {
+      "text": "g8へ移動しました。",
+      "normalized": "g8へ移動しました",
+      "file": "audio/5e7c1d6b9a2d9c85998ffd5c.mp3"
+    },
+    {
+      "text": "h1から",
+      "normalized": "h1から",
+      "file": "audio/a88ac5b7e4974b639abb68aa.mp3"
+    },
+    {
+      "text": "h1へ移動しました。",
+      "normalized": "h1へ移動しました",
+      "file": "audio/79b765fc9e0580720a7d9a21.mp3"
+    },
+    {
+      "text": "h2から",
+      "normalized": "h2から",
+      "file": "audio/1152e2f57d4de3ed29839c78.mp3"
+    },
+    {
+      "text": "h2へ移動しました。",
+      "normalized": "h2へ移動しました",
+      "file": "audio/1f946bbe8f1f79a586355268.mp3"
+    },
+    {
+      "text": "h3から",
+      "normalized": "h3から",
+      "file": "audio/11ad7b6ec92a32df21bcde14.mp3"
+    },
+    {
+      "text": "h3へ移動しました。",
+      "normalized": "h3へ移動しました",
+      "file": "audio/a98a1c1c130cb9a9f031d0b9.mp3"
+    },
+    {
+      "text": "h4から",
+      "normalized": "h4から",
+      "file": "audio/c20a9901a18982347dcbf25e.mp3"
+    },
+    {
+      "text": "h4へ移動しました。",
+      "normalized": "h4へ移動しました",
+      "file": "audio/e69c9b414d93958416850934.mp3"
+    },
+    {
+      "text": "h5から",
+      "normalized": "h5から",
+      "file": "audio/c8db856c8d50d3cf40291d29.mp3"
+    },
+    {
+      "text": "h5へ移動しました。",
+      "normalized": "h5へ移動しました",
+      "file": "audio/a5a70baa13801a53196c51ad.mp3"
+    },
+    {
+      "text": "h6から",
+      "normalized": "h6から",
+      "file": "audio/818e5dd15d331528516f88f3.mp3"
+    },
+    {
+      "text": "h6へ移動しました。",
+      "normalized": "h6へ移動しました",
+      "file": "audio/5acb6da502ed2081eb286d32.mp3"
+    },
+    {
+      "text": "h7から",
+      "normalized": "h7から",
+      "file": "audio/dcfc26b89b14acf51d2a1258.mp3"
+    },
+    {
+      "text": "h7へ移動しました。",
+      "normalized": "h7へ移動しました",
+      "file": "audio/8ce9e8aa50b6868e79a5539a.mp3"
+    },
+    {
+      "text": "h8から",
+      "normalized": "h8から",
+      "file": "audio/17387078eaf35eafa47c83fa.mp3"
+    },
+    {
+      "text": "h8へ移動しました。",
+      "normalized": "h8へ移動しました",
+      "file": "audio/f04115b589f8e65fa5b2af6c.mp3"
+    },
+    {
+      "text": "あなたの勝ち！",
+      "normalized": "あなたの勝ち",
+      "file": "audio/e1191db02344cf5334c4d3e3.mp3"
+    },
+    {
+      "text": "この手ではチェックメイトになりません。別の手を試そう。",
+      "normalized": "この手ではチェックメイトになりません 別の手を試そう",
+      "file": "audio/10687ac5e8d1ba2849cfc6ed.mp3"
+    },
+    {
+      "text": "すごい！正しい場所に置けたよ。",
+      "normalized": "すごい 正しい場所に置けたよ",
+      "file": "audio/504472397e26e56c337bf8b4.mp3"
+    },
+    {
+      "text": "すごい！課題をクリアしたよ。",
+      "normalized": "すごい 課題をクリアしたよ",
+      "file": "audio/878582d707e22b7089da04eb.mp3"
+    },
+    {
+      "text": "すごい！黒のキングは攻撃され、合法な逃げ道がありません。チェックメイト！",
+      "normalized": "すごい 黒のキングは攻撃され 合法な逃げ道がありません チェックメイト",
+      "file": "audio/4e71f413fba9b449612b5553.mp3"
+    },
+    {
+      "text": "それぞれ16個の駒で始めます。白が先に動き、その後は交互に1手ずつ動かします。",
+      "normalized": "それぞれ16個の駒で始めます 白が先に動き その後は交互に1手ずつ動かします",
+      "file": "audio/99b88727a1d6aeeae2c07c6b.mp3"
+    },
+    {
+      "text": "もう一度やってみよう。自分の駒を選んで目標のマスに動かそう。",
+      "normalized": "もう一度やってみよう 自分の駒を選んで目標のマスに動かそう",
+      "file": "audio/283189f1b6af4d4e36e29c99.mp3"
+    },
+    {
+      "text": "もう一度やってみよう。赤い枠のキングを見て、説明を聞こう。",
+      "normalized": "もう一度やってみよう 赤い枠のキングを見て 説明を聞こう",
+      "file": "audio/0345447df5c626a21ab3ebea.mp3"
+    },
+    {
+      "text": "もう一度やってみよう。駒の名前を確かめて、印のあるマスをタップしよう。",
+      "normalized": "もう一度やってみよう 駒の名前を確かめて 印のあるマスをタップしよう",
+      "file": "audio/8fa1f80f19cdc128942ddd4a.mp3"
+    },
+    {
+      "text": "もう一度見よう。キングは攻撃されている？合法な手はある？",
+      "normalized": "もう一度見よう キングは攻撃されている 合法な手はある",
+      "file": "audio/896ffb54acaf881ff6d80682.mp3"
+    },
+    {
+      "text": "キング",
+      "normalized": "キング",
+      "file": "audio/af441cd351d1b34015435c39.mp3"
+    },
+    {
+      "text": "キングが攻撃され、合法な手がありません。チェックメイト！対局終了です。",
+      "normalized": "キングが攻撃され 合法な手がありません チェックメイト 対局終了です",
+      "file": "audio/07e43b7c1a8aad36ebe72f3d.mp3"
+    },
+    {
+      "text": "キングが攻撃されている状態をチェックといいます。白のキングを攻撃している黒の駒を見つけてタップしよう。",
+      "normalized": "キングが攻撃されている状態をチェックといいます 白のキングを攻撃している黒の駒を見つけてタップしよう",
+      "file": "audio/4d62d2616a4f331c21d1f1ae.mp3"
+    },
+    {
+      "text": "キングはどの方向にも1マス動けます。相手に攻撃されているマスには進めません。",
+      "normalized": "キングはどの方向にも1マス動けます 相手に攻撃されているマスには進めません",
+      "file": "audio/a106b4ca4a477c94a16a71e4.mp3"
+    },
+    {
+      "text": "キングは攻撃されていますが、安全な手があります。対局は続きます。",
+      "normalized": "キングは攻撃されていますが 安全な手があります 対局は続きます",
+      "file": "audio/1e6506b300724131250572c5.mp3"
+    },
+    {
+      "text": "キングは攻撃されていませんが、合法な手がありません。ステイルメイト！引き分けです。",
+      "normalized": "キングは攻撃されていませんが 合法な手がありません ステイルメイト 引き分けです",
+      "file": "audio/86a188859c8408ebf647ad8d.mp3"
+    },
+    {
+      "text": "キングをe1に置こう。",
+      "normalized": "キングをe1に置こう",
+      "file": "audio/e29b4e73be53522cd4d57eec.mp3"
+    },
+    {
+      "text": "キングをe5に動かそう。",
+      "normalized": "キングをe5に動かそう",
+      "file": "audio/bf79e21a7dd583580b8d9767.mp3"
+    },
+    {
+      "text": "キングをe8に置こう。",
+      "normalized": "キングをe8に置こう",
+      "file": "audio/d556205054199437b350bf14.mp3"
+    },
+    {
+      "text": "キングを取りました。",
+      "normalized": "キングを取りました",
+      "file": "audio/8c0c3c012f965883e209984e.mp3"
+    },
+    {
+      "text": "クイーン",
+      "normalized": "クイーン",
+      "file": "audio/597eccbf46dcba5b97a10086.mp3"
+    },
+    {
+      "text": "クイーンは縦、横、斜めに何マスでも動けます。他の駒は飛び越せません。",
+      "normalized": "クイーンは縦 横 斜めに何マスでも動けます 他の駒は飛び越せません",
+      "file": "audio/35f1cba066439b90c741d66d.mp3"
+    },
+    {
+      "text": "クイーンは自分と同じ色のマスから始めます。白のクイーンは明るいマス、黒のクイーンは暗いマスです。",
+      "normalized": "クイーンは自分と同じ色のマスから始めます 白のクイーンは明るいマス 黒のクイーンは暗いマスです",
+      "file": "audio/63dbea46b3d9fdf9de76cf97.mp3"
+    },
+    {
+      "text": "クイーンをd1に置こう。",
+      "normalized": "クイーンをd1に置こう",
+      "file": "audio/d72e7e57ef93e09192f28849.mp3"
+    },
+    {
+      "text": "クイーンをd8に置こう。",
+      "normalized": "クイーンをd8に置こう",
+      "file": "audio/78a8ac5ed4ba4683b2cfc9a9.mp3"
+    },
+    {
+      "text": "クイーンをg7に動かそう。",
+      "normalized": "クイーンをg7に動かそう",
+      "file": "audio/e53ac4e2686980ae8f9f0505.mp3"
+    },
+    {
+      "text": "クイーンを取りました。",
+      "normalized": "クイーンを取りました",
+      "file": "audio/18b17e257ed32b8955eb1fab.mp3"
+    },
+    {
+      "text": "コンピューターの勝ち",
+      "normalized": "コンピューターの勝ち",
+      "file": "audio/1e0992a9ea94d08f49cf9a22.mp3"
+    },
+    {
+      "text": "ステイルメイト",
+      "normalized": "ステイルメイト",
+      "file": "audio/5b773dd581966bbd4b41d7ff.mp3"
+    },
+    {
+      "text": "チェス盤は縦8マス、横8マスで、全部で64マスです。右下が明るい色になるように置きます。",
+      "normalized": "チェス盤は縦8マス 横8マスで 全部で64マスです 右下が明るい色になるように置きます",
+      "file": "audio/b6d07693fb4e2ca3779d962e.mp3"
+    },
+    {
+      "text": "チェック、でも逃げられる",
+      "normalized": "チェック でも逃げられる",
+      "file": "audio/5ce38f488eb3d524ff05682f.mp3"
+    },
+    {
+      "text": "チェックされたら、攻撃から逃れなければなりません。e1のキングを選んで、安全なd1へ動かそう。",
+      "normalized": "チェックされたら 攻撃から逃れなければなりません e1のキングを選んで 安全なd1へ動かそう",
+      "file": "audio/d9bebc6db7478deaf42a31aa.mp3"
+    },
+    {
+      "text": "チェックメイト",
+      "normalized": "チェックメイト",
+      "file": "audio/da38587aa609ef4743299798.mp3"
+    },
+    {
+      "text": "チェックメイトとステイルメイト",
+      "normalized": "チェックメイトとステイルメイト",
+      "file": "audio/bb5fd8429a448e878a74421b.mp3"
+    },
+    {
+      "text": "ナイト",
+      "normalized": "ナイト",
+      "file": "audio/b82156eaa63101265bbcb5b0.mp3"
+    },
+    {
+      "text": "ナイトは一方向に2マス、横に1マス進むL字の動きをします。他の駒を飛び越せます。",
+      "normalized": "ナイトは一方向に2マス 横に1マス進むl字の動きをします 他の駒を飛び越せます",
+      "file": "audio/b7565f9837b9721a5441043a.mp3"
+    },
+    {
+      "text": "ナイトをb1に置こう。",
+      "normalized": "ナイトをb1に置こう",
+      "file": "audio/ef4f3bc9c53e941b5e9e42d9.mp3"
+    },
+    {
+      "text": "ナイトをb8に置こう。",
+      "normalized": "ナイトをb8に置こう",
+      "file": "audio/843b7abf8a8146c0e7379926.mp3"
+    },
+    {
+      "text": "ナイトをe6に動かそう。",
+      "normalized": "ナイトをe6に動かそう",
+      "file": "audio/3c16009545ade02a576035b3.mp3"
+    },
+    {
+      "text": "ナイトをg1に置こう。",
+      "normalized": "ナイトをg1に置こう",
+      "file": "audio/c8101d5c5bcc736d18673899.mp3"
+    },
+    {
+      "text": "ナイトをg8に置こう。",
+      "normalized": "ナイトをg8に置こう",
+      "file": "audio/9af1c897813cdcd8d7fe272d.mp3"
+    },
+    {
+      "text": "ナイトを取りました。",
+      "normalized": "ナイトを取りました",
+      "file": "audio/1fb99ededfd23ee8dee8c2ac.mp3"
+    },
+    {
+      "text": "ビショップ",
+      "normalized": "ビショップ",
+      "file": "audio/3b5cc99d4080f75e882b2d64.mp3"
+    },
+    {
+      "text": "ビショップは斜めに何マスでも動けます。いつも同じ色のマスにいて、他の駒は飛び越せません。",
+      "normalized": "ビショップは斜めに何マスでも動けます いつも同じ色のマスにいて 他の駒は飛び越せません",
+      "file": "audio/98bdf6e4665bb56db2e0c638.mp3"
+    },
+    {
+      "text": "ビショップをc1に置こう。",
+      "normalized": "ビショップをc1に置こう",
+      "file": "audio/9455ab711d31b60d82e7a642.mp3"
+    },
+    {
+      "text": "ビショップをc8に置こう。",
+      "normalized": "ビショップをc8に置こう",
+      "file": "audio/8a4781508723bcdb74c096f5.mp3"
+    },
+    {
+      "text": "ビショップをf1に置こう。",
+      "normalized": "ビショップをf1に置こう",
+      "file": "audio/ad58c286d95e7d7326bc917b.mp3"
+    },
+    {
+      "text": "ビショップをf8に置こう。",
+      "normalized": "ビショップをf8に置こう",
+      "file": "audio/7b2aa70327ded4f92033848e.mp3"
+    },
+    {
+      "text": "ビショップをg7に動かそう。",
+      "normalized": "ビショップをg7に動かそう",
+      "file": "audio/8fb067b9a410b21e98dfdd28.mp3"
+    },
+    {
+      "text": "ビショップを取りました。",
+      "normalized": "ビショップを取りました",
+      "file": "audio/18a4930d9e4d4ab05e358758.mp3"
+    },
+    {
+      "text": "ポーン",
+      "normalized": "ポーン",
+      "file": "audio/24ddbba7c02c287cc4e8b8e2.mp3"
+    },
+    {
+      "text": "ポーンがクイーンに昇格しました。",
+      "normalized": "ポーンがクイーンに昇格しました",
+      "file": "audio/8c9cf005c5e8efd8a0ea0bff.mp3"
+    },
+    {
+      "text": "ポーンがナイトに昇格しました。",
+      "normalized": "ポーンがナイトに昇格しました",
+      "file": "audio/9450215384185d2e96e16d21.mp3"
+    },
+    {
+      "text": "ポーンがビショップに昇格しました。",
+      "normalized": "ポーンがビショップに昇格しました",
+      "file": "audio/5be1746369fc5d31d33ae18f.mp3"
+    },
+    {
+      "text": "ポーンがルークに昇格しました。",
+      "normalized": "ポーンがルークに昇格しました",
+      "file": "audio/6d43174dedde178869c1b23e.mp3"
+    },
+    {
+      "text": "ポーンが最後の段に着き、この練習ではクイーンになったよ。",
+      "normalized": "ポーンが最後の段に着き この練習ではクイーンになったよ",
+      "file": "audio/2092dc02ce1e33c46c4f97b6.mp3"
+    },
+    {
+      "text": "ポーンでe5にある相手の駒を取ろう。",
+      "normalized": "ポーンでe5にある相手の駒を取ろう",
+      "file": "audio/85784a319c8618ac1e6c088f.mp3"
+    },
+    {
+      "text": "ポーンは前に1マス進みます。最初は道が空いていれば2マス進めます。斜め前の1マスにある相手の駒を取ります。最後の段でクイーン、ルーク、ビショップ、ナイトのどれかになります。",
+      "normalized": "ポーンは前に1マス進みます 最初は道が空いていれば2マス進めます 斜め前の1マスにある相手の駒を取ります 最後の段でクイーン ルーク ビショップ ナイトのどれかになります",
+      "file": "audio/bb205a9ae6e7f9ef8a141cd0.mp3"
+    },
+    {
+      "text": "ポーンをa2に置こう。",
+      "normalized": "ポーンをa2に置こう",
+      "file": "audio/90dc6310f3357f54d9cdb39e.mp3"
+    },
+    {
+      "text": "ポーンをa7に置こう。",
+      "normalized": "ポーンをa7に置こう",
+      "file": "audio/14c23932dc655ae0436035c5.mp3"
+    },
+    {
+      "text": "ポーンをb2に置こう。",
+      "normalized": "ポーンをb2に置こう",
+      "file": "audio/d8d695bd200b204f8e49b52d.mp3"
+    },
+    {
+      "text": "ポーンをb7に置こう。",
+      "normalized": "ポーンをb7に置こう",
+      "file": "audio/d3ab0b1bd98f489480cf48f2.mp3"
+    },
+    {
+      "text": "ポーンをc2に置こう。",
+      "normalized": "ポーンをc2に置こう",
+      "file": "audio/29ab18af4910e912c938934d.mp3"
+    },
+    {
+      "text": "ポーンをc7に置こう。",
+      "normalized": "ポーンをc7に置こう",
+      "file": "audio/108121027cac04bf76da1d6f.mp3"
+    },
+    {
+      "text": "ポーンをd2に置こう。",
+      "normalized": "ポーンをd2に置こう",
+      "file": "audio/9caa9c04346a16187b1862cb.mp3"
+    },
+    {
+      "text": "ポーンをd4に動かそう。",
+      "normalized": "ポーンをd4に動かそう",
+      "file": "audio/3ee30a5b99958c40f4dd7d01.mp3"
+    },
+    {
+      "text": "ポーンをd7に置こう。",
+      "normalized": "ポーンをd7に置こう",
+      "file": "audio/53c5930f8eb27d8a8f831be1.mp3"
+    },
+    {
+      "text": "ポーンをe2に置こう。",
+      "normalized": "ポーンをe2に置こう",
+      "file": "audio/f4cc6a7297ca1d640ed66173.mp3"
+    },
+    {
+      "text": "ポーンをe7に置こう。",
+      "normalized": "ポーンをe7に置こう",
+      "file": "audio/0aad60f33459056835e0f42a.mp3"
+    },
+    {
+      "text": "ポーンをf2に置こう。",
+      "normalized": "ポーンをf2に置こう",
+      "file": "audio/641ac48bd4e8be0e3e00f318.mp3"
+    },
+    {
+      "text": "ポーンをf7に置こう。",
+      "normalized": "ポーンをf7に置こう",
+      "file": "audio/b5eec7b5e053eef8f17f991e.mp3"
+    },
+    {
+      "text": "ポーンをg2に置こう。",
+      "normalized": "ポーンをg2に置こう",
+      "file": "audio/d2e669b9707b235415c23981.mp3"
+    },
+    {
+      "text": "ポーンをg7に置こう。",
+      "normalized": "ポーンをg7に置こう",
+      "file": "audio/3e8c58f489a5fc8e5c0c2e77.mp3"
+    },
+    {
+      "text": "ポーンをh2に置こう。",
+      "normalized": "ポーンをh2に置こう",
+      "file": "audio/2541c92978b4655ca701b1bf.mp3"
+    },
+    {
+      "text": "ポーンをh7に置こう。",
+      "normalized": "ポーンをh7に置こう",
+      "file": "audio/15f70bfeb3a6f998ac5b10f6.mp3"
+    },
+    {
+      "text": "ポーンを取りました。",
+      "normalized": "ポーンを取りました",
+      "file": "audio/5a1c34231058270ba3108447.mp3"
+    },
+    {
+      "text": "ルーク",
+      "normalized": "ルーク",
+      "file": "audio/fe66a41fc6ab4527aa7c0dcf.mp3"
+    },
+    {
+      "text": "ルークでg4にある相手の駒を取ろう。",
+      "normalized": "ルークでg4にある相手の駒を取ろう",
+      "file": "audio/9ba734f54c99e0297c54210b.mp3"
+    },
+    {
+      "text": "ルークは縦と横に何マスでも動けます。他の駒は飛び越せません。",
+      "normalized": "ルークは縦と横に何マスでも動けます 他の駒は飛び越せません",
+      "file": "audio/88006ae976acb3b8e6e48e57.mp3"
+    },
+    {
+      "text": "ルークをa1に置こう。",
+      "normalized": "ルークをa1に置こう",
+      "file": "audio/85d830ce18e8b5a1cef9a1b4.mp3"
+    },
+    {
+      "text": "ルークをa8に置こう。",
+      "normalized": "ルークをa8に置こう",
+      "file": "audio/7c7ff73b299553d5ba0cd0ab.mp3"
+    },
+    {
+      "text": "ルークをg4に動かそう。",
+      "normalized": "ルークをg4に動かそう",
+      "file": "audio/24d883801b358749ed9f27ab.mp3"
+    },
+    {
+      "text": "ルークをh1に置こう。",
+      "normalized": "ルークをh1に置こう",
+      "file": "audio/1e33a373afbf967e143c9212.mp3"
+    },
+    {
+      "text": "ルークをh8に置こう。",
+      "normalized": "ルークをh8に置こう",
+      "file": "audio/5d41fb9535679453ce790c30.mp3"
+    },
+    {
+      "text": "ルークを取りました。",
+      "normalized": "ルークを取りました",
+      "file": "audio/896a8bf6c8c76856180b95d0.mp3"
+    },
+    {
+      "text": "全部の課題をクリアしたよ！もう一度遊べるよ。",
+      "normalized": "全部の課題をクリアしたよ もう一度遊べるよ",
+      "file": "audio/164bf9c8ad9e86d8198611fd.mp3"
+    },
+    {
+      "text": "引き分け",
+      "normalized": "引き分け",
+      "file": "audio/897bb04486a1e8acf16b41c4.mp3"
+    },
+    {
+      "text": "攻撃している駒を取ってキングを守ることもできます。h1のビショップを選んで、e4の黒のルークを取ろう。",
+      "normalized": "攻撃している駒を取ってキングを守ることもできます h1のビショップを選んで e4の黒のルークを取ろう",
+      "file": "audio/3d0f051952e0cfb44c395fac.mp3"
+    },
+    {
+      "text": "準備ができたよ！白も黒も16個ずつ。白が先に動くよ。",
+      "normalized": "準備ができたよ 白も黒も16個ずつ 白が先に動くよ",
+      "file": "audio/9a88fd2fe7ac7552bfc21b4d.mp3"
+    },
+    {
+      "text": "白",
+      "normalized": "白",
+      "file": "audio/3366645622a780903cf8cd1c.mp3"
+    },
+    {
+      "text": "白のキングが",
+      "normalized": "白のキングが",
+      "file": "audio/525ca3a10844321939a06b53.mp3"
+    },
+    {
+      "text": "白のクイーンが",
+      "normalized": "白のクイーンが",
+      "file": "audio/51f81fcd63c7bcfc64d37c4d.mp3"
+    },
+    {
+      "text": "白のナイトが",
+      "normalized": "白のナイトが",
+      "file": "audio/dfe1ffde839a16f58e6c1807.mp3"
+    },
+    {
+      "text": "白のビショップが",
+      "normalized": "白のビショップが",
+      "file": "audio/6af17c3eee423653a2c860db.mp3"
+    },
+    {
+      "text": "白のポーンが",
+      "normalized": "白のポーンが",
+      "file": "audio/aa1fccd9a366a0cf5adebb71.mp3"
+    },
+    {
+      "text": "白のルークが",
+      "normalized": "白のルークが",
+      "file": "audio/6168187ae08fc53362fa0b8f.mp3"
+    },
+    {
+      "text": "白の側から盤を見ています。右下は明るい色のマスです。白の駒を先に置いて、そのあと黒の駒を置こう。",
+      "normalized": "白の側から盤を見ています 右下は明るい色のマスです 白の駒を先に置いて そのあと黒の駒を置こう",
+      "file": "audio/0860c8515a2749863fb247e0.mp3"
+    },
+    {
+      "text": "白の番です。白のキングの状態を選ぼう。",
+      "normalized": "白の番です 白のキングの状態を選ぼう",
+      "file": "audio/c96cc3590c3e7f19d7f0cf76.mp3"
+    },
+    {
+      "text": "白の番です。白の駒を選び、1手で黒のキングをチェックメイトしよう。",
+      "normalized": "白の番です 白の駒を選び 1手で黒のキングをチェックメイトしよう",
+      "file": "audio/408cae86492ce489130a574d.mp3"
+    },
+    {
+      "text": "白の駒",
+      "normalized": "白の駒",
+      "file": "audio/c9b64116d759e6703ad0f5ba.mp3"
+    },
+    {
+      "text": "目標は相手のキングをチェックメイトすることです。キングが攻撃されている状態をチェックといいます。ルールに沿ったどの手でもチェックから逃れられなければチェックメイトです。キングを取ることはありません。",
+      "normalized": "目標は相手のキングをチェックメイトすることです キングが攻撃されている状態をチェックといいます ルールに沿ったどの手でもチェックから逃れられなければチェックメイトです キングを取ることはありません",
+      "file": "audio/e8fc4a567efe7ca58b1666b5.mp3"
+    },
+    {
+      "text": "自分の駒を選んで、印のあるマスをタップしよう。",
+      "normalized": "自分の駒を選んで 印のあるマスをタップしよう",
+      "file": "audio/9db82256bb6b638f48282768.mp3"
+    },
+    {
+      "text": "遠くからの攻撃は間に駒を置いて防げます。a2のルークを選んで、e2へ動かしてキングを守ろう。",
+      "normalized": "遠くからの攻撃は間に駒を置いて防げます a2のルークを選んで e2へ動かしてキングを守ろう",
+      "file": "audio/55c45a99974aed858a8acf8c.mp3"
+    },
+    {
+      "text": "駒の動きを試そう。これは動きの練習です。",
+      "normalized": "駒の動きを試そう これは動きの練習です",
+      "file": "audio/37c979abe1a0775e6bb74c49.mp3"
+    },
+    {
+      "text": "駒を長押しして、印のあるマスへ動かそう。駒とマスを順にタップしてもいいよ。",
+      "normalized": "駒を長押しして 印のあるマスへ動かそう 駒とマスを順にタップしてもいいよ",
+      "file": "audio/7df4ce11045393e420264d9a.mp3"
+    },
+    {
+      "text": "黒",
+      "normalized": "黒",
+      "file": "audio/680105f7f1c8587dc66a8676.mp3"
+    },
+    {
+      "text": "黒のキングが",
+      "normalized": "黒のキングが",
+      "file": "audio/7afe7c3a802aac7c3ef008e6.mp3"
+    },
+    {
+      "text": "黒のクイーンが",
+      "normalized": "黒のクイーンが",
+      "file": "audio/17059c2847c36b2983d1ae7b.mp3"
+    },
+    {
+      "text": "黒のナイトが",
+      "normalized": "黒のナイトが",
+      "file": "audio/cd84ef45e114571d35d4fdb2.mp3"
+    },
+    {
+      "text": "黒のビショップが",
+      "normalized": "黒のビショップが",
+      "file": "audio/c37095586c305af85342a0ef.mp3"
+    },
+    {
+      "text": "黒のポーンが",
+      "normalized": "黒のポーンが",
+      "file": "audio/337d437719308243371bb48c.mp3"
+    },
+    {
+      "text": "黒のルークが",
+      "normalized": "黒のルークが",
+      "file": "audio/2f5bea271372bc52b1e52b43.mp3"
+    },
+    {
+      "text": "黒の駒",
+      "normalized": "黒の駒",
+      "file": "audio/b7094d89f57e44cbf5e34f94.mp3"
+    },
+    {
+      "text": "オープニングは対局の始まりです。まず考え方を学び、有名な例を盤上で試しましょう。",
+      "normalized": "オープニングは対局の始まりです まず考え方を学び 有名な例を盤上で試しましょう",
+      "file": "audio/94e8987b6ab229329bfe5cef.mp3"
+    },
+    {
+      "text": "中央のポーンや駒で中央を支配しましょう。中央の4マスはe4、d4、e5、d5です。",
+      "normalized": "中央のポーンや駒で中央を支配しましょう 中央の4マスはe4 d4 e5 d5です",
+      "file": "audio/d6505be4fd838ab09f045a74.mp3"
+    },
+    {
+      "text": "ナイトとビショップを展開しましょう。同じ駒を何度も動かすより、いろいろな駒を使うのが基本です。",
+      "normalized": "ナイトとビショップを展開しましょう 同じ駒を何度も動かすより いろいろな駒を使うのが基本です",
+      "file": "audio/5cad12b18339b2d7ea10339e.mp3"
+    },
+    {
+      "text": "ルール上可能で安全なときにキャスリングを準備しましょう。ルークを連携させ、キングを危険にさらさないようにします。",
+      "normalized": "ルール上可能で安全なときにキャスリングを準備しましょう ルークを連携させ キングを危険にさらさないようにします",
+      "file": "audio/0b2bc9debf1a0f4a93182dac.mp3"
+    },
+    {
+      "text": "毎手、双方のチェック、駒取り、脅威を確認しましょう。名前のあるオープニングでも、すべての手が安全とは限りません。",
+      "normalized": "毎手 双方のチェック 駒取り 脅威を確認しましょう 名前のあるオープニングでも すべての手が安全とは限りません",
+      "file": "audio/588f4992fbae05f75b4a72f2.mp3"
+    },
+    {
+      "text": "イタリアン・ゲーム",
+      "normalized": "イタリアン ゲーム",
+      "file": "audio/af182517bb10696f3e4adf73.mp3"
+    },
+    {
+      "text": "ナイトをf3、ビショップをc4へ展開します。ビショップはf7を狙い、白はキャスリングを準備します。黒にはさまざまな応手があります。",
+      "normalized": "ナイトをf3 ビショップをc4へ展開します ビショップはf7を狙い 白はキャスリングを準備します 黒にはさまざまな応手があります",
+      "file": "audio/69530a4b1632c98306a8f770.mp3"
+    },
+    {
+      "text": "ルイ・ロペス（スペイン定跡）",
+      "normalized": "ルイ ロペス スペイン定跡",
+      "file": "audio/1a1427bbeb7be285cfb6c560.mp3"
+    },
+    {
+      "text": "ビショップをb5へ動かし、e5を守るナイトに圧力をかけます。この例では黒がa6と指し、ビショップに次の行き先を問いかけます。",
+      "normalized": "ビショップをb5へ動かし e5を守るナイトに圧力をかけます この例では黒がa6と指し ビショップに次の行き先を問いかけます",
+      "file": "audio/b1d2dfda15d8ee0c8347d2b8.mp3"
+    },
+    {
+      "text": "スコッチ・ゲーム",
+      "normalized": "スコッチ ゲーム",
+      "file": "audio/8392828162fdb96aaa1f1cc1.mp3"
+    },
+    {
+      "text": "白は早い段階でd4と指し、中央に挑みます。ポーン交換の後、ナイトでd4に取り返し、中央の活動的なマスを占めます。",
+      "normalized": "白は早い段階でd4と指し 中央に挑みます ポーン交換の後 ナイトでd4に取り返し 中央の活動的なマスを占めます",
+      "file": "audio/aa25ca5a8254c77a380957d5.mp3"
+    },
+    {
+      "text": "クイーンズ・ギャンビット",
+      "normalized": "クイーンズ ギャンビット",
+      "file": "audio/b011ace5b1f5d15a1d0df7aa.mp3"
+    },
+    {
+      "text": "白はcポーンを差し出し、黒のd5ポーンに挑みます。黒は取ることも断ることもできます。この例ではe6と断り、駒を展開します。",
+      "normalized": "白はcポーンを差し出し 黒のd5ポーンに挑みます 黒は取ることも断ることもできます この例ではe6と断り 駒を展開します",
+      "file": "audio/c0b49430dabc5353d0fb074a.mp3"
+    },
+    {
+      "text": "ロンドン・システム",
+      "normalized": "ロンドン システム",
+      "file": "audio/ea1316f2767efd29ef11f5f7.mp3"
+    },
+    {
+      "text": "白はe3を指す前に、黒マスのビショップをf4へ展開します。堅い中央を作りながら、黒の手に合わせて計画を変えましょう。",
+      "normalized": "白はe3を指す前に 黒マスのビショップをf4へ展開します 堅い中央を作りながら 黒の手に合わせて計画を変えましょう",
+      "file": "audio/735e07ef5139dde1ea277c2e.mp3"
+    },
+    {
+      "text": "シシリアン・ディフェンス",
+      "normalized": "シシリアン ディフェンス",
+      "file": "audio/a13981820251ed2cf29531ba.mp3"
+    },
+    {
+      "text": "黒はe4にc5で応じ、横からd4の支配を争います。このオープン・シシリアンの例ではポーンを交換し、白のナイトがd4へ向かいます。",
+      "normalized": "黒はe4にc5で応じ 横からd4の支配を争います このオープン シシリアンの例ではポーンを交換し 白のナイトがd4へ向かいます",
+      "file": "audio/6fa369e58d37c2de8f4985b9.mp3"
+    },
+    {
+      "text": "フレンチ・ディフェンス",
+      "normalized": "フレンチ ディフェンス",
+      "file": "audio/01db90f22fb7cfea789b3537.mp3"
+    },
+    {
+      "text": "黒はe6でd5を準備します。このアドバンス変化では、白はe5で空間を得て、黒はc5で中央に挑みます。",
+      "normalized": "黒はe6でd5を準備します このアドバンス変化では 白はe5で空間を得て 黒はc5で中央に挑みます",
+      "file": "audio/99459d9992f0e4f7c4ec2424.mp3"
+    },
+    {
+      "text": "カロ・カン・ディフェンス",
+      "normalized": "カロ カン ディフェンス",
+      "file": "audio/2816e6b3cd337ddcd26ab100.mp3"
+    },
+    {
+      "text": "黒はc6でd5を準備します。この例では黒がe4で取り、白はナイトで取り返します。双方とも駒の展開を続ける必要があります。",
+      "normalized": "黒はc6でd5を準備します この例では黒がe4で取り 白はナイトで取り返します 双方とも駒の展開を続ける必要があります",
+      "file": "audio/aaa4a8fa1348ce8ce82809e3.mp3"
+    },
+    {
+      "text": "このポーンの手は中央の支配を争い、駒が動く空間を広げます。",
+      "normalized": "このポーンの手は中央の支配を争い 駒が動く空間を広げます",
+      "file": "audio/226e16a059fb17a2b9a5d293.mp3"
+    },
+    {
+      "text": "軽い駒が戦いに加わり、重要なマスに働きかけます。",
+      "normalized": "軽い駒が戦いに加わり 重要なマスに働きかけます",
+      "file": "audio/3a269702b1caf8064adb8d99.mp3"
+    },
+    {
+      "text": "この手は相手の駒や、相手の中央支配に挑みます。",
+      "normalized": "この手は相手の駒や 相手の中央支配に挑みます",
+      "file": "audio/de30431e228a8b994bc66d80.mp3"
+    },
+    {
+      "text": "このポーンの手は中央の形を支えるか、別の中央ポーンの前進を準備します。",
+      "normalized": "このポーンの手は中央の形を支えるか 別の中央ポーンの前進を準備します",
+      "file": "audio/214c0d2fc025d69b30dc206d.mp3"
+    },
+    {
+      "text": "駒取りによって中央が変わります。どの駒やポーンがその場所に入るか見てみましょう。",
+      "normalized": "駒取りによって中央が変わります どの駒やポーンがその場所に入るか見てみましょう",
+      "file": "audio/1b4ea7534d256695276ad553.mp3"
+    },
+    {
+      "text": "ポーンが前進して空間を得ます。相手がポーンの鎖をどう攻められるか確認しましょう。",
+      "normalized": "ポーンが前進して空間を得ます 相手がポーンの鎖をどう攻められるか確認しましょう",
+      "file": "audio/c6f1c67867060ab090f8285d.mp3"
+    }
+  ]
+}

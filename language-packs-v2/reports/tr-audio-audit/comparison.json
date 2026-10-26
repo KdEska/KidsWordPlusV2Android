@@ -1,0 +1,3815 @@
+[
+  {
+    "conceptId": "animals:7",
+    "displayText": "Buzağı",
+    "expectedSpokenText": "Buzağı",
+    "legacyLabels": [
+      "Dana"
+    ],
+    "audioPath": "audio/slide_animals_calf_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Dana!",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6153960227966309
+    ],
+    "evidenceSha256": "e788f46e9abb0fe84620a148455303e5876e6cf4521165274c74e35e8ac7cd5b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:21",
+    "displayText": "Yunus",
+    "expectedSpokenText": "Yunus",
+    "legacyLabels": [
+      "Yunus Balığı"
+    ],
+    "audioPath": "audio/slide_animals_dolphin_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Yunus Balığı",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6379474231175014
+    ],
+    "evidenceSha256": "b4bd0f71d63dc91a7be1319d9499e0d2c79240d39fbc3923b5dd48328bb50455",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:23",
+    "displayText": "Yusufçuk",
+    "expectedSpokenText": "Yusufçuk",
+    "legacyLabels": [
+      "Helikopter Böceği"
+    ],
+    "audioPath": "audio/slide_animals_dragonfly_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Helikopter böceği",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.3690083384513855
+    ],
+    "evidenceSha256": "050f746defa2de2fc8414ce2c6a420603747ad949fb12050336421aade08d21a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:42",
+    "displayText": "Karasinek",
+    "expectedSpokenText": "Karasinek",
+    "legacyLabels": [
+      "Sinek"
+    ],
+    "audioPath": "audio/slide_animals_housefly_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sinek",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6794537544250489
+    ],
+    "evidenceSha256": "610e1fc12550d408ba67644bb3a445bf1357f48b8d5f3797542d66d070593ede",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:46",
+    "displayText": "Denizanası",
+    "expectedSpokenText": "Denizanası",
+    "legacyLabels": [
+      "Deniz Anası"
+    ],
+    "audioPath": "audio/slide_animals_jellyfish_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Deniz Anası",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4721984011786325
+    ],
+    "evidenceSha256": "e70636a23c4396199f66629e3e26fc8c860ed848518293e66af6ddc8d3cf8970",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:48",
+    "displayText": "Uğur böceği",
+    "expectedSpokenText": "Uğur böceği",
+    "legacyLabels": [
+      "Uçuç Böceği"
+    ],
+    "audioPath": "audio/slide_animals_ladybug_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Uçuş Pöce'yi.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.888358602921168
+    ],
+    "evidenceSha256": "9cf61c1f024892933d926ec187974e98ef25411a150bfde6066df8bd79baa609",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:67",
+    "displayText": "Tavşan",
+    "expectedSpokenText": "Tavşan",
+    "legacyLabels": [],
+    "audioPath": "audio/slide_animals_rabbit_tr.mp3",
+    "status": "no_legacy_label_listening_review",
+    "transcript": "Zafşan",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6696208374840873
+    ],
+    "evidenceSha256": "a3ed48dbe64c62e40104e2ff0962fc79d0caec0f3d17a8f93d2e34a6ed9d5a52",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:71",
+    "displayText": "Denizatı",
+    "expectedSpokenText": "Denizatı",
+    "legacyLabels": [
+      "Deniz Atı"
+    ],
+    "audioPath": "audio/slide_animals_seahorse_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Deniz Atı",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4642752068383353
+    ],
+    "evidenceSha256": "3f8f6da39838a8a360ffd64e5a8f827630494bf2fb2965464e3f713ffdb85bf5",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:72",
+    "displayText": "Fok",
+    "expectedSpokenText": "Fok",
+    "legacyLabels": [
+      "Fog"
+    ],
+    "audioPath": "audio/slide_animals_seal_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Fok",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.49352569580078126
+    ],
+    "evidenceSha256": "8365bdaae9fbd6a40ce5135101343c16b6739b784289d9a7551a54612c35f2f6",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:78",
+    "displayText": "Kalamar",
+    "expectedSpokenText": "Kalamar",
+    "legacyLabels": [
+      "Mürekkep Balığı"
+    ],
+    "audioPath": "audio/slide_animals_squid_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Mürekkep balığı",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5777898894415961
+    ],
+    "evidenceSha256": "dfca9a2cfd02bec3058a64f4fd3e909dd38eb4f23adfbaab705ab5bec3e77fd9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:79",
+    "displayText": "Denizyıldızı",
+    "expectedSpokenText": "Denizyıldızı",
+    "legacyLabels": [
+      "Deniz Yıldızı"
+    ],
+    "audioPath": "audio/slide_animals_starfish_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Deniz Yıldızı",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.3037186728583442
+    ],
+    "evidenceSha256": "a759328bd723d0d04282b2f062b456af1b1f8df1daeaf0f03b606de489d53301",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "animals:86",
+    "displayText": "Mors",
+    "expectedSpokenText": "Mors",
+    "legacyLabels": [
+      "Deniz Aygırı"
+    ],
+    "audioPath": "audio/slide_animals_walrus_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Deniz Aygarı",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.4648953825235367
+    ],
+    "evidenceSha256": "5ef62b11d511c0da90044e50563ee92fbe532d4745daff741e5175c7a2e74cbe",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:101",
+    "displayText": "Havalimanı",
+    "expectedSpokenText": "Havalimanı",
+    "legacyLabels": [
+      "Havaalanı"
+    ],
+    "audioPath": "audio/slide_buildings_airport_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Havaalan",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6316278874874115
+    ],
+    "evidenceSha256": "f5ab4787655e1a5dad5fdbd088deab5b46ca35bb402effc776f5fd18224f54e1",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:104",
+    "displayText": "Plaj",
+    "expectedSpokenText": "Plaj",
+    "legacyLabels": [
+      "Sahil"
+    ],
+    "audioPath": "audio/slide_buildings_beach_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sahil.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5240625639756521
+    ],
+    "evidenceSha256": "1ea3fbf9893f9164456be3d56497e86ab9a5f7b476c7fbaf5f110f88de0c0212",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:108",
+    "displayText": "Kale",
+    "expectedSpokenText": "Kale",
+    "legacyLabels": [
+      "Şato - Kale"
+    ],
+    "audioPath": "audio/slide_buildings_castle_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Şato, Kale",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8850525915622711
+    ],
+    "evidenceSha256": "8fe1c57fdd41b71f9f56aa324ff1ef117c2da0656b01aa947e0b00e108ab1d7b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:121",
+    "displayText": "Otel",
+    "expectedSpokenText": "Otel",
+    "legacyLabels": [
+      "Hotel"
+    ],
+    "audioPath": "audio/slide_buildings_hotel_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Hotel",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.33531367778778076
+    ],
+    "evidenceSha256": "e625a99f29a88c933ac4b850207913a2d29ed178a08778748222cebee380e828",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:122",
+    "displayText": "Tropikal orman",
+    "expectedSpokenText": "Tropikal orman",
+    "legacyLabels": [
+      "Yağmur ormanı"
+    ],
+    "audioPath": "audio/slide_buildings_jungle_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Yağmur ormanı.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5268870700489391
+    ],
+    "evidenceSha256": "c843855d8cf3155bcafa6ce1285cba67ccbbb38d93c357b3ffc67a131f6eb737",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:137",
+    "displayText": "Sokak",
+    "expectedSpokenText": "Sokak",
+    "legacyLabels": [
+      "Cadde"
+    ],
+    "audioPath": "audio/slide_buildings_street_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çatı",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7114197313785553
+    ],
+    "evidenceSha256": "e61fda9acac8d9b8365315433d959de65048d63d719346cd8de8e48e67a75985",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:138",
+    "displayText": "Süpermarket",
+    "expectedSpokenText": "Süpermarket",
+    "legacyLabels": [
+      "Süper market"
+    ],
+    "audioPath": "audio/slide_buildings_super_market_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Süpermarket",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.7761065165201823
+    ],
+    "evidenceSha256": "53196af838aa07114ec2103ee3ea42904abe6e34dc0ce96adb7b10147bed9009",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:139",
+    "displayText": "Sinagog",
+    "expectedSpokenText": "Sinagog",
+    "legacyLabels": [
+      "Havra"
+    ],
+    "audioPath": "audio/slide_buildings_synagogue_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Havra",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.4068171977996826
+    ],
+    "evidenceSha256": "4cb54dc6eef9538606f557fa92ca7c330f0c7ba62ceecbeb8e41b4d6867473f9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:141",
+    "displayText": "Yanardağ",
+    "expectedSpokenText": "Yanardağ",
+    "legacyLabels": [
+      "Volkan"
+    ],
+    "audioPath": "audio/slide_buildings_volcano_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Volkan",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8912135124206543
+    ],
+    "evidenceSha256": "449888858a9c390de58519a6222b224b89638a7878fb2929ad421e831e830944",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:143",
+    "displayText": "İş yeri",
+    "expectedSpokenText": "İş yeri",
+    "legacyLabels": [
+      "Iş yeri"
+    ],
+    "audioPath": "audio/slide_buildings_workplace_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İşleri",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.527957534790039
+    ],
+    "evidenceSha256": "642fe27b6dd31ab6f933114cf1e6e86e9f07f0fced39b9fb816f97140f6bfa93",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:152",
+    "displayText": "Halikarnas Mozolesi",
+    "expectedSpokenText": "Halikarnas Mozolesi",
+    "legacyLabels": [
+      "Halikarnas Mozelesi"
+    ],
+    "audioPath": "audio/slide_buildings_halicarnassus_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Harikarnas Moselesi",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6226151097904552
+    ],
+    "evidenceSha256": "29bd9198fc91ae495557a609864bd121f4336d0760b6081c3091023f6db4ca66",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:153",
+    "displayText": "Benzin istasyonu",
+    "expectedSpokenText": "Benzin istasyonu",
+    "legacyLabels": [
+      "Petrol istasyonu"
+    ],
+    "audioPath": "audio/slide_buildings_petrol_station_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Petrol istasyon",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.4588639736175537
+    ],
+    "evidenceSha256": "204402e43a69ceb95166d9d62451cc47baa93d1952f01f8a4768de6e852fd51b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:160",
+    "displayText": "Akashi Kaikyō Köprüsü - Japonya",
+    "expectedSpokenText": "Akashi Kaikyō Köprüsü - Japonya",
+    "legacyLabels": [
+      "Akashi Kaikyö Köprüsü – Japonya"
+    ],
+    "audioPath": "audio/slide_buildings_akashi_kaikyo_bridge_japan_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Akashi kai kyou köprüsü Japonya",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6831629435221355
+    ],
+    "evidenceSha256": "0fbd37db6a5ab11668793ea1c3a167cead95ea4d4d111fc9a18356e22a78d66e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:168",
+    "displayText": "Çin Seddi",
+    "expectedSpokenText": "Çin Seddi",
+    "legacyLabels": [
+      "Çin Seddi - Çin"
+    ],
+    "audioPath": "audio/slide_buildings_great_wall_of_china_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "cin seti cin",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7099502256938389
+    ],
+    "evidenceSha256": "13c1f65ca6d368f1edbb306f939b24374254cd3d731597dea5463ac22037d82e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:170",
+    "displayText": "Babil'in Asma Bahçeleri",
+    "expectedSpokenText": "Babil'in Asma Bahçeleri",
+    "legacyLabels": [
+      "Babilin Asma Bahçeleri"
+    ],
+    "audioPath": "audio/slide_buildings_hanging_gardens_of_babylon_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Babilenin asma bahçeleri",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5009868470105258
+    ],
+    "evidenceSha256": "e1dc74c03f6763141196a2edd1b4a411ce0d3b34840d1da72ebf1907e88f65b2",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:171",
+    "displayText": "İskenderiye Feneri",
+    "expectedSpokenText": "İskenderiye Feneri",
+    "legacyLabels": [
+      "Iskenderiye Feneri"
+    ],
+    "audioPath": "audio/slide_buildings_lighthouse_of_alexandria_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İskenderi Efeneri",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5211582541465759
+    ],
+    "evidenceSha256": "271fe7df570a092e5e1b9afa8f0bc003c4bc5df0cb75a6bb3cbf15c5f3b00afd",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:174",
+    "displayText": "Öresund Köprüsü - İsveç ve Danimarka",
+    "expectedSpokenText": "Öresund Köprüsü - İsveç ve Danimarka",
+    "legacyLabels": [
+      "Öresund Köprüsü Malmö - İsveç ve Danimarka"
+    ],
+    "audioPath": "audio/slide_buildings_oresund_bridge_malmo_sweden_and_denmark_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Öresund Köprüsü Malmö, İsveç ve Danimarka",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.38735581121661444
+    ],
+    "evidenceSha256": "ff80d30824b356d158d968aa9bf99ba24b897639b2daf6d812afc6d0471066b8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:178",
+    "displayText": "Ponte Vecchio Köprüsü - İtalya",
+    "expectedSpokenText": "Ponte Vecchio Köprüsü - İtalya",
+    "legacyLabels": [
+      "Ponte Vecchio – İtalya"
+    ],
+    "audioPath": "audio/slide_buildings_ponte_vecchio_italy_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Ponte Vido Italia",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6376982256770134
+    ],
+    "evidenceSha256": "61805f9478f802bd0b431d8b015fcd92b57cc07c13ac5bb73404ce90c378a0e0",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:184",
+    "displayText": "Sultanahmet Camii - Türkiye",
+    "expectedSpokenText": "Sultanahmet Camii - Türkiye",
+    "legacyLabels": [
+      "Sultanahmet Cami - Türkiye"
+    ],
+    "audioPath": "audio/slide_buildings_sultanahmet_mosque_turkey_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sultanahmet Camii Türkiye",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.45129969120025637
+    ],
+    "evidenceSha256": "d7ae895e3401d040c2275b771992dd10db631440f5dcea7984e5de0a73f86b2f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:185",
+    "displayText": "Sidney Liman Köprüsü - Avustralya",
+    "expectedSpokenText": "Sidney Liman Köprüsü - Avustralya",
+    "legacyLabels": [
+      "Sidney Limanı Köprüsü – Avustralya"
+    ],
+    "audioPath": "audio/slide_buildings_sydney_harbor_bridge_australia_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sedne'yi limanı köprüsü, Avustralya",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.44635506802135044
+    ],
+    "evidenceSha256": "ef59a87231232dcf04fbf49d37ad09a7bedc299729bcb03e062ffca943b8be6a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "buildings:186",
+    "displayText": "Tac Mahal - Hindistan",
+    "expectedSpokenText": "Tac Mahal - Hindistan",
+    "legacyLabels": [
+      "Taj Mahal - Hindistan"
+    ],
+    "audioPath": "audio/slide_buildings_taj_mahal_india_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Taj Mahal, Hindistan",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.4084475305345323
+    ],
+    "evidenceSha256": "18ecbe0e5af09f072366fd36cf7af60dab6a990e563b56bad162020936bb3df9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "clocks:192",
+    "displayText": "Saat on bir",
+    "expectedSpokenText": "Saat on bir",
+    "legacyLabels": [
+      "Saat onbir"
+    ],
+    "audioPath": "audio/slide_my_school_clock_11_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Saat on bir",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.7372793299811227
+    ],
+    "evidenceSha256": "0a1791ca3c3c3eda19dda74e29f88a9e1751f8f483de3849869d7f80233bdd9e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:245",
+    "displayText": "Angola",
+    "expectedSpokenText": "Angola",
+    "legacyLabels": [
+      "Angora"
+    ],
+    "audioPath": "audio/slide_countries_angola_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Angora",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6370195388793946
+    ],
+    "evidenceSha256": "3fb99361c3b63c6bd2026379d595b02f4578975b92641ca41f87cb1bddf37edc",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:250",
+    "displayText": "Azerbaycan",
+    "expectedSpokenText": "Azerbaycan",
+    "legacyLabels": [
+      "Azerbeycan"
+    ],
+    "audioPath": "audio/slide_countries_azerbaijan_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Azerbaycan",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5129413803418478
+    ],
+    "evidenceSha256": "efd509fea206877760ab16e922155f77d64c29da8f5c57d3b40d82e7d519234e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:283",
+    "displayText": "Esvatini",
+    "expectedSpokenText": "Esvatini",
+    "legacyLabels": [
+      "Eswatini / Svaziland"
+    ],
+    "audioPath": "audio/slide_countries_eswatini_swaziland_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Eswatini, Sivasilant",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8418229493227872
+    ],
+    "evidenceSha256": "d571c5173d217c454c4aa47124985b87fd0e6c6afcad4eaa790797f4d0284f92",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:326",
+    "displayText": "Kuzey Makedonya",
+    "expectedSpokenText": "Kuzey Makedonya",
+    "legacyLabels": [
+      "Makedonya"
+    ],
+    "audioPath": "audio/slide_countries_macedonia_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Makedonya.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.672926494053432
+    ],
+    "evidenceSha256": "dc6f520bc627af8ec72a63afd1e80147d18acb83fb1e575a93b3ffc97c18c40b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:328",
+    "displayText": "Malavi",
+    "expectedSpokenText": "Malavi",
+    "legacyLabels": [
+      "Malawi"
+    ],
+    "audioPath": "audio/slide_countries_malawi_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Malavi",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5541719436645508
+    ],
+    "evidenceSha256": "83e73117269cec3c1a4dad5fad5efd952c13ed9f4908faacee444f71b64c51d1",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:343",
+    "displayText": "Myanmar (Burma)",
+    "expectedSpokenText": "Myanmar (Burma)",
+    "legacyLabels": [
+      "Myanmar / Burma"
+    ],
+    "audioPath": "audio/slide_countries_myanmar_burma_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Bir an march burma.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8429092831081815
+    ],
+    "evidenceSha256": "2289f67fb02cf58b2185ea2c8371a1cf7522ae413618bfd849c590250d96854f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:356",
+    "displayText": "Filistin Bölgeleri",
+    "expectedSpokenText": "Filistin Bölgeleri",
+    "legacyLabels": [
+      "Filistin"
+    ],
+    "audioPath": "audio/slide_countries_palestine_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Filistin",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6426125268141428
+    ],
+    "evidenceSha256": "5cb0d6e3de7c215758d00c15698f8f0203a830f82a0c85ec9f8341b737d376d9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:376",
+    "displayText": "İspanya",
+    "expectedSpokenText": "İspanya",
+    "legacyLabels": [
+      "ispanya"
+    ],
+    "audioPath": "audio/slide_countries_spain_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İspanya",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4957631230354309
+    ],
+    "evidenceSha256": "ac776a4f6462b64d471bf98508d4338da319ef0b585077231c9315f8311cb4e7",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:393",
+    "displayText": "Birleşik Krallık",
+    "expectedSpokenText": "Birleşik Krallık",
+    "legacyLabels": [
+      "Birleşik Krallık (İngiltere)"
+    ],
+    "audioPath": "audio/slide_countries_united_kingdom_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Birleşik Kralık, İngiltere",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.32594770405973705
+    ],
+    "evidenceSha256": "6e9734661724d848ff36d907433eb15ae5f09cd3179473725e8d5d3939a0dcaa",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:407",
+    "displayText": "Liechtenstein",
+    "expectedSpokenText": "Liechtenstein",
+    "legacyLabels": [
+      "Lihtenştayn"
+    ],
+    "audioPath": "audio/slide_countries_liechtenstein_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Liechtenstein",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5619668960571289
+    ],
+    "evidenceSha256": "c8bd4699068ca36c0e8a075e83bb3944896fbd98b0e98703a9a6124bd77994cc",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:410",
+    "displayText": "Bosna-Hersek",
+    "expectedSpokenText": "Bosna-Hersek",
+    "legacyLabels": [
+      "Bosna Hersek"
+    ],
+    "audioPath": "audio/slide_countries_bosnia_and_herzegovina_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Vosna her seki.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.736574774980545
+    ],
+    "evidenceSha256": "7c941bd274ae08ce0b91a35d25d4e8d0e8ef889dd64d370042aa9870a814e628",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:412",
+    "displayText": "Cape Verde",
+    "expectedSpokenText": "Cape Verde",
+    "legacyLabels": [
+      "Cabo Verde"
+    ],
+    "audioPath": "audio/slide_countries_cabo_verde_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çabuk ver de.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -1.0786785549587674
+    ],
+    "evidenceSha256": "43c51075ef65ca7dc647562d6be0217f2bdd3625d6afdc9ca30502ffb489f801",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:415",
+    "displayText": "Côte d’Ivoire",
+    "expectedSpokenText": "Côte d’Ivoire",
+    "legacyLabels": [
+      "Fildişi Sahili"
+    ],
+    "audioPath": "audio/slide_countries_cote_divoire_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Fildişe Sahili",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6766833729214139
+    ],
+    "evidenceSha256": "1a7bffef3add6f63c0c94b8a59f7e6ae3aa7802b56d15988ed43d9293bfe933b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:416",
+    "displayText": "Çekya",
+    "expectedSpokenText": "Çekya",
+    "legacyLabels": [
+      "Çek Cumhuriyeti"
+    ],
+    "audioPath": "audio/slide_countries_czech_republic_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çek Cumhuriyeti",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.38602060741848415
+    ],
+    "evidenceSha256": "82bf0b7d542f91baf658d4441bd6ad72725b5bd6e1538fd36a92fd90d5f93c25",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:417",
+    "displayText": "Kongo - Kinşasa",
+    "expectedSpokenText": "Kongo - Kinşasa",
+    "legacyLabels": [
+      "Kongo Demokratik Cumhuriyeti"
+    ],
+    "audioPath": "audio/slide_countries_democratic_republic_of_the_congo_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "KONGO DEMOKRATİK ÇUM HOLUYETİ",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6517727602095831
+    ],
+    "evidenceSha256": "9338efbcb23abf9ebcbbbe01179a2e34a86e75e68ad703bd4856ffb1bf3b80f8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:422",
+    "displayText": "Marshall Adaları",
+    "expectedSpokenText": "Marshall Adaları",
+    "legacyLabels": [
+      "Marşal Adaları"
+    ],
+    "audioPath": "audio/slide_countries_marshall_islands_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Marşaladaları",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6376657336950302
+    ],
+    "evidenceSha256": "8c4351723a442246030461546ab04b4d0aea73215f40bbd41aaa9abb6dacc942",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "countries:425",
+    "displayText": "Kongo - Brazavil",
+    "expectedSpokenText": "Kongo - Brazavil",
+    "legacyLabels": [
+      "Kongo Cumhuriyeti"
+    ],
+    "audioPath": "audio/slide_countries_republic_of_the_congo_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kanka Cumhuriyeti",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5189584096272787
+    ],
+    "evidenceSha256": "4114bd458ba1c71cd9d9dc4d93301c9d47dad77f4e55c7149fc2e04643dc9d38",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:441",
+    "displayText": "Asteroit",
+    "expectedSpokenText": "Asteroit",
+    "legacyLabels": [
+      "Astroid"
+    ],
+    "audioPath": "audio/slide_discover_space_astroid_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "ASTROIT",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7977528742381504
+    ],
+    "evidenceSha256": "62bb66dd2722d4899bb90899515cf724eccfb70a50dd25f0b4babc081d9c76be",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:445",
+    "displayText": "Uzay kapsülü",
+    "expectedSpokenText": "Uzay kapsülü",
+    "legacyLabels": [
+      "Kapsül"
+    ],
+    "audioPath": "audio/slide_discover_space_capsule_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kapsül",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.456173171599706
+    ],
+    "evidenceSha256": "7176fc2bbe9f30371041c4829e339fb7b3b316112998ecc2c4859bda32888c91",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:458",
+    "displayText": "Gözlemevi",
+    "expectedSpokenText": "Gözlemevi",
+    "legacyLabels": [
+      "Rasathane/Gözlem Evi"
+    ],
+    "audioPath": "audio/slide_discover_space_observatory_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Rasa tane gözlemevi",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.46354781256781685
+    ],
+    "evidenceSha256": "a57439ea0046fd9f0702d124c7eadb90aa65a1d66edadebd647db7dff2379811",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:463",
+    "displayText": "Kuazar",
+    "expectedSpokenText": "Kuazar",
+    "legacyLabels": [
+      "Kuasar"
+    ],
+    "audioPath": "audio/slide_discover_space_quasar_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kua sar",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.7741639018058777
+    ],
+    "evidenceSha256": "240d2eee1de2f2eda5880e37ed9e9f6ad7ce56971645c576c01ff7a2d47b8a40",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:473",
+    "displayText": "Büyük Kepçe",
+    "expectedSpokenText": "Büyük Kepçe",
+    "legacyLabels": [
+      "Büyük Ayı"
+    ],
+    "audioPath": "audio/slide_discover_space_big_dipper_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tıkayı",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.9872238636016846
+    ],
+    "evidenceSha256": "55e89fffea2c28993c72c2b2a89c3f6f74cbc0450d95d0cd82fc25a8ba1f98ad",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:474",
+    "displayText": "Kara delik",
+    "expectedSpokenText": "Kara delik",
+    "legacyLabels": [
+      "Karadelik"
+    ],
+    "audioPath": "audio/slide_discover_space_black_hole_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Karadelik",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.512299929346357
+    ],
+    "evidenceSha256": "538198c566cfaab22ea4545c59383f3b3c05c615b318728f5fe99daa2eeea390",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:481",
+    "displayText": "Uzay istasyonu",
+    "expectedSpokenText": "Uzay istasyonu",
+    "legacyLabels": [
+      "Uzay İstasyonu"
+    ],
+    "audioPath": "audio/slide_discover_space_space_station_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Uzayı stasyonu",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5266693890094757
+    ],
+    "evidenceSha256": "2f0476f26a0398e0a6204ceb840b4e714e9a678416ebae69922470be6b0fe8cd",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:482",
+    "displayText": "Küçükayı",
+    "expectedSpokenText": "Küçükayı",
+    "legacyLabels": [
+      "Küçük Ayı"
+    ],
+    "audioPath": "audio/slide_discover_space_ursa_minor_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Küçük ayı",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4429628252983093
+    ],
+    "evidenceSha256": "7015be6361ad24e055c658d2627385b1f8ad732e5bc8734712b44a65d7b33695",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "space:496",
+    "displayText": "Hubble Teleskobu",
+    "expectedSpokenText": "Hubble Teleskobu",
+    "legacyLabels": [
+      "Hubble Teleskopu"
+    ],
+    "audioPath": "audio/slide_discover_space_hubble_telescope_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Hubble Telescope",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5700069665908813
+    ],
+    "evidenceSha256": "78c705fa539a953f935bcc2ee23539e42367041543b4945e39ef4ec1a1b25ae9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:504",
+    "displayText": "Ambar",
+    "expectedSpokenText": "Ambar",
+    "legacyLabels": [
+      "Ahır"
+    ],
+    "audioPath": "audio/slide_farm_barn_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Ahir.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7258368531862894
+    ],
+    "evidenceSha256": "cb2b23915169c04c6d0107b9490f44dc7c492c678ac50326fa0c4e2ef57e248a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:505",
+    "displayText": "Varil",
+    "expectedSpokenText": "Varil",
+    "legacyLabels": [
+      "Fıçı"
+    ],
+    "audioPath": "audio/slide_farm_barrel_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Füçü",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6874977350234985
+    ],
+    "evidenceSha256": "3d45c8423a8b48e95db8783caff2fc239b5cdedb976650c2ceba16eafb1694ed",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:506",
+    "displayText": "Fasulye",
+    "expectedSpokenText": "Fasulye",
+    "legacyLabels": [
+      "Fasülye"
+    ],
+    "audioPath": "audio/slide_farm_beans_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Posunye.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.9774169921875
+    ],
+    "evidenceSha256": "efbfa399584fb2f6bfdbd559f7ded62968869b9ce178bf10c25fad981c30e637",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:507",
+    "displayText": "Ağaç gövdesi",
+    "expectedSpokenText": "Ağaç gövdesi",
+    "legacyLabels": [
+      "Gövde"
+    ],
+    "audioPath": "audio/slide_farm_body_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Gördü",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.4411984980106354
+    ],
+    "evidenceSha256": "2af282342803ed5a8279bf81a92d3a8c97996729a153e1bf5bcca5ae617ee2c1",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:513",
+    "displayText": "Buzağı",
+    "expectedSpokenText": "Buzağı",
+    "legacyLabels": [
+      "Dana"
+    ],
+    "audioPath": "audio/slide_farm_calf_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Dana!",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6153960227966309
+    ],
+    "evidenceSha256": "e788f46e9abb0fe84620a148455303e5876e6cf4521165274c74e35e8ac7cd5b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:536",
+    "displayText": "Çimen",
+    "expectedSpokenText": "Çimen",
+    "legacyLabels": [
+      "Ot"
+    ],
+    "audioPath": "audio/slide_farm_grass_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Ot.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6725410461425781
+    ],
+    "evidenceSha256": "44432e81bedf1373f3a694690ae70a3bec01a02b21f2686b252a0e8ac4e2d3b3",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:544",
+    "displayText": "Kağnı",
+    "expectedSpokenText": "Kağnı",
+    "legacyLabels": [
+      "Öküz Arabası"
+    ],
+    "audioPath": "audio/slide_farm_ox_car_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Öküz Arabası",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.42356691136956215
+    ],
+    "evidenceSha256": "900658c00db5999137c7376fe36b44eb7387d99870d2791ab09e6def97ca26b3",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:546",
+    "displayText": "Patika",
+    "expectedSpokenText": "Patika",
+    "legacyLabels": [
+      "Patika Yol"
+    ],
+    "audioPath": "audio/slide_farm_pathway_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Fatih Koyol",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7128958851099014
+    ],
+    "evidenceSha256": "c07a868c715688b3fb34082efa03890b330e1cd9234177e1af6c34d76cdc5878",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:549",
+    "displayText": "Domuz",
+    "expectedSpokenText": "Domuz",
+    "legacyLabels": [],
+    "audioPath": "audio/slide_farm_pig_tr.mp3",
+    "status": "no_legacy_label_listening_review",
+    "transcript": "Domoz.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.9801950454711914
+    ],
+    "evidenceSha256": "273d45e40c1d79a4335bbf82b35c916b486bc9236e72db98d0fa2d22125c0498",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:566",
+    "displayText": "Ayçiçeği",
+    "expectedSpokenText": "Ayçiçeği",
+    "legacyLabels": [
+      "Ay Çiçeği"
+    ],
+    "audioPath": "audio/slide_farm_sunflower_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Ay çiçeği.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8576191266377767
+    ],
+    "evidenceSha256": "3dd38a5cde3178722d53ca276d8601c9fc065639bde78932c3933fe33c35d9a5",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:568",
+    "displayText": "Römork",
+    "expectedSpokenText": "Römork",
+    "legacyLabels": [
+      "Romörk"
+    ],
+    "audioPath": "audio/slide_farm_trailer_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Römürk",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -1.0907061440604073
+    ],
+    "evidenceSha256": "dbbf0760c744279f6a6417758165be2de257c4043de08f5bb05f57e4ad705bb7",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:576",
+    "displayText": "Çiftçi",
+    "expectedSpokenText": "Çiftçi",
+    "legacyLabels": [],
+    "audioPath": "audio/slide_farm_farmer_tr.mp3",
+    "status": "no_legacy_label_listening_review",
+    "transcript": "Çiftçi",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.36623701453208923
+    ],
+    "evidenceSha256": "8c15f7b15e84c21970656e9eeed5aedd0679ee5187373580d5690c31c4343ab8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:583",
+    "displayText": "Yemlik",
+    "expectedSpokenText": "Yemlik",
+    "legacyLabels": [
+      "Yalak"
+    ],
+    "audioPath": "audio/slide_farm_feeding_trough_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Yalak.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.7084562608173915
+    ],
+    "evidenceSha256": "0327f9c2beea8b6c1750252cc266e06e19be6dd177778b7d3f49dc05f2e40759",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:585",
+    "displayText": "Saman balyaları",
+    "expectedSpokenText": "Saman balyaları",
+    "legacyLabels": [
+      "Saman Balyası"
+    ],
+    "audioPath": "audio/slide_farm_straw_bales_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Saman Bayes",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7703823872974941
+    ],
+    "evidenceSha256": "028fe718b45dd47da9f7312fa658249ae898bf57624df92208ca13f169faa551",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "farm:590",
+    "displayText": "Hayvan suluğu",
+    "expectedSpokenText": "Hayvan suluğu",
+    "legacyLabels": [
+      "Su Yalağı"
+    ],
+    "audioPath": "audio/slide_farm_water_feeding_trough_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Süya da.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8942336695534843
+    ],
+    "evidenceSha256": "2299e2a659530b2b4ab6c3de1bd607598dc8f034b004f81c2837558e4eff37c3",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:595",
+    "displayText": "Angola",
+    "expectedSpokenText": "Angola",
+    "legacyLabels": [
+      "Angora"
+    ],
+    "audioPath": "audio/slide_countries_angola_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Angora",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6370195388793946
+    ],
+    "evidenceSha256": "3fb99361c3b63c6bd2026379d595b02f4578975b92641ca41f87cb1bddf37edc",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:600",
+    "displayText": "Azerbaycan",
+    "expectedSpokenText": "Azerbaycan",
+    "legacyLabels": [
+      "Azerbeycan"
+    ],
+    "audioPath": "audio/slide_countries_azerbaijan_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Azerbaycan",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5129413803418478
+    ],
+    "evidenceSha256": "efd509fea206877760ab16e922155f77d64c29da8f5c57d3b40d82e7d519234e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:633",
+    "displayText": "Esvatini",
+    "expectedSpokenText": "Esvatini",
+    "legacyLabels": [
+      "Eswatini / Svaziland"
+    ],
+    "audioPath": "audio/slide_countries_eswatini_swaziland_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Eswatini, Sivasilant",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8418229493227872
+    ],
+    "evidenceSha256": "d571c5173d217c454c4aa47124985b87fd0e6c6afcad4eaa790797f4d0284f92",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:676",
+    "displayText": "Kuzey Makedonya",
+    "expectedSpokenText": "Kuzey Makedonya",
+    "legacyLabels": [
+      "Makedonya"
+    ],
+    "audioPath": "audio/slide_countries_macedonia_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Makedonya.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.672926494053432
+    ],
+    "evidenceSha256": "dc6f520bc627af8ec72a63afd1e80147d18acb83fb1e575a93b3ffc97c18c40b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:678",
+    "displayText": "Malavi",
+    "expectedSpokenText": "Malavi",
+    "legacyLabels": [
+      "Malawi"
+    ],
+    "audioPath": "audio/slide_countries_malawi_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Malavi",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5541719436645508
+    ],
+    "evidenceSha256": "83e73117269cec3c1a4dad5fad5efd952c13ed9f4908faacee444f71b64c51d1",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:693",
+    "displayText": "Myanmar (Burma)",
+    "expectedSpokenText": "Myanmar (Burma)",
+    "legacyLabels": [
+      "Myanmar / Burma"
+    ],
+    "audioPath": "audio/slide_countries_myanmar_burma_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Bir an march burma.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8429092831081815
+    ],
+    "evidenceSha256": "2289f67fb02cf58b2185ea2c8371a1cf7522ae413618bfd849c590250d96854f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:706",
+    "displayText": "Filistin Bölgeleri",
+    "expectedSpokenText": "Filistin Bölgeleri",
+    "legacyLabels": [
+      "Filistin"
+    ],
+    "audioPath": "audio/slide_countries_palestine_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Filistin",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6426125268141428
+    ],
+    "evidenceSha256": "5cb0d6e3de7c215758d00c15698f8f0203a830f82a0c85ec9f8341b737d376d9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:726",
+    "displayText": "İspanya",
+    "expectedSpokenText": "İspanya",
+    "legacyLabels": [
+      "ispanya"
+    ],
+    "audioPath": "audio/slide_countries_spain_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İspanya",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4957631230354309
+    ],
+    "evidenceSha256": "ac776a4f6462b64d471bf98508d4338da319ef0b585077231c9315f8311cb4e7",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:743",
+    "displayText": "Birleşik Krallık",
+    "expectedSpokenText": "Birleşik Krallık",
+    "legacyLabels": [
+      "Birleşik Krallık (İngiltere)"
+    ],
+    "audioPath": "audio/slide_countries_united_kingdom_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Birleşik Kralık, İngiltere",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.32594770405973705
+    ],
+    "evidenceSha256": "6e9734661724d848ff36d907433eb15ae5f09cd3179473725e8d5d3939a0dcaa",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:757",
+    "displayText": "Liechtenstein",
+    "expectedSpokenText": "Liechtenstein",
+    "legacyLabels": [
+      "Lihtenştayn"
+    ],
+    "audioPath": "audio/slide_countries_liechtenstein_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Liechtenstein",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5619668960571289
+    ],
+    "evidenceSha256": "c8bd4699068ca36c0e8a075e83bb3944896fbd98b0e98703a9a6124bd77994cc",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:760",
+    "displayText": "Bosna-Hersek",
+    "expectedSpokenText": "Bosna-Hersek",
+    "legacyLabels": [
+      "Bosna Hersek"
+    ],
+    "audioPath": "audio/slide_countries_bosnia_and_herzegovina_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Vosna her seki.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.736574774980545
+    ],
+    "evidenceSha256": "7c941bd274ae08ce0b91a35d25d4e8d0e8ef889dd64d370042aa9870a814e628",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:762",
+    "displayText": "Cape Verde",
+    "expectedSpokenText": "Cape Verde",
+    "legacyLabels": [
+      "Cabo Verde"
+    ],
+    "audioPath": "audio/slide_countries_cabo_verde_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çabuk ver de.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -1.0786785549587674
+    ],
+    "evidenceSha256": "43c51075ef65ca7dc647562d6be0217f2bdd3625d6afdc9ca30502ffb489f801",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:765",
+    "displayText": "Côte d’Ivoire",
+    "expectedSpokenText": "Côte d’Ivoire",
+    "legacyLabels": [
+      "Fildişi Sahili"
+    ],
+    "audioPath": "audio/slide_countries_cote_divoire_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Fildişe Sahili",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6766833729214139
+    ],
+    "evidenceSha256": "1a7bffef3add6f63c0c94b8a59f7e6ae3aa7802b56d15988ed43d9293bfe933b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:766",
+    "displayText": "Çekya",
+    "expectedSpokenText": "Çekya",
+    "legacyLabels": [
+      "Çek Cumhuriyeti"
+    ],
+    "audioPath": "audio/slide_countries_czech_republic_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çek Cumhuriyeti",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.38602060741848415
+    ],
+    "evidenceSha256": "82bf0b7d542f91baf658d4441bd6ad72725b5bd6e1538fd36a92fd90d5f93c25",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:767",
+    "displayText": "Kongo - Kinşasa",
+    "expectedSpokenText": "Kongo - Kinşasa",
+    "legacyLabels": [
+      "Kongo Demokratik Cumhuriyeti"
+    ],
+    "audioPath": "audio/slide_countries_democratic_republic_of_the_congo_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "KONGO DEMOKRATİK ÇUM HOLUYETİ",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6517727602095831
+    ],
+    "evidenceSha256": "9338efbcb23abf9ebcbbbe01179a2e34a86e75e68ad703bd4856ffb1bf3b80f8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:772",
+    "displayText": "Marshall Adaları",
+    "expectedSpokenText": "Marshall Adaları",
+    "legacyLabels": [
+      "Marşal Adaları"
+    ],
+    "audioPath": "audio/slide_countries_marshall_islands_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Marşaladaları",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6376657336950302
+    ],
+    "evidenceSha256": "8c4351723a442246030461546ab04b4d0aea73215f40bbd41aaa9abb6dacc942",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "flags:775",
+    "displayText": "Kongo - Brazavil",
+    "expectedSpokenText": "Kongo - Brazavil",
+    "legacyLabels": [
+      "Kongo Cumhuriyeti"
+    ],
+    "audioPath": "audio/slide_countries_republic_of_the_congo_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kanka Cumhuriyeti",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5189584096272787
+    ],
+    "evidenceSha256": "4114bd458ba1c71cd9d9dc4d93301c9d47dad77f4e55c7149fc2e04643dc9d38",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "food:795",
+    "displayText": "Şekerleme",
+    "expectedSpokenText": "Şekerleme",
+    "legacyLabels": [
+      "Şeker"
+    ],
+    "audioPath": "audio/slide_my_home_candy_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Şeker",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5245023727416992
+    ],
+    "evidenceSha256": "b9d471ff42f3e42da273524e4ba26f568018867cb075ce26148cea8a2814e9af",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "food:812",
+    "displayText": "Milkshake",
+    "expectedSpokenText": "Milkshake",
+    "legacyLabels": [
+      "Aromalı süt"
+    ],
+    "audioPath": "audio/slide_my_home_milkshake_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Aromalı süt",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.3171863630414009
+    ],
+    "evidenceSha256": "e4aed6ac8bd2a0dd2b4e5e329025ff005f509829ecdfb09ab0ad5efc903bde2a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "food:814",
+    "displayText": "Pepperoni",
+    "expectedSpokenText": "Pepperoni",
+    "legacyLabels": [
+      "Sucuk"
+    ],
+    "audioPath": "audio/slide_my_home_pepperoni_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sucuk",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.7879325747489929
+    ],
+    "evidenceSha256": "128476a5ea4a99f347288c45d9345868ca8edcc89a09cdc992af4a4719a8b03a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "food:828",
+    "displayText": "Zerdeçal",
+    "expectedSpokenText": "Zerdeçal",
+    "legacyLabels": [
+      "Zerdaçal"
+    ],
+    "audioPath": "audio/slide_my_home_turmeric_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Zerde çav.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6538617875840929
+    ],
+    "evidenceSha256": "d1fa8ad3d0a414ee502b6f7d049d3ecbbcb1e8f2c63abd41ed7c352b4a9a5441",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:841",
+    "displayText": "Meşe palamudu",
+    "expectedSpokenText": "Meşe palamudu",
+    "legacyLabels": [
+      "Palamut"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_acorn_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Palamut",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5751870572566986
+    ],
+    "evidenceSha256": "252a64656219b6da6d82a8b970f038f56e1df5fbc85b0b8cb6f84943a546df2c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:849",
+    "displayText": "Fesleğen",
+    "expectedSpokenText": "Fesleğen",
+    "legacyLabels": [
+      "Reyhan Fesleğen"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_basil_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Reyhan, Feslan",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5208666059705946
+    ],
+    "evidenceSha256": "84a0e49b54f9940b855024b6ba1634245ced7c366f63c5ed4c13d70f18d29694",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:861",
+    "displayText": "Turna yemişi",
+    "expectedSpokenText": "Turna yemişi",
+    "legacyLabels": [
+      "Kızılcık"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_cranberry_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kızılcık.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.42835235595703125
+    ],
+    "evidenceSha256": "ed6a14d434b63ac271c5b90bcb86cbd2fa9aa4201e1a5779c4b813df1675e3a7",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:886",
+    "displayText": "Yer fıstığı",
+    "expectedSpokenText": "Yer fıstığı",
+    "legacyLabels": [
+      "Fıstık"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_peanut_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Fıstık",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.47282327924455914
+    ],
+    "evidenceSha256": "bd49bc5eed7c557d4611d7a5a1439f33a668625d4224677b7be73c2cdc2904ab",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:898",
+    "displayText": "Taze soğan",
+    "expectedSpokenText": "Taze soğan",
+    "legacyLabels": [
+      "Yeşil Soğan"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_scallion_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Yeşil soğan.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6786830690171983
+    ],
+    "evidenceSha256": "83ad63bee89957cbedfffa1effb9ef1ac712dc26999eea8d48d1348b019010e5",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:909",
+    "displayText": "Siyah üzüm",
+    "expectedSpokenText": "Siyah üzüm",
+    "legacyLabels": [
+      "Kara Üzüm"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_black_grape_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Karoğuzum",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.555517815053463
+    ],
+    "evidenceSha256": "2381fce224b3e3837da3c728f2804c2ca2dd6b89b2d2e084562458354e3c7d27",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:911",
+    "displayText": "Kaju",
+    "expectedSpokenText": "Kaju",
+    "legacyLabels": [
+      "Kaju Fıstığı"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_cashew_nut_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Koşufıstı",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -1.0307530297173395
+    ],
+    "evidenceSha256": "11aec39c99f014306ec3a0d2d8f36d8ab15bed56c96253467489bfeb7d2133cf",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:912",
+    "displayText": "Ejder meyvesi",
+    "expectedSpokenText": "Ejder meyvesi",
+    "legacyLabels": [
+      "Dragon Meyvesi"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_dragon_fruit_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tragon meyvesi",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8018170416355133
+    ],
+    "evidenceSha256": "a4a3806b618fdab8101762a001b39349e0dc4d46adb5898fccdaec3d7ef54cf2",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:915",
+    "displayText": "Taze fasulye",
+    "expectedSpokenText": "Taze fasulye",
+    "legacyLabels": [
+      "Taze Fasülye"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_green_bean_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Taze fasulye",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.6025534272193909
+    ],
+    "evidenceSha256": "53b577ffc8b061135c5bef4fd7e6cf9c7ee5fea4f027032b1bca5e337f7606e8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:916",
+    "displayText": "Trabzon hurması",
+    "expectedSpokenText": "Trabzon hurması",
+    "legacyLabels": [
+      "Cennet Hurması"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_kaki_persimmon_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Cennet Horması",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6541795200771756
+    ],
+    "evidenceSha256": "3c7bafc5e1e40f5a021b507fef861134756bd72a97e78db72a9b4212aa7a2f06",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:917",
+    "displayText": "Yer bademi",
+    "expectedSpokenText": "Yer bademi",
+    "legacyLabels": [
+      "Kaplan Fındığı"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_tiger_nut_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kaplan tındı.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6416434182061089
+    ],
+    "evidenceSha256": "2c9b8fd7f2ea546a41da0c72197c28d2251d593964bc1df67ae40a5642e6b1da",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "fruits_vegetables:919",
+    "displayText": "Brüksel lahanası",
+    "expectedSpokenText": "Brüksel lahanası",
+    "legacyLabels": [
+      "Bürüksel Lahanası"
+    ],
+    "audioPath": "audio/slide_fruits_vegetables_brussels_sprout_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Bülükselli Hanası",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5071603953838348
+    ],
+    "evidenceSha256": "5261e8386d7cdaa1e3830ea0d63f56d2881aaf35111d7b45a696794fac605215",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:922",
+    "displayText": "Sıcak hava balonu",
+    "expectedSpokenText": "Sıcak hava balonu",
+    "legacyLabels": [
+      "Balon"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_baloon_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Balon",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.482009220123291
+    ],
+    "evidenceSha256": "62b815cb25c3039dd30cf413946ff570f740c4bccc8c31961cea1b73496305da",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:924",
+    "displayText": "Tekne",
+    "expectedSpokenText": "Tekne",
+    "legacyLabels": [
+      "Bot"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_boat_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "PUT",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5997451782226563
+    ],
+    "evidenceSha256": "112f80743e215737afd264267a3633520c7422b817139ff04006209d37681e49",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:926",
+    "displayText": "Buldozer",
+    "expectedSpokenText": "Buldozer",
+    "legacyLabels": [
+      "Dozer"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_bulldozer_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tozaj",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8415436744689941
+    ],
+    "evidenceSha256": "aaa668d01e665d349c0c7ce41bc22b565a2ca10c329d6f636b41c7013490e282",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:928",
+    "displayText": "Keski",
+    "expectedSpokenText": "Keski",
+    "legacyLabels": [
+      "Oyma Kalemi"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_chisel_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Oymak Alemi",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.7403440475463867
+    ],
+    "evidenceSha256": "003c965f42ef1625963ea07baf7d8dff90a97684c0000ed1086b394349636445",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:929",
+    "displayText": "İşkence",
+    "expectedSpokenText": "İşkence",
+    "legacyLabels": [
+      "Mengene"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_clamp_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Menge ne?",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.769502980368478
+    ],
+    "evidenceSha256": "a05e2941b9002553f553dd0b337673db5460de15e9915244882741122415462c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:932",
+    "displayText": "Kırma makinesi",
+    "expectedSpokenText": "Kırma makinesi",
+    "legacyLabels": [
+      "Taş Kırıcısı"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_crusher_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tanışkırıcı",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5808269182840983
+    ],
+    "evidenceSha256": "57cf10a84f2c317187ca42453f640217611ea75979542b1fb0debfbdf01aaa5c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:933",
+    "displayText": "Kesici",
+    "expectedSpokenText": "Kesici",
+    "legacyLabels": [
+      "Keski"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_cutter_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Keski",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6278548240661621
+    ],
+    "evidenceSha256": "e03fdba87745c439442794528941a5de3a316452059af34243ffba790609925f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:934",
+    "displayText": "Yol silindiri",
+    "expectedSpokenText": "Yol silindiri",
+    "legacyLabels": [
+      "Silindir"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_cylinder_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Silindir.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5353744881493705
+    ],
+    "evidenceSha256": "879a94d67a86fbd6471410140788f30e967dabb62491025931204a82f125f8fa",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:935",
+    "displayText": "Draglayn ekskavatör",
+    "expectedSpokenText": "Draglayn ekskavatör",
+    "legacyLabels": [
+      "Draglayn"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_dragline_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Direkt line.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.9714198793683734
+    ],
+    "evidenceSha256": "1eb19255cf51bc88a8798c5cdf09d13a8ce45695f0db223c42f61d31a97a83d8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:937",
+    "displayText": "Dron",
+    "expectedSpokenText": "Dron",
+    "legacyLabels": [
+      "Drone"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_drone_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Drone",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.4204226493835449
+    ],
+    "evidenceSha256": "7583a1aca000f1b72d043c221c8c3db6b2a04dce66bcdc72ae9d50351b6afca7",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:939",
+    "displayText": "Asfalt serme makinesi",
+    "expectedSpokenText": "Asfalt serme makinesi",
+    "legacyLabels": [
+      "Finişer"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_finisher_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Finişler",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6143536667029063
+    ],
+    "evidenceSha256": "e93c5d17281e8f4290f5dd08359d775f2dd22e3ee2434a53f77dd790a40b119b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:940",
+    "displayText": "İtfaiye aracı",
+    "expectedSpokenText": "İtfaiye aracı",
+    "legacyLabels": [
+      "İthaiye"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_fire_truck_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İtfaiye!",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5232151879204644
+    ],
+    "evidenceSha256": "68f7c4fabdbb9afe5da2cc7f13f570b7bed23cb32a7771ba9213f087f86842a4",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:945",
+    "displayText": "Yükleyici",
+    "expectedSpokenText": "Yükleyici",
+    "legacyLabels": [
+      "Kepçe"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_loader_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kepçe",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.7880728443463644
+    ],
+    "evidenceSha256": "bfbc5a46d8d89984bd329fe13d4da07b4d00ff8109789db2e702a16a7cf3918a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:947",
+    "displayText": "Beton mikseri",
+    "expectedSpokenText": "Beton mikseri",
+    "legacyLabels": [
+      "Mikser"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_mixer_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Miksaj",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.363315815726916
+    ],
+    "evidenceSha256": "39e03ccf1248a18f0f9ce72c4f6a1c04637195328db82c6258d133ddbc1ffd39",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:949",
+    "displayText": "Somun",
+    "expectedSpokenText": "Somun",
+    "legacyLabels": [
+      "Vida"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_nut_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "BİTA",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7732683916886648
+    ],
+    "evidenceSha256": "c570e8ebcc4e5eaf175a78febd7b6a81bec95bdd8dc7a9f275352d017d1618c0",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:967",
+    "displayText": "Römork",
+    "expectedSpokenText": "Römork",
+    "legacyLabels": [
+      "Dorse"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_trailer_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Dorse",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.73275146484375
+    ],
+    "evidenceSha256": "8f29a7d78b6cc531d607b2b4351204d6e4088cfe3cf01d68f3f17e3d404090a5",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:977",
+    "displayText": "Ayarlı pense",
+    "expectedSpokenText": "Ayarlı pense",
+    "legacyLabels": [
+      "Kilitli Pense"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_locking_pliers_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kiritli Pense",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.538589283823967
+    ],
+    "evidenceSha256": "ce36976b7e5b4f38dd25678caed7ab434a63b4d13176ef90e588e6ab037f6d39",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:978",
+    "displayText": "Şerit metre makarası",
+    "expectedSpokenText": "Şerit metre makarası",
+    "legacyLabels": [
+      "Makaralı Metre"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_measuring_reel_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Makaralı metri.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5045865376790365
+    ],
+    "evidenceSha256": "edf5e59defde512442204dc0a937e54ee54408ab75b5ee59d59266e0cbfbf4ce",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:986",
+    "displayText": "Kırıcılı ekskavatör",
+    "expectedSpokenText": "Kırıcılı ekskavatör",
+    "legacyLabels": [
+      "Kırıcı Ekskavatör"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_breaker_exacavator_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kırıcı Excavator",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5822161110964689
+    ],
+    "evidenceSha256": "84074623d5fe89dfdb924f19425d53e24b238c1163a1c713116075cd4ae8a531",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:987",
+    "displayText": "Ölçü çubuğu",
+    "expectedSpokenText": "Ölçü çubuğu",
+    "legacyLabels": [
+      "Çubuk Metre"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_measuring_stick_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çubuk metre.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.45726680755615234
+    ],
+    "evidenceSha256": "fa89506d90de7b13e245e523b6a85af9a027fec9d43dc0490461d11893f098d9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "heavy_equipment:990",
+    "displayText": "İş kıyafetleri",
+    "expectedSpokenText": "İş kıyafetleri",
+    "legacyLabels": [
+      "İş Elbisesi"
+    ],
+    "audioPath": "audio/slide_heavy_equipments_working_clothes_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İş Elbisesi",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6669498756527901
+    ],
+    "evidenceSha256": "1629a370de2fb4c8af7f750bea85fd7eb6b2706b3e7c48ceb029c819c3efbc26",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:995",
+    "displayText": "Atardamarlar",
+    "expectedSpokenText": "Atardamarlar",
+    "legacyLabels": [
+      "Arterler"
+    ],
+    "audioPath": "audio/slide_human_body_arteries_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Arçaylar",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6583375249590192
+    ],
+    "evidenceSha256": "3d4cb91a4e73e1ee43a7b1e960270e7a79254de3f60b46e58674b50cfe5fcef0",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1002",
+    "displayText": "Çene ucu",
+    "expectedSpokenText": "Çene ucu",
+    "legacyLabels": [
+      "Çene"
+    ],
+    "audioPath": "audio/slide_human_body_chin_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çenek",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6196981171766917
+    ],
+    "evidenceSha256": "6591bdadca832a3e0cbf6b305511a7aab34c292de5f56122d01f396dfc67cf56",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1009",
+    "displayText": "El tırnağı",
+    "expectedSpokenText": "El tırnağı",
+    "legacyLabels": [
+      "Tırnak"
+    ],
+    "audioPath": "audio/slide_human_body_fingernail_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Zırnak.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5511407681873867
+    ],
+    "evidenceSha256": "3fdaf5ae1b07927c90ec6d5257e220704a2e68f8fd12c64ac7340f20bd577cd2",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1014",
+    "displayText": "Baş",
+    "expectedSpokenText": "Baş",
+    "legacyLabels": [
+      "Kafa"
+    ],
+    "audioPath": "audio/slide_human_body_head_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kıfa",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6017857293287913
+    ],
+    "evidenceSha256": "5fb68da3f57fc40bc2fbea842650a4861715971adaaca584409e6ca0db9c25c3",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1017",
+    "displayText": "İris",
+    "expectedSpokenText": "İris",
+    "legacyLabels": [
+      "Iris"
+    ],
+    "audioPath": "audio/slide_human_body_iris_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İRİS",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.6673470905848912
+    ],
+    "evidenceSha256": "42c29affb83672b10a30c931b920e898f8ea5ba8467adc6a87e7fe19431b2353",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1024",
+    "displayText": "Akciğerler",
+    "expectedSpokenText": "Akciğerler",
+    "legacyLabels": [
+      "Akciğer"
+    ],
+    "audioPath": "audio/slide_human_body_lungs_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Akciyaj",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6380358593804496
+    ],
+    "evidenceSha256": "439f18db8f1190e26874f232ffc4900fb8294b7c456a45b33f09d6ddbccf4c3f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1027",
+    "displayText": "Göbek deliği",
+    "expectedSpokenText": "Göbek deliği",
+    "legacyLabels": [
+      "Göbek"
+    ],
+    "audioPath": "audio/slide_human_body_navel_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Göbek",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.44704179763793944
+    ],
+    "evidenceSha256": "d96bc3972ad1d018cd180c55e571759523c589a1edbb6cadff612fb37aa7c061",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1035",
+    "displayText": "İskelet",
+    "expectedSpokenText": "İskelet",
+    "legacyLabels": [
+      "Iskelet"
+    ],
+    "audioPath": "audio/slide_human_body_skeleton_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İskilit",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6412328779697418
+    ],
+    "evidenceSha256": "eab2a6fce14902c402433ecb3e1dcdb56e396b91228ad170d19b665b43cd3d28",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1042",
+    "displayText": "Toplardamarlar",
+    "expectedSpokenText": "Toplardamarlar",
+    "legacyLabels": [
+      "Damarlar"
+    ],
+    "audioPath": "audio/slide_human_body_veins_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tamarlar",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.519273579120636
+    ],
+    "evidenceSha256": "267280bfacaf7c6419469ace9f602a69add92fc82b605f1afa8176aa843e4ee7",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1043",
+    "displayText": "El bileği",
+    "expectedSpokenText": "El bileği",
+    "legacyLabels": [
+      "Bilek"
+    ],
+    "audioPath": "audio/slide_human_body_wrist_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Bilek",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.3452711800734202
+    ],
+    "evidenceSha256": "d905bc7ce228a33b41a11631119e3708a0debb6568c7fc36b57fddcafb720056",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1046",
+    "displayText": "İnsan vücudu",
+    "expectedSpokenText": "İnsan vücudu",
+    "legacyLabels": [
+      "Insan vücudu"
+    ],
+    "audioPath": "audio/slide_human_body_human_body_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İnsan Vücudu",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4465217649936676
+    ],
+    "evidenceSha256": "15bc8e7c0760c02cc40c3b8c190944eb747cda6dc5f461194519d156d8d02068",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1047",
+    "displayText": "İşaret parmağı",
+    "expectedSpokenText": "İşaret parmağı",
+    "legacyLabels": [
+      "Işaret parmağı"
+    ],
+    "audioPath": "audio/slide_human_body_index_finger_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İşaret Farma",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.47582382815224783
+    ],
+    "evidenceSha256": "a00ea2be91994598e5653c6b8ab3c5899a81df49a10425823be473600711e29d",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1055",
+    "displayText": "Serçe parmak",
+    "expectedSpokenText": "Serçe parmak",
+    "legacyLabels": [
+      "Küçük parmak / serçe parmak"
+    ],
+    "audioPath": "audio/slide_human_body_little_finger_pinkie_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Küçük parmak, serçe parmak.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.36212673783302307
+    ],
+    "evidenceSha256": "e82fb061c901692a5277cb26aa8a30786604d1a018e13cf7ab3a6b276b4eec65",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1057",
+    "displayText": "İskelet sistemi",
+    "expectedSpokenText": "İskelet sistemi",
+    "legacyLabels": [
+      "Iskelet sistemi"
+    ],
+    "audioPath": "audio/slide_human_body_skeletal_system_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İskelet Sistemi",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.6566912862989638
+    ],
+    "evidenceSha256": "998fc629828bd68a6ef5f174311aaafc43434673afdeef608719ade69b8ec37d",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "human_body:1058",
+    "displayText": "İnce bağırsak",
+    "expectedSpokenText": "İnce bağırsak",
+    "legacyLabels": [
+      "Ince bağırsak"
+    ],
+    "audioPath": "audio/slide_human_body_small_intestine_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İnce bağırsak",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.42271529303656685
+    ],
+    "evidenceSha256": "efc15e2f0b5d93768a8fcd610bc30497a6e75bd18ea83a55cc96904c037f6814",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "musical_instruments:1063",
+    "displayText": "Viyolonsel",
+    "expectedSpokenText": "Viyolonsel",
+    "legacyLabels": [
+      "Çello"
+    ],
+    "audioPath": "audio/slide_musical_instruments_cello_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çello",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6194536209106445
+    ],
+    "evidenceSha256": "e8bcd126d2cd62d36ca0596889c5ae764c8f18b35fa2420328b51e2988a48a35",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "musical_instruments:1065",
+    "displayText": "Konga",
+    "expectedSpokenText": "Konga",
+    "legacyLabels": [
+      "Tumba"
+    ],
+    "audioPath": "audio/slide_musical_instruments_conga_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tumba",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.612469482421875
+    ],
+    "evidenceSha256": "9d3a5191593412e1c09ec822a0273184491550ba33c76f755a4bd5582665ed21",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1101",
+    "displayText": "Kara tahta",
+    "expectedSpokenText": "Kara tahta",
+    "legacyLabels": [
+      "Tahta"
+    ],
+    "audioPath": "audio/slide_my_home_blackboard_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sahta",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.49497556686401367
+    ],
+    "evidenceSha256": "501739478e1621243a53d9faa17dcdfc5954ece20caef7cfcf0eae4a88697e00",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1102",
+    "displayText": "Blender",
+    "expectedSpokenText": "Blender",
+    "legacyLabels": [
+      "Bilendır"
+    ],
+    "audioPath": "audio/slide_my_home_blender_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "LENDERJ",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8922673293522426
+    ],
+    "evidenceSha256": "b679fde398d31d891f8e597cc0d56e0f326df53e28f84a15251168cdbe09fc0e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1108",
+    "displayText": "Kâse",
+    "expectedSpokenText": "Kâse",
+    "legacyLabels": [
+      "Kaşe"
+    ],
+    "audioPath": "audio/slide_my_home_bowl_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kâse",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8564692735671997
+    ],
+    "evidenceSha256": "52b8d242862bba7730174faf24e3bac979873eb2b975ff3c592716ae4d29279c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1109",
+    "displayText": "Boksör şortu",
+    "expectedSpokenText": "Boksör şortu",
+    "legacyLabels": [
+      "Baksır"
+    ],
+    "audioPath": "audio/slide_my_home_boxers_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Baksız.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6124794653483799
+    ],
+    "evidenceSha256": "54657c08e5876e0e4d3685c9d934973d6b602f6676ef4c654653cb4afb7112d2",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1131",
+    "displayText": "Çalışma masası",
+    "expectedSpokenText": "Çalışma masası",
+    "legacyLabels": [
+      "Masa"
+    ],
+    "audioPath": "audio/slide_my_home_desk_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Mazda",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7672185897827148
+    ],
+    "evidenceSha256": "657c9bfea2063391af4fe44bc09c7a3f8f8411c3ca6ab472ced481f9b0800edc",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1141",
+    "displayText": "Kışlık kulaklık",
+    "expectedSpokenText": "Kışlık kulaklık",
+    "legacyLabels": [
+      "Kulaklık"
+    ],
+    "audioPath": "audio/slide_my_home_earmuffs_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kulaklık.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5630592927336693
+    ],
+    "evidenceSha256": "89a842028b405d596ff1ff8fca950ea646cbaafffc552e7516f1a4842013b5f8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1150",
+    "displayText": "Yer küresi",
+    "expectedSpokenText": "Yer küresi",
+    "legacyLabels": [
+      "Dünya"
+    ],
+    "audioPath": "audio/slide_my_home_globe_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Dünya",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.20951242446899415
+    ],
+    "evidenceSha256": "909f13377b378f4295b870f69bf07278a4aa04be4f9e31f3aaa084250747333f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1156",
+    "displayText": "Kapüşon",
+    "expectedSpokenText": "Kapüşon",
+    "legacyLabels": [
+      "Kapşon"
+    ],
+    "audioPath": "audio/slide_my_home_hood_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kapşon",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5432205895582835
+    ],
+    "evidenceSha256": "c15d38408a8e06aa323a1a997ef633f0e70e69f19ff576bfce20aa646afc280f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1165",
+    "displayText": "Paspas",
+    "expectedSpokenText": "Paspas",
+    "legacyLabels": [
+      "Çekpas"
+    ],
+    "audioPath": "audio/slide_my_home_mop_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çek Pus",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7691021817071098
+    ],
+    "evidenceSha256": "79ef00a76ca3f1a49e26336825d7f1898be9242ac085cbcd0dc6528b7fb5d036",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1166",
+    "displayText": "Tırnak törpüsü",
+    "expectedSpokenText": "Tırnak törpüsü",
+    "legacyLabels": [
+      "Törpü"
+    ],
+    "audioPath": "audio/slide_my_home_nailfile_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çarpı",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.45754005511601764
+    ],
+    "evidenceSha256": "053bcb6ae58ce706d31437476af42e8f4255fc20574fbb1640b50961d6c0c8ff",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1167",
+    "displayText": "Kolye",
+    "expectedSpokenText": "Kolye",
+    "legacyLabels": [
+      "Gerdanlık"
+    ],
+    "audioPath": "audio/slide_my_home_necklace_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Gerdanlık",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5370742934090751
+    ],
+    "evidenceSha256": "059edb5bfbdaf025dee78ddbe243ffc98d2fd06e4823907e088ae07a51f83b84",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1176",
+    "displayText": "Kâğıt",
+    "expectedSpokenText": "Kâğıt",
+    "legacyLabels": [
+      "Kağıt"
+    ],
+    "audioPath": "audio/slide_my_home_paper_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kağıt!",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.674575924873352
+    ],
+    "evidenceSha256": "5fe299fe8326b6832c342f19ffcaa451ff71d1f42b1840662450c2a75c807196",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1177",
+    "displayText": "Kurşun kalem",
+    "expectedSpokenText": "Kurşun kalem",
+    "legacyLabels": [
+      "Kalem"
+    ],
+    "audioPath": "audio/slide_my_home_pencil_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kalem",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.3437172889709473
+    ],
+    "evidenceSha256": "3b86dedaae5ffe95dd08ae00288da94e73d89dc42d74b46040483209a1d2e50f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1179",
+    "displayText": "Raptiye",
+    "expectedSpokenText": "Raptiye",
+    "legacyLabels": [
+      "İğne"
+    ],
+    "audioPath": "audio/slide_my_home_pin_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İyine.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.431270956993103
+    ],
+    "evidenceSha256": "1fa6891a5baa051d6ab192dfe9016e0117e3553e18bc2136f38b090a93dfd940",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1183",
+    "displayText": "El çantası",
+    "expectedSpokenText": "El çantası",
+    "legacyLabels": [
+      "Çanta"
+    ],
+    "audioPath": "audio/slide_my_home_purse_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Çanta",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6597373962402344
+    ],
+    "evidenceSha256": "0607b7e1ecf38bcb3b5961208a2b0118ba100059da235a5d30e688755a35a274",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1190",
+    "displayText": "Şal",
+    "expectedSpokenText": "Şal",
+    "legacyLabels": [
+      "Başörtüsü"
+    ],
+    "audioPath": "audio/slide_my_home_scarf_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Başörtüsü",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.46403115136282785
+    ],
+    "evidenceSha256": "c91fd7c14bc97009f6f1a737980d83137530f597af37dce54796393e024d30c0",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1192",
+    "displayText": "Skuter",
+    "expectedSpokenText": "Skuter",
+    "legacyLabels": [
+      "Skutır"
+    ],
+    "audioPath": "audio/slide_my_home_scooter_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sıkıltır.",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -1.024990611606174
+    ],
+    "evidenceSha256": "628fe8991eaac459421391b412603804fa8cb899bfd54dc49d7ad1a67836d012",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1197",
+    "displayText": "Duş kabini",
+    "expectedSpokenText": "Duş kabini",
+    "legacyLabels": [
+      "Duşakabin"
+    ],
+    "audioPath": "audio/slide_my_home_shower_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tuşa Kabin.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7464186880323622
+    ],
+    "evidenceSha256": "8194c108210ea5de799e761e503addad605c4d5690d99791a74093b924f0629f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1203",
+    "displayText": "Rüzgâr gülü",
+    "expectedSpokenText": "Rüzgâr gülü",
+    "legacyLabels": [
+      "Rüzgar gülü"
+    ],
+    "audioPath": "audio/slide_my_home_spinwheel_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Rüzgar Gülü.",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4840917348861694
+    ],
+    "evidenceSha256": "8b4444ebf4cfaa8a784f3e8aaaffb09a71fb3ddd10e9d7cca3034473ad0f2377",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1212",
+    "displayText": "Kapüşonlu sweatshirt",
+    "expectedSpokenText": "Kapüşonlu sweatshirt",
+    "legacyLabels": [
+      "Sivit"
+    ],
+    "audioPath": "audio/slide_my_home_sweats_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sıvıt!",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7985662892460823
+    ],
+    "evidenceSha256": "92d27af2d999cde4e2721cb0687fb3c196bd95e244244f797b64bdd0ac38ef15",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1219",
+    "displayText": "Kravat",
+    "expectedSpokenText": "Kravat",
+    "legacyLabels": [
+      "Kıravat"
+    ],
+    "audioPath": "audio/slide_my_home_tie_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kravat",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.35992210110028583
+    ],
+    "evidenceSha256": "1720d389e6a605a657f963b08572f61e93a6cf941da18c14b17de51e57120092",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1231",
+    "displayText": "Yıkanma bezi",
+    "expectedSpokenText": "Yıkanma bezi",
+    "legacyLabels": [
+      "El bezi"
+    ],
+    "audioPath": "audio/slide_my_home_washcloth_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Elbezi.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6327323402677264
+    ],
+    "evidenceSha256": "61f5e63f2d45cab643eb923dc24eccd39b0d6b10a1fd68c7b967651ca84417db",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1233",
+    "displayText": "Yo-yo",
+    "expectedSpokenText": "Yo-yo",
+    "legacyLabels": [
+      "Yoyo"
+    ],
+    "audioPath": "audio/slide_my_home_yoyo_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Yo yo!",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5420237282911936
+    ],
+    "evidenceSha256": "60f188cf3ba9354ec901b14b03cc185a829fe4979c51af2a13e9788e4f3da8aa",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1258",
+    "displayText": "Atlama ipi",
+    "expectedSpokenText": "Atlama ipi",
+    "legacyLabels": [
+      "İp"
+    ],
+    "audioPath": "audio/slide_my_home_skipping_rope_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İP",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5393229484558105
+    ],
+    "evidenceSha256": "3d98e350577e19e794908e30b8c087ac17cf37b6ea51d6479e1b9b7f8967a492",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1260",
+    "displayText": "Sopalı oyuncak at",
+    "expectedSpokenText": "Sopalı oyuncak at",
+    "legacyLabels": [
+      "Oyuncak at"
+    ],
+    "audioPath": "audio/slide_my_home_stick_horse_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Oyuncakat",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.7593116589954921
+    ],
+    "evidenceSha256": "5369e600f78e5323e6731c97b92959f02dfb97cad4b9c3321f01ae0079064366",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1263",
+    "displayText": "Masa tenisi masası",
+    "expectedSpokenText": "Masa tenisi masası",
+    "legacyLabels": [
+      "Tenis masası"
+    ],
+    "audioPath": "audio/slide_my_home_tennis_table_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "TENİSMA SÖYLÜ",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7798479520357572
+    ],
+    "evidenceSha256": "d39b6e720f21edad32955111b652bb20a228f892fe5067b1555b3125ba19ed38",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1264",
+    "displayText": "Tuvalet fırçası",
+    "expectedSpokenText": "Tuvalet fırçası",
+    "legacyLabels": [
+      "Banyo fırçası"
+    ],
+    "audioPath": "audio/slide_my_home_toilet_brush_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Banyo Fırçes",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6909277081489563
+    ],
+    "evidenceSha256": "68ab2dd8273f20e92b80822a1bf060ee85274509c8b34e7a9ca0e6e38ae4935f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "home:1268",
+    "displayText": "Kalemtıraş",
+    "expectedSpokenText": "Kalemtıraş",
+    "legacyLabels": [
+      "Kalemtraş"
+    ],
+    "audioPath": "audio/slide_my_home_pencil_sharpener_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kalin Trash",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7321569749287197
+    ],
+    "evidenceSha256": "f98ecb9292b3479e69ad3244bff032c56d154188263fd9f53a10392eba7d3d55",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1271",
+    "displayText": "A",
+    "expectedSpokenText": "a",
+    "legacyLabels": [
+      "A"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_a_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "ƒ",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -1.0515157381693523
+    ],
+    "evidenceSha256": "ee7531ed53bb9cc3b2b4296b3b813c4f0c9a24a769c77c61ca41036bb674d18d",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1272",
+    "displayText": "B",
+    "expectedSpokenText": "be",
+    "legacyLabels": [
+      "B"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_b_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "B",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5054795891046524
+    ],
+    "evidenceSha256": "5160e35ea374678c44e900ca4720d8e9b46fe8f41840ddf02a85104bd1e51526",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1276",
+    "displayText": "C",
+    "expectedSpokenText": "ce",
+    "legacyLabels": [
+      "C"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_c_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "J",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.4647623151540756
+    ],
+    "evidenceSha256": "a961a2986385b0b2121d7b359f2a587b1c0c230f58a7d5167bd8a49c8edc01ac",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1278",
+    "displayText": "İki nokta",
+    "expectedSpokenText": "İki nokta",
+    "legacyLabels": [
+      "İki nokta üst üste"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_colon_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İki noktaya üst üste.",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6350345810254415
+    ],
+    "evidenceSha256": "b4658e303ce696954ef7cbdf9499af5c31f70082923d744472b5d716aef61131",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1283",
+    "displayText": "D",
+    "expectedSpokenText": "de",
+    "legacyLabels": [
+      "D"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_d_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "De.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5354707717895508
+    ],
+    "evidenceSha256": "60fabb31e804addbe77cf6b8c294d460911c5007196e48f30a03405c9465904a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1285",
+    "displayText": "Elmas",
+    "expectedSpokenText": "Elmas",
+    "legacyLabels": [
+      "Baklava şekli"
+    ],
+    "audioPath": "audio/slide_my_school_diomand_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Baklava şekli.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5150437355041504
+    ],
+    "evidenceSha256": "95d74a83a4a27fe260e4586f52bcbf259621cba81c7e87c4a0f1d4b60f0960dd",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1287",
+    "displayText": "E",
+    "expectedSpokenText": "e",
+    "legacyLabels": [
+      "E"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_e_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Evet.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.7144021034240723
+    ],
+    "evidenceSha256": "826135e5c7c2aae844311699d3756c8c0ba1f81184e25761549ece850ed373f9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1296",
+    "displayText": "F",
+    "expectedSpokenText": "fe",
+    "legacyLabels": [
+      "F"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_f_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "P.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.6650272369384765
+    ],
+    "evidenceSha256": "004e54f52b9cf1471912e8827e07fc75b227d74cea94b90e0a47b86e4f95d1f8",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1308",
+    "displayText": "G",
+    "expectedSpokenText": "ge",
+    "legacyLabels": [
+      "G"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_g_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Gay.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.8818446159362793
+    ],
+    "evidenceSha256": "4b2d945e8ba709b1232c0fb2f2d1329a6388bccfd2a2a8cb278994a7082180bd",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1311",
+    "displayText": "H",
+    "expectedSpokenText": "he",
+    "legacyLabels": [
+      "H"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_h_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Hey!",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.6682888031005859
+    ],
+    "evidenceSha256": "bd3a12d7b0e9ef39f95c0f6d49225ed1345ef9c36cab3426a6039390b5a3bb4e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1314",
+    "displayText": "I",
+    "expectedSpokenText": "ı",
+    "legacyLabels": [
+      "I"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_ii_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Evet.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5738965988159179
+    ],
+    "evidenceSha256": "8f5ecbfd3ce45c8fd06bebe33ba7e9837c0aa36c4a80458cbd129860aff7b79f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1315",
+    "displayText": "J",
+    "expectedSpokenText": "je",
+    "legacyLabels": [
+      "J"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_j_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Şey",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.33920442312955856
+    ],
+    "evidenceSha256": "675fdb672bea9968901872adb9250c0064ea38f4891627de4c61f735bb393cca",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1316",
+    "displayText": "K",
+    "expectedSpokenText": "ke",
+    "legacyLabels": [
+      "K"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_k_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "K.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.6062432289123535
+    ],
+    "evidenceSha256": "f13f30a2de84449423a66d55526877416a9a0562e38d8a716c367148e136a12f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1317",
+    "displayText": "L",
+    "expectedSpokenText": "le",
+    "legacyLabels": [
+      "L"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_l_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Le",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.6487244367599487
+    ],
+    "evidenceSha256": "0566ba465becc2170a801760749937b82e23e5a7b816e09cd63b4999517af39c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1319",
+    "displayText": "M",
+    "expectedSpokenText": "me",
+    "legacyLabels": [
+      "M"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_m_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Me.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.8059125900268554
+    ],
+    "evidenceSha256": "e467efbd2f76aff08f38b3291ee3bf977c86c801f85dd05e25c0ea274af77408",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1322",
+    "displayText": "N",
+    "expectedSpokenText": "ne",
+    "legacyLabels": [
+      "N"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_n_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Ne?",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.4734965324401855
+    ],
+    "evidenceSha256": "30f30041090f9a0905f71c988981f2e7e8078ed0a212c10b1b7ebde3bd57e195",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1328",
+    "displayText": "O",
+    "expectedSpokenText": "o",
+    "legacyLabels": [
+      "O"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_o_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "O.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.6218827247619629
+    ],
+    "evidenceSha256": "7de1390d7d99a8d5dab6a8e407fa604ea1d9a670f7f97039bdcb1666a2864686",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1331",
+    "displayText": "Portakal",
+    "expectedSpokenText": "Portakal",
+    "legacyLabels": [
+      "Turuncu"
+    ],
+    "audioPath": "audio/slide_my_school_orange_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Toruncu",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8044179280598959
+    ],
+    "evidenceSha256": "c3ebd696d5f1d64509e607ac60292d693c0958751f2011504995b55b588cf66d",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1333",
+    "displayText": "P",
+    "expectedSpokenText": "pe",
+    "legacyLabels": [
+      "P"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_p_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "P.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.928838062286377
+    ],
+    "evidenceSha256": "e0aa703262846631f754c6da025d55f61f440b8b90085db31aaa6bbb99e90aba",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1343",
+    "displayText": "R",
+    "expectedSpokenText": "re",
+    "legacyLabels": [
+      "R"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_r_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "J",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.6633059978485107
+    ],
+    "evidenceSha256": "6a5993f4332d5d998b4b56abde2104e025f77c5936149d5aae15244ddf6dedfd",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1346",
+    "displayText": "S",
+    "expectedSpokenText": "se",
+    "legacyLabels": [
+      "S"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_s_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "S.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.9625215530395508
+    ],
+    "evidenceSha256": "fc1326963f4d0d9a5e717c3972fb625001818755819d86faf61bb806914241f5",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1361",
+    "displayText": "T",
+    "expectedSpokenText": "te",
+    "legacyLabels": [
+      "T"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_t_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "T",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -1.1194978952407837
+    ],
+    "evidenceSha256": "c7a25895d65acac1e87c93357dade966de9875ae1359b1c0ebbceaa762b83a69",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1375",
+    "displayText": "Yirminci",
+    "expectedSpokenText": "Yirminci",
+    "legacyLabels": [
+      "Yiriminci"
+    ],
+    "audioPath": "audio/slide_my_school_twentieth_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Yirminci",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.5951274931430817
+    ],
+    "evidenceSha256": "d7f0677f6515b993eb4f03342231e1d8c7ae1843a4a160d77825c7c2823eb305",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1378",
+    "displayText": "U",
+    "expectedSpokenText": "u",
+    "legacyLabels": [
+      "U"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_u_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "U",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.6592741012573242
+    ],
+    "evidenceSha256": "b02691a874180bccb9c4c687823f365fbdec2a97af281ac6f452ed4f985a182f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1379",
+    "displayText": "V",
+    "expectedSpokenText": "ve",
+    "legacyLabels": [
+      "V"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_v_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "De.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5497207641601562
+    ],
+    "evidenceSha256": "9048a4cd8cfe5c069521673c255f207a5b23fd3bc95c94a74ea691b2bf88ae78",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1383",
+    "displayText": "Y",
+    "expectedSpokenText": "ye",
+    "legacyLabels": [
+      "Y"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_y_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Ye!",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.8751139640808105
+    ],
+    "evidenceSha256": "dde2c8271661d97cbec6dca122f3f7965e90a2b255ae65fe17a4cdf1499a033c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1385",
+    "displayText": "Z",
+    "expectedSpokenText": "ze",
+    "legacyLabels": [
+      "Z"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_z_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Z.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5429802894592285
+    ],
+    "evidenceSha256": "8e812307b56ddee80bb6a4f50a4b4e903a24f09c7c70c6f92d5e1ae56616719e",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1390",
+    "displayText": "Kurşun kalem",
+    "expectedSpokenText": "Kurşun kalem",
+    "legacyLabels": [],
+    "audioPath": "audio/slide_school_pencil_tr.mp3",
+    "status": "no_legacy_label_listening_review",
+    "transcript": "Kalem",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.3437172889709473
+    ],
+    "evidenceSha256": "3b86dedaae5ffe95dd08ae00288da94e73d89dc42d74b46040483209a1d2e50f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1391",
+    "displayText": "Cetvel",
+    "expectedSpokenText": "Cetvel",
+    "legacyLabels": [],
+    "audioPath": "audio/slide_school_ruler_tr.mp3",
+    "status": "no_legacy_label_listening_review",
+    "transcript": "JTW",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8916249871253967
+    ],
+    "evidenceSha256": "3908a79a8a351c5ee901cd5179283092bb0e24fb83b63f1878746b81c4770d9f",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1399",
+    "displayText": "Tırnak işareti",
+    "expectedSpokenText": "Tırnak işareti",
+    "legacyLabels": [
+      "Tırnak"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_quotation_mark_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Tırnak",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.9359427293141683
+    ],
+    "evidenceSha256": "b73d1534575ac61f8765110581edebede1ef17dcfe9872fb07e3569450b8b25b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:1400",
+    "displayText": "Ünlem işareti",
+    "expectedSpokenText": "Ünlem işareti",
+    "legacyLabels": [
+      "Ünlem İşareti"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_exclamation_mark_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Ünlem işareti.",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.6089292526245117
+    ],
+    "evidenceSha256": "f320fa722a7c248042118350600c307347daa1053d132846210e3690905bccba",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1402",
+    "displayText": "Sanatçı",
+    "expectedSpokenText": "Sanatçı",
+    "legacyLabels": [
+      "Ressam"
+    ],
+    "audioPath": "audio/slide_professions_artist_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Resem",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.6235697746276856
+    ],
+    "evidenceSha256": "5ac750ba2272a4f7d60293605d94ac15f1d3b3fca8b64ac494baa3fa7dd25131",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1404",
+    "displayText": "İş insanı",
+    "expectedSpokenText": "İş insanı",
+    "legacyLabels": [
+      "İş adamı"
+    ],
+    "audioPath": "audio/slide_professions_businessman_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "İş adamı.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.6187843424933297
+    ],
+    "evidenceSha256": "ea5be0345a77a22d2a54a3e0cc3fc0f23646cbb2501ef207e19f2f4a5c323f34",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1407",
+    "displayText": "Aşçı",
+    "expectedSpokenText": "Aşçı",
+    "legacyLabels": [
+      "Şef"
+    ],
+    "audioPath": "audio/slide_professions_chef_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Şif",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.35404129028320314
+    ],
+    "evidenceSha256": "c1a0169505fdb92472b7143856931bd5786a5f029ad4e8258059222ecec2b52b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1409",
+    "displayText": "Diş hekimi",
+    "expectedSpokenText": "Diş hekimi",
+    "legacyLabels": [
+      "Dişçi"
+    ],
+    "audioPath": "audio/slide_professions_dentist_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Dişçi",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.7615054647127787
+    ],
+    "evidenceSha256": "af5340e91b8f215123e125d9bca516d19745a0c296927c26f1087cc9273faff6",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1411",
+    "displayText": "Şoför",
+    "expectedSpokenText": "Şoför",
+    "legacyLabels": [
+      "Şöför"
+    ],
+    "audioPath": "audio/slide_professions_driver_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Şoför",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.4319640000661214
+    ],
+    "evidenceSha256": "6815c1b8095debcaccb5e8ec84baa58a2c6987579cb5dc7768e5b86c2ab7e36c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1418",
+    "displayText": "Hâkim",
+    "expectedSpokenText": "Hâkim",
+    "legacyLabels": [
+      "Hakim"
+    ],
+    "audioPath": "audio/slide_professions_judge_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Hakim",
+    "auditStatus": "asr_text_match",
+    "avgLogprobs": [
+      -0.43430185317993164
+    ],
+    "evidenceSha256": "99870431928cfa1efd7de3a27d02a3597b1941f8100411d04bd7b2e17c52cd18",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1423",
+    "displayText": "Ressam",
+    "expectedSpokenText": "Ressam",
+    "legacyLabels": [
+      "Boyacı"
+    ],
+    "audioPath": "audio/slide_professions_painter_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Boyeci",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7591345409552256
+    ],
+    "evidenceSha256": "3ea9e5e2c045f32206bbc2e0d79870d515de5ddf2b67532c6e86041ed269ede9",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1426",
+    "displayText": "Tesisatçı",
+    "expectedSpokenText": "Tesisatçı",
+    "legacyLabels": [
+      "Su tesisatçısı"
+    ],
+    "audioPath": "audio/slide_professions_plumber_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Sutecis Açs",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -1.1118448376655579
+    ],
+    "evidenceSha256": "587b10c9f54a2ee2832e2b4c5028e71b7fddb3617b63abc9175e28264b2ecd9a",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1428",
+    "displayText": "Siyasetçi",
+    "expectedSpokenText": "Siyasetçi",
+    "legacyLabels": [
+      "Politikacı"
+    ],
+    "audioPath": "audio/slide_professions_politician_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "politikacı",
+    "auditStatus": "uncertain_transcript",
+    "avgLogprobs": [
+      -0.8296840886274973
+    ],
+    "evidenceSha256": "56a2573364e26b27833d5d958806c8c1211cc679267eee253fc2a07a46881bab",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1431",
+    "displayText": "Bilim insanı",
+    "expectedSpokenText": "Bilim insanı",
+    "legacyLabels": [
+      "Bilim adamı"
+    ],
+    "audioPath": "audio/slide_professions_scientist_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Bilim adamı.",
+    "auditStatus": "asr_and_legacy_support_difference",
+    "avgLogprobs": [
+      -0.5014519914984703
+    ],
+    "evidenceSha256": "63155523f5bbe4f65ef2c7e70cafa44b2e9d9443d60778e03face611e039af29",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1437",
+    "displayText": "Astronot",
+    "expectedSpokenText": "Astronot",
+    "legacyLabels": [],
+    "audioPath": "audio/slide_professions_astronaut_tr.mp3",
+    "status": "no_legacy_label_listening_review",
+    "transcript": "Astronaut",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.650387954711914
+    ],
+    "evidenceSha256": "667f8fdb385f67f5633d22e1c16bd18aa17597659b94c944bac80c4f1ad050fb",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1442",
+    "displayText": "Kurye",
+    "expectedSpokenText": "Kurye",
+    "legacyLabels": [
+      "Kargocu"
+    ],
+    "audioPath": "audio/slide_professions_delivery_man_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Kargoju",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5965426564216614
+    ],
+    "evidenceSha256": "5acc0e1e9bc04bdcb0a7c1bd42ef96db91de67d92aaf050e86cf0442791053dc",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1444",
+    "displayText": "Resepsiyonist",
+    "expectedSpokenText": "Resepsiyonist",
+    "legacyLabels": [
+      "Resepsitonist"
+    ],
+    "audioPath": "audio/slide_professions_receptionist_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Recepcionist",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.7498898506164551
+    ],
+    "evidenceSha256": "23263b58187aab466a22962ae39006319a7faac92a427ba80f439f98f3223749",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "professions:1445",
+    "displayText": "Taksi şoförü",
+    "expectedSpokenText": "Taksi şoförü",
+    "legacyLabels": [
+      "Taksi şöförü"
+    ],
+    "audioPath": "audio/slide_professions_taxi_driver_tr.mp3",
+    "status": "legacy_label_differs_listen_before_replacing",
+    "transcript": "Taksi şoför",
+    "auditStatus": "different_or_uncertain_transcript",
+    "avgLogprobs": [
+      -0.5974465012550354
+    ],
+    "evidenceSha256": "0f58e6797d8568b9f86bee28a5d4ad7975679a6372b53cc14ee17a5581ad5c32",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:tr-letter-00c7",
+    "displayText": "Ç",
+    "expectedSpokenText": "çe",
+    "legacyLabels": [
+      "Ç"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_cc_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "C",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5918208360671997
+    ],
+    "evidenceSha256": "d690244e80c1c6c4a117422da1b70f71fb7a125f3236dadd9a6254b0a812c7f1",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:tr-letter-011e",
+    "displayText": "Ğ",
+    "expectedSpokenText": "yumuşak ge",
+    "legacyLabels": [
+      "Ğ"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_gg_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Yumuşak ki.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5833554118871689
+    ],
+    "evidenceSha256": "583da69b28dbab42831df7e8b2ee7e0533509195d866be31a864728bc0bf0fe7",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:tr-letter-0130",
+    "displayText": "İ",
+    "expectedSpokenText": "i",
+    "legacyLabels": [
+      "İ"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_i_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "İ.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.5787941932678222
+    ],
+    "evidenceSha256": "04764878367cfb8c6534c6d89b744cc2796dcb3d02362a604be6bfe02e1c3456",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:tr-letter-00d6",
+    "displayText": "Ö",
+    "expectedSpokenText": "ö",
+    "legacyLabels": [
+      "Ö"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_oo_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Evet.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.8502293586730957
+    ],
+    "evidenceSha256": "5b828c9b6f1c7838b11841a63f1448f55f3beb779bccdb9aacdbe8dace08896c",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:tr-letter-015e",
+    "displayText": "Ş",
+    "expectedSpokenText": "şe",
+    "legacyLabels": [
+      "Ş"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_ss_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Şey.",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.9369609832763672
+    ],
+    "evidenceSha256": "a0ecfdb288c5a636aee87bea55f513e1e985ef3aad948bea37fd02196534d67b",
+    "humanListeningVerified": false
+  },
+  {
+    "conceptId": "school:tr-letter-00dc",
+    "displayText": "Ü",
+    "expectedSpokenText": "ü",
+    "legacyLabels": [
+      "Ü"
+    ],
+    "audioPath": "audio/slide_my_school_alphabets_uu_tr.mp3",
+    "status": "letter_name_listening_review",
+    "transcript": "Ü",
+    "auditStatus": "alphabet_manual_review",
+    "avgLogprobs": [
+      -0.736549124121666
+    ],
+    "evidenceSha256": "e6c1127205dff59d974241a838160bb165a187ef1cb4872e7da44d8052d0fefc",
+    "humanListeningVerified": false
+  }
+]

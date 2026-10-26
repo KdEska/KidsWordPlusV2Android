@@ -1,0 +1,856 @@
+[
+  {
+    "language": "tr",
+    "conceptId": "animals:91",
+    "text": "Kunduz",
+    "path": "packages/tr/audio/slide_animals_beaver_tr.mp3",
+    "sourceFile": "single_tr_kunduz.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "animals:92",
+    "text": "Hamster",
+    "path": "packages/tr/audio/slide_animals_hamster_tr.mp3",
+    "sourceFile": "generated_tr_002.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "animals:93",
+    "text": "Yavru kedi",
+    "path": "packages/tr/audio/slide_animals_kitten_tr.mp3",
+    "sourceFile": "generated_tr_003.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "animals:94",
+    "text": "Su samuru",
+    "path": "packages/tr/audio/slide_animals_otter_tr.mp3",
+    "sourceFile": "generated_tr_004.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "animals:95",
+    "text": "Yavru köpek",
+    "path": "packages/tr/audio/slide_animals_puppy_tr.mp3",
+    "sourceFile": "generated_tr_005.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "animals:96",
+    "text": "Sincap",
+    "path": "packages/tr/audio/slide_animals_squirrel_tr.mp3",
+    "sourceFile": "generated_tr_006.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "buildings:144",
+    "text": "Akvaryum",
+    "path": "packages/tr/audio/slide_buildings_aquarium_tr.mp3",
+    "sourceFile": "generated_tr_007.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "buildings:145",
+    "text": "Fırın",
+    "path": "packages/tr/audio/slide_buildings_bakery_tr.mp3",
+    "sourceFile": "generated_tr_008.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "buildings:146",
+    "text": "Market",
+    "path": "packages/tr/audio/slide_buildings_market_tr.mp3",
+    "sourceFile": "generated_tr_009.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "buildings:147",
+    "text": "Eczane",
+    "path": "packages/tr/audio/slide_buildings_pharmacy_tr.mp3",
+    "sourceFile": "generated_tr_010.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "buildings:148",
+    "text": "Hayvanat bahçesi",
+    "path": "packages/tr/audio/slide_buildings_zoo_tr.mp3",
+    "sourceFile": "generated_tr_011.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "buildings:159",
+    "text": "Otobüs terminali",
+    "path": "packages/tr/audio/slide_buildings_bus_station_tr.mp3",
+    "sourceFile": "generated_tr_012.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "buildings:190",
+    "text": "Apartman",
+    "path": "packages/tr/audio/slide_buildings_apartment_building_tr.mp3",
+    "sourceFile": "generated_tr_013.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "clocks:239",
+    "text": "Saat biri beş geçiyor",
+    "path": "packages/tr/audio/slide_clocks_it_is_five_past_one_tr.mp3",
+    "sourceFile": "generated_tr_014.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "clocks:240",
+    "text": "Saat ikiyi on geçiyor",
+    "path": "packages/tr/audio/slide_clocks_it_is_ten_past_two_tr.mp3",
+    "sourceFile": "generated_tr_015.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "countries:403",
+    "text": "İngiltere",
+    "path": "packages/tr/audio/slide_countries_england_tr.mp3",
+    "sourceFile": "generated_tr_016.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "flags:753",
+    "text": "İngiltere",
+    "path": "packages/tr/audio/slide_flags_england_tr.mp3",
+    "sourceFile": "generated_tr_016.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "countries:404",
+    "text": "Grönland",
+    "path": "packages/tr/audio/slide_countries_greenland_tr.mp3",
+    "sourceFile": "generated_tr_017.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "flags:754",
+    "text": "Grönland",
+    "path": "packages/tr/audio/slide_flags_greenland_tr.mp3",
+    "sourceFile": "generated_tr_017.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "countries:405",
+    "text": "İskoçya",
+    "path": "packages/tr/audio/slide_countries_scotland_tr.mp3",
+    "sourceFile": "generated_tr_018.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "flags:755",
+    "text": "İskoçya",
+    "path": "packages/tr/audio/slide_flags_scotland_tr.mp3",
+    "sourceFile": "generated_tr_018.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "countries:406",
+    "text": "Galler",
+    "path": "packages/tr/audio/slide_countries_wales_tr.mp3",
+    "sourceFile": "generated_tr_019.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "flags:756",
+    "text": "Galler",
+    "path": "packages/tr/audio/slide_flags_wales_tr.mp3",
+    "sourceFile": "generated_tr_019.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "countries:440",
+    "text": "Kuzey İrlanda",
+    "path": "packages/tr/audio/slide_countries_northern_ireland_tr.mp3",
+    "sourceFile": "generated_tr_020.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "flags:790",
+    "text": "Kuzey İrlanda",
+    "path": "packages/tr/audio/slide_flags_northern_ireland_tr.mp3",
+    "sourceFile": "generated_tr_020.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:483",
+    "text": "Asteroit kuşağı",
+    "path": "packages/tr/audio/slide_space_asteroid_belt_tr.mp3",
+    "sourceFile": "generated_tr_021.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:484",
+    "text": "Cüce gezegen",
+    "path": "packages/tr/audio/slide_space_dwarf_planet_tr.mp3",
+    "sourceFile": "generated_tr_022.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:485",
+    "text": "Fırlatma rampası",
+    "path": "packages/tr/audio/slide_space_launch_pad_tr.mp3",
+    "sourceFile": "generated_tr_023.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:486",
+    "text": "Ay modülü",
+    "path": "packages/tr/audio/slide_space_lunar_module_tr.mp3",
+    "sourceFile": "generated_tr_024.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:487",
+    "text": "Samanyolu",
+    "path": "packages/tr/audio/slide_space_milky_way_tr.mp3",
+    "sourceFile": "generated_tr_025.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:488",
+    "text": "Ay taşı",
+    "path": "packages/tr/audio/slide_space_moon_rock_tr.mp3",
+    "sourceFile": "generated_tr_026.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:489",
+    "text": "Güneş sistemi",
+    "path": "packages/tr/audio/slide_space_solar_system_tr.mp3",
+    "sourceFile": "generated_tr_027.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:490",
+    "text": "Uzay sondası",
+    "path": "packages/tr/audio/slide_space_space_probe_tr.mp3",
+    "sourceFile": "generated_tr_028.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "space:491",
+    "text": "Uzay giysisi",
+    "path": "packages/tr/audio/slide_space_space_suit_tr.mp3",
+    "sourceFile": "generated_tr_029.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "farm:577",
+    "text": "Çiftlik evi",
+    "path": "packages/tr/audio/slide_farm_farmhouse_tr.mp3",
+    "sourceFile": "generated_tr_030.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "farm:578",
+    "text": "Tarla",
+    "path": "packages/tr/audio/slide_farm_field_tr.mp3",
+    "sourceFile": "generated_tr_031.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "farm:579",
+    "text": "Ot yığını",
+    "path": "packages/tr/audio/slide_farm_haystack_tr.mp3",
+    "sourceFile": "generated_tr_032.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "farm:580",
+    "text": "Tohum",
+    "path": "packages/tr/audio/slide_farm_seed_tr.mp3",
+    "sourceFile": "generated_tr_033.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "farm:581",
+    "text": "Ahır",
+    "path": "packages/tr/audio/slide_farm_stable_tr.mp3",
+    "sourceFile": "generated_tr_034.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "food:831",
+    "text": "Tereyağı",
+    "path": "packages/tr/audio/slide_food_butter_tr.mp3",
+    "sourceFile": "generated_tr_035.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "food:832",
+    "text": "Makarna",
+    "path": "packages/tr/audio/slide_food_pasta_tr.mp3",
+    "sourceFile": "generated_tr_036.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "food:833",
+    "text": "Pirinç",
+    "path": "packages/tr/audio/slide_food_rice_tr.mp3",
+    "sourceFile": "generated_tr_037.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "food:834",
+    "text": "Yoğurt",
+    "path": "packages/tr/audio/slide_food_yogurt_tr.mp3",
+    "sourceFile": "generated_tr_038.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "fruits_vegetables:906",
+    "text": "Mango",
+    "path": "packages/tr/audio/slide_fruits_vegetables_mango_tr.mp3",
+    "sourceFile": "generated_tr_039.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "fruits_vegetables:908",
+    "text": "Mandalina",
+    "path": "packages/tr/audio/slide_fruits_vegetables_tangerine_tr.mp3",
+    "sourceFile": "generated_tr_040.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "heavy_equipment:984",
+    "text": "Damperli kamyon",
+    "path": "packages/tr/audio/slide_heavy_equipment_dump_truck_tr.mp3",
+    "sourceFile": "generated_tr_041.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "human_body:1044",
+    "text": "Ön kol",
+    "path": "packages/tr/audio/slide_human_body_forearm_tr.mp3",
+    "sourceFile": "generated_tr_042.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "human_body:1052",
+    "text": "Üst kol",
+    "path": "packages/tr/audio/slide_human_body_upper_arm_tr.mp3",
+    "sourceFile": "generated_tr_043.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "musical_instruments:1084",
+    "text": "Blok flüt",
+    "path": "packages/tr/audio/slide_musical_instruments_recorder_tr.mp3",
+    "sourceFile": "generated_tr_044.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "musical_instruments:1085",
+    "text": "Tef",
+    "path": "packages/tr/audio/slide_musical_instruments_tambourine_tr.mp3",
+    "sourceFile": "generated_tr_045.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "musical_instruments:1086",
+    "text": "Çelik üçgen",
+    "path": "packages/tr/audio/slide_musical_instruments_triangle_tr.mp3",
+    "sourceFile": "generated_tr_046.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "musical_instruments:1087",
+    "text": "Trombon",
+    "path": "packages/tr/audio/slide_musical_instruments_trombone_tr.mp3",
+    "sourceFile": "generated_tr_047.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "musical_instruments:1088",
+    "text": "Ukulele",
+    "path": "packages/tr/audio/slide_musical_instruments_ukulele_tr.mp3",
+    "sourceFile": "generated_tr_048.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "musical_instruments:1089",
+    "text": "Bas gitar",
+    "path": "packages/tr/audio/slide_musical_instruments_bass_guitar_tr.mp3",
+    "sourceFile": "generated_tr_049.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "musical_instruments:1090",
+    "text": "Korno",
+    "path": "packages/tr/audio/slide_musical_instruments_french_horn_tr.mp3",
+    "sourceFile": "generated_tr_050.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "home:1234",
+    "text": "Yatak",
+    "path": "packages/tr/audio/slide_home_bed_tr.mp3",
+    "sourceFile": "generated_tr_051.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "home:1235",
+    "text": "Yatak odası",
+    "path": "packages/tr/audio/slide_home_bedroom_tr.mp3",
+    "sourceFile": "generated_tr_052.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "school:1388",
+    "text": "Silgi",
+    "path": "packages/tr/audio/slide_school_eraser_tr.mp3",
+    "sourceFile": "generated_tr_053.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "school:1389",
+    "text": "Tükenmez kalem",
+    "path": "packages/tr/audio/slide_school_pen_tr.mp3",
+    "sourceFile": "generated_tr_054.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "professions:1438",
+    "text": "Tamirci",
+    "path": "packages/tr/audio/slide_professions_mechanic_tr.mp3",
+    "sourceFile": "generated_tr_055.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "professions:1439",
+    "text": "Paramedik",
+    "path": "packages/tr/audio/slide_professions_paramedic_tr.mp3",
+    "sourceFile": "generated_tr_056.mp3"
+  },
+  {
+    "language": "tr",
+    "conceptId": "professions:1447",
+    "text": "Veteriner",
+    "path": "packages/tr/audio/slide_professions_veterinarian_tr.mp3",
+    "sourceFile": "generated_tr_057.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "animals:91",
+    "text": "Beaver",
+    "path": "packages/en/audio/slide_animals_beaver_en.mp3",
+    "sourceFile": "english_reference_en_001.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "animals:92",
+    "text": "Hamster",
+    "path": "packages/en/audio/slide_animals_hamster_en.mp3",
+    "sourceFile": "english_reference_en_002.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "animals:93",
+    "text": "Kitten",
+    "path": "packages/en/audio/slide_animals_kitten_en.mp3",
+    "sourceFile": "english_reference_en_003.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "animals:95",
+    "text": "Puppy",
+    "path": "packages/en/audio/slide_animals_puppy_en.mp3",
+    "sourceFile": "english_reference_en_004.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "buildings:144",
+    "text": "Aquarium",
+    "path": "packages/en/audio/slide_buildings_aquarium_en.mp3",
+    "sourceFile": "english_reference_en_005.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "buildings:145",
+    "text": "Bakery",
+    "path": "packages/en/audio/slide_buildings_bakery_en.mp3",
+    "sourceFile": "english_reference_en_006.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "buildings:146",
+    "text": "Market",
+    "path": "packages/en/audio/slide_buildings_market_en.mp3",
+    "sourceFile": "english_reference_en_007.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "buildings:147",
+    "text": "Pharmacy",
+    "path": "packages/en/audio/slide_buildings_pharmacy_en.mp3",
+    "sourceFile": "english_reference_en_008.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "buildings:148",
+    "text": "Zoo",
+    "path": "packages/en/audio/slide_buildings_zoo_en.mp3",
+    "sourceFile": "english_reference_en_009.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "buildings:159",
+    "text": "Bus Station",
+    "path": "packages/en/audio/slide_buildings_bus_station_en.mp3",
+    "sourceFile": "english_reference_en_010.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "buildings:190",
+    "text": "Apartment Building",
+    "path": "packages/en/audio/slide_buildings_apartment_building_en.mp3",
+    "sourceFile": "english_reference_en_011.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "clocks:239",
+    "text": "It is five past one",
+    "path": "packages/en/audio/slide_clocks_it_is_five_past_one_en.mp3",
+    "sourceFile": "english_reference_en_012.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "clocks:240",
+    "text": "It is ten past two",
+    "path": "packages/en/audio/slide_clocks_it_is_ten_past_two_en.mp3",
+    "sourceFile": "english_reference_en_013.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "countries:403",
+    "text": "England",
+    "path": "packages/en/audio/slide_countries_england_en.mp3",
+    "sourceFile": "english_reference_en_014.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "flags:753",
+    "text": "England",
+    "path": "packages/en/audio/slide_flags_england_en.mp3",
+    "sourceFile": "english_reference_en_014.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "countries:404",
+    "text": "Greenland",
+    "path": "packages/en/audio/slide_countries_greenland_en.mp3",
+    "sourceFile": "english_reference_en_015.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "flags:754",
+    "text": "Greenland",
+    "path": "packages/en/audio/slide_flags_greenland_en.mp3",
+    "sourceFile": "english_reference_en_015.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "countries:405",
+    "text": "Scotland",
+    "path": "packages/en/audio/slide_countries_scotland_en.mp3",
+    "sourceFile": "english_reference_en_016.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "flags:755",
+    "text": "Scotland",
+    "path": "packages/en/audio/slide_flags_scotland_en.mp3",
+    "sourceFile": "english_reference_en_016.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "countries:406",
+    "text": "Wales",
+    "path": "packages/en/audio/slide_countries_wales_en.mp3",
+    "sourceFile": "english_reference_en_017.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "flags:756",
+    "text": "Wales",
+    "path": "packages/en/audio/slide_flags_wales_en.mp3",
+    "sourceFile": "english_reference_en_017.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "countries:440",
+    "text": "Northern Ireland",
+    "path": "packages/en/audio/slide_countries_northern_ireland_en.mp3",
+    "sourceFile": "english_reference_en_018.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "flags:790",
+    "text": "Northern Ireland",
+    "path": "packages/en/audio/slide_flags_northern_ireland_en.mp3",
+    "sourceFile": "english_reference_en_018.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:483",
+    "text": "Asteroid Belt",
+    "path": "packages/en/audio/slide_space_asteroid_belt_en.mp3",
+    "sourceFile": "english_reference_en_019.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:484",
+    "text": "Dwarf Planet",
+    "path": "packages/en/audio/slide_space_dwarf_planet_en.mp3",
+    "sourceFile": "english_reference_en_020.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:485",
+    "text": "Launch Pad",
+    "path": "packages/en/audio/slide_space_launch_pad_en.mp3",
+    "sourceFile": "english_reference_en_021.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:486",
+    "text": "Lunar Module",
+    "path": "packages/en/audio/slide_space_lunar_module_en.mp3",
+    "sourceFile": "english_reference_en_022.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:487",
+    "text": "Milky Way",
+    "path": "packages/en/audio/slide_space_milky_way_en.mp3",
+    "sourceFile": "english_reference_en_023.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:488",
+    "text": "Moon Rock",
+    "path": "packages/en/audio/slide_space_moon_rock_en.mp3",
+    "sourceFile": "english_reference_en_024.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:489",
+    "text": "Solar System",
+    "path": "packages/en/audio/slide_space_solar_system_en.mp3",
+    "sourceFile": "english_reference_en_025.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:490",
+    "text": "Space Probe",
+    "path": "packages/en/audio/slide_space_space_probe_en.mp3",
+    "sourceFile": "english_reference_en_026.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "space:491",
+    "text": "Space Suit",
+    "path": "packages/en/audio/slide_space_space_suit_en.mp3",
+    "sourceFile": "english_reference_en_027.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "farm:577",
+    "text": "Farmhouse",
+    "path": "packages/en/audio/slide_farm_farmhouse_en.mp3",
+    "sourceFile": "english_reference_en_028.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "farm:578",
+    "text": "Field",
+    "path": "packages/en/audio/slide_farm_field_en.mp3",
+    "sourceFile": "english_reference_en_029.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "farm:579",
+    "text": "Haystack",
+    "path": "packages/en/audio/slide_farm_haystack_en.mp3",
+    "sourceFile": "english_reference_en_030.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "farm:580",
+    "text": "Seed",
+    "path": "packages/en/audio/slide_farm_seed_en.mp3",
+    "sourceFile": "english_reference_en_031.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "farm:581",
+    "text": "Stable",
+    "path": "packages/en/audio/slide_farm_stable_en.mp3",
+    "sourceFile": "english_reference_en_032.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "food:831",
+    "text": "Butter",
+    "path": "packages/en/audio/slide_food_butter_en.mp3",
+    "sourceFile": "english_reference_en_033.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "food:832",
+    "text": "Pasta",
+    "path": "packages/en/audio/slide_food_pasta_en.mp3",
+    "sourceFile": "english_reference_en_034.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "food:833",
+    "text": "Rice",
+    "path": "packages/en/audio/slide_food_rice_en.mp3",
+    "sourceFile": "english_reference_en_035.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "food:834",
+    "text": "Yogurt",
+    "path": "packages/en/audio/slide_food_yogurt_en.mp3",
+    "sourceFile": "english_reference_en_036.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "fruits_vegetables:906",
+    "text": "Mango",
+    "path": "packages/en/audio/slide_fruits_vegetables_mango_en.mp3",
+    "sourceFile": "english_reference_en_037.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "fruits_vegetables:908",
+    "text": "Tangerine",
+    "path": "packages/en/audio/slide_fruits_vegetables_tangerine_en.mp3",
+    "sourceFile": "english_reference_en_038.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "heavy_equipment:984",
+    "text": "Dump Truck",
+    "path": "packages/en/audio/slide_heavy_equipment_dump_truck_en.mp3",
+    "sourceFile": "english_reference_en_039.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "human_body:1044",
+    "text": "Forearm",
+    "path": "packages/en/audio/slide_human_body_forearm_en.mp3",
+    "sourceFile": "english_reference_en_040.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "human_body:1052",
+    "text": "Upper Arm",
+    "path": "packages/en/audio/slide_human_body_upper_arm_en.mp3",
+    "sourceFile": "english_reference_en_041.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "musical_instruments:1084",
+    "text": "Recorder",
+    "path": "packages/en/audio/slide_musical_instruments_recorder_en.mp3",
+    "sourceFile": "english_reference_en_042.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "musical_instruments:1085",
+    "text": "Tambourine",
+    "path": "packages/en/audio/slide_musical_instruments_tambourine_en.mp3",
+    "sourceFile": "english_reference_en_043.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "musical_instruments:1086",
+    "text": "Triangle",
+    "path": "packages/en/audio/slide_musical_instruments_triangle_en.mp3",
+    "sourceFile": "english_reference_en_044.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "musical_instruments:1087",
+    "text": "Trombone",
+    "path": "packages/en/audio/slide_musical_instruments_trombone_en.mp3",
+    "sourceFile": "english_reference_en_045.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "musical_instruments:1088",
+    "text": "Ukulele",
+    "path": "packages/en/audio/slide_musical_instruments_ukulele_en.mp3",
+    "sourceFile": "english_reference_en_046.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "musical_instruments:1089",
+    "text": "Bass Guitar",
+    "path": "packages/en/audio/slide_musical_instruments_bass_guitar_en.mp3",
+    "sourceFile": "english_reference_en_047.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "musical_instruments:1090",
+    "text": "French Horn",
+    "path": "packages/en/audio/slide_musical_instruments_french_horn_en.mp3",
+    "sourceFile": "english_reference_en_048.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "home:1234",
+    "text": "Bed",
+    "path": "packages/en/audio/slide_home_bed_en.mp3",
+    "sourceFile": "english_reference_en_049.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "home:1235",
+    "text": "Bedroom",
+    "path": "packages/en/audio/slide_home_bedroom_en.mp3",
+    "sourceFile": "english_reference_en_050.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "school:1388",
+    "text": "Eraser",
+    "path": "packages/en/audio/slide_school_eraser_en.mp3",
+    "sourceFile": "english_reference_en_051.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "school:1389",
+    "text": "Pen",
+    "path": "packages/en/audio/slide_school_pen_en.mp3",
+    "sourceFile": "english_reference_en_052.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "professions:1438",
+    "text": "Mechanic",
+    "path": "packages/en/audio/slide_professions_mechanic_en.mp3",
+    "sourceFile": "english_reference_en_053.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "professions:1439",
+    "text": "Paramedic",
+    "path": "packages/en/audio/slide_professions_paramedic_en.mp3",
+    "sourceFile": "english_reference_en_054.mp3"
+  },
+  {
+    "language": "en",
+    "conceptId": "professions:1447",
+    "text": "Veterinarian",
+    "path": "packages/en/audio/slide_professions_veterinarian_en.mp3",
+    "sourceFile": "english_reference_en_055.mp3"
+  }
+]

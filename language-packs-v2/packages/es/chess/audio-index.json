@@ -1,0 +1,1351 @@
+{
+  "voice_id": "NUEuVCKSYxEA5YrK3kmx",
+  "model_id": "eleven_v4",
+  "clips": [
+    {
+      "text": "a1.",
+      "normalized": "a1",
+      "file": "audio/f55ff16f66f43360266b95db.mp3"
+    },
+    {
+      "text": "a1 a",
+      "normalized": "a1 a",
+      "file": "audio/076a021d3faf696555e7c211.mp3"
+    },
+    {
+      "text": "a2.",
+      "normalized": "a2",
+      "file": "audio/2c3a4249d77070058649dbd8.mp3"
+    },
+    {
+      "text": "a2 a",
+      "normalized": "a2 a",
+      "file": "audio/b8bc58b30a557f9e8d6b9c52.mp3"
+    },
+    {
+      "text": "a3.",
+      "normalized": "a3",
+      "file": "audio/f46dd28a5499d8efef0b8fb8.mp3"
+    },
+    {
+      "text": "a3 a",
+      "normalized": "a3 a",
+      "file": "audio/06c7b875c76924d3fbf8bce3.mp3"
+    },
+    {
+      "text": "a4.",
+      "normalized": "a4",
+      "file": "audio/4539e4b4889079c2a00afeae.mp3"
+    },
+    {
+      "text": "a4 a",
+      "normalized": "a4 a",
+      "file": "audio/c2c5ca547d7d9c528f8d6eab.mp3"
+    },
+    {
+      "text": "a5.",
+      "normalized": "a5",
+      "file": "audio/66220e71591b2d933c0e935c.mp3"
+    },
+    {
+      "text": "a5 a",
+      "normalized": "a5 a",
+      "file": "audio/9e22155a80599736645f1bbe.mp3"
+    },
+    {
+      "text": "a6.",
+      "normalized": "a6",
+      "file": "audio/730bea4ff16f200fb931b06c.mp3"
+    },
+    {
+      "text": "a6 a",
+      "normalized": "a6 a",
+      "file": "audio/f2687a42eba4f2b3da456373.mp3"
+    },
+    {
+      "text": "a7.",
+      "normalized": "a7",
+      "file": "audio/20377cec9f51f6bf5ba1fa64.mp3"
+    },
+    {
+      "text": "a7 a",
+      "normalized": "a7 a",
+      "file": "audio/d29396557bc7e70b7c0ce69d.mp3"
+    },
+    {
+      "text": "a8.",
+      "normalized": "a8",
+      "file": "audio/ce609b5bf3b974a84907e237.mp3"
+    },
+    {
+      "text": "a8 a",
+      "normalized": "a8 a",
+      "file": "audio/0c4cf5340a62da60f9768394.mp3"
+    },
+    {
+      "text": "Ahogado",
+      "normalized": "ahogado",
+      "file": "audio/6d733530b034923570c8b571.mp3"
+    },
+    {
+      "text": "Alfil",
+      "normalized": "alfil",
+      "file": "audio/c9e4ee081dc1ccd082b6c16d.mp3"
+    },
+    {
+      "text": "b1.",
+      "normalized": "b1",
+      "file": "audio/7dc96f776c8423e57a278548.mp3"
+    },
+    {
+      "text": "b1 a",
+      "normalized": "b1 a",
+      "file": "audio/a2a8de1b3a3cd3a8af84b64b.mp3"
+    },
+    {
+      "text": "b2.",
+      "normalized": "b2",
+      "file": "audio/4814d92093ac8a0f4a2163ab.mp3"
+    },
+    {
+      "text": "b2 a",
+      "normalized": "b2 a",
+      "file": "audio/1819ce1d9bf8e8f006e06160.mp3"
+    },
+    {
+      "text": "b3.",
+      "normalized": "b3",
+      "file": "audio/76a8277347f52530e1cf9791.mp3"
+    },
+    {
+      "text": "b3 a",
+      "normalized": "b3 a",
+      "file": "audio/d7bd150a9ba2911e066ea1d8.mp3"
+    },
+    {
+      "text": "b4.",
+      "normalized": "b4",
+      "file": "audio/486bacc5c2d8a71a73d51bf8.mp3"
+    },
+    {
+      "text": "b4 a",
+      "normalized": "b4 a",
+      "file": "audio/b93150f88c51946d6e96760b.mp3"
+    },
+    {
+      "text": "b5.",
+      "normalized": "b5",
+      "file": "audio/3c5661974942379614b943d0.mp3"
+    },
+    {
+      "text": "b5 a",
+      "normalized": "b5 a",
+      "file": "audio/c8bf02074e0c7955f11ca863.mp3"
+    },
+    {
+      "text": "b6.",
+      "normalized": "b6",
+      "file": "audio/2f5da6e9921baa794759ee9f.mp3"
+    },
+    {
+      "text": "b6 a",
+      "normalized": "b6 a",
+      "file": "audio/50f6c2c2c1ec3ef8f5411825.mp3"
+    },
+    {
+      "text": "b7.",
+      "normalized": "b7",
+      "file": "audio/e1b0acf86b9621b8c13ca17b.mp3"
+    },
+    {
+      "text": "b7 a",
+      "normalized": "b7 a",
+      "file": "audio/188f9ee700f68e6b0ff20f64.mp3"
+    },
+    {
+      "text": "b8.",
+      "normalized": "b8",
+      "file": "audio/92ee93de02ea87db530298f4.mp3"
+    },
+    {
+      "text": "b8 a",
+      "normalized": "b8 a",
+      "file": "audio/28627ff312e4bea197cefa0a.mp3"
+    },
+    {
+      "text": "Blancas",
+      "normalized": "blancas",
+      "file": "audio/c092b6973ad4c9e34580cd72.mp3"
+    },
+    {
+      "text": "Blancas: movimiento de Alfil, de",
+      "normalized": "blancas movimiento de alfil de",
+      "file": "audio/c4d340dd09a688d0b7905520.mp3"
+    },
+    {
+      "text": "Blancas: movimiento de Caballo, de",
+      "normalized": "blancas movimiento de caballo de",
+      "file": "audio/70210a72b71066faed03ce3b.mp3"
+    },
+    {
+      "text": "Blancas: movimiento de Dama, de",
+      "normalized": "blancas movimiento de dama de",
+      "file": "audio/58a6afb08e4ac3a39afd3447.mp3"
+    },
+    {
+      "text": "Blancas: movimiento de Peón, de",
+      "normalized": "blancas movimiento de peón de",
+      "file": "audio/552ea03aa6626bb8d66697fa.mp3"
+    },
+    {
+      "text": "Blancas: movimiento de Rey, de",
+      "normalized": "blancas movimiento de rey de",
+      "file": "audio/e5695060f5b7a7a467f2e2f9.mp3"
+    },
+    {
+      "text": "Blancas: movimiento de Torre, de",
+      "normalized": "blancas movimiento de torre de",
+      "file": "audio/aa237537a349128bb0148c4a.mp3"
+    },
+    {
+      "text": "c1.",
+      "normalized": "c1",
+      "file": "audio/d0f631ca1ddba8db3bcfcb9e.mp3"
+    },
+    {
+      "text": "c1 a",
+      "normalized": "c1 a",
+      "file": "audio/94917cd6f14f475d4c6ea1e2.mp3"
+    },
+    {
+      "text": "c2.",
+      "normalized": "c2",
+      "file": "audio/9c0abe51c6e6655d81de2d04.mp3"
+    },
+    {
+      "text": "c2 a",
+      "normalized": "c2 a",
+      "file": "audio/19f722835f5c2c392f70cb70.mp3"
+    },
+    {
+      "text": "c3.",
+      "normalized": "c3",
+      "file": "audio/7c1c97df17c066924822b0af.mp3"
+    },
+    {
+      "text": "c3 a",
+      "normalized": "c3 a",
+      "file": "audio/2716899d4a94d956d19c7b0f.mp3"
+    },
+    {
+      "text": "c4.",
+      "normalized": "c4",
+      "file": "audio/0012a3fa000c5dc26ee658c3.mp3"
+    },
+    {
+      "text": "c4 a",
+      "normalized": "c4 a",
+      "file": "audio/faaac0f0d1dec8c59613a6dc.mp3"
+    },
+    {
+      "text": "c5.",
+      "normalized": "c5",
+      "file": "audio/d0bf3e6ee1d668de18c9ca20.mp3"
+    },
+    {
+      "text": "c5 a",
+      "normalized": "c5 a",
+      "file": "audio/63dcb32d16f1c030728b5337.mp3"
+    },
+    {
+      "text": "c6.",
+      "normalized": "c6",
+      "file": "audio/6db53c9d5a2ca72a85ddf3a6.mp3"
+    },
+    {
+      "text": "c6 a",
+      "normalized": "c6 a",
+      "file": "audio/22f7ffcd625cc20afe19afd7.mp3"
+    },
+    {
+      "text": "c7.",
+      "normalized": "c7",
+      "file": "audio/f28d5b0d6f8be0da8446dabe.mp3"
+    },
+    {
+      "text": "c7 a",
+      "normalized": "c7 a",
+      "file": "audio/94a993b66a69b89a7d3c4f4f.mp3"
+    },
+    {
+      "text": "c8.",
+      "normalized": "c8",
+      "file": "audio/7ed6a8377b92b49472195f12.mp3"
+    },
+    {
+      "text": "c8 a",
+      "normalized": "c8 a",
+      "file": "audio/9c1554094e3bc251405cf151.mp3"
+    },
+    {
+      "text": "Caballo",
+      "normalized": "caballo",
+      "file": "audio/70c15896164923d623a4a34c.mp3"
+    },
+    {
+      "text": "Cada jugador empieza con 16 piezas. Las blancas juegan primero. Luego los jugadores se turnan para mover.",
+      "normalized": "cada jugador empieza con 16 piezas las blancas juegan primero luego los jugadores se turnan para mover",
+      "file": "audio/05818883e674d1c3d1d64f71.mp3"
+    },
+    {
+      "text": "Captura la pieza rival de e5 con esta pieza: Peón.",
+      "normalized": "captura la pieza rival de e5 con esta pieza peón",
+      "file": "audio/60109cf0bc1b580bd57cd3ee.mp3"
+    },
+    {
+      "text": "Captura la pieza rival de g4 con esta pieza: Torre.",
+      "normalized": "captura la pieza rival de g4 con esta pieza torre",
+      "file": "audio/bd922c7d22115ab1c183031a.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en a1: Torre.",
+      "normalized": "coloca esta pieza en a1 torre",
+      "file": "audio/2936ab89c57c68643f2748aa.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en a2: Peón.",
+      "normalized": "coloca esta pieza en a2 peón",
+      "file": "audio/9ec4bb4edda06816927f08e4.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en a7: Peón.",
+      "normalized": "coloca esta pieza en a7 peón",
+      "file": "audio/a197d9ff366c76b357f7abae.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en a8: Torre.",
+      "normalized": "coloca esta pieza en a8 torre",
+      "file": "audio/b0677d3b84d4b6ef78e1a1cd.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en b1: Caballo.",
+      "normalized": "coloca esta pieza en b1 caballo",
+      "file": "audio/a0e5ef1ad7e40ff383129ba3.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en b2: Peón.",
+      "normalized": "coloca esta pieza en b2 peón",
+      "file": "audio/bebcf1b2ab1a21d31c4f21c0.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en b7: Peón.",
+      "normalized": "coloca esta pieza en b7 peón",
+      "file": "audio/d7512a904c70c96f5985180d.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en b8: Caballo.",
+      "normalized": "coloca esta pieza en b8 caballo",
+      "file": "audio/c67fa543dd1f9842efda8f46.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en c1: Alfil.",
+      "normalized": "coloca esta pieza en c1 alfil",
+      "file": "audio/79564ee14ac75e8ae075952a.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en c2: Peón.",
+      "normalized": "coloca esta pieza en c2 peón",
+      "file": "audio/0133c6a40cb927332e490119.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en c7: Peón.",
+      "normalized": "coloca esta pieza en c7 peón",
+      "file": "audio/7f30b2f85d723ef9326fd0fb.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en c8: Alfil.",
+      "normalized": "coloca esta pieza en c8 alfil",
+      "file": "audio/876551bf4c27b3e9607e020f.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en d1: Dama.",
+      "normalized": "coloca esta pieza en d1 dama",
+      "file": "audio/e1de5119349c7391e1b21119.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en d2: Peón.",
+      "normalized": "coloca esta pieza en d2 peón",
+      "file": "audio/3a42625a4b802306cb71efc8.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en d7: Peón.",
+      "normalized": "coloca esta pieza en d7 peón",
+      "file": "audio/67877232684f4855fd2e10b1.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en d8: Dama.",
+      "normalized": "coloca esta pieza en d8 dama",
+      "file": "audio/3937909a636e2a1107ccd2ab.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en e1: Rey.",
+      "normalized": "coloca esta pieza en e1 rey",
+      "file": "audio/b0982769c0c5235adb246d51.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en e2: Peón.",
+      "normalized": "coloca esta pieza en e2 peón",
+      "file": "audio/e09842c06aea6c3ec946d866.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en e7: Peón.",
+      "normalized": "coloca esta pieza en e7 peón",
+      "file": "audio/1e81282ebf07ae7860127238.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en e8: Rey.",
+      "normalized": "coloca esta pieza en e8 rey",
+      "file": "audio/76ba9b46f86bec45d49e53d4.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en f1: Alfil.",
+      "normalized": "coloca esta pieza en f1 alfil",
+      "file": "audio/272f3c2b49e402198aa1f8a9.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en f2: Peón.",
+      "normalized": "coloca esta pieza en f2 peón",
+      "file": "audio/716f2562595237ad1159c9e3.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en f7: Peón.",
+      "normalized": "coloca esta pieza en f7 peón",
+      "file": "audio/7e071dc7ad08e07998289766.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en f8: Alfil.",
+      "normalized": "coloca esta pieza en f8 alfil",
+      "file": "audio/f32750c082580f6d1f343dd2.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en g1: Caballo.",
+      "normalized": "coloca esta pieza en g1 caballo",
+      "file": "audio/9ac9fb857b48ad7c7236fedc.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en g2: Peón.",
+      "normalized": "coloca esta pieza en g2 peón",
+      "file": "audio/843b6594ecfe12612f860a8d.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en g7: Peón.",
+      "normalized": "coloca esta pieza en g7 peón",
+      "file": "audio/c060b09564684ba22678a5f4.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en g8: Caballo.",
+      "normalized": "coloca esta pieza en g8 caballo",
+      "file": "audio/5bd05671ba8eadf481d8bf22.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en h1: Torre.",
+      "normalized": "coloca esta pieza en h1 torre",
+      "file": "audio/741d789de4eb870370ea6ed3.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en h2: Peón.",
+      "normalized": "coloca esta pieza en h2 peón",
+      "file": "audio/ebcd68de5bc8e8fb7e489764.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en h7: Peón.",
+      "normalized": "coloca esta pieza en h7 peón",
+      "file": "audio/5d88eb7cecb8b45733dc3e64.mp3"
+    },
+    {
+      "text": "Coloca esta pieza en h8: Torre.",
+      "normalized": "coloca esta pieza en h8 torre",
+      "file": "audio/b53821ca9f90bd25e98ab2be.mp3"
+    },
+    {
+      "text": "¡Completaste todas las misiones! Puedes volver a jugarlas.",
+      "normalized": "completaste todas las misiones puedes volver a jugarlas",
+      "file": "audio/d2974b83b0cff3c147cb18bf.mp3"
+    },
+    {
+      "text": "Cuando estás en jaque, debes eliminar la amenaza. Selecciona el rey de e1 y llévalo a la casilla segura d1.",
+      "normalized": "cuando estás en jaque debes eliminar la amenaza selecciona el rey de e1 y llévalo a la casilla segura d1",
+      "file": "audio/a2c3f5c422bb44d2b19b5d3b.mp3"
+    },
+    {
+      "text": "d1.",
+      "normalized": "d1",
+      "file": "audio/8b53639f152c8fc6ef30802f.mp3"
+    },
+    {
+      "text": "d1 a",
+      "normalized": "d1 a",
+      "file": "audio/3dee888c39183e4166e02063.mp3"
+    },
+    {
+      "text": "d2.",
+      "normalized": "d2",
+      "file": "audio/e788103ee15318fcd2af9b73.mp3"
+    },
+    {
+      "text": "d2 a",
+      "normalized": "d2 a",
+      "file": "audio/e8c9c80a96e47cf89d09b713.mp3"
+    },
+    {
+      "text": "d3.",
+      "normalized": "d3",
+      "file": "audio/f451a61749c611ba0fa0e16c.mp3"
+    },
+    {
+      "text": "d3 a",
+      "normalized": "d3 a",
+      "file": "audio/b2b3b129749d59bf7be54fa2.mp3"
+    },
+    {
+      "text": "d4.",
+      "normalized": "d4",
+      "file": "audio/af327a6478537246e0d9f0c5.mp3"
+    },
+    {
+      "text": "d4 a",
+      "normalized": "d4 a",
+      "file": "audio/d5acb3460fe3aa22fcd45bc4.mp3"
+    },
+    {
+      "text": "d5.",
+      "normalized": "d5",
+      "file": "audio/25f682044b5badaff8b296bf.mp3"
+    },
+    {
+      "text": "d5 a",
+      "normalized": "d5 a",
+      "file": "audio/4b4ca882babd4e8e9ed2437a.mp3"
+    },
+    {
+      "text": "d6.",
+      "normalized": "d6",
+      "file": "audio/79b98f273c175489f40b682a.mp3"
+    },
+    {
+      "text": "d6 a",
+      "normalized": "d6 a",
+      "file": "audio/c05c860d0f552943f079a32c.mp3"
+    },
+    {
+      "text": "d7.",
+      "normalized": "d7",
+      "file": "audio/82396aa34d3d216d4a545cf6.mp3"
+    },
+    {
+      "text": "d7 a",
+      "normalized": "d7 a",
+      "file": "audio/8d58afd5611557c9f1300714.mp3"
+    },
+    {
+      "text": "d8.",
+      "normalized": "d8",
+      "file": "audio/56f8921507e0f67c48d43947.mp3"
+    },
+    {
+      "text": "d8 a",
+      "normalized": "d8 a",
+      "file": "audio/f37eb09fda1969ca6fc974b0.mp3"
+    },
+    {
+      "text": "Dama",
+      "normalized": "dama",
+      "file": "audio/ebb64eb4e3addd9119d2fd4e.mp3"
+    },
+    {
+      "text": "e1.",
+      "normalized": "e1",
+      "file": "audio/8b5cc4df7eec7d32a7814eca.mp3"
+    },
+    {
+      "text": "e1 a",
+      "normalized": "e1 a",
+      "file": "audio/3544c3c005e0dcbf61a412df.mp3"
+    },
+    {
+      "text": "e2.",
+      "normalized": "e2",
+      "file": "audio/ac0f09c0f8bf5e7a4b063d86.mp3"
+    },
+    {
+      "text": "e2 a",
+      "normalized": "e2 a",
+      "file": "audio/71ead2b42c4673de6787ece0.mp3"
+    },
+    {
+      "text": "e3.",
+      "normalized": "e3",
+      "file": "audio/cef7fc13a38180936ffa2635.mp3"
+    },
+    {
+      "text": "e3 a",
+      "normalized": "e3 a",
+      "file": "audio/00e5e7686685e8ad2af89db5.mp3"
+    },
+    {
+      "text": "e4.",
+      "normalized": "e4",
+      "file": "audio/449777124b1466a8ed667d0d.mp3"
+    },
+    {
+      "text": "e4 a",
+      "normalized": "e4 a",
+      "file": "audio/30fd6a587bca52827e2bc793.mp3"
+    },
+    {
+      "text": "e5.",
+      "normalized": "e5",
+      "file": "audio/43700797e2f9d4ad38ccf135.mp3"
+    },
+    {
+      "text": "e5 a",
+      "normalized": "e5 a",
+      "file": "audio/08b227312ba4fe3d973a1fd7.mp3"
+    },
+    {
+      "text": "e6.",
+      "normalized": "e6",
+      "file": "audio/f33422b95e3b98310adedc93.mp3"
+    },
+    {
+      "text": "e6 a",
+      "normalized": "e6 a",
+      "file": "audio/bb6f85891f69447cc1500a89.mp3"
+    },
+    {
+      "text": "e7.",
+      "normalized": "e7",
+      "file": "audio/f3e2e400523c506868ca413b.mp3"
+    },
+    {
+      "text": "e7 a",
+      "normalized": "e7 a",
+      "file": "audio/b0eb1fe94fc8bd2c2344d48f.mp3"
+    },
+    {
+      "text": "e8.",
+      "normalized": "e8",
+      "file": "audio/c33352e36a529830a19080a8.mp3"
+    },
+    {
+      "text": "e8 a",
+      "normalized": "e8 a",
+      "file": "audio/2981a16fd2597216efe572da.mp3"
+    },
+    {
+      "text": "El alfil se mueve en diagonal. Siempre permanece en casillas del mismo color y no puede saltar sobre otras piezas.",
+      "normalized": "el alfil se mueve en diagonal siempre permanece en casillas del mismo color y no puede saltar sobre otras piezas",
+      "file": "audio/dd03dfc1cff4b61cc555c582.mp3"
+    },
+    {
+      "text": "El caballo avanza dos casillas en una dirección y una hacia un lado. Forma una L y puede saltar sobre otras piezas.",
+      "normalized": "el caballo avanza dos casillas en una dirección y una hacia un lado forma una l y puede saltar sobre otras piezas",
+      "file": "audio/145712d4bbbddd3e961ef120.mp3"
+    },
+    {
+      "text": "El objetivo es dar jaque mate al rey rival. Un rey atacado está en jaque. Si ninguna jugada legal permite salir del jaque, es jaque mate. Nunca se captura al rey.",
+      "normalized": "el objetivo es dar jaque mate al rey rival un rey atacado está en jaque si ninguna jugada legal permite salir del jaque es jaque mate nunca se captura al rey",
+      "file": "audio/3c6f47f2ed37dd18aafb2119.mp3"
+    },
+    {
+      "text": "El peón avanza una casilla. En su primer movimiento puede avanzar dos si el camino está libre. Captura una casilla en diagonal hacia adelante. En la última fila se convierte en dama, torre, alfil o caballo.",
+      "normalized": "el peón avanza una casilla en su primer movimiento puede avanzar dos si el camino está libre captura una casilla en diagonal hacia adelante en la última fila se convierte en dama torre alfil o caballo",
+      "file": "audio/a4d3d8b7b23cc116ade67c44.mp3"
+    },
+    {
+      "text": "El peón llegó a la última fila y se convirtió en dama en este ejercicio.",
+      "normalized": "el peón llegó a la última fila y se convirtió en dama en este ejercicio",
+      "file": "audio/4e1ceb01cfbcffc62b99630f.mp3"
+    },
+    {
+      "text": "El peón se convirtió en: Alfil.",
+      "normalized": "el peón se convirtió en alfil",
+      "file": "audio/6d8ffdd66033b95f55552706.mp3"
+    },
+    {
+      "text": "El peón se convirtió en: Caballo.",
+      "normalized": "el peón se convirtió en caballo",
+      "file": "audio/407c0786f92d0fbe00a37bd6.mp3"
+    },
+    {
+      "text": "El peón se convirtió en: Dama.",
+      "normalized": "el peón se convirtió en dama",
+      "file": "audio/b864a0971ea3d36b28e87000.mp3"
+    },
+    {
+      "text": "El peón se convirtió en: Torre.",
+      "normalized": "el peón se convirtió en torre",
+      "file": "audio/548e50d6a219a50eefb324e0.mp3"
+    },
+    {
+      "text": "El rey está atacado, pero hay una jugada segura. La partida continúa.",
+      "normalized": "el rey está atacado pero hay una jugada segura la partida continúa",
+      "file": "audio/3a899d3b3d2a67487013d5ea.mp3"
+    },
+    {
+      "text": "El rey está atacado y no hay jugada legal. ¡Jaque mate! La partida termina.",
+      "normalized": "el rey está atacado y no hay jugada legal jaque mate la partida termina",
+      "file": "audio/5456fc67ce3cd5c3460a828c.mp3"
+    },
+    {
+      "text": "El rey no está atacado, pero no hay jugada legal. ¡Ahogado! La partida acaba en tablas.",
+      "normalized": "el rey no está atacado pero no hay jugada legal ahogado la partida acaba en tablas",
+      "file": "audio/a6176fadd0c22fa8e8cf7110.mp3"
+    },
+    {
+      "text": "El rey se mueve una casilla en cualquier dirección. No puede ir a una casilla atacada.",
+      "normalized": "el rey se mueve una casilla en cualquier dirección no puede ir a una casilla atacada",
+      "file": "audio/776acba7a1515d5f4a976c18.mp3"
+    },
+    {
+      "text": "¡El tablero está listo! Cada lado tiene 16 piezas. Las blancas empiezan.",
+      "normalized": "el tablero está listo cada lado tiene 16 piezas las blancas empiezan",
+      "file": "audio/864f44073b4e822153d77379.mp3"
+    },
+    {
+      "text": "El tablero tiene 8 filas y 8 columnas: 64 casillas. La casilla inferior derecha debe ser clara.",
+      "normalized": "el tablero tiene 8 filas y 8 columnas 64 casillas la casilla inferior derecha debe ser clara",
+      "file": "audio/5534883afd43db72df24574c.mp3"
+    },
+    {
+      "text": "Esta jugada no da mate. Prueba otra.",
+      "normalized": "esta jugada no da mate prueba otra",
+      "file": "audio/c39679f96418e605e4d68dec.mp3"
+    },
+    {
+      "text": "Explora cómo se mueve tu pieza. Este es un ejercicio de movimiento.",
+      "normalized": "explora cómo se mueve tu pieza este es un ejercicio de movimiento",
+      "file": "audio/7a37c1139eb04e88aa9a79e5.mp3"
+    },
+    {
+      "text": "f1.",
+      "normalized": "f1",
+      "file": "audio/3f524cdc07a11d7c6220bdb0.mp3"
+    },
+    {
+      "text": "f1 a",
+      "normalized": "f1 a",
+      "file": "audio/3905feda7143236cb511d336.mp3"
+    },
+    {
+      "text": "f2.",
+      "normalized": "f2",
+      "file": "audio/e4ab4e3b1493d5a997b4e51c.mp3"
+    },
+    {
+      "text": "f2 a",
+      "normalized": "f2 a",
+      "file": "audio/ef76ab7a083daa555d50a065.mp3"
+    },
+    {
+      "text": "f3.",
+      "normalized": "f3",
+      "file": "audio/625e0f649de27800fc3bcf4c.mp3"
+    },
+    {
+      "text": "f3 a",
+      "normalized": "f3 a",
+      "file": "audio/3fb67b6ceb76881f7af73687.mp3"
+    },
+    {
+      "text": "f4.",
+      "normalized": "f4",
+      "file": "audio/608cdb524384f5ee06edc283.mp3"
+    },
+    {
+      "text": "f4 a",
+      "normalized": "f4 a",
+      "file": "audio/15404886fff548e0aed11d08.mp3"
+    },
+    {
+      "text": "f5.",
+      "normalized": "f5",
+      "file": "audio/b6e1288527a6032c0f29c9da.mp3"
+    },
+    {
+      "text": "f5 a",
+      "normalized": "f5 a",
+      "file": "audio/8b3c28a1d4f0f9d2f9a001bc.mp3"
+    },
+    {
+      "text": "f6.",
+      "normalized": "f6",
+      "file": "audio/3efda6ee78c31bab6995b112.mp3"
+    },
+    {
+      "text": "f6 a",
+      "normalized": "f6 a",
+      "file": "audio/5f4f0cdf1d0a05345110b91d.mp3"
+    },
+    {
+      "text": "f7.",
+      "normalized": "f7",
+      "file": "audio/9327ca99aaea2b8f025e61e5.mp3"
+    },
+    {
+      "text": "f7 a",
+      "normalized": "f7 a",
+      "file": "audio/a860c32a962f4e3469fe669c.mp3"
+    },
+    {
+      "text": "f8.",
+      "normalized": "f8",
+      "file": "audio/0c079a153e26951fcda0fa12.mp3"
+    },
+    {
+      "text": "f8 a",
+      "normalized": "f8 a",
+      "file": "audio/6f0341ca1f23f5733c9b8502.mp3"
+    },
+    {
+      "text": "g1.",
+      "normalized": "g1",
+      "file": "audio/711430f6164e93803d93428b.mp3"
+    },
+    {
+      "text": "g1 a",
+      "normalized": "g1 a",
+      "file": "audio/4186634a77ed0d3d63ca6e15.mp3"
+    },
+    {
+      "text": "g2.",
+      "normalized": "g2",
+      "file": "audio/4d2f4b668cfc48e6059d36e9.mp3"
+    },
+    {
+      "text": "g2 a",
+      "normalized": "g2 a",
+      "file": "audio/bbb6fae69d7158b3861a1b68.mp3"
+    },
+    {
+      "text": "g3.",
+      "normalized": "g3",
+      "file": "audio/3921871aa0881e3e94830142.mp3"
+    },
+    {
+      "text": "g3 a",
+      "normalized": "g3 a",
+      "file": "audio/06c89308e9c9cd5f723853a8.mp3"
+    },
+    {
+      "text": "g4.",
+      "normalized": "g4",
+      "file": "audio/c874bc29e99f2e67290d6cdb.mp3"
+    },
+    {
+      "text": "g4 a",
+      "normalized": "g4 a",
+      "file": "audio/1d87ff120128afd5cb9dbea1.mp3"
+    },
+    {
+      "text": "g5.",
+      "normalized": "g5",
+      "file": "audio/239261316e505a034abae9a2.mp3"
+    },
+    {
+      "text": "g5 a",
+      "normalized": "g5 a",
+      "file": "audio/c5b52283748d620e6bebd8dd.mp3"
+    },
+    {
+      "text": "g6.",
+      "normalized": "g6",
+      "file": "audio/044e727fa3783fcfe21d54fe.mp3"
+    },
+    {
+      "text": "g6 a",
+      "normalized": "g6 a",
+      "file": "audio/004ad5bd02c55aa1aa505d41.mp3"
+    },
+    {
+      "text": "g7.",
+      "normalized": "g7",
+      "file": "audio/7935bb0b6876b05d24574bd9.mp3"
+    },
+    {
+      "text": "g7 a",
+      "normalized": "g7 a",
+      "file": "audio/82f92610aeb99661a7173bde.mp3"
+    },
+    {
+      "text": "g8.",
+      "normalized": "g8",
+      "file": "audio/0fcd4ac08fa092197d9a11df.mp3"
+    },
+    {
+      "text": "g8 a",
+      "normalized": "g8 a",
+      "file": "audio/65dcc59ace08399b18b18369.mp3"
+    },
+    {
+      "text": "Gana el ordenador",
+      "normalized": "gana el ordenador",
+      "file": "audio/e826dc5a2df742f469c2436f.mp3"
+    },
+    {
+      "text": "¡Ganaste!",
+      "normalized": "ganaste",
+      "file": "audio/18e4f8d1206c97df56f76f18.mp3"
+    },
+    {
+      "text": "¡Genial! Completaste la misión.",
+      "normalized": "genial completaste la misión",
+      "file": "audio/ba3a49362cb441a4aebbb62c.mp3"
+    },
+    {
+      "text": "¡Genial! El rey negro está atacado y no tiene escape legal. ¡Jaque mate!",
+      "normalized": "genial el rey negro está atacado y no tiene escape legal jaque mate",
+      "file": "audio/e5a744d7e4ec15325c5e6bb5.mp3"
+    },
+    {
+      "text": "h1.",
+      "normalized": "h1",
+      "file": "audio/33112ee14ee469c3eb52fe90.mp3"
+    },
+    {
+      "text": "h1 a",
+      "normalized": "h1 a",
+      "file": "audio/6c953a439979b0433db7b79a.mp3"
+    },
+    {
+      "text": "h2.",
+      "normalized": "h2",
+      "file": "audio/f998fe06afa0cfbe73e0449d.mp3"
+    },
+    {
+      "text": "h2 a",
+      "normalized": "h2 a",
+      "file": "audio/b662e9f4f6d816fca27424c4.mp3"
+    },
+    {
+      "text": "h3.",
+      "normalized": "h3",
+      "file": "audio/97fb5f8538b89f6c1accfd19.mp3"
+    },
+    {
+      "text": "h3 a",
+      "normalized": "h3 a",
+      "file": "audio/5f228893ed3a5eda88ff64a5.mp3"
+    },
+    {
+      "text": "h4.",
+      "normalized": "h4",
+      "file": "audio/e9590c04cea54beb769a9614.mp3"
+    },
+    {
+      "text": "h4 a",
+      "normalized": "h4 a",
+      "file": "audio/66d98f3c030944c187f09b9c.mp3"
+    },
+    {
+      "text": "h5.",
+      "normalized": "h5",
+      "file": "audio/acea77fd89c7fb586c8c7c61.mp3"
+    },
+    {
+      "text": "h5 a",
+      "normalized": "h5 a",
+      "file": "audio/4c1466cfe9ae3ef7a58e60ee.mp3"
+    },
+    {
+      "text": "h6.",
+      "normalized": "h6",
+      "file": "audio/fa37de9da4b13b3a18882ece.mp3"
+    },
+    {
+      "text": "h6 a",
+      "normalized": "h6 a",
+      "file": "audio/6c746853cca2ecad4fe07192.mp3"
+    },
+    {
+      "text": "h7.",
+      "normalized": "h7",
+      "file": "audio/f254a1e7d56840a4f2faa65b.mp3"
+    },
+    {
+      "text": "h7 a",
+      "normalized": "h7 a",
+      "file": "audio/6ae5a916f3acc4b0e67a6f57.mp3"
+    },
+    {
+      "text": "h8.",
+      "normalized": "h8",
+      "file": "audio/9f095ecf60fdfca89c7c42f4.mp3"
+    },
+    {
+      "text": "h8 a",
+      "normalized": "h8 a",
+      "file": "audio/4baf4983937c8b02c9913f19.mp3"
+    },
+    {
+      "text": "Intentemos otra vez. Mira al rey con el borde rojo y escucha la indicación.",
+      "normalized": "intentemos otra vez mira al rey con el borde rojo y escucha la indicación",
+      "file": "audio/af47a76a64053de76a45eaac.mp3"
+    },
+    {
+      "text": "Intentemos otra vez. Selecciona tu pieza y ve a la casilla objetivo.",
+      "normalized": "intentemos otra vez selecciona tu pieza y ve a la casilla objetivo",
+      "file": "audio/81315e0ae3df2505b64d0bb7.mp3"
+    },
+    {
+      "text": "Inténtalo otra vez. Revisa el nombre de la pieza y toca la casilla marcada.",
+      "normalized": "inténtalo otra vez revisa el nombre de la pieza y toca la casilla marcada",
+      "file": "audio/72e2bf4305b00014a2590f8c.mp3"
+    },
+    {
+      "text": "Jaque con salida",
+      "normalized": "jaque con salida",
+      "file": "audio/5dc4a8c0237e3accd51c7fa3.mp3"
+    },
+    {
+      "text": "Jaque mate",
+      "normalized": "jaque mate",
+      "file": "audio/18184bbf81a4453e6d9062cf.mp3"
+    },
+    {
+      "text": "Jaque mate y ahogado",
+      "normalized": "jaque mate y ahogado",
+      "file": "audio/d39f7bf608e5d69d51b3c991.mp3"
+    },
+    {
+      "text": "Juegan las blancas. Elige la situación del rey blanco.",
+      "normalized": "juegan las blancas elige la situación del rey blanco",
+      "file": "audio/b2dfedc18540aa7f870d4f01.mp3"
+    },
+    {
+      "text": "Juegan las blancas. Elige una pieza blanca y da jaque mate al rey negro en una jugada.",
+      "normalized": "juegan las blancas elige una pieza blanca y da jaque mate al rey negro en una jugada",
+      "file": "audio/d0bb0e7109664abefee7d99b.mp3"
+    },
+    {
+      "text": "La dama empieza en su color: la dama blanca en una casilla clara y la negra en una oscura.",
+      "normalized": "la dama empieza en su color la dama blanca en una casilla clara y la negra en una oscura",
+      "file": "audio/96fb2680d895904723df8985.mp3"
+    },
+    {
+      "text": "La dama se mueve cualquier distancia en horizontal, vertical o diagonal. No puede saltar sobre otras piezas.",
+      "normalized": "la dama se mueve cualquier distancia en horizontal vertical o diagonal no puede saltar sobre otras piezas",
+      "file": "audio/ded2bafd9df2c66a9ce48d20.mp3"
+    },
+    {
+      "text": "La torre se mueve cualquier distancia en horizontal o vertical. No puede saltar sobre otras piezas.",
+      "normalized": "la torre se mueve cualquier distancia en horizontal o vertical no puede saltar sobre otras piezas",
+      "file": "audio/12203e58a7764e37c44a1209.mp3"
+    },
+    {
+      "text": "Lleva esta pieza a d4: Peón.",
+      "normalized": "lleva esta pieza a d4 peón",
+      "file": "audio/77d88396f1a2492efbc7905f.mp3"
+    },
+    {
+      "text": "Lleva esta pieza a e5: Rey.",
+      "normalized": "lleva esta pieza a e5 rey",
+      "file": "audio/9f1a3cc8fcc8c3e4840dd445.mp3"
+    },
+    {
+      "text": "Lleva esta pieza a e6: Caballo.",
+      "normalized": "lleva esta pieza a e6 caballo",
+      "file": "audio/18102ff6456dfa0a7ed8ef7a.mp3"
+    },
+    {
+      "text": "Lleva esta pieza a g4: Torre.",
+      "normalized": "lleva esta pieza a g4 torre",
+      "file": "audio/847bfcd2f3405276c0c1242e.mp3"
+    },
+    {
+      "text": "Lleva esta pieza a g7: Alfil.",
+      "normalized": "lleva esta pieza a g7 alfil",
+      "file": "audio/7cbc351fad6b9c8204b343ed.mp3"
+    },
+    {
+      "text": "Lleva esta pieza a g7: Dama.",
+      "normalized": "lleva esta pieza a g7 dama",
+      "file": "audio/fe2cf6c3a8f103252e101818.mp3"
+    },
+    {
+      "text": "Mantén presionada una pieza y arrástrala a la casilla marcada. También puedes tocar la pieza y la casilla.",
+      "normalized": "mantén presionada una pieza y arrástrala a la casilla marcada también puedes tocar la pieza y la casilla",
+      "file": "audio/9cfa733b6613fa5da5a015d7.mp3"
+    },
+    {
+      "text": "Mate en una",
+      "normalized": "mate en una",
+      "file": "audio/f3e202b4ef5cd03c110e18cb.mp3"
+    },
+    {
+      "text": "Mira otra vez: ¿Está atacado el rey? ¿Hay una jugada legal?",
+      "normalized": "mira otra vez está atacado el rey hay una jugada legal",
+      "file": "audio/b8a9ba9ab386d1ba860800b2.mp3"
+    },
+    {
+      "text": "¡Muy bien! La pieza está en su lugar.",
+      "normalized": "muy bien la pieza está en su lugar",
+      "file": "audio/55e20f1b9bfdd1d7099d6220.mp3"
+    },
+    {
+      "text": "Negras",
+      "normalized": "negras",
+      "file": "audio/8cc6fcf13fa6be4df83ac99f.mp3"
+    },
+    {
+      "text": "Negras: movimiento de Alfil, de",
+      "normalized": "negras movimiento de alfil de",
+      "file": "audio/90363b06f3475db73f68edfa.mp3"
+    },
+    {
+      "text": "Negras: movimiento de Caballo, de",
+      "normalized": "negras movimiento de caballo de",
+      "file": "audio/60fbfad203ff72956f422c07.mp3"
+    },
+    {
+      "text": "Negras: movimiento de Dama, de",
+      "normalized": "negras movimiento de dama de",
+      "file": "audio/ce3f8a7bbf18f24b4a121196.mp3"
+    },
+    {
+      "text": "Negras: movimiento de Peón, de",
+      "normalized": "negras movimiento de peón de",
+      "file": "audio/b13b952427edef462ec2c04c.mp3"
+    },
+    {
+      "text": "Negras: movimiento de Rey, de",
+      "normalized": "negras movimiento de rey de",
+      "file": "audio/c03bfd06e60bcf635336e9b8.mp3"
+    },
+    {
+      "text": "Negras: movimiento de Torre, de",
+      "normalized": "negras movimiento de torre de",
+      "file": "audio/23f64ea18e121ff45b38ba92.mp3"
+    },
+    {
+      "text": "Peón",
+      "normalized": "peón",
+      "file": "audio/ee2e21f735aa9f3d593affe3.mp3"
+    },
+    {
+      "text": "Piezas blancas",
+      "normalized": "piezas blancas",
+      "file": "audio/b9d979f653b09b07fd7e635a.mp3"
+    },
+    {
+      "text": "Piezas negras",
+      "normalized": "piezas negras",
+      "file": "audio/6a64fd7d2c5987a56eb8c42b.mp3"
+    },
+    {
+      "text": "Puedes bloquear un ataque lejano. Selecciona la torre de a2 y muévela a e2 para proteger al rey.",
+      "normalized": "puedes bloquear un ataque lejano selecciona la torre de a2 y muévela a e2 para proteger al rey",
+      "file": "audio/f8f20c47b95d27f97a71d8a9.mp3"
+    },
+    {
+      "text": "Rey",
+      "normalized": "rey",
+      "file": "audio/025155e9d6f356c7b8404fc4.mp3"
+    },
+    {
+      "text": "Se capturó: Alfil.",
+      "normalized": "se capturó alfil",
+      "file": "audio/7478caec32e4598c331f8912.mp3"
+    },
+    {
+      "text": "Se capturó: Caballo.",
+      "normalized": "se capturó caballo",
+      "file": "audio/db050a461de55f3ebfc4954c.mp3"
+    },
+    {
+      "text": "Se capturó: Dama.",
+      "normalized": "se capturó dama",
+      "file": "audio/39ee9786b3dd6d723539221f.mp3"
+    },
+    {
+      "text": "Se capturó: Peón.",
+      "normalized": "se capturó peón",
+      "file": "audio/183f86db15500ee97b51e05b.mp3"
+    },
+    {
+      "text": "Se capturó: Rey.",
+      "normalized": "se capturó rey",
+      "file": "audio/c356b0b42d538166507e6b40.mp3"
+    },
+    {
+      "text": "Se capturó: Torre.",
+      "normalized": "se capturó torre",
+      "file": "audio/baa1845d9482f5736e7a80e2.mp3"
+    },
+    {
+      "text": "Selecciona tu pieza y toca una casilla marcada.",
+      "normalized": "selecciona tu pieza y toca una casilla marcada",
+      "file": "audio/6a3e82d90ad4fdadd515d3d3.mp3"
+    },
+    {
+      "text": "Tablas",
+      "normalized": "tablas",
+      "file": "audio/44686a30bf418bb5524dcf18.mp3"
+    },
+    {
+      "text": "También puedes proteger al rey capturando al atacante. Selecciona el alfil de h1 y captura la torre negra de e4.",
+      "normalized": "también puedes proteger al rey capturando al atacante selecciona el alfil de h1 y captura la torre negra de e4",
+      "file": "audio/f7037cf0d37a78ba8523e390.mp3"
+    },
+    {
+      "text": "Torre",
+      "normalized": "torre",
+      "file": "audio/98e511294461b1dea5487107.mp3"
+    },
+    {
+      "text": "Un rey atacado está en jaque. Encuentra la pieza negra que ataca al rey blanco y tócala.",
+      "normalized": "un rey atacado está en jaque encuentra la pieza negra que ataca al rey blanco y tócala",
+      "file": "audio/11b8a3d0e650b6ada78dfd33.mp3"
+    },
+    {
+      "text": "Vemos el tablero desde el lado de las blancas. La casilla inferior derecha es clara. Coloca primero las piezas blancas y después las negras.",
+      "normalized": "vemos el tablero desde el lado de las blancas la casilla inferior derecha es clara coloca primero las piezas blancas y después las negras",
+      "file": "audio/008a3075714ab47afea4e2d1.mp3"
+    },
+    {
+      "text": "La apertura es el comienzo de una partida. Aprende las ideas y explora ejemplos famosos en el tablero.",
+      "normalized": "la apertura es el comienzo de una partida aprende las ideas y explora ejemplos famosos en el tablero",
+      "file": "audio/9637f5ae1269fc7add8be05e.mp3"
+    },
+    {
+      "text": "Controla el medio con peones centrales y piezas. Las cuatro casillas centrales son e4, d4, e5 y d5.",
+      "normalized": "controla el medio con peones centrales y piezas las cuatro casillas centrales son e4 d4 e5 y d5",
+      "file": "audio/cadb98ef1f1d7c3bbdcb6452.mp3"
+    },
+    {
+      "text": "Pon en juego los caballos y los alfiles. Desarrolla varias piezas en lugar de mover siempre la misma.",
+      "normalized": "pon en juego los caballos y los alfiles desarrolla varias piezas en lugar de mover siempre la misma",
+      "file": "audio/9a5c04660cb08c6d1a36b6a5.mp3"
+    },
+    {
+      "text": "Prepara el enroque cuando sea legal y seguro. Conecta tus torres y evita dejar expuesto a tu rey.",
+      "normalized": "prepara el enroque cuando sea legal y seguro conecta tus torres y evita dejar expuesto a tu rey",
+      "file": "audio/6ae71a7af2b87f3f25b38787.mp3"
+    },
+    {
+      "text": "Antes de cada jugada, busca jaques, capturas y amenazas de ambos bandos. El nombre de una apertura no hace que una jugada sea segura.",
+      "normalized": "antes de cada jugada busca jaques capturas y amenazas de ambos bandos el nombre de una apertura no hace que una jugada sea segura",
+      "file": "audio/7096825d06d151b5b452e9c5.mp3"
+    },
+    {
+      "text": "Apertura italiana",
+      "normalized": "apertura italiana",
+      "file": "audio/25b4f90a9babdb18c85e537f.mp3"
+    },
+    {
+      "text": "Desarrolla el caballo a f3 y el alfil a c4. El alfil apunta a f7 mientras las blancas preparan el enroque. Las negras tienen distintas respuestas.",
+      "normalized": "desarrolla el caballo a f3 y el alfil a c4 el alfil apunta a f7 mientras las blancas preparan el enroque las negras tienen distintas respuestas",
+      "file": "audio/3a0a4aaa02ca0d253540ad9f.mp3"
+    },
+    {
+      "text": "Apertura española (Ruy López)",
+      "normalized": "apertura española ruy lópez",
+      "file": "audio/0733b64ceb90631e14fdc26c.mp3"
+    },
+    {
+      "text": "El alfil va a b5 y presiona al caballo que defiende e5. En este ejemplo, las negras juegan a6 para preguntar al alfil adónde irá.",
+      "normalized": "el alfil va a b5 y presiona al caballo que defiende e5 en este ejemplo las negras juegan a6 para preguntar al alfil adónde irá",
+      "file": "audio/04b4d4b213143bd8581bf440.mp3"
+    },
+    {
+      "text": "Apertura escocesa",
+      "normalized": "apertura escocesa",
+      "file": "audio/96effefc0cfe29bb6f5ea763.mp3"
+    },
+    {
+      "text": "Las blancas disputan pronto el centro con d4. Tras el cambio de peones, el caballo recaptura en d4 y ocupa una casilla central activa.",
+      "normalized": "las blancas disputan pronto el centro con d4 tras el cambio de peones el caballo recaptura en d4 y ocupa una casilla central activa",
+      "file": "audio/72f9a2f6bddc7f7dd9bf43fa.mp3"
+    },
+    {
+      "text": "Gambito de dama",
+      "normalized": "gambito de dama",
+      "file": "audio/8a844ba17e802083e34f8137.mp3"
+    },
+    {
+      "text": "Las blancas ofrecen el peón c para desafiar al peón negro de d5. Las negras pueden aceptar o rechazar; aquí rechazan con e6 y desarrollan sus piezas.",
+      "normalized": "las blancas ofrecen el peón c para desafiar al peón negro de d5 las negras pueden aceptar o rechazar aquí rechazan con e6 y desarrollan sus piezas",
+      "file": "audio/c39130f45d5f22531e49238d.mp3"
+    },
+    {
+      "text": "Sistema Londres",
+      "normalized": "sistema londres",
+      "file": "audio/72fb1dde1de475835c7f3275.mp3"
+    },
+    {
+      "text": "Las blancas desarrollan el alfil de casillas oscuras a f4 antes de jugar e3. Construye un centro firme, pero adapta tu plan a las jugadas negras.",
+      "normalized": "las blancas desarrollan el alfil de casillas oscuras a f4 antes de jugar e3 construye un centro firme pero adapta tu plan a las jugadas negras",
+      "file": "audio/c2d8b63f9bd175230393df3b.mp3"
+    },
+    {
+      "text": "Defensa siciliana",
+      "normalized": "defensa siciliana",
+      "file": "audio/5b19a668b016ad439dc154ef.mp3"
+    },
+    {
+      "text": "Las negras responden a e4 con c5 para disputar d4 desde un lado. Este ejemplo de Siciliana abierta cambia peones y lleva el caballo blanco a d4.",
+      "normalized": "las negras responden a e4 con c5 para disputar d4 desde un lado este ejemplo de siciliana abierta cambia peones y lleva el caballo blanco a d4",
+      "file": "audio/114f90666f2f3b3f01f0f440.mp3"
+    },
+    {
+      "text": "Defensa francesa",
+      "normalized": "defensa francesa",
+      "file": "audio/856be3445f1d86b85e57de26.mp3"
+    },
+    {
+      "text": "Las negras preparan d5 con e6. En esta variante del avance, las blancas ganan espacio con e5 y las negras disputan el centro con c5.",
+      "normalized": "las negras preparan d5 con e6 en esta variante del avance las blancas ganan espacio con e5 y las negras disputan el centro con c5",
+      "file": "audio/17baa7c1631f7dc8e78b1d65.mp3"
+    },
+    {
+      "text": "Defensa Caro-Kann",
+      "normalized": "defensa caro kann",
+      "file": "audio/45178e2fbf922e094f274696.mp3"
+    },
+    {
+      "text": "Las negras preparan d5 con c6. Aquí capturan en e4 y las blancas recapturan con un caballo; ambos bandos aún deben desarrollar sus piezas.",
+      "normalized": "las negras preparan d5 con c6 aquí capturan en e4 y las blancas recapturan con un caballo ambos bandos aún deben desarrollar sus piezas",
+      "file": "audio/41c0fb5be1e73af8c1d52901.mp3"
+    },
+    {
+      "text": "Esta jugada de peón lucha por el centro y deja más espacio a las piezas.",
+      "normalized": "esta jugada de peón lucha por el centro y deja más espacio a las piezas",
+      "file": "audio/814198c4d33ff8d19734b664.mp3"
+    },
+    {
+      "text": "Una pieza menor entra en juego e influye en casillas importantes.",
+      "normalized": "una pieza menor entra en juego e influye en casillas importantes",
+      "file": "audio/868b1ab1d3a0b1a22c041d86.mp3"
+    },
+    {
+      "text": "Esta jugada desafía a una pieza rival o al control rival del centro.",
+      "normalized": "esta jugada desafía a una pieza rival o al control rival del centro",
+      "file": "audio/4d343d9996b9ada32198983b.mp3"
+    },
+    {
+      "text": "Esta jugada de peón apoya la estructura central o prepara otra jugada de peón en el centro.",
+      "normalized": "esta jugada de peón apoya la estructura central o prepara otra jugada de peón en el centro",
+      "file": "audio/3f732fe4690f73e17237beb5.mp3"
+    },
+    {
+      "text": "Una captura cambia el centro. Observa qué pieza o peón ocupa su lugar.",
+      "normalized": "una captura cambia el centro observa qué pieza o peón ocupa su lugar",
+      "file": "audio/a2fab3b4fea3b307db4bd4a5.mp3"
+    },
+    {
+      "text": "El peón avanza para ganar espacio. Comprueba cómo puede atacar el rival la cadena de peones.",
+      "normalized": "el peón avanza para ganar espacio comprueba cómo puede atacar el rival la cadena de peones",
+      "file": "audio/dfcee1b11c0bc0050729f258.mp3"
+    }
+  ]
+}

@@ -1,0 +1,1351 @@
+{
+  "voice_id": "QyR5BHRdTV409EnyTeN2",
+  "model_id": "eleven_multilingual_v2",
+  "clips": [
+    {
+      "text": "a1 karesinden",
+      "normalized": "a1 karesinden",
+      "file": "audio/d5857db6a1f291295967513e.mp3"
+    },
+    {
+      "text": "a1 karesine gitti.",
+      "normalized": "a1 karesine gitti",
+      "file": "audio/66dc6108bf5284f35c0945f2.mp3"
+    },
+    {
+      "text": "a2 karesinden",
+      "normalized": "a2 karesinden",
+      "file": "audio/48ae7c312626f94826e7700a.mp3"
+    },
+    {
+      "text": "a2 karesine gitti.",
+      "normalized": "a2 karesine gitti",
+      "file": "audio/c33122c78c24c76e513829c7.mp3"
+    },
+    {
+      "text": "a3 karesinden",
+      "normalized": "a3 karesinden",
+      "file": "audio/68a6ff4c4131a2887d1b6650.mp3"
+    },
+    {
+      "text": "a3 karesine gitti.",
+      "normalized": "a3 karesine gitti",
+      "file": "audio/367292d3e67c1b2ed3b55661.mp3"
+    },
+    {
+      "text": "a4 karesinden",
+      "normalized": "a4 karesinden",
+      "file": "audio/4732b10fbefbe3c11b5ec11a.mp3"
+    },
+    {
+      "text": "a4 karesine gitti.",
+      "normalized": "a4 karesine gitti",
+      "file": "audio/2a6d8bd5db37e5d5c74d448d.mp3"
+    },
+    {
+      "text": "a5 karesinden",
+      "normalized": "a5 karesinden",
+      "file": "audio/7b3ec39f59102addf45f0e3f.mp3"
+    },
+    {
+      "text": "a5 karesine gitti.",
+      "normalized": "a5 karesine gitti",
+      "file": "audio/3e945ff677eb0216fc553bdd.mp3"
+    },
+    {
+      "text": "a6 karesinden",
+      "normalized": "a6 karesinden",
+      "file": "audio/12f5a9de5a4dc667238ee3a7.mp3"
+    },
+    {
+      "text": "a6 karesine gitti.",
+      "normalized": "a6 karesine gitti",
+      "file": "audio/5ec617400a883c4ffa04df3a.mp3"
+    },
+    {
+      "text": "a7 karesinden",
+      "normalized": "a7 karesinden",
+      "file": "audio/2a1ac1f65e1b9b61de432460.mp3"
+    },
+    {
+      "text": "a7 karesine gitti.",
+      "normalized": "a7 karesine gitti",
+      "file": "audio/58a0ba80535cb63350f4b9bf.mp3"
+    },
+    {
+      "text": "a8 karesinden",
+      "normalized": "a8 karesinden",
+      "file": "audio/01ce4f827e4e355a52c476fc.mp3"
+    },
+    {
+      "text": "a8 karesine gitti.",
+      "normalized": "a8 karesine gitti",
+      "file": "audio/e543f97b242d03ad632cef87.mp3"
+    },
+    {
+      "text": "Amaç rakibin şahını mat etmektir. Tehdit altındaki şah, şah çekilmiş durumdadır. Şah tehditten hiçbir geçerli hamleyle kurtulamıyorsa mattır. Şah alınmaz.",
+      "normalized": "amaç rakibin şahını mat etmektir tehdit altındaki şah şah çekilmiş durumdadır şah tehditten hiçbir geçerli hamleyle kurtulamıyorsa mattır şah alınmaz",
+      "file": "audio/1a3fd4bec5037f5521dca34b.mp3"
+    },
+    {
+      "text": "At",
+      "normalized": "at",
+      "file": "audio/b1d6b91b67c2afa5e322988d.mp3"
+    },
+    {
+      "text": "At alındı.",
+      "normalized": "at alındı",
+      "file": "audio/d7de0189ef827cf44189396c.mp3"
+    },
+    {
+      "text": "At iki kare bir yönde, bir kare yana gider. L şeklinde hareket eder ve taşların üzerinden atlayabilir.",
+      "normalized": "at iki kare bir yönde bir kare yana gider l şeklinde hareket eder ve taşların üzerinden atlayabilir",
+      "file": "audio/f2161f2172d24f38188a803e.mp3"
+    },
+    {
+      "text": "At taşını b1 karesine yerleştir.",
+      "normalized": "at taşını b1 karesine yerleştir",
+      "file": "audio/5b4e4d552bd7d5524faa9e22.mp3"
+    },
+    {
+      "text": "At taşını b8 karesine yerleştir.",
+      "normalized": "at taşını b8 karesine yerleştir",
+      "file": "audio/93a56862edd2ea7fc51dae5a.mp3"
+    },
+    {
+      "text": "At taşını e6 karesine götür.",
+      "normalized": "at taşını e6 karesine götür",
+      "file": "audio/75763bb3bb51251c0130b760.mp3"
+    },
+    {
+      "text": "At taşını g1 karesine yerleştir.",
+      "normalized": "at taşını g1 karesine yerleştir",
+      "file": "audio/2c3a3925665d409eae6ffc83.mp3"
+    },
+    {
+      "text": "At taşını g8 karesine yerleştir.",
+      "normalized": "at taşını g8 karesine yerleştir",
+      "file": "audio/a3da41845d23b6a335793422.mp3"
+    },
+    {
+      "text": "b1 karesinden",
+      "normalized": "b1 karesinden",
+      "file": "audio/2fd15ed9d8d4d2ed6dff633a.mp3"
+    },
+    {
+      "text": "b1 karesine gitti.",
+      "normalized": "b1 karesine gitti",
+      "file": "audio/a8af0b0d9c9eab1720d8233a.mp3"
+    },
+    {
+      "text": "b2 karesinden",
+      "normalized": "b2 karesinden",
+      "file": "audio/94441f6b453f6512c8c9de4a.mp3"
+    },
+    {
+      "text": "b2 karesine gitti.",
+      "normalized": "b2 karesine gitti",
+      "file": "audio/39ad56f21329e9a119f7532e.mp3"
+    },
+    {
+      "text": "b3 karesinden",
+      "normalized": "b3 karesinden",
+      "file": "audio/c5d2d8c91c1eaeeda12b9088.mp3"
+    },
+    {
+      "text": "b3 karesine gitti.",
+      "normalized": "b3 karesine gitti",
+      "file": "audio/ca1866ac03371b7998a0381c.mp3"
+    },
+    {
+      "text": "b4 karesinden",
+      "normalized": "b4 karesinden",
+      "file": "audio/bbc9ac4b10f03b2c354f6b8e.mp3"
+    },
+    {
+      "text": "b4 karesine gitti.",
+      "normalized": "b4 karesine gitti",
+      "file": "audio/4e5a31f51856f0ab90907839.mp3"
+    },
+    {
+      "text": "b5 karesinden",
+      "normalized": "b5 karesinden",
+      "file": "audio/888560732ea2cbfb2abd7d94.mp3"
+    },
+    {
+      "text": "b5 karesine gitti.",
+      "normalized": "b5 karesine gitti",
+      "file": "audio/d250a9dc559d67a448684135.mp3"
+    },
+    {
+      "text": "b6 karesinden",
+      "normalized": "b6 karesinden",
+      "file": "audio/bc84bf52d421c62ae6685c16.mp3"
+    },
+    {
+      "text": "b6 karesine gitti.",
+      "normalized": "b6 karesine gitti",
+      "file": "audio/47d9e668958d7903c8e4494f.mp3"
+    },
+    {
+      "text": "b7 karesinden",
+      "normalized": "b7 karesinden",
+      "file": "audio/ead5e6e78b50cc117f590720.mp3"
+    },
+    {
+      "text": "b7 karesine gitti.",
+      "normalized": "b7 karesine gitti",
+      "file": "audio/20b1759e7350a0bee7c011d5.mp3"
+    },
+    {
+      "text": "b8 karesinden",
+      "normalized": "b8 karesinden",
+      "file": "audio/dd58523be718d61378fea540.mp3"
+    },
+    {
+      "text": "b8 karesine gitti.",
+      "normalized": "b8 karesine gitti",
+      "file": "audio/832d84a4de3d0e615537a4f1.mp3"
+    },
+    {
+      "text": "Berabere",
+      "normalized": "berabere",
+      "file": "audio/b84a4b9c5020cf1d7747b2d5.mp3"
+    },
+    {
+      "text": "Beyaz",
+      "normalized": "beyaz",
+      "file": "audio/5c80c55f2745286757bc1524.mp3"
+    },
+    {
+      "text": "Beyaz At",
+      "normalized": "beyaz at",
+      "file": "audio/2ddb9062f89e6a9053a30873.mp3"
+    },
+    {
+      "text": "Beyaz Fil",
+      "normalized": "beyaz fil",
+      "file": "audio/2fe571ee436c8de915b5874f.mp3"
+    },
+    {
+      "text": "Beyaz Kale",
+      "normalized": "beyaz kale",
+      "file": "audio/4126627d4339434ed044637c.mp3"
+    },
+    {
+      "text": "Beyaz Piyon",
+      "normalized": "beyaz piyon",
+      "file": "audio/d05f9ba1e4c7e171116a512b.mp3"
+    },
+    {
+      "text": "Beyaz taşlar",
+      "normalized": "beyaz taşlar",
+      "file": "audio/880cf7618b7cb7f199254c84.mp3"
+    },
+    {
+      "text": "Beyaz Vezir",
+      "normalized": "beyaz vezir",
+      "file": "audio/b9c7c56747e806e561b615ab.mp3"
+    },
+    {
+      "text": "Beyaz Şah",
+      "normalized": "beyaz şah",
+      "file": "audio/0777303a636466bf7389a646.mp3"
+    },
+    {
+      "text": "Bilgisayar kazandı",
+      "normalized": "bilgisayar kazandı",
+      "file": "audio/cb0e68f0e41990bdec03e04d.mp3"
+    },
+    {
+      "text": "Bu hamle mat yapmıyor. Başka bir hamle dene.",
+      "normalized": "bu hamle mat yapmıyor başka bir hamle dene",
+      "file": "audio/d80579964c05fe1c740db45c.mp3"
+    },
+    {
+      "text": "c1 karesinden",
+      "normalized": "c1 karesinden",
+      "file": "audio/1cac72aa2d05273b4128d734.mp3"
+    },
+    {
+      "text": "c1 karesine gitti.",
+      "normalized": "c1 karesine gitti",
+      "file": "audio/4ca739a120c2a79446052ef0.mp3"
+    },
+    {
+      "text": "c2 karesinden",
+      "normalized": "c2 karesinden",
+      "file": "audio/f9e3cb0ff1a6f55e35350a49.mp3"
+    },
+    {
+      "text": "c2 karesine gitti.",
+      "normalized": "c2 karesine gitti",
+      "file": "audio/28cb87ae3a9f3ff78c12736e.mp3"
+    },
+    {
+      "text": "c3 karesinden",
+      "normalized": "c3 karesinden",
+      "file": "audio/40b4994f615c0ae9f291c2e4.mp3"
+    },
+    {
+      "text": "c3 karesine gitti.",
+      "normalized": "c3 karesine gitti",
+      "file": "audio/fb31f04e208e002974272fb1.mp3"
+    },
+    {
+      "text": "c4 karesinden",
+      "normalized": "c4 karesinden",
+      "file": "audio/be94f6486c3712103fbc1b1b.mp3"
+    },
+    {
+      "text": "c4 karesine gitti.",
+      "normalized": "c4 karesine gitti",
+      "file": "audio/fc744dbbfec89f88a3825880.mp3"
+    },
+    {
+      "text": "c5 karesinden",
+      "normalized": "c5 karesinden",
+      "file": "audio/1e28fad4b35eb28c0fa6c5d4.mp3"
+    },
+    {
+      "text": "c5 karesine gitti.",
+      "normalized": "c5 karesine gitti",
+      "file": "audio/4fad55857f11d75c7b724c2b.mp3"
+    },
+    {
+      "text": "c6 karesinden",
+      "normalized": "c6 karesinden",
+      "file": "audio/730d57840df47f8ec9b65ddc.mp3"
+    },
+    {
+      "text": "c6 karesine gitti.",
+      "normalized": "c6 karesine gitti",
+      "file": "audio/591564fa22f96574cc39bbd8.mp3"
+    },
+    {
+      "text": "c7 karesinden",
+      "normalized": "c7 karesinden",
+      "file": "audio/9edb6c3ff11cd952ef625f8c.mp3"
+    },
+    {
+      "text": "c7 karesine gitti.",
+      "normalized": "c7 karesine gitti",
+      "file": "audio/3c8c164d63f03e7295039c72.mp3"
+    },
+    {
+      "text": "c8 karesinden",
+      "normalized": "c8 karesinden",
+      "file": "audio/6408108298857df6e12d0f87.mp3"
+    },
+    {
+      "text": "c8 karesine gitti.",
+      "normalized": "c8 karesine gitti",
+      "file": "audio/a5d5fd6999cf88ce45fe39fd.mp3"
+    },
+    {
+      "text": "d1 karesinden",
+      "normalized": "d1 karesinden",
+      "file": "audio/923626b76928bc68723d3033.mp3"
+    },
+    {
+      "text": "d1 karesine gitti.",
+      "normalized": "d1 karesine gitti",
+      "file": "audio/d29a15867357eb96e2697d97.mp3"
+    },
+    {
+      "text": "d2 karesinden",
+      "normalized": "d2 karesinden",
+      "file": "audio/a5cb9a4d6563229bfea78492.mp3"
+    },
+    {
+      "text": "d2 karesine gitti.",
+      "normalized": "d2 karesine gitti",
+      "file": "audio/eff738fbc11bfe4724c40cbf.mp3"
+    },
+    {
+      "text": "d3 karesinden",
+      "normalized": "d3 karesinden",
+      "file": "audio/7b722450c33f4a886cf2fa55.mp3"
+    },
+    {
+      "text": "d3 karesine gitti.",
+      "normalized": "d3 karesine gitti",
+      "file": "audio/aa2ca62fa00370a47273dda0.mp3"
+    },
+    {
+      "text": "d4 karesinden",
+      "normalized": "d4 karesinden",
+      "file": "audio/95233be49507c05bfd42fbdf.mp3"
+    },
+    {
+      "text": "d4 karesine gitti.",
+      "normalized": "d4 karesine gitti",
+      "file": "audio/157ddd4d2910d1b4c46f24e4.mp3"
+    },
+    {
+      "text": "d5 karesinden",
+      "normalized": "d5 karesinden",
+      "file": "audio/b671213084a7b62b5d9613a2.mp3"
+    },
+    {
+      "text": "d5 karesine gitti.",
+      "normalized": "d5 karesine gitti",
+      "file": "audio/e45a377eada99b50c498847d.mp3"
+    },
+    {
+      "text": "d6 karesinden",
+      "normalized": "d6 karesinden",
+      "file": "audio/24891edba85a00e0a1b8265a.mp3"
+    },
+    {
+      "text": "d6 karesine gitti.",
+      "normalized": "d6 karesine gitti",
+      "file": "audio/e368cf8dc2bfbb88a7fa03ab.mp3"
+    },
+    {
+      "text": "d7 karesinden",
+      "normalized": "d7 karesinden",
+      "file": "audio/970dacbe15f34ab60c8aaa4a.mp3"
+    },
+    {
+      "text": "d7 karesine gitti.",
+      "normalized": "d7 karesine gitti",
+      "file": "audio/7056f9b5d6b7c8cf5edc27cf.mp3"
+    },
+    {
+      "text": "d8 karesinden",
+      "normalized": "d8 karesinden",
+      "file": "audio/184781ac92e0e9d4eebd5d00.mp3"
+    },
+    {
+      "text": "d8 karesine gitti.",
+      "normalized": "d8 karesine gitti",
+      "file": "audio/8bcac4a2da68ad4c670f3012.mp3"
+    },
+    {
+      "text": "e1 karesinden",
+      "normalized": "e1 karesinden",
+      "file": "audio/e715fa7a2873eb248542c4ec.mp3"
+    },
+    {
+      "text": "e1 karesine gitti.",
+      "normalized": "e1 karesine gitti",
+      "file": "audio/92c30288c449726546def52b.mp3"
+    },
+    {
+      "text": "e2 karesinden",
+      "normalized": "e2 karesinden",
+      "file": "audio/32628b449af470174ced57c1.mp3"
+    },
+    {
+      "text": "e2 karesine gitti.",
+      "normalized": "e2 karesine gitti",
+      "file": "audio/bd6f6edf79b377becb6ad56a.mp3"
+    },
+    {
+      "text": "e3 karesinden",
+      "normalized": "e3 karesinden",
+      "file": "audio/b1c74554c5205cbf9f9741e6.mp3"
+    },
+    {
+      "text": "e3 karesine gitti.",
+      "normalized": "e3 karesine gitti",
+      "file": "audio/b39b7757184f07ed62c4b4d9.mp3"
+    },
+    {
+      "text": "e4 karesinden",
+      "normalized": "e4 karesinden",
+      "file": "audio/d9fc7960dc19c55c9d2efe77.mp3"
+    },
+    {
+      "text": "e4 karesine gitti.",
+      "normalized": "e4 karesine gitti",
+      "file": "audio/16ce60a207fb813f699dd081.mp3"
+    },
+    {
+      "text": "e5 karesinden",
+      "normalized": "e5 karesinden",
+      "file": "audio/a6835e1f3eae1152e3ede229.mp3"
+    },
+    {
+      "text": "e5 karesine gitti.",
+      "normalized": "e5 karesine gitti",
+      "file": "audio/95d5e3483a8460e8ccb98d1c.mp3"
+    },
+    {
+      "text": "e6 karesinden",
+      "normalized": "e6 karesinden",
+      "file": "audio/fcf3caac9f340c9d261180b8.mp3"
+    },
+    {
+      "text": "e6 karesine gitti.",
+      "normalized": "e6 karesine gitti",
+      "file": "audio/062a46b71b15041a97f7aaae.mp3"
+    },
+    {
+      "text": "e7 karesinden",
+      "normalized": "e7 karesinden",
+      "file": "audio/662752259b67e0594bd9c0b1.mp3"
+    },
+    {
+      "text": "e7 karesine gitti.",
+      "normalized": "e7 karesine gitti",
+      "file": "audio/2efa9bb774582fa145a5ff70.mp3"
+    },
+    {
+      "text": "e8 karesinden",
+      "normalized": "e8 karesinden",
+      "file": "audio/afd31b4c1e292cb2d0a3e649.mp3"
+    },
+    {
+      "text": "e8 karesine gitti.",
+      "normalized": "e8 karesine gitti",
+      "file": "audio/4ad53f8929dc0fa41f08623b.mp3"
+    },
+    {
+      "text": "f1 karesinden",
+      "normalized": "f1 karesinden",
+      "file": "audio/abc2b1528b5461ee4f45df42.mp3"
+    },
+    {
+      "text": "f1 karesine gitti.",
+      "normalized": "f1 karesine gitti",
+      "file": "audio/f07a79f29bc01441a9e6a033.mp3"
+    },
+    {
+      "text": "f2 karesinden",
+      "normalized": "f2 karesinden",
+      "file": "audio/b9bdf526c6adbb0af66eb213.mp3"
+    },
+    {
+      "text": "f2 karesine gitti.",
+      "normalized": "f2 karesine gitti",
+      "file": "audio/69f21273842fc3f1541fb7a5.mp3"
+    },
+    {
+      "text": "f3 karesinden",
+      "normalized": "f3 karesinden",
+      "file": "audio/f6d30c3f2eaa070a122d42cb.mp3"
+    },
+    {
+      "text": "f3 karesine gitti.",
+      "normalized": "f3 karesine gitti",
+      "file": "audio/9d8e8d1a8ad20e1c2377193f.mp3"
+    },
+    {
+      "text": "f4 karesinden",
+      "normalized": "f4 karesinden",
+      "file": "audio/68183fb9ea671ea6e4098e4e.mp3"
+    },
+    {
+      "text": "f4 karesine gitti.",
+      "normalized": "f4 karesine gitti",
+      "file": "audio/0fe10d60e89821f2c4bb9e7a.mp3"
+    },
+    {
+      "text": "f5 karesinden",
+      "normalized": "f5 karesinden",
+      "file": "audio/e40be777c4ebe98c5e86403e.mp3"
+    },
+    {
+      "text": "f5 karesine gitti.",
+      "normalized": "f5 karesine gitti",
+      "file": "audio/f79d398f58c330c63b0e5404.mp3"
+    },
+    {
+      "text": "f6 karesinden",
+      "normalized": "f6 karesinden",
+      "file": "audio/f2a0e5f3029be445718f69b0.mp3"
+    },
+    {
+      "text": "f6 karesine gitti.",
+      "normalized": "f6 karesine gitti",
+      "file": "audio/e74f7844d0f87d1d1d373ba2.mp3"
+    },
+    {
+      "text": "f7 karesinden",
+      "normalized": "f7 karesinden",
+      "file": "audio/28deec11f69432b8408d235e.mp3"
+    },
+    {
+      "text": "f7 karesine gitti.",
+      "normalized": "f7 karesine gitti",
+      "file": "audio/5915eb79eb0c2048557adfaa.mp3"
+    },
+    {
+      "text": "f8 karesinden",
+      "normalized": "f8 karesinden",
+      "file": "audio/488e4ab785a6c2ac018b34c6.mp3"
+    },
+    {
+      "text": "f8 karesine gitti.",
+      "normalized": "f8 karesine gitti",
+      "file": "audio/15b966410c1ff02e6c55af60.mp3"
+    },
+    {
+      "text": "Fil",
+      "normalized": "fil",
+      "file": "audio/e0155ad9bb33317a2d65ec0f.mp3"
+    },
+    {
+      "text": "Fil alındı.",
+      "normalized": "fil alındı",
+      "file": "audio/d2acb2663c2fc4d6a6380527.mp3"
+    },
+    {
+      "text": "Fil taşını c1 karesine yerleştir.",
+      "normalized": "fil taşını c1 karesine yerleştir",
+      "file": "audio/a51ff561bf17b9d3b2a86e25.mp3"
+    },
+    {
+      "text": "Fil taşını c8 karesine yerleştir.",
+      "normalized": "fil taşını c8 karesine yerleştir",
+      "file": "audio/e703f32e665e740aa1cf8ebc.mp3"
+    },
+    {
+      "text": "Fil taşını f1 karesine yerleştir.",
+      "normalized": "fil taşını f1 karesine yerleştir",
+      "file": "audio/c0a2d71314bbe4424afaff4d.mp3"
+    },
+    {
+      "text": "Fil taşını f8 karesine yerleştir.",
+      "normalized": "fil taşını f8 karesine yerleştir",
+      "file": "audio/fc1bf6915f0962efc92c5f23.mp3"
+    },
+    {
+      "text": "Fil taşını g7 karesine götür.",
+      "normalized": "fil taşını g7 karesine götür",
+      "file": "audio/ffba384db816af2f0eaa3e5f.mp3"
+    },
+    {
+      "text": "Fil çapraz yönde istediği kadar gider. Aynı renkteki karelerde kalır ve taşların üzerinden atlayamaz.",
+      "normalized": "fil çapraz yönde istediği kadar gider aynı renkteki karelerde kalır ve taşların üzerinden atlayamaz",
+      "file": "audio/2a290c2ccfedd4e4889cdb22.mp3"
+    },
+    {
+      "text": "g1 karesinden",
+      "normalized": "g1 karesinden",
+      "file": "audio/668e51a9262f0392c352e3da.mp3"
+    },
+    {
+      "text": "g1 karesine gitti.",
+      "normalized": "g1 karesine gitti",
+      "file": "audio/be39c29a3e24ea075209111c.mp3"
+    },
+    {
+      "text": "g2 karesinden",
+      "normalized": "g2 karesinden",
+      "file": "audio/9340e46851061ad5e71ed24f.mp3"
+    },
+    {
+      "text": "g2 karesine gitti.",
+      "normalized": "g2 karesine gitti",
+      "file": "audio/361c50f2968ad4e26c8f87ee.mp3"
+    },
+    {
+      "text": "g3 karesinden",
+      "normalized": "g3 karesinden",
+      "file": "audio/192ed3100b8e1e2892fb5216.mp3"
+    },
+    {
+      "text": "g3 karesine gitti.",
+      "normalized": "g3 karesine gitti",
+      "file": "audio/78bddd827be09f7860409f66.mp3"
+    },
+    {
+      "text": "g4 karesinden",
+      "normalized": "g4 karesinden",
+      "file": "audio/949aa0d30fff86b594039e49.mp3"
+    },
+    {
+      "text": "g4 karesine gitti.",
+      "normalized": "g4 karesine gitti",
+      "file": "audio/8e671c57afde78570a09572b.mp3"
+    },
+    {
+      "text": "g5 karesinden",
+      "normalized": "g5 karesinden",
+      "file": "audio/ae48755b8e074f1b34093df5.mp3"
+    },
+    {
+      "text": "g5 karesine gitti.",
+      "normalized": "g5 karesine gitti",
+      "file": "audio/03dcbb2cb52795a4a9970aec.mp3"
+    },
+    {
+      "text": "g6 karesinden",
+      "normalized": "g6 karesinden",
+      "file": "audio/48d91c08528201e5fb923892.mp3"
+    },
+    {
+      "text": "g6 karesine gitti.",
+      "normalized": "g6 karesine gitti",
+      "file": "audio/fe8350db361d8ffd0bd946d4.mp3"
+    },
+    {
+      "text": "g7 karesinden",
+      "normalized": "g7 karesinden",
+      "file": "audio/f7ba2bc9f9521d90e4d930ad.mp3"
+    },
+    {
+      "text": "g7 karesine gitti.",
+      "normalized": "g7 karesine gitti",
+      "file": "audio/1f0492b0c5c02f3ac0b86084.mp3"
+    },
+    {
+      "text": "g8 karesinden",
+      "normalized": "g8 karesinden",
+      "file": "audio/4e1452202abaebdcf5608fd4.mp3"
+    },
+    {
+      "text": "g8 karesine gitti.",
+      "normalized": "g8 karesine gitti",
+      "file": "audio/a9b09a4430ffe8ee0273971f.mp3"
+    },
+    {
+      "text": "h1 karesinden",
+      "normalized": "h1 karesinden",
+      "file": "audio/c266a18a66c1ea5ed1319d5a.mp3"
+    },
+    {
+      "text": "h1 karesine gitti.",
+      "normalized": "h1 karesine gitti",
+      "file": "audio/149e138117e44c88b61ec938.mp3"
+    },
+    {
+      "text": "h2 karesinden",
+      "normalized": "h2 karesinden",
+      "file": "audio/03ad1bd1c1ba0b3015c02847.mp3"
+    },
+    {
+      "text": "h2 karesine gitti.",
+      "normalized": "h2 karesine gitti",
+      "file": "audio/bfd3e8812b0219d79a8513ac.mp3"
+    },
+    {
+      "text": "h3 karesinden",
+      "normalized": "h3 karesinden",
+      "file": "audio/12fd2c24d0c04536949e4439.mp3"
+    },
+    {
+      "text": "h3 karesine gitti.",
+      "normalized": "h3 karesine gitti",
+      "file": "audio/81c113b3c097f4652bff47ae.mp3"
+    },
+    {
+      "text": "h4 karesinden",
+      "normalized": "h4 karesinden",
+      "file": "audio/12a2f237539678b167ac3ed6.mp3"
+    },
+    {
+      "text": "h4 karesine gitti.",
+      "normalized": "h4 karesine gitti",
+      "file": "audio/dc5bfa53124947835061a4b2.mp3"
+    },
+    {
+      "text": "h5 karesinden",
+      "normalized": "h5 karesinden",
+      "file": "audio/774d01d34aa3109c6983ceb8.mp3"
+    },
+    {
+      "text": "h5 karesine gitti.",
+      "normalized": "h5 karesine gitti",
+      "file": "audio/fda52b24f09ca7e20a4f48dc.mp3"
+    },
+    {
+      "text": "h6 karesinden",
+      "normalized": "h6 karesinden",
+      "file": "audio/9f09c09042691b433e68f664.mp3"
+    },
+    {
+      "text": "h6 karesine gitti.",
+      "normalized": "h6 karesine gitti",
+      "file": "audio/8977d6276165cfea9ccf119e.mp3"
+    },
+    {
+      "text": "h7 karesinden",
+      "normalized": "h7 karesinden",
+      "file": "audio/38d6525041e2a15b367ebf28.mp3"
+    },
+    {
+      "text": "h7 karesine gitti.",
+      "normalized": "h7 karesine gitti",
+      "file": "audio/a51d67ae28da65b9a5b305d6.mp3"
+    },
+    {
+      "text": "h8 karesinden",
+      "normalized": "h8 karesinden",
+      "file": "audio/106d4b847d85133255a5a979.mp3"
+    },
+    {
+      "text": "h8 karesine gitti.",
+      "normalized": "h8 karesine gitti",
+      "file": "audio/c6aef11459b1d567f918e44d.mp3"
+    },
+    {
+      "text": "Harika! Görevi tamamladın.",
+      "normalized": "harika görevi tamamladın",
+      "file": "audio/a1ecc9d20e4880cbe5d3d1a5.mp3"
+    },
+    {
+      "text": "Harika! Siyah şah tehdit altında ve kurtulabileceği geçerli hamle yok. Mat!",
+      "normalized": "harika siyah şah tehdit altında ve kurtulabileceği geçerli hamle yok mat",
+      "file": "audio/9f803b5c39f584efb1e59a32.mp3"
+    },
+    {
+      "text": "Harika! Taş doğru yerde.",
+      "normalized": "harika taş doğru yerde",
+      "file": "audio/0dca4f56874aea85682d9db2.mp3"
+    },
+    {
+      "text": "Her oyuncu 16 taşla başlar. Beyaz ilk hamleyi yapar. Oyuncular sırayla birer hamle yapar.",
+      "normalized": "her oyuncu 16 taşla başlar beyaz ilk hamleyi yapar oyuncular sırayla birer hamle yapar",
+      "file": "audio/9fd246aba385e9c05693caef.mp3"
+    },
+    {
+      "text": "Kale",
+      "normalized": "kale",
+      "file": "audio/9857e117dd0722da68e8dbc1.mp3"
+    },
+    {
+      "text": "Kale alındı.",
+      "normalized": "kale alındı",
+      "file": "audio/2d748c9b0e6516827afe3c41.mp3"
+    },
+    {
+      "text": "Kale ile g4 karesindeki rakip taşı al.",
+      "normalized": "kale ile g4 karesindeki rakip taşı al",
+      "file": "audio/f5324021c4d37a5f0730f798.mp3"
+    },
+    {
+      "text": "Kale taşını a1 karesine yerleştir.",
+      "normalized": "kale taşını a1 karesine yerleştir",
+      "file": "audio/857ff70d945e10044e6ae3a5.mp3"
+    },
+    {
+      "text": "Kale taşını a8 karesine yerleştir.",
+      "normalized": "kale taşını a8 karesine yerleştir",
+      "file": "audio/6765ef7cd66f1a074f386d90.mp3"
+    },
+    {
+      "text": "Kale taşını g4 karesine götür.",
+      "normalized": "kale taşını g4 karesine götür",
+      "file": "audio/c0fc6e6c563ab44fa7edf652.mp3"
+    },
+    {
+      "text": "Kale taşını h1 karesine yerleştir.",
+      "normalized": "kale taşını h1 karesine yerleştir",
+      "file": "audio/5d988a3a512a6b10dc0a3933.mp3"
+    },
+    {
+      "text": "Kale taşını h8 karesine yerleştir.",
+      "normalized": "kale taşını h8 karesine yerleştir",
+      "file": "audio/f7e8c010743e56a44c2897b8.mp3"
+    },
+    {
+      "text": "Kale yatay ve dikey yönde istediği kadar gider. Taşların üzerinden atlayamaz.",
+      "normalized": "kale yatay ve dikey yönde istediği kadar gider taşların üzerinden atlayamaz",
+      "file": "audio/13a3e763e521ec2873c1d539.mp3"
+    },
+    {
+      "text": "Kazandın!",
+      "normalized": "kazandın",
+      "file": "audio/04eaf7600689e7257f780972.mp3"
+    },
+    {
+      "text": "Mat",
+      "normalized": "mat",
+      "file": "audio/0c1c541af9cc252a1c759f3a.mp3"
+    },
+    {
+      "text": "Mat ve Pat",
+      "normalized": "mat ve pat",
+      "file": "audio/76eee7d5ff197c85b875fc41.mp3"
+    },
+    {
+      "text": "Pat",
+      "normalized": "pat",
+      "file": "audio/68d753f055b1a15b39499fdb.mp3"
+    },
+    {
+      "text": "Piyon",
+      "normalized": "piyon",
+      "file": "audio/768198aaec1c9c5f775168af.mp3"
+    },
+    {
+      "text": "Piyon alındı.",
+      "normalized": "piyon alındı",
+      "file": "audio/ba4e4492498284a2828e6bca.mp3"
+    },
+    {
+      "text": "Piyon At taşına dönüştü.",
+      "normalized": "piyon at taşına dönüştü",
+      "file": "audio/dca8404758bc8143a5aecb0a.mp3"
+    },
+    {
+      "text": "Piyon bir kare ileri gider. İlk hamlesinde yolu boşsa iki kare gidebilir. Bir kare ileri çaprazdan taş alır. Son sırada vezir, kale, fil veya ata dönüşür.",
+      "normalized": "piyon bir kare ileri gider ilk hamlesinde yolu boşsa iki kare gidebilir bir kare ileri çaprazdan taş alır son sırada vezir kale fil veya ata dönüşür",
+      "file": "audio/18a305e38d0161c54e97dd7a.mp3"
+    },
+    {
+      "text": "Piyon Fil taşına dönüştü.",
+      "normalized": "piyon fil taşına dönüştü",
+      "file": "audio/8bdad57229e036d408b4367d.mp3"
+    },
+    {
+      "text": "Piyon ile e5 karesindeki rakip taşı al.",
+      "normalized": "piyon ile e5 karesindeki rakip taşı al",
+      "file": "audio/1c81dc23797bec5aee028797.mp3"
+    },
+    {
+      "text": "Piyon Kale taşına dönüştü.",
+      "normalized": "piyon kale taşına dönüştü",
+      "file": "audio/5d402881904695687ba4273d.mp3"
+    },
+    {
+      "text": "Piyon son sıraya ulaştı ve bu alıştırmada vezire dönüştü.",
+      "normalized": "piyon son sıraya ulaştı ve bu alıştırmada vezire dönüştü",
+      "file": "audio/4a894bbcf825141b2fa44d95.mp3"
+    },
+    {
+      "text": "Piyon taşını a2 karesine yerleştir.",
+      "normalized": "piyon taşını a2 karesine yerleştir",
+      "file": "audio/67efa6d08e6ccddc99b67c40.mp3"
+    },
+    {
+      "text": "Piyon taşını a7 karesine yerleştir.",
+      "normalized": "piyon taşını a7 karesine yerleştir",
+      "file": "audio/c1d95813c50102b31795d229.mp3"
+    },
+    {
+      "text": "Piyon taşını b2 karesine yerleştir.",
+      "normalized": "piyon taşını b2 karesine yerleştir",
+      "file": "audio/fd6fe0e04b3ca8f24eeaaab0.mp3"
+    },
+    {
+      "text": "Piyon taşını b7 karesine yerleştir.",
+      "normalized": "piyon taşını b7 karesine yerleştir",
+      "file": "audio/37006f59fc22133ba84b07a9.mp3"
+    },
+    {
+      "text": "Piyon taşını c2 karesine yerleştir.",
+      "normalized": "piyon taşını c2 karesine yerleştir",
+      "file": "audio/984ea8d15812976c505d4e8e.mp3"
+    },
+    {
+      "text": "Piyon taşını c7 karesine yerleştir.",
+      "normalized": "piyon taşını c7 karesine yerleştir",
+      "file": "audio/45b037a83ef68032f1b1ed7f.mp3"
+    },
+    {
+      "text": "Piyon taşını d2 karesine yerleştir.",
+      "normalized": "piyon taşını d2 karesine yerleştir",
+      "file": "audio/71dd4f79457b15bc9fa2fec1.mp3"
+    },
+    {
+      "text": "Piyon taşını d4 karesine götür.",
+      "normalized": "piyon taşını d4 karesine götür",
+      "file": "audio/45d53cf89feb5e1dececae84.mp3"
+    },
+    {
+      "text": "Piyon taşını d7 karesine yerleştir.",
+      "normalized": "piyon taşını d7 karesine yerleştir",
+      "file": "audio/eee703d5390177688f580cc3.mp3"
+    },
+    {
+      "text": "Piyon taşını e2 karesine yerleştir.",
+      "normalized": "piyon taşını e2 karesine yerleştir",
+      "file": "audio/3072259cda335b412653cbfc.mp3"
+    },
+    {
+      "text": "Piyon taşını e7 karesine yerleştir.",
+      "normalized": "piyon taşını e7 karesine yerleştir",
+      "file": "audio/8d833c94584608ef9b327411.mp3"
+    },
+    {
+      "text": "Piyon taşını f2 karesine yerleştir.",
+      "normalized": "piyon taşını f2 karesine yerleştir",
+      "file": "audio/c67a3ff073235ca2d23bc505.mp3"
+    },
+    {
+      "text": "Piyon taşını f7 karesine yerleştir.",
+      "normalized": "piyon taşını f7 karesine yerleştir",
+      "file": "audio/80977468b79a3b078fbdf092.mp3"
+    },
+    {
+      "text": "Piyon taşını g2 karesine yerleştir.",
+      "normalized": "piyon taşını g2 karesine yerleştir",
+      "file": "audio/9998ae9574b128dc7ba046dd.mp3"
+    },
+    {
+      "text": "Piyon taşını g7 karesine yerleştir.",
+      "normalized": "piyon taşını g7 karesine yerleştir",
+      "file": "audio/73cb27da41934e1227e3cecb.mp3"
+    },
+    {
+      "text": "Piyon taşını h2 karesine yerleştir.",
+      "normalized": "piyon taşını h2 karesine yerleştir",
+      "file": "audio/981acdbfa787f483df605e1f.mp3"
+    },
+    {
+      "text": "Piyon taşını h7 karesine yerleştir.",
+      "normalized": "piyon taşını h7 karesine yerleştir",
+      "file": "audio/d0339817d86651d3e6f68105.mp3"
+    },
+    {
+      "text": "Piyon Vezir taşına dönüştü.",
+      "normalized": "piyon vezir taşına dönüştü",
+      "file": "audio/8dbae92ecf0f7c4e900c6565.mp3"
+    },
+    {
+      "text": "Satranç tahtası 8 sıra ve 8 sütundan oluşur. Toplam 64 kare vardır. Sağ alt köşede açık renkli bir kare olmalıdır.",
+      "normalized": "satranç tahtası 8 sıra ve 8 sütundan oluşur toplam 64 kare vardır sağ alt köşede açık renkli bir kare olmalıdır",
+      "file": "audio/4f192e4da6e93cd73daf8837.mp3"
+    },
+    {
+      "text": "Siyah",
+      "normalized": "siyah",
+      "file": "audio/423e131f35063d9f2520827c.mp3"
+    },
+    {
+      "text": "Siyah At",
+      "normalized": "siyah at",
+      "file": "audio/8a9caaf9074cb1b3a0fac087.mp3"
+    },
+    {
+      "text": "Siyah Fil",
+      "normalized": "siyah fil",
+      "file": "audio/6573ee950681545aefadf450.mp3"
+    },
+    {
+      "text": "Siyah Kale",
+      "normalized": "siyah kale",
+      "file": "audio/e713fcf73a50cf4b67081300.mp3"
+    },
+    {
+      "text": "Siyah Piyon",
+      "normalized": "siyah piyon",
+      "file": "audio/8ec8ad40bb33d652c30ab7a3.mp3"
+    },
+    {
+      "text": "Siyah taşlar",
+      "normalized": "siyah taşlar",
+      "file": "audio/b50bfa7ba08d2ac96b1f8856.mp3"
+    },
+    {
+      "text": "Siyah Vezir",
+      "normalized": "siyah vezir",
+      "file": "audio/cb3ead188558915438156f94.mp3"
+    },
+    {
+      "text": "Siyah Şah",
+      "normalized": "siyah şah",
+      "file": "audio/3ee2bdc4841a55c7a22bdb4d.mp3"
+    },
+    {
+      "text": "Sıra beyazda. Beyaz taşını seç ve siyah şahı tek hamlede mat et.",
+      "normalized": "sıra beyazda beyaz taşını seç ve siyah şahı tek hamlede mat et",
+      "file": "audio/5e0e3edb97190bd60af3f5e1.mp3"
+    },
+    {
+      "text": "Sıra beyazda. Beyaz şahın durumunu seç.",
+      "normalized": "sıra beyazda beyaz şahın durumunu seç",
+      "file": "audio/3ea3f7b60a00daf33d82b341.mp3"
+    },
+    {
+      "text": "Tahta hazır! İki tarafta da 16 taş var. Oyuna beyaz başlar.",
+      "normalized": "tahta hazır iki tarafta da 16 taş var oyuna beyaz başlar",
+      "file": "audio/beae143d87a3d80ea30d17d7.mp3"
+    },
+    {
+      "text": "Tahtayı beyazın tarafından görüyoruz. Sağ alt köşe açık renktir. Önce beyaz taşları, sonra siyah taşları yerleştirelim.",
+      "normalized": "tahtayı beyazın tarafından görüyoruz sağ alt köşe açık renktir önce beyaz taşları sonra siyah taşları yerleştirelim",
+      "file": "audio/4ba2c4da6fb94dc36f4015d4.mp3"
+    },
+    {
+      "text": "Taşı basılı tutup işaretli kareye sürükle. İstersen taşa ve kareye dokun.",
+      "normalized": "taşı basılı tutup işaretli kareye sürükle istersen taşa ve kareye dokun",
+      "file": "audio/af6d80f8402397a5a7d66c74.mp3"
+    },
+    {
+      "text": "Taşınla hareketleri keşfet. Bu bir hareket alıştırmasıdır.",
+      "normalized": "taşınla hareketleri keşfet bu bir hareket alıştırmasıdır",
+      "file": "audio/dacc77af3b10a1a5b45b7b76.mp3"
+    },
+    {
+      "text": "Tehdit eden taşı alarak da şahı koruyabilirsin. h1 karesindeki fili seç ve e4 karesindeki siyah kaleyi al.",
+      "normalized": "tehdit eden taşı alarak da şahı koruyabilirsin h1 karesindeki fili seç ve e4 karesindeki siyah kaleyi al",
+      "file": "audio/4816757a4b4429270826261a.mp3"
+    },
+    {
+      "text": "Tek Hamlede Mat",
+      "normalized": "tek hamlede mat",
+      "file": "audio/a4bb6babf13971a263c65b1c.mp3"
+    },
+    {
+      "text": "Tekrar bak: Şah tehdit altında mı? Geçerli hamlesi var mı?",
+      "normalized": "tekrar bak şah tehdit altında mı geçerli hamlesi var mı",
+      "file": "audio/7c602b8fd9a5b6b685df13af.mp3"
+    },
+    {
+      "text": "Tekrar dene. Gösterilen taşın adını kontrol et ve işaretli kareye dokun.",
+      "normalized": "tekrar dene gösterilen taşın adını kontrol et ve işaretli kareye dokun",
+      "file": "audio/71b06d07b3c58438c6dfb2b2.mp3"
+    },
+    {
+      "text": "Tekrar deneyelim. Kırmızı çerçeveli şahı kontrol et ve yönergeyi dinle.",
+      "normalized": "tekrar deneyelim kırmızı çerçeveli şahı kontrol et ve yönergeyi dinle",
+      "file": "audio/be93a3fb7057d314fef5fe9a.mp3"
+    },
+    {
+      "text": "Tekrar deneyelim. Önce taşını seç, sonra hedef kareye git.",
+      "normalized": "tekrar deneyelim önce taşını seç sonra hedef kareye git",
+      "file": "audio/3e0a3eeb7df43e3e3bac10fa.mp3"
+    },
+    {
+      "text": "Tüm görevleri tamamladın! İstersen yeniden oynayabilirsin.",
+      "normalized": "tüm görevleri tamamladın istersen yeniden oynayabilirsin",
+      "file": "audio/12e78d21f47d66d3b70caed4.mp3"
+    },
+    {
+      "text": "Uzak bir tehdidin önünü kesebilirsin. a2 karesindeki kaleyi seç ve e2 karesine götürerek şahını koru.",
+      "normalized": "uzak bir tehdidin önünü kesebilirsin a2 karesindeki kaleyi seç ve e2 karesine götürerek şahını koru",
+      "file": "audio/ad77e9863c1e3144fc65090d.mp3"
+    },
+    {
+      "text": "Vezir",
+      "normalized": "vezir",
+      "file": "audio/de556bb6b2642c0c50d17793.mp3"
+    },
+    {
+      "text": "Vezir alındı.",
+      "normalized": "vezir alındı",
+      "file": "audio/06bbb19f6082e90842488f89.mp3"
+    },
+    {
+      "text": "Vezir kendi rengindeki karede başlar: beyaz vezir açık, siyah vezir koyu karede.",
+      "normalized": "vezir kendi rengindeki karede başlar beyaz vezir açık siyah vezir koyu karede",
+      "file": "audio/f78972e2f15f47c48166d6b6.mp3"
+    },
+    {
+      "text": "Vezir taşını d1 karesine yerleştir.",
+      "normalized": "vezir taşını d1 karesine yerleştir",
+      "file": "audio/1a1a9ab49c9eb5c5ed9c0ccf.mp3"
+    },
+    {
+      "text": "Vezir taşını d8 karesine yerleştir.",
+      "normalized": "vezir taşını d8 karesine yerleştir",
+      "file": "audio/bd13baed8027dd462d99af07.mp3"
+    },
+    {
+      "text": "Vezir taşını g7 karesine götür.",
+      "normalized": "vezir taşını g7 karesine götür",
+      "file": "audio/5fe232db238a3cf3a9f46003.mp3"
+    },
+    {
+      "text": "Vezir yatay, dikey ve çapraz yönde istediği kadar gider. Taşların üzerinden atlayamaz.",
+      "normalized": "vezir yatay dikey ve çapraz yönde istediği kadar gider taşların üzerinden atlayamaz",
+      "file": "audio/6c63e989401e312b952dbbae.mp3"
+    },
+    {
+      "text": "Önce taşını seç, sonra işaretli bir kareye dokun.",
+      "normalized": "önce taşını seç sonra işaretli bir kareye dokun",
+      "file": "audio/2cb74034a4bcbdd8b6b779bd.mp3"
+    },
+    {
+      "text": "Şah",
+      "normalized": "şah",
+      "file": "audio/019c1b897cc98cc43935bc24.mp3"
+    },
+    {
+      "text": "Şah alındı.",
+      "normalized": "şah alındı",
+      "file": "audio/bcf2f1e2a36c733533425c42.mp3"
+    },
+    {
+      "text": "Şah her yönde bir kare gider. Tehdit edilen bir kareye gidemez.",
+      "normalized": "şah her yönde bir kare gider tehdit edilen bir kareye gidemez",
+      "file": "audio/76a5ecbba14b461f392c3ec0.mp3"
+    },
+    {
+      "text": "Şah taşını e1 karesine yerleştir.",
+      "normalized": "şah taşını e1 karesine yerleştir",
+      "file": "audio/2eda6003269b168cc73d4660.mp3"
+    },
+    {
+      "text": "Şah taşını e5 karesine götür.",
+      "normalized": "şah taşını e5 karesine götür",
+      "file": "audio/d46f7ef6d9e44dcdb8904a44.mp3"
+    },
+    {
+      "text": "Şah taşını e8 karesine yerleştir.",
+      "normalized": "şah taşını e8 karesine yerleştir",
+      "file": "audio/5e85341d9ba3000d1e44bbd1.mp3"
+    },
+    {
+      "text": "Şah tehdit altında ama güvenli bir hamle var. Oyun devam eder.",
+      "normalized": "şah tehdit altında ama güvenli bir hamle var oyun devam eder",
+      "file": "audio/16617284e8f4ed2e8155668b.mp3"
+    },
+    {
+      "text": "Şah tehdit altında değil ama geçerli hamle yok. Pat! Oyun berabere biter.",
+      "normalized": "şah tehdit altında değil ama geçerli hamle yok pat oyun berabere biter",
+      "file": "audio/3917d8b5f5675111e50c4269.mp3"
+    },
+    {
+      "text": "Şah tehdit altında ve geçerli hamle yok. Mat! Oyun biter.",
+      "normalized": "şah tehdit altında ve geçerli hamle yok mat oyun biter",
+      "file": "audio/f0768820c457748d4511e94b.mp3"
+    },
+    {
+      "text": "Şah tehdit altındaysa şah çekilmiştir. Beyaz şahı tehdit eden siyah taşı bul ve ona dokun.",
+      "normalized": "şah tehdit altındaysa şah çekilmiştir beyaz şahı tehdit eden siyah taşı bul ve ona dokun",
+      "file": "audio/a21193dc7d54fb26a1733105.mp3"
+    },
+    {
+      "text": "Şah var, kaçış var",
+      "normalized": "şah var kaçış var",
+      "file": "audio/add164ce64be71fdfeff14ee.mp3"
+    },
+    {
+      "text": "Şah çekildiğinde tehdidi kaldırmalısın. e1 karesindeki şahı seç ve güvenli d1 karesine götür.",
+      "normalized": "şah çekildiğinde tehdidi kaldırmalısın e1 karesindeki şahı seç ve güvenli d1 karesine götür",
+      "file": "audio/598498f22caec760722320f5.mp3"
+    },
+    {
+      "text": "Açılış, oyunun başlangıcıdır. Önce fikirleri öğren, sonra ünlü örnekleri tahtada keşfet.",
+      "normalized": "açılış oyunun başlangıcıdır önce fikirleri öğren sonra ünlü örnekleri tahtada keşfet",
+      "file": "audio/1128f0d53a1e3e6374d9b949.mp3"
+    },
+    {
+      "text": "Merkez piyonları ve taşlarla tahtanın ortasını kontrol et. Dört merkez karesi e4, d4, e5 ve d5'tir.",
+      "normalized": "merkez piyonları ve taşlarla tahtanın ortasını kontrol et dört merkez karesi e4 d4 e5 ve d5 tir",
+      "file": "audio/b46e8a760e49b386dfb6dd31.mp3"
+    },
+    {
+      "text": "Atlarını ve fillerini oyuna kat. Genellikle aynı taşı tekrar tekrar oynatmak yerine farklı taşlarını geliştir.",
+      "normalized": "atlarını ve fillerini oyuna kat genellikle aynı taşı tekrar tekrar oynatmak yerine farklı taşlarını geliştir",
+      "file": "audio/73a0391869d6aacaa31fe767.mp3"
+    },
+    {
+      "text": "Yasal ve güvenli olduğunda rok yapmaya hazırlan. Kalelerini birbirine bağla ve şahını açıkta bırakma.",
+      "normalized": "yasal ve güvenli olduğunda rok yapmaya hazırlan kalelerini birbirine bağla ve şahını açıkta bırakma",
+      "file": "audio/f595688272c860e4cd046749.mp3"
+    },
+    {
+      "text": "Her hamleden önce iki tarafın şah çekişlerini, taş alışlarını ve tehditlerini kontrol et. Bir açılışın adı, hamleyi güvenli yapmaz.",
+      "normalized": "her hamleden önce iki tarafın şah çekişlerini taş alışlarını ve tehditlerini kontrol et bir açılışın adı hamleyi güvenli yapmaz",
+      "file": "audio/fccb571edefb460dc81ff19c.mp3"
+    },
+    {
+      "text": "İtalyan Açılışı",
+      "normalized": "italyan açılışı",
+      "file": "audio/c436386212850f085dafb2f6.mp3"
+    },
+    {
+      "text": "Atını f3'e, filini c4'e geliştir. Fil f7'ye bakarken beyaz rok hazırlığı yapar. Siyahın farklı yanıtları olabilir.",
+      "normalized": "atını f3 e filini c4 e geliştir fil f7 ye bakarken beyaz rok hazırlığı yapar siyahın farklı yanıtları olabilir",
+      "file": "audio/b17a4d166de771ecbf953535.mp3"
+    },
+    {
+      "text": "İspanyol Açılışı (Ruy Lopez)",
+      "normalized": "ispanyol açılışı ruy lopez",
+      "file": "audio/e8a6a6795534e6a0648bdea1.mp3"
+    },
+    {
+      "text": "Fil b5'e giderek e5'i savunan ata baskı yapar. Örneğimizde siyah a6 oynayıp filin nereye gideceğine karar vermesini ister.",
+      "normalized": "fil b5 e giderek e5 i savunan ata baskı yapar örneğimizde siyah a6 oynayıp filin nereye gideceğine karar vermesini ister",
+      "file": "audio/fde1745db013b72bb82b4525.mp3"
+    },
+    {
+      "text": "İskoç Açılışı",
+      "normalized": "iskoç açılışı",
+      "file": "audio/fc3cf8edbb8fd0209593cee9.mp3"
+    },
+    {
+      "text": "Beyaz d4 ile merkeze erken meydan okur. Piyon değişiminden sonra at d4'te geri alır ve etkin bir merkez karesine yerleşir.",
+      "normalized": "beyaz d4 ile merkeze erken meydan okur piyon değişiminden sonra at d4 te geri alır ve etkin bir merkez karesine yerleşir",
+      "file": "audio/09e0ff909d5e88fe7cb3dedc.mp3"
+    },
+    {
+      "text": "Vezir Gambiti",
+      "normalized": "vezir gambiti",
+      "file": "audio/51e39b23bbb7905617993fef.mp3"
+    },
+    {
+      "text": "Beyaz, siyahın d5 piyonuna baskı yapmak için c piyonunu sunar. Siyah kabul edebilir veya reddedebilir; bu örnekte e6 ile reddedip taşlarını geliştirir.",
+      "normalized": "beyaz siyahın d5 piyonuna baskı yapmak için c piyonunu sunar siyah kabul edebilir veya reddedebilir bu örnekte e6 ile reddedip taşlarını geliştirir",
+      "file": "audio/04c0440d6f7c7d937888658d.mp3"
+    },
+    {
+      "text": "Londra Sistemi",
+      "normalized": "londra sistemi",
+      "file": "audio/112395efa1a4ca7cac87eb2a.mp3"
+    },
+    {
+      "text": "Beyaz e3 oynamadan önce koyu renkli filini f4'e geliştirir. Sağlam bir merkez kur, ama planını siyahın hamlelerine göre uyarla.",
+      "normalized": "beyaz e3 oynamadan önce koyu renkli filini f4 e geliştirir sağlam bir merkez kur ama planını siyahın hamlelerine göre uyarla",
+      "file": "audio/5b5d4553c581f5f91c8c4ac9.mp3"
+    },
+    {
+      "text": "Sicilya Savunması",
+      "normalized": "sicilya savunması",
+      "file": "audio/6eb4afd22311181cf4d488f7.mp3"
+    },
+    {
+      "text": "Siyah e4'e c5 ile yanıt verip d4'e yandan baskı yapar. Bu Açık Sicilya örneğinde piyonlar değişilir ve beyaz at d4'e gelir.",
+      "normalized": "siyah e4 e c5 ile yanıt verip d4 e yandan baskı yapar bu açık sicilya örneğinde piyonlar değişilir ve beyaz at d4 e gelir",
+      "file": "audio/d120efa81b5cf1e5f91dd2d7.mp3"
+    },
+    {
+      "text": "Fransız Savunması",
+      "normalized": "fransız savunması",
+      "file": "audio/0c5270c1b2d0fc1a482de991.mp3"
+    },
+    {
+      "text": "Siyah e6 ile d5'i hazırlar. Bu İlerleme Varyantı'nda beyaz e5 ile alan kazanır, siyah da c5 ile merkeze meydan okur.",
+      "normalized": "siyah e6 ile d5 i hazırlar bu ilerleme varyantı nda beyaz e5 ile alan kazanır siyah da c5 ile merkeze meydan okur",
+      "file": "audio/41374c82450b2ae336e15a29.mp3"
+    },
+    {
+      "text": "Caro-Kann Savunması",
+      "normalized": "caro kann savunması",
+      "file": "audio/808b63c88e529be433493a1d.mp3"
+    },
+    {
+      "text": "Siyah c6 ile d5'i hazırlar. Bu örnekte siyah e4'te alır, beyaz atıyla geri alır; iki taraf da taşlarını geliştirmeye devam etmelidir.",
+      "normalized": "siyah c6 ile d5 i hazırlar bu örnekte siyah e4 te alır beyaz atıyla geri alır iki taraf da taşlarını geliştirmeye devam etmelidir",
+      "file": "audio/65bae8fd6122bca89aa89306.mp3"
+    },
+    {
+      "text": "Bu piyon hamlesi merkez kontrolü için mücadele eder ve taşlara daha çok alan açar.",
+      "normalized": "bu piyon hamlesi merkez kontrolü için mücadele eder ve taşlara daha çok alan açar",
+      "file": "audio/1e79749cdc8a4c5091f72a90.mp3"
+    },
+    {
+      "text": "Bir hafif taş oyuna katılır ve önemli kareleri etkiler.",
+      "normalized": "bir hafif taş oyuna katılır ve önemli kareleri etkiler",
+      "file": "audio/6349647ae7986ef466b78790.mp3"
+    },
+    {
+      "text": "Bu hamle rakip bir taşa veya rakibin merkez kontrolüne meydan okur.",
+      "normalized": "bu hamle rakip bir taşa veya rakibin merkez kontrolüne meydan okur",
+      "file": "audio/c21f66e0b413cc091556d7cc.mp3"
+    },
+    {
+      "text": "Bu piyon hamlesi merkez yapısını destekler veya başka bir merkez piyonu hamlesini hazırlar.",
+      "normalized": "bu piyon hamlesi merkez yapısını destekler veya başka bir merkez piyonu hamlesini hazırlar",
+      "file": "audio/87836a0d3e1f662940faa0c5.mp3"
+    },
+    {
+      "text": "Bir taş alışı merkezi değiştirir. Yerini hangi taşın veya piyonun aldığına dikkat et.",
+      "normalized": "bir taş alışı merkezi değiştirir yerini hangi taşın veya piyonun aldığına dikkat et",
+      "file": "audio/9a0436acc426582389762038.mp3"
+    },
+    {
+      "text": "Piyon alan kazanmak için ilerler. Rakibin piyon zincirine nasıl saldırabileceğini kontrol et.",
+      "normalized": "piyon alan kazanmak için ilerler rakibin piyon zincirine nasıl saldırabileceğini kontrol et",
+      "file": "audio/140bc82808b566c1fb0bca56.mp3"
+    }
+  ]
+}

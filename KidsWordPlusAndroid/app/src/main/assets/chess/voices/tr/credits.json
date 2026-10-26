@@ -1,0 +1,156 @@
+{
+  "people": [
+    {
+      "id": "kasparov",
+      "era": "modern",
+      "name": "Garry Kasparov",
+      "years": "1963–",
+      "image": "kasparov.jpg",
+      "author": "Gage Skidmore from Peoria, AZ, United States of America",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Garry_Kasparov_(37137186253).jpg"
+    },
+    {
+      "id": "karpov",
+      "era": "modern",
+      "name": "Anatoly Karpov",
+      "years": "1951–",
+      "image": "karpov.jpg",
+      "author": "Ahsoous",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Anatoli_Karpov_by_Ahsoous_20110107.jpg"
+    },
+    {
+      "id": "fischer",
+      "era": "modern",
+      "name": "Bobby Fischer",
+      "years": "1943–2008",
+      "image": "fischer.jpg",
+      "author": "Bert Verhoeff for Anefo · Nationaal Archief",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Bobby_Fischer_1972.jpg"
+    },
+    {
+      "id": "anand",
+      "era": "modern",
+      "name": "Viswanathan Anand",
+      "years": "1969–",
+      "image": "anand.jpg",
+      "author": "Georgios Souleidis",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Viswanathan_Anand_(cropped).jpg"
+    },
+    {
+      "id": "carlsen",
+      "era": "modern",
+      "name": "Magnus Carlsen",
+      "years": "1990–",
+      "image": "carlsen.jpg",
+      "author": "Sergey Rassokha",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:MagnusCarlsen.jpg"
+    },
+    {
+      "id": "polgar",
+      "era": "modern",
+      "name": "Judit Polgár",
+      "years": "1976–",
+      "image": "polgar.jpg",
+      "author": "Ygrek",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Judit_polgar_03.08.2008.jpg"
+    },
+    {
+      "id": "steinitz",
+      "name": "Wilhelm Steinitz",
+      "years": "1836–1900",
+      "image": "steinitz.jpg",
+      "author": "Wikimedia Commons · Wilhelm Steinitz2.jpg",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Wilhelm_Steinitz2.jpg",
+      "era": "pioneers"
+    },
+    {
+      "id": "lasker",
+      "name": "Emanuel Lasker",
+      "years": "1868–1941",
+      "image": "lasker.jpg",
+      "author": "Trans-Ocean News Service · National Library of Israel, Schwadron collection",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Emanuel_Lasker.jpg",
+      "era": "pioneers"
+    },
+    {
+      "id": "capablanca",
+      "name": "José Raúl Capablanca",
+      "years": "1888–1942",
+      "image": "capablanca.jpg",
+      "author": "Agence Rol · Bibliothèque nationale de France (Gallica), 1921",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ra%C3%BAl_Capablanca_1921.jpg",
+      "era": "pioneers"
+    },
+    {
+      "id": "menchik",
+      "name": "Vera Menchik",
+      "years": "1906–1944",
+      "image": "menchik.png",
+      "author": "Underwood & Underwood · The Baltimore Sun, 1927",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Vera_Menchik_1927_newspaper_photo_(cropped).png",
+      "era": "pioneers"
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Museums Scotland · Chess and Ludo",
+      "url": "https://www.nms.ac.uk/discover-catalogue/chess-and-ludo-board-games-with-south-asian-origins"
+    },
+    {
+      "title": "World Chess Hall of Fame · Living Like Kings",
+      "url": "https://worldchesshof.org/program/living-like-kings/"
+    },
+    {
+      "title": "World Chess Hall of Fame · World Championship Timeline",
+      "url": "https://worldchesshof.org/wp-content/uploads/2025/02/World-Chess-Championship-Timeline-1.pdf"
+    },
+    {
+      "title": "World Chess Hall of Fame · Women’s World Champions",
+      "url": "https://worldchesshof.org/sites/default/files/WomensChampBios.pdf"
+    },
+    {
+      "title": "World Chess Hall of Fame · Open Files",
+      "url": "https://worldchesshof.org/program/2016-09-29-open-files-celebrating-5-years-of-collecting/"
+    },
+    {
+      "title": "FIDE Open Chess Museum · Garry Kasparov",
+      "url": "https://museum.fide.com/champions/garry-kasparov"
+    },
+    {
+      "title": "FIDE Open Chess Museum · Anatoly Karpov",
+      "url": "https://museum.fide.com/champions/anatoly-karpov"
+    },
+    {
+      "title": "FIDE Open Chess Museum · Viswanathan Anand",
+      "url": "https://museum.fide.com/champions/viswanathan-anand"
+    },
+    {
+      "title": "FIDE Open Chess Museum · Magnus Carlsen",
+      "url": "https://museum.fide.com/champions/magnus-carlsen"
+    },
+    {
+      "title": "FIDE · Judit Polgár",
+      "url": "https://wom.fide.com/judit-polgar/"
+    }
+  ]
+}
