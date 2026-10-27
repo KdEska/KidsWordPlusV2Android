@@ -29,13 +29,17 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import org.json.JSONObject
 
+internal fun openingTexts(json: String, language: String): Map<String, String> {
+    val root=JSONObject(json).getJSONObject(language)
+    return root.keys().asSequence().filter { it.startsWith("opening.") }.associateWith { root.getString(it) }
+}
+
 @Composable internal fun openingCopy(language: String): State<Map<String, String>> {
     val context = LocalContext.current
     return produceState(emptyMap(), language) {
         value = withContext(Dispatchers.IO) {
             runCatching {
-                val root = context.assets.open("chess/voices/$language/content.json").bufferedReader().use { JSONObject(it.readText()) }
-                root.keys().asSequence().filter { it.startsWith("opening.") }.associateWith { root.getString(it) }
+                context.assets.open("chess/reference-content.json").bufferedReader().use { openingTexts(it.readText(),language) }
             }.getOrDefault(emptyMap())
         }
     }

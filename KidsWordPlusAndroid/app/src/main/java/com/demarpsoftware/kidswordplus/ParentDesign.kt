@@ -65,7 +65,7 @@ internal val LocalParentBack=staticCompositionLocalOf<MutableState<(() -> Unit)?
     val labels=listOf("Ana Sayfa" to "Home","Raporlar" to "Reports","Profil" to "Profile","Ayarlar" to "Settings").map{InterfaceStrings.text(tr,it.first,it.second)}
     Row(Modifier.fillMaxWidth().background(Color.White.copy(alpha=.86f),RoundedCornerShape(topStart=28.dp,topEnd=28.dp)).padding(horizontal=12.dp,vertical=10.dp),horizontalArrangement=Arrangement.spacedBy(4.dp),verticalAlignment=Alignment.CenterVertically) {
         labels.forEachIndexed {index,title ->
-            Column(Modifier.weight(1f).clipParentTab(tab==index).semantics(mergeDescendants=true){selected=tab==index;contentDescription=InterfaceStrings.text(tr,"Ebeveyn sekmesi: $title","Parent tab: $title")}
+            Column(Modifier.weight(1f).clipParentTab(tab==index).semantics(mergeDescendants=true){selected=tab==index;contentDescription=InterfaceStrings.render(tr, "Ebeveyn sekmesi: {0}", "Parent tab: {0}", (title).toString())}
                 .clickable(role=Role.Tab){select(index)}.padding(6.dp).heightIn(min=52.dp),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(2.dp,Alignment.CenterVertically)) {
                 if(index==2)DesignArt("companions/$companion.png",Modifier.size(52.dp).border(if(tab==2)3.dp else 2.dp,KidHeading.copy(alpha=if(tab==2)1f else .25f),RoundedCornerShape(50)),decodeLimit=192)
                 else {ParentArt(when(index){0->"home";1->"words-learned";else->"settings"},36);Text(title,fontSize=12.sp,fontWeight=FontWeight.Bold,color=if(tab==index)KidHeading else KidSecondary,textAlign=TextAlign.Center)}
@@ -122,7 +122,7 @@ private fun Modifier.clipParentTab(chosen:Boolean)=background(if(chosen)Color(0x
     val motion=LocalKidMotion.current
     val fraction by animateFloatAsState(if(visible||!motion)1f else 0f,if(motion)tween(700)else snap(),label="parentWeeklyChart")
     val max=maxOf(5,(report.daily.maxOfOrNull{it.second}?:0)+2)
-    val labels=if(tr)listOf("Pzt","Sal","Çar","Per","Cum","Cmt","Paz")else listOf("Mon","Tue","Wed","Thu","Fri","Sat","Sun")
+    val labels=listOf("Mon","Tue","Wed","Thu","Fri","Sat","Sun").zip(listOf("Pzt","Sal","Çar","Per","Cum","Cmt","Paz")).map {(en,trLabel)->InterfaceStrings.text(tr,trLabel,en)}
     Row(Modifier.fillMaxWidth().heightIn(min=200.dp),horizontalArrangement=Arrangement.spacedBy(6.dp)) {
         Column(Modifier.height(170.dp),verticalArrangement=Arrangement.SpaceBetween){Text("$max",fontSize=11.sp,color=KidSecondary);Text("${max/2}",fontSize=11.sp,color=KidSecondary);Text("0",fontSize=11.sp,color=KidSecondary)}
         report.daily.forEachIndexed{index,(_,count) ->
@@ -195,6 +195,7 @@ private fun Modifier.clipParentTab(chosen:Boolean)=background(if(chosen)Color(0x
         ParentSettingsRow("target",t("Günlük hedef","Daily goal"),"${state.dailyGoal} ${t("kelime","words")}"){goalOptions=true}
         ParentSettingsRow("learning-language",t("Öğrenme dili","Learning language"),LearningLanguages.title(state.language),languages)
         ParentSettingsRow("learning-language",t("Dil tercihlerini yönet","Manage language preferences"),t("Arayüz ve öğrenme dili","Interface and learning language"),languages)
+        VocabularyLevelPicker(state,model)
         ParentPreferenceToggle("sound",t("Ses","Sound"),state.soundEnabled,!state.busy,model::setSoundEnabled)
         ParentPreferenceToggle("daily-star",t("Animasyon","Animation"),state.animationsEnabled,!state.busy,model::setAnimationsEnabled)
         SettingsCard {

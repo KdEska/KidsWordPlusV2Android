@@ -62,7 +62,7 @@ import java.io.File
                     Column(Modifier.weight(1f),verticalArrangement=Arrangement.spacedBy(4.dp)) {
                         Text(if(kind==GameKind.MEMORY) "${memoryLevel(number,tr)} · ${if(number==2)"2×2" else "4×${number/2}"}" else "$number ${t("kelime","words")}",style=MaterialTheme.typography.titleMedium,color=KidHeading)
                         if(kind==GameKind.MEMORY)Text("${number*2} ${t("kart","cards")}")
-                        if(available!=null&&missing>0)Text(t("$missing farklı kelime daha çalışmalısın","Study $missing more distinct words"),style=MaterialTheme.typography.bodyMedium)
+                        if(available!=null&&missing>0)Text(InterfaceStrings.render(tr, "{0} farklı kelime daha çalışmalısın", "Study {0} more distinct words", (missing).toString()),style=MaterialTheme.typography.bodyMedium)
                     }
                     if(count==number) GameMark(true)
                 }
@@ -127,7 +127,7 @@ private fun memoryLevel(pairs:Int,tr:Boolean)=when(pairs){2->InterfaceStrings.te
                                 val correct=game.solved&&word.id==game.target?.id
                                 val wrong=word.id in game.wrong
                                 Box(Modifier.weight(1f).fillMaxHeight()) {
-                                    GamePicture(state.pack!!.image(word),t("Görsel ${rowIndex*2+columnIndex+1}","Picture ${rowIndex*2+columnIndex+1}"),correct,wrong,
+                                    GamePicture(state.pack!!.image(word),InterfaceStrings.render(tr, "Görsel {0}", "Picture {0}", (rowIndex*2+columnIndex+1).toString()),correct,wrong,
                                         enabled=game.heard&&!game.solved&&!wrong&&!state.busy,portrait=false) {stop();model.gameAnswer(word.id)}
                                 }
                             }
@@ -159,7 +159,7 @@ private fun memoryLevel(pairs:Int,tr:Boolean)=when(pairs){2->InterfaceStrings.te
                 Box(Modifier.widthIn(max=if(tablet)640.dp else 600.dp).fillMaxWidth()) {
                     GameGrid(columns,game.cards,8) {index,word ->
                         val revealed=index in game.faceUp||index in game.matchedCards
-                        MemoryPicture(state.pack!!.image(word),if(revealed)word.text else t("Kapalı kart ${index+1}","Hidden card ${index+1}"),revealed,index in game.matchedCards,playing==state.pack!!.audio(word).path&&activeMemoryCard==index,!revealed&&!game.waiting&&!state.busy,wrong=game.waiting && index in game.faceUp) {activeMemoryCard=index;model.memoryFlip(index);hear(word)}
+                        MemoryPicture(state.pack!!.image(word),if(revealed)word.text else InterfaceStrings.render(tr, "Kapalı kart {0}", "Hidden card {0}", (index+1).toString()),revealed,index in game.matchedCards,playing==state.pack!!.audio(word).path&&activeMemoryCard==index,!revealed&&!game.waiting&&!state.busy,wrong=game.waiting && index in game.faceUp) {activeMemoryCard=index;model.memoryFlip(index);hear(word)}
                     }
                 }
             }
@@ -194,10 +194,10 @@ private fun memoryLevel(pairs:Int,tr:Boolean)=when(pairs){2->InterfaceStrings.te
                                 val picture=game.cards[index]
                                 Row(Modifier.fillMaxWidth().height(rowHeight),horizontalArrangement=Arrangement.spacedBy(if(large)32.dp else 64.dp),verticalAlignment=Alignment.CenterVertically) {
                                     Box(Modifier.weight(1f).onGloballyPositioned {val p=it.positionInParent();anchors["s${sound.id}"]=Offset(p.x+it.size.width,index*(rowPx+gapPx)+rowPx/2)}) {
-                                        GameSound(t("Ses ${index+1}","Sound ${index+1}"),game.selected==sound.id,sound.id in game.matched,playing==state.pack!!.audio(sound).path,!state.busy&&sound.id !in game.matched){hear(sound)}
+                                        GameSound(InterfaceStrings.render(tr, "Ses {0}", "Sound {0}", (index+1).toString()),game.selected==sound.id,sound.id in game.matched,playing==state.pack!!.audio(sound).path,!state.busy&&sound.id !in game.matched){hear(sound)}
                                     }
                                     Box(Modifier.weight(1f).height(rowHeight).onGloballyPositioned {val p=it.positionInParent();anchors["p${picture.id}"]=Offset(p.x,index*(rowPx+gapPx)+rowPx/2)}) {
-                                        GamePicture(state.pack!!.image(picture),t("Görsel ${index+1}","Picture ${index+1}"),picture.id in game.matched,false,game.selected!=null&&picture.id !in game.matched&&!state.busy,portrait=false){stop();model.gameAnswer(picture.id)}
+                                        GamePicture(state.pack!!.image(picture),InterfaceStrings.render(tr, "Görsel {0}", "Picture {0}", (index+1).toString()),picture.id in game.matched,false,game.selected!=null&&picture.id !in game.matched&&!state.busy,portrait=false){stop();model.gameAnswer(picture.id)}
                                     }
                                 }
                             }
@@ -304,7 +304,7 @@ private fun memoryLevel(pairs:Int,tr:Boolean)=when(pairs){2->InterfaceStrings.te
             DesignArt("ui/games/calendar.webp",Modifier.size(36.dp),decodeLimit=128)
             Text(t("Günde öğren, yıldızları kazan!","Learn every day and earn stars!"),fontWeight=FontWeight.Bold,modifier=Modifier.weight(1f))
         }
-        DailyTaskRow(if(day.target==0)t("Tüm kelimeleri çalıştın","You have studied every word")else t("${day.target} yeni kelime çalış","Study ${day.target} new words"),day.newWords.size,day.target,"new-words")
+        DailyTaskRow(if(day.target==0)t("Tüm kelimeleri çalıştın","You have studied every word")else InterfaceStrings.render(tr, "{0} yeni kelime çalış", "Study {0} new words", (day.target).toString()),day.newWords.size,day.target,"new-words")
         DailyTaskRow(t("10 farklı kelime tekrar et","Review 10 different words"),day.reviews.size,10,"repeat-words")
         DailyTaskRow(t("2 oyun tamamla","Complete 2 games"),day.sessions.size,2,"daily-controller")
         var cursor=state.today

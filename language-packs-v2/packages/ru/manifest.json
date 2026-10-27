@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.3",
   "packageId": "learning.ru",
-  "packageVersion": "14-ru-chess-2dcc1230d2e9-no-beer-v1",
+  "packageVersion": "14-ru-chess-2dcc1230d2e9-no-beer-v1-levels-61c2551e28e9-no-wine-v1",
   "language": "ru",
   "locale": "ru-RU",
   "textDirection": "ltr",
@@ -11,8 +11,8 @@
   "dependencies": [
     {
       "language": "base",
-      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-      "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+      "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
     }
   ],
   "releaseReady": false,
@@ -24,7 +24,7 @@
     "status": "pending",
     "scope": "learning_text_and_alphabet_images"
   },
-  "installedPayloadBytes": 49095009,
+  "installedPayloadBytes": 49081468,
   "files": [
     {
       "path": "audio/CAT-001-001_ru.mp3",
@@ -5282,11 +5282,6 @@
       "sha256": "54d8b5c806d85560743b5293f82d785d7cb66a0a10253ed48387ecdc4f25a1f5"
     },
     {
-      "path": "audio/food_830_ru.mp3",
-      "bytes": 15090,
-      "sha256": "8159df8a4496e083ce76151b0b78168b17e8d09119cde322cb697dc21bb1f199"
-    },
-    {
       "path": "audio/food_831_ru.mp3",
       "bytes": 25539,
       "sha256": "842ccc0d8d9c7acc29b1a55eb3a8bfeebd418f6e7bceabaab468c3e09e79f241"
@@ -9933,8 +9928,8 @@
     },
     {
       "path": "database.json",
-      "bytes": 1986659,
-      "sha256": "2c57dddd31e03b20d6587bfc1d227af6224d2129e45668f497669aca7a3c2282"
+      "bytes": 1988208,
+      "sha256": "1e31ca7f1cbdb8d6ff56c2deee36785b51c4139380d8a16113332f4e046f2d66"
     },
     {
       "path": "images/alphabet/0401.jpg",

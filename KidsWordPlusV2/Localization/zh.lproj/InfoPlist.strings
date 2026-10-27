@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "使用相机拍摄头像。";
+"NSMicrophoneUsageDescription" = "使用麦克风在此设备上录制和回放孩子练习词语时的声音。";
+"NSSpeechRecognitionUsageDescription" = "仅在此设备上识别孩子说的词语，音频不会上传。";

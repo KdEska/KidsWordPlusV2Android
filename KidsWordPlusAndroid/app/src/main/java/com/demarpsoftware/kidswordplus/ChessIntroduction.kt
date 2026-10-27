@@ -23,10 +23,10 @@ import kotlinx.coroutines.withContext
 @Composable internal fun ChessIntroduction(tr:Boolean,back:()->Unit,pieces:()->Unit) {
     val context=LocalContext.current
     val uri=LocalUriHandler.current
-    val data by produceState<Triple<JSONObject,JSONObject,JSONObject>?>(null,tr){
+    val data by produceState<Triple<JSONObject,JSONObject,JSONObject>?>(null,InterfaceStrings.language){
         value=withContext(Dispatchers.IO){
             fun read(path:String)=JSONObject(context.assets.open(path).bufferedReader().use{it.readText()})
-            val language=InterfaceStrings.text(tr,"tr","en")
+            val language=InterfaceStrings.language
             Triple(read("chess/history.json").getJSONObject(language),read("chess/reference-content.json").getJSONObject(language),read("chess/history/credits.json"))
         }
     }
@@ -53,7 +53,7 @@ import kotlinx.coroutines.withContext
                 1 -> {
                     listOf("board","turn","goal").forEachIndexed{index,key ->
                         KidSurface{
-                            Text((if(tr)listOf("Tahta","Hamle sırası","Amaç")else listOf("Board","Turns","Goal"))[index],style=MaterialTheme.typography.titleLarge,color=KidHeading)
+                            Text(listOf(InterfaceStrings.text(tr,"Tahta","Board"),InterfaceStrings.text(tr,"Hamle sırası","Turns"),InterfaceStrings.text(tr,"Amaç","Goal"))[index],style=MaterialTheme.typography.titleLarge,color=KidHeading)
                             Text(content.optString("$key.body"))
                             ChessListenButton(InterfaceStrings.text(tr,"tr","en"),"$key.body")
                         }

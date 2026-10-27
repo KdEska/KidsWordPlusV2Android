@@ -139,7 +139,7 @@ internal suspend fun sendFeedback(payload:JSONObject):Int=withContext(Dispatcher
                 KidAction(if(sending)t("Gönderiliyor…","Sending…")else t("Geri bildirimi gönder","Send feedback"),enabled=!sending&&feedbackEndpoint!=null){
                     // Capture only the reviewed fields; profile data and identifiers are never added.
                     val payload=JSONObject().put("id",id).put("kind",kind).put("topic",topic).put("screen",screen).put("message",message.trim()).put("email",email.trim())
-                        .put("platform","android").put("version",technical[1]).put("device",technical[2]).put("os",technical[3]).put("language",state.ui)
+                        .put("platform","android").put("source","MOBIL").put("version",technical[1]).put("device",technical[2]).put("os",technical[3]).put("language",state.ui)
                     sending=true;error=null
                     scope.launch {
                         try {val code=sendFeedback(payload);if(code in 200..299)sent=true else error=code}

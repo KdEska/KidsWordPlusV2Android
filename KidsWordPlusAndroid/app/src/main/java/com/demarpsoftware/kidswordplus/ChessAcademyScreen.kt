@@ -38,23 +38,26 @@ import com.demarpsoftware.kidswordplus.chess.*
     var hint by rememberSaveable(page, taskId, state.chessSetupCount) { mutableStateOf(false) }
     var feedback by rememberSaveable(page, taskId, state.chessSetupCount) { mutableStateOf(0) }
     var confirmRestart by remember { mutableStateOf(false) }
+    var acceptedFrom by rememberSaveable(taskId) {mutableStateOf<Int?>(null)}
+    var acceptedTo by rememberSaveable(taskId) {mutableStateOf<Int?>(null)}
     fun finishSafety(from:Int?,to:Int) {
         if(round.solved)return
+        acceptedFrom=from;acceptedTo=to
         selected=null;round=round.finish(taskId);feedback=3
         audio?.celebrate(state.ui)
-        model.finishChessSafety(task.id,from,to)
+        model.finishChessSafety(task.id,from,to);audio?.touch()
     }
     ChessStopSpeechOnChange(page, taskId, state.chessSetupCount, state.ui)
     val next = ChessBoardSetup.placements.getOrNull(state.chessSetupCount)
-    val target = if (setup) next?.first else task.target
-    val board = if (setup) ChessBoardSetup.board(state.chessSetupCount) else if (solved) task.after().board else task.position.board
+    val target = if (setup) next?.first else if(solved)acceptedTo ?: task.target else task.target
+    val board = if (setup) ChessBoardSetup.board(state.chessSetupCount) else if (solved) (acceptedFrom?.let {from -> acceptedTo?.let {to -> task.position.play(ChessMove(from,to))}} ?: task.after()).board else task.position.board
     Column(Modifier.verticalScroll(rememberScrollState()), verticalArrangement = Arrangement.spacedBy(12.dp)) {
         ChessPageNavigation(back)
         if (setup) {
             ChessProgress(state.chessSetupCount,32,tr)
             Text(t("Sağ alt köşe Beyaz karedir. Vezir kendi renginde başlar: Beyaz vezir d1, Siyah vezir d8.", "The bottom-right square is light. Each queen starts on her own colour: White on d1, Black on d8."))
             if (next != null) {
-                Text(t("${if (next.second.white) "Beyaz" else "Siyah"} ${pieceTitle(next.second.kind, tr)} taşını seç ve ${squareName(next.first)} karesine yerleştir.", "Choose the ${if (next.second.white) "White" else "Black"} ${pieceTitle(next.second.kind, tr)} and place it on ${squareName(next.first)}."))
+                Text(InterfaceStrings.render(tr, "{0} {1} taşını seç ve {2} karesine yerleştir.", "Choose the {0} {1} and place it on {2}.", (InterfaceStrings.text(tr, if (next.second.white) "Beyaz" else "Siyah", if (next.second.white) "White" else "Black")).toString(), (pieceTitle(next.second.kind, tr)).toString(), (squareName(next.first)).toString()))
                 ChessPieceStrip(chosen?.let(PieceKind::valueOf),next.second.white,tr,!state.busy){chosen=it.name;feedback=0}
 
             } else {
@@ -71,7 +74,7 @@ import com.demarpsoftware.kidswordplus.chess.*
         else ChessListenButton(state.ui,task.audioKey,label=if(task.id==task.group || task.source==null)t("Dinle","Listen")else t("Hareket kuralını dinle","Listen to the movement rule"))
         ChessAudioStatus(state.ui)
         ChessAppearancePicker(tr)
-        AcademyBoard(board, tablet, tr, selected, if (hint || solved) target else null, !state.busy && (if (setup) next != null else !solved),drag=if(!setup && task.source!=null) {from,to ->
+        AcademyBoard(board, tablet, tr, selected, if (hint || solved) target else null, !state.busy && (if (setup) next != null else !solved),legal=if(!setup && !solved)selected?.let {task.position.movesFrom(it).map {move->move.to}.toSet()} ?: emptySet() else emptySet(),drag=if(!setup && task.source!=null) {from,to ->
             if(task.accepts(from,to)) {finishSafety(from,to)} else feedback=2
         } else null) { index ->
             if (setup) {
@@ -85,7 +88,7 @@ import com.demarpsoftware.kidswordplus.chess.*
                 val from = if (task.source == null) null else selected
                 when {
                     task.accepts(from, index) -> { finishSafety(from,index) }
-                    task.source != null && board[index]?.white == true -> { selected = index; feedback = 0 }
+                    task.source != null && board[index]?.white == true -> { selected = index; feedback = 0; audio?.touch() }
                     else -> feedback = 2
                 }
             }
@@ -93,11 +96,11 @@ import com.demarpsoftware.kidswordplus.chess.*
         if (feedback > 0) Text(when (feedback) {
             1 -> t("Önce yerleştireceğin taşı seç.", "Choose a piece first.")
             3 -> if (task.source == null) t("Doğru! Şahı tehdit eden taşı buldun.", "Correct! You found the piece attacking the king.") else t("Doğru! Beyaz şah artık güvende.", "Correct! The White king is safe now.")
-            else -> if (setup) t("Tekrar dene: istenen taşı ve kareyi kontrol et.", "Try again: check the requested piece and square.") else t("Tekrar dene. Bu hedefte ${if (task.source == null) "${squareName(task.target)} karesindeki saldıran taşı bulmalısın" else "${squareName(task.source)} karesindeki taşı ${squareName(task.target)} karesine götürmelisin"}.", "Try again. For this goal, ${if (task.source == null) "find the attacker on ${squareName(task.target)}" else "move the piece on ${squareName(task.source)} to ${squareName(task.target)}"}.")
+            else -> if(setup)t("Tekrar dene: istenen taşı ve kareyi kontrol et.","Try again: check the requested piece and square.") else safetyPrompt(task,tr)
         })
         if (!setup && solved && task.id !in state.chessSafetyCompleted) {
             Text(t("Hedef henüz kaydedilmedi.", "The goal has not been saved yet."))
-            OutlinedButton(enabled = !state.busy, onClick = { model.finishChessSafety(task.id, task.source, task.target) }) { Text(t("Kaydı tekrar dene", "Retry saving")) }
+            OutlinedButton(enabled = !state.busy, onClick = { model.finishChessSafety(task.id, acceptedFrom ?: task.source, acceptedTo ?: task.target) }) { Text(t("Kaydı tekrar dene", "Retry saving")) }
         }
         if ((setup && next != null) || (!setup && !solved)) OutlinedButton(onClick = { hint = !hint }) {
             Text(if (hint) t("İpucunu gizle", "Hide hint") else t("Hedefi göster", "Show target"))
@@ -115,17 +118,11 @@ import com.demarpsoftware.kidswordplus.chess.*
         dismissButton = { TextButton(onClick = { confirmRestart = false }) { Text(t("Vazgeç", "Cancel")) } })
 }
 
-@Composable internal fun AcademyBoard(board: List<Piece?>, tablet: Boolean, tr: Boolean, selected: Int?, target: Int?, enabled: Boolean, drag: ((Int,Int)->Unit)? = null, tap: (Int) -> Unit) {
-    IosChessBoard(board,tablet,tr,selected,target,enabled=enabled,drag=drag,tap=tap)
+@Composable internal fun AcademyBoard(board: List<Piece?>, tablet: Boolean, tr: Boolean, selected: Int?, target: Int?, enabled: Boolean, legal:Set<Int> = emptySet(), drag: ((Int,Int)->Unit)? = null, tap: (Int) -> Unit) {
+    IosChessBoard(board,tablet,tr,selected,target,legal=legal,enabled=enabled,drag=drag,tap=tap)
 }
 
 private fun safetyPrompt(task: ChessSafetyTask,tr: Boolean): String {
-    val from=task.source?.let(::squareName).orEmpty()
-    val target=squareName(task.target)
-    return when(task.group) {
-        "threat" -> InterfaceStrings.text(tr,"Beyaz şahı tehdit eden Siyah taşa dokun.","Tap the Black piece attacking the White king.")
-        "escape" -> InterfaceStrings.text(tr,"$from karesindeki Beyaz şahı güvenli $target karesine götür.","Move the White king from $from to the safe square $target.")
-        "capture" -> InterfaceStrings.text(tr,"$from karesindeki Beyaz fil ile $target karesindeki saldıran taşı al.","Use the White bishop on $from to capture the attacking piece on $target.")
-        else -> InterfaceStrings.text(tr,"$from karesindeki Beyaz kaleyi $target karesine getirerek şahını koru.","Move the White rook from $from to $target to block the attack.")
-    }
+    return if(task.source==null) InterfaceStrings.text(tr,"Beyaz şahı tehdit eden Siyah taşa dokun.","Tap the Black piece attacking the White king.")
+    else InterfaceStrings.text(tr,"Şahını kurtaran herhangi bir yasal hamle yap.","Make any legal move that gets your king out of check.")
 }

@@ -16,16 +16,14 @@ import com.demarpsoftware.kidswordplus.chess.*
         listOf(true,false).forEach {byPlayer ->
             val taken=captures.filter {it.white != if(byPlayer)game.playerWhite else !game.playerWhite}
             val title=if(game.computer) {
-                if(tr) {if(byPlayer) "Senin aldığın taşlar" else "Bilgisayarın aldığı taşlar"}
-                else {if(byPlayer) "Your captures" else "Computer captures"}
-            } else if(tr) {if(byPlayer==game.playerWhite) "Beyazın aldığı taşlar" else "Siyahın aldığı taşlar"}
-              else {if(byPlayer==game.playerWhite) "White captures" else "Black captures"}
+                if(byPlayer) InterfaceStrings.text(tr,"Senin aldığın taşlar","Your captures") else InterfaceStrings.text(tr,"Bilgisayarın aldığı taşlar","Computer captures")
+            } else if(byPlayer==game.playerWhite) InterfaceStrings.text(tr,"Beyazın aldığı taşlar","White captures") else InterfaceStrings.text(tr,"Siyahın aldığı taşlar","Black captures")
             Text(title,style=MaterialTheme.typography.labelMedium,color=KidBody)
             if(taken.isEmpty()) Text("—",color=KidSecondary)
             else Row(Modifier.horizontalScroll(rememberScrollState()),horizontalArrangement=Arrangement.spacedBy(6.dp)) {
                 taken.forEach {piece ->
                     Box(Modifier.size(42.dp).clearAndSetSemantics {
-                        contentDescription=(if(tr) {if(piece.white) "Beyaz" else "Siyah"} else {if(piece.white) "White" else "Black"})+", "+pieceTitle(piece.kind,tr)
+                        contentDescription=(if(piece.white) InterfaceStrings.text(tr,"Beyaz","White") else InterfaceStrings.text(tr,"Siyah","Black"))+", "+pieceTitle(piece.kind,tr)
                     }) {ChessPieceImage(piece)}
                 }
             }

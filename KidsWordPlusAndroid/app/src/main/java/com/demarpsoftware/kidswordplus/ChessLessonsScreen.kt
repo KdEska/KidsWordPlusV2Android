@@ -49,7 +49,7 @@ import com.demarpsoftware.kidswordplus.chess.*
         if (round.solved) return
         val next=round.finish(from,to)
         if(!next.solved) {feedback=2;return}
-        round=next;selected=false;feedback=3;audio?.celebrate(state.ui);model.finishChessLesson(task.id,from,to)
+        round=next;selected=false;feedback=3;audio?.celebrate(state.ui);model.finishChessLesson(task.id,from,to);audio?.touch()
     }
     PageHelp(if(training)"practice"else if(detail!=null)"piece"else "pieces")
     ScreenTitle(if(training)t("Alıştırma Yap","Practise") else detail?.let {pieceTitle(PieceKind.valueOf(it),tr)} ?: t("Taşları Tanı","Meet the Pieces"))
@@ -125,14 +125,14 @@ import com.demarpsoftware.kidswordplus.chess.*
         ChessListenButton(state.ui, if (task.capture) "training.capture" else "training.target", mapOf("piece" to task.kind.name.lowercase(), "square" to squareName(task.target)), label = t("Hedefi dinle", "Listen to the goal"))
         ChessAudioStatus(state.ui)
         if (task.id.startsWith("jump")) Text(t("At, önündeki taşların üzerinden atlayabilir.", "The knight can jump over the pieces in its way."))
-        ChessInstruction(if (task.capture) t("${pieceTitle(task.kind,tr)} ile ${squareName(task.target)} karesindeki rakip taşı al.", "Use the White ${pieceTitle(task.kind,tr)} to capture the Black piece on ${squareName(task.target)}.")
-            else t("${pieceTitle(task.kind,tr)} taşını ${squareName(task.target)} karesine götür.", "Move the White ${pieceTitle(task.kind,tr)} to ${squareName(task.target)}."))
+        ChessInstruction(if (task.capture) InterfaceStrings.render(tr, "{0} ile {1} karesindeki rakip taşı al.", "Use the White {0} to capture the Black piece on {1}.", (pieceTitle(task.kind,tr)).toString(), (squareName(task.target)).toString())
+            else InterfaceStrings.render(tr, "{0} taşını {1} karesine götür.", "Move the White {0} to {1}.", (pieceTitle(task.kind,tr)).toString(), (squareName(task.target)).toString()))
         ChessAppearancePicker(tr)
         IosChessBoard(board,tablet,tr,if(selected)task.origin else null,if(hint||solved)task.target else null,legal=if(selected)legal else emptySet(),enabled=!solved&&!state.busy,drag={from,to ->
             finish(from,to)
         }) {index ->
             when {
-                index==task.origin->{selected=!selected;feedback=0}
+                index==task.origin->{selected=!selected;feedback=0;audio?.touch()}
                 !selected->feedback=1
                 task.accepts(task.origin,index)->finish(task.origin,index)
                 else->feedback=2
@@ -140,7 +140,7 @@ import com.demarpsoftware.kidswordplus.chess.*
         }
         Text(when (feedback) {
             1 -> t("Önce Beyaz taşı seç.", "Select the White piece first.")
-            2 -> t("Tekrar dene. Hedef ${squareName(task.target)}; taşın hareket kuralına dikkat et.", "Try again. The goal is ${squareName(task.target)}; follow the piece's movement rule.")
+            2 -> InterfaceStrings.render(tr, "Tekrar dene. Hedef {0}; taşın hareket kuralına dikkat et.", "Try again. The goal is {0}; follow the piece's movement rule.", (squareName(task.target)).toString())
             3 -> t("Harika, hedefe ulaştın!", "You reached the goal!")
             else -> t("Bu bir hareket alıştırmasıdır; sıra değişmez. Rok ve geçerken alma bu derste yoktur.", "This is a movement lesson; turns do not alternate. Castling and en passant are not part of this lesson.")
         })
@@ -181,6 +181,7 @@ private fun pieceCardColor(kind: PieceKind): Color = when(kind) {
     var location by rememberSaveable(piece) { mutableStateOf(ChessFreePractice.start(piece).location) }
     var selected by rememberSaveable(piece) { mutableStateOf(false) }
     var feedback by rememberSaveable(piece) { mutableStateOf(0) }
+    val audio=LocalChessAudio.current
     val position=ChessFreePractice(PieceKind.valueOf(currentKind),location)
     ChessStopSpeechOnChange(piece, language)
     ChessPieceStrip(piece,true,tr,choose=choose)
@@ -193,17 +194,17 @@ private fun pieceCardColor(kind: PieceKind): Color = when(kind) {
             val next=position.move(to)
             if(next==null) feedback=2 else {
                 feedback=if(position.kind==PieceKind.PAWN && next.kind==PieceKind.QUEEN) 3 else 0
-                currentKind=next.kind.name;location=next.location;selected=true
+                currentKind=next.kind.name;location=next.location;selected=true;audio?.touch()
             }
         }
     }) { target ->
-        if(target==location) { selected=true;feedback=0 }
+        if(target==location) { selected=true;feedback=0;audio?.touch() }
         else if(!selected) feedback=1
         else {
             val next=position.move(target)
             if(next==null) feedback=2 else {
                 feedback=if(position.kind==PieceKind.PAWN && next.kind==PieceKind.QUEEN) 3 else 0
-                currentKind=next.kind.name;location=next.location
+                currentKind=next.kind.name;location=next.location;audio?.touch()
             }
         }
     }

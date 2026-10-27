@@ -6,6 +6,3 @@
 /.gradle-bootstrap/
 /app/src/debug/assets/packages/*.zip
 **/__pycache__/
-
-/.kotlin/
-.DS_Store

@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Use a câmera para tirar uma foto de perfil.";
+"NSMicrophoneUsageDescription" = "O microfone permite gravar e ouvir a voz da criança neste aparelho durante a prática de palavras.";
+"NSSpeechRecognitionUsageDescription" = "As palavras ditas pela criança são reconhecidas apenas neste aparelho. O áudio não é enviado.";

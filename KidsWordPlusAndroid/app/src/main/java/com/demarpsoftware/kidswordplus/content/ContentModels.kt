@@ -52,6 +52,16 @@ data class Word(val id: String, val category: String, val subcategory: String, v
     val position: Int, val text: String, val audio: String, val image: String, val sharedImage: Boolean, val difficulty: String? = null)
 data class Lesson(val id: String, val category: String, val subcategory: String, val number: Int, val words: List<Word>)
 data class LearningPack(val language: String, val root: File, val base: File, val words: List<Word>, val lessons: List<Lesson>) {
+    fun atLevel(level: String, levels: Map<String,String>): LearningPack {
+        require(level in listOf("beginner","intermediate","advanced"))
+        val ranks=listOf("beginner","intermediate","advanced")
+        val selected=words.filter { ranks.indexOf(levels[it.id] ?: it.difficulty ?: "beginner") <= ranks.indexOf(level) }.map {it.copy(difficulty=levels[it.id] ?: it.difficulty ?: "beginner")}
+        val byID=selected.associateBy {it.id}
+        return copy(words=selected,lessons=lessons.mapNotNull {lesson ->
+            val subset=lesson.words.mapNotNull {byID[it.id]}
+            if(subset.isEmpty()) null else lesson.copy(id=lesson.id+"@"+level,words=subset)
+        })
+    }
     fun image(word: Word) = PackageSafety.child(if (word.sharedImage) base else root, word.image)
     fun audio(word: Word) = PackageSafety.child(root, word.audio)
     companion object {
@@ -66,7 +76,7 @@ data class LearningPack(val language: String, val root: File, val base: File, va
             require(json.getString("schemaVersion") == "2.3" && json.getString("language") == language)
             val all = json.getJSONArray("words").objects()
             require(all.map { it.getString("conceptId") }.distinct().size == all.size)
-            val words = all.filter { it.optBoolean("learningEnabled", true) && it.getString("conceptId") != "food:792" }.map { w ->
+            val words = all.filter { it.optBoolean("learningEnabled", true) && it.getString("conceptId") !in setOf("food:792","food:830") }.map { w ->
                 val image = w.getJSONObject("image")
                 val packageName = image.optional("package")
                 require(packageName == null || packageName == "base")

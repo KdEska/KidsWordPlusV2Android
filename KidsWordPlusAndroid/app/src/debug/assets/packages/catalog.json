@@ -5,84 +5,84 @@
       "packageId": "shared.base",
       "language": "base",
       "nativeName": "Temel dil paketi",
-      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 100736084,
-      "archiveSha256": "125accfb84883c6304bf1ac88fb661563d143cc53290bd27b9547d5086464632",
-      "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da",
-      "installedBytes": 102572335,
+      "downloadBytes": 100728557,
+      "archiveSha256": "b85e920d543161dc05006eeaacba79ad9e7ffa27f729f5df530dbdfe4e22dbac",
+      "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158",
+      "installedBytes": 102562908,
       "dependencies": [],
-      "assetArchive": "base-125accfb84883c6304bf1ac88fb661563d143cc53290bd27b9547d5086464632.zip"
+      "assetArchive": "base-b85e920d543161dc05006eeaacba79ad9e7ffa27f729f5df530dbdfe4e22dbac.zip"
     },
     {
       "packageId": "learning.en",
       "language": "en",
       "nativeName": "English",
-      "version": "15-en-chess-a0b5ed498511-no-beer-v1",
+      "version": "15-en-chess-a0b5ed498511-no-beer-v1-levels-f5db3753fdf1-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 22280214,
-      "archiveSha256": "3da44d5a942ef693f1e50d0847fb2624e2c864e03538e5d76b44aea04e547429",
-      "manifestSha256": "45c5d324a42be045020582a3ceafe198de167511c6ac1911ae8233fd4267a5dc",
-      "installedBytes": 25996074,
+      "downloadBytes": 22275931,
+      "archiveSha256": "1c0dc7c1477fd4dfa4c06f67c2b4fb0a7af7d94a48ba30d257f18ad8546abcd7",
+      "manifestSha256": "700ba6207c12bbe1a05bd718ce8187ae74a7cb7a9bb35814e7dc94cb0d565db5",
+      "installedBytes": 25992346,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1699,
+      "wordCount": 1698,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
-      "assetArchive": "en-3da44d5a942ef693f1e50d0847fb2624e2c864e03538e5d76b44aea04e547429.zip"
+      "assetArchive": "en-1c0dc7c1477fd4dfa4c06f67c2b4fb0a7af7d94a48ba30d257f18ad8546abcd7.zip"
     },
     {
       "packageId": "learning.tr",
       "language": "tr",
       "nativeName": "Türkçe",
-      "version": "21-tr-chess-37243b2d7f53-no-beer-v1",
+      "version": "21-tr-chess-37243b2d7f53-no-beer-v1-levels-c00913b0aa68-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 27989128,
-      "archiveSha256": "9839737a9c38853546f90c46be82af2ce14351564edaf0e23e8944cd8b64d8f2",
-      "manifestSha256": "9c8f1011f79b390b3c110c49289974def303b5ff4d0aab1d8b154fcb134477d9",
-      "installedBytes": 33314213,
+      "downloadBytes": 27980992,
+      "archiveSha256": "adcb0a5cef5560b0431bfb4cef9622d2695143c8d0cbbfae7c94d996fac60895",
+      "manifestSha256": "de790f69549e009c7b88043b1b7ad8c2935430113a2d07c31ffe2999ec9fd993",
+      "installedBytes": 33306177,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1705,
+      "wordCount": 1704,
       "missingAudioCount": 3,
       "missingImageCount": 0,
       "reviewRecordCount": 2,
-      "assetArchive": "tr-9839737a9c38853546f90c46be82af2ce14351564edaf0e23e8944cd8b64d8f2.zip"
+      "assetArchive": "tr-adcb0a5cef5560b0431bfb4cef9622d2695143c8d0cbbfae7c94d996fac60895.zip"
     },
     {
       "packageId": "learning.de",
       "language": "de",
       "nativeName": "Deutsch",
-      "version": "14-de-chess-1d797194ee17-no-beer-v1",
+      "version": "14-de-chess-1d797194ee17-no-beer-v1-levels-c77dbd5f1d52-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 38209151,
-      "archiveSha256": "f7dc4bc2e83421fe33db88704026dea3306cbd30e6710cfd6f09e7f49178cfae",
-      "manifestSha256": "c4a12c4514d293afac261907f5b9d3463544f737b8550e386287ff59277c06fc",
-      "installedBytes": 41032751,
+      "downloadBytes": 38197646,
+      "archiveSha256": "8b70baaafcab70fd88daba22298b9c24cc31de26aaffd509f0cce239a8fd79a1",
+      "manifestSha256": "2ae5e24b039f38d0b8fee87e09f59f925e50c7f57f3fe959b082bf893cd724f4",
+      "installedBytes": 41022083,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1703,
-      "activeWordCount": 1453,
+      "wordCount": 1702,
+      "activeWordCount": 1452,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -114,28 +114,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/de-emilia-v4/ledger.json"
       },
-      "assetArchive": "de-f7dc4bc2e83421fe33db88704026dea3306cbd30e6710cfd6f09e7f49178cfae.zip"
+      "assetArchive": "de-8b70baaafcab70fd88daba22298b9c24cc31de26aaffd509f0cce239a8fd79a1.zip"
     },
     {
       "packageId": "learning.fr",
       "language": "fr",
       "nativeName": "Français",
-      "version": "14-fr-chess-6e24fa60694e-no-beer-v1",
+      "version": "14-fr-chess-6e24fa60694e-no-beer-v1-levels-6c3b8daae4e4-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 38401692,
-      "archiveSha256": "3e98808d2e226556b54c819fe9e7540aa075680d49b8744fa2b94b9f05d3b331",
-      "manifestSha256": "5c4fce6bb387672bff32fe43e56e1c0420edf024af7eebcebc4c02c9558134ac",
-      "installedBytes": 41329856,
+      "downloadBytes": 38390137,
+      "archiveSha256": "68058e6027815b4c56aacf4a53ff347ad983887c471c7be509fe6effdc284503",
+      "manifestSha256": "fec68d197a77e1473f683d9990716b368a7307b4d1f16e206d4cc43e20b8b615",
+      "installedBytes": 41319190,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1715,
-      "activeWordCount": 1465,
+      "wordCount": 1714,
+      "activeWordCount": 1464,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -167,28 +167,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/fr-manon-v4/ledger.json"
       },
-      "assetArchive": "fr-3e98808d2e226556b54c819fe9e7540aa075680d49b8744fa2b94b9f05d3b331.zip"
+      "assetArchive": "fr-68058e6027815b4c56aacf4a53ff347ad983887c471c7be509fe6effdc284503.zip"
     },
     {
       "packageId": "learning.es",
       "language": "es",
       "nativeName": "Español (Latinoamérica)",
-      "version": "14-es-chess-5265b6a427ce-no-beer-v1",
+      "version": "14-es-chess-5265b6a427ce-no-beer-v1-levels-7bca69a95d4e-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 40499115,
-      "archiveSha256": "e7de31061697cc5d82e9fece56956a208238392e4cd68c8cb5542ddb4c5b5774",
-      "manifestSha256": "d40420601b959486449e32ce016f16d6871fd3889ebcf622079c9afb9eb5cb8c",
-      "installedBytes": 43361202,
+      "downloadBytes": 40486347,
+      "archiveSha256": "7a6b6072b29f927dfef32d8f6a15c4fca9d297fc0cd84579fd90b5741ee13400",
+      "manifestSha256": "0e5dcd919bfa6bb17bcd0d8330d0476f2caaea5f49dd5d4b38c177332513810f",
+      "installedBytes": 43349280,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1700,
-      "activeWordCount": 1450,
+      "wordCount": 1699,
+      "activeWordCount": 1449,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -221,28 +221,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/es-daniela-v4/ledger.json"
       },
-      "assetArchive": "es-e7de31061697cc5d82e9fece56956a208238392e4cd68c8cb5542ddb4c5b5774.zip"
+      "assetArchive": "es-7a6b6072b29f927dfef32d8f6a15c4fca9d297fc0cd84579fd90b5741ee13400.zip"
     },
     {
       "packageId": "learning.zh",
       "language": "zh",
       "nativeName": "简体中文",
-      "version": "14-zh-chess-a5b10bee4d80-no-beer-v1",
+      "version": "14-zh-chess-a5b10bee4d80-no-beer-v1-levels-0f6091420fc7-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 38285631,
-      "archiveSha256": "715c7a64b09c675b37d7d89edc581af955147939d4d3c996c5d0512bdc3c59e0",
-      "manifestSha256": "ff75cd54715cc1ef1a33968b9364119fbc31b6433276212273b47b16475ad491",
-      "installedBytes": 41310858,
+      "downloadBytes": 38270305,
+      "archiveSha256": "762162df221d5596a7a23b995e25f9a9c4b7f90bb9326d65e596a43e5abd5970",
+      "manifestSha256": "51142ebda40df1ac625b9faf7ebdd8f9c0fc029542c39c6148113407d4f9fc95",
+      "installedBytes": 41296418,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1751,
-      "activeWordCount": 1475,
+      "wordCount": 1750,
+      "activeWordCount": 1474,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -272,28 +272,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/zh-maya-v4/ledger.json"
       },
-      "assetArchive": "zh-715c7a64b09c675b37d7d89edc581af955147939d4d3c996c5d0512bdc3c59e0.zip"
+      "assetArchive": "zh-762162df221d5596a7a23b995e25f9a9c4b7f90bb9326d65e596a43e5abd5970.zip"
     },
     {
       "packageId": "learning.ja",
       "language": "ja",
       "nativeName": "日本語",
-      "version": "14-ja-chess-0eb24c7aff4a-no-beer-v1",
+      "version": "14-ja-chess-0eb24c7aff4a-no-beer-v1-levels-88fcbd1527ac-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 47703750,
-      "archiveSha256": "27fc25ece7d0858318fbf8a8ea111ee7acd9d69f07d1e9b8e5e2c95d481f8301",
-      "manifestSha256": "6001c79295d9b818ea212aaec3b40fb2f0985165078028a3b0f23acf3133e277",
-      "installedBytes": 51671313,
+      "downloadBytes": 47690856,
+      "archiveSha256": "5063b67e2d5309ac340bf9c33c8814af38e16df62e267c0df50ebb83863b47c1",
+      "manifestSha256": "a9d7d97c6bc337d6d82cda3bd2eaec9254236e46502da7ab8277a8d5000aa9c4",
+      "installedBytes": 51659381,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1860,
-      "activeWordCount": 1584,
+      "wordCount": 1859,
+      "activeWordCount": 1583,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -323,28 +323,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/ja-sakuya-v4/ledger.json"
       },
-      "assetArchive": "ja-27fc25ece7d0858318fbf8a8ea111ee7acd9d69f07d1e9b8e5e2c95d481f8301.zip"
+      "assetArchive": "ja-5063b67e2d5309ac340bf9c33c8814af38e16df62e267c0df50ebb83863b47c1.zip"
     },
     {
       "packageId": "learning.ko",
       "language": "ko",
       "nativeName": "한국어",
-      "version": "14-ko-chess-1f7359190823-no-beer-v1",
+      "version": "14-ko-chess-1f7359190823-no-beer-v1-levels-6515594ed652-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 37837714,
-      "archiveSha256": "429eaab4ca8fad38c102512352ff0d879ca6f0e1d243310d57bec07031878518",
-      "manifestSha256": "c22ee335723d6a724c08392faecac0263a794725345439c9be48278b93f686da",
-      "installedBytes": 40961241,
+      "downloadBytes": 37824903,
+      "archiveSha256": "aaeeb4f7c8105e8537807661bee9fc1a4f9288a3f1e368f7747c24a80d940b19",
+      "manifestSha256": "ec900c11b05680d0fcb9ff15081c01d64b6793ace773f3548b6f10e72d7dbf0c",
+      "installedBytes": 40949315,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1739,
-      "activeWordCount": 1463,
+      "wordCount": 1738,
+      "activeWordCount": 1462,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -374,28 +374,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/ko-jisoo-v4/ledger.json"
       },
-      "assetArchive": "ko-429eaab4ca8fad38c102512352ff0d879ca6f0e1d243310d57bec07031878518.zip"
+      "assetArchive": "ko-aaeeb4f7c8105e8537807661bee9fc1a4f9288a3f1e368f7747c24a80d940b19.zip"
     },
     {
       "packageId": "learning.it",
       "language": "it",
       "nativeName": "Italiano",
-      "version": "14-it-chess-415b9091a820-no-beer-v1",
+      "version": "14-it-chess-415b9091a820-no-beer-v1-levels-b2e6667918f2-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 37330886,
-      "archiveSha256": "aafd391e24bd0c78bee0095aed071f6fc67a2141796295ede9d519c8fb5c93d8",
-      "manifestSha256": "e5349b304af2d0078cf47953d9782cd5e1703ad03f1babe5be7ddbb43ada6b9c",
-      "installedBytes": 40178491,
+      "downloadBytes": 37319379,
+      "archiveSha256": "aa0c78cceb40ee46f7660d1638c0e09617777ea4789366ba99aaa0a0d2a5db62",
+      "manifestSha256": "fafb328651b5916f0816e41b908327e9a7769f5daed8db7568b3fcef51dc7a20",
+      "installedBytes": 40167823,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1706,
-      "activeWordCount": 1456,
+      "wordCount": 1705,
+      "activeWordCount": 1455,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -425,28 +425,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/it-giulia-pro-v4/ledger.json"
       },
-      "assetArchive": "it-aafd391e24bd0c78bee0095aed071f6fc67a2141796295ede9d519c8fb5c93d8.zip"
+      "assetArchive": "it-aa0c78cceb40ee46f7660d1638c0e09617777ea4789366ba99aaa0a0d2a5db62.zip"
     },
     {
       "packageId": "learning.pt",
       "language": "pt",
       "nativeName": "Português (Brasil)",
-      "version": "14-pt-chess-afccc4e3ae20-no-beer-v1",
+      "version": "14-pt-chess-afccc4e3ae20-no-beer-v1-levels-ba4e057b4522-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 42852392,
-      "archiveSha256": "bbce28d5563dc3fadf83399e4cd234154669518c090cc4468f9fed0b3d8454f7",
-      "manifestSha256": "c0bf105cc81f3ada4a1a4dd6be85601d9359d510da93e734ba17fc8859680894",
-      "installedBytes": 45777629,
+      "downloadBytes": 42839650,
+      "archiveSha256": "11ace785bd0e4be4790b66a0b6428a9f5dad88778be1359771cb8332d884ce29",
+      "manifestSha256": "2cd33df8d2edfe341948d78c9dea5d0511a36bfc226f9771a881e0fba8fae8db",
+      "installedBytes": 45765705,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1711,
-      "activeWordCount": 1461,
+      "wordCount": 1710,
+      "activeWordCount": 1460,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -479,28 +479,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/pt-ana-alice-v4/ledger.json"
       },
-      "assetArchive": "pt-bbce28d5563dc3fadf83399e4cd234154669518c090cc4468f9fed0b3d8454f7.zip"
+      "assetArchive": "pt-11ace785bd0e4be4790b66a0b6428a9f5dad88778be1359771cb8332d884ce29.zip"
     },
     {
       "packageId": "learning.hi",
       "language": "hi",
       "nativeName": "हिन्दी",
-      "version": "14-hi-chess-2e57a8d40682-no-beer-v1",
+      "version": "14-hi-chess-2e57a8d40682-no-beer-v1-levels-d618aab694e2-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 42966900,
-      "archiveSha256": "0d93a55dd2384186a5d2e78f58e2c17ed57fef6c674a7295c1e1cd5237858c2d",
-      "manifestSha256": "4b34777f86dfc56136e56c734c9b676c3665565219b7cd5eb2c0723176f4df4a",
-      "installedBytes": 46294703,
+      "downloadBytes": 42951521,
+      "archiveSha256": "67dc99b4e95e899fe34f15be44ed95102b51549c9925686d04cebaacec4b7397",
+      "manifestSha256": "a3681698dd1bb2dfb32b1f55c65159194897715745390cf220785983de365c85",
+      "installedBytes": 46280257,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1757,
-      "activeWordCount": 1481,
+      "wordCount": 1756,
+      "activeWordCount": 1480,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -530,28 +530,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/hi-tara-v4/ledger.json"
       },
-      "assetArchive": "hi-0d93a55dd2384186a5d2e78f58e2c17ed57fef6c674a7295c1e1cd5237858c2d.zip"
+      "assetArchive": "hi-67dc99b4e95e899fe34f15be44ed95102b51549c9925686d04cebaacec4b7397.zip"
     },
     {
       "packageId": "learning.ar",
       "language": "ar",
       "nativeName": "العربية",
-      "version": "14-ar-chess-e3b8deed6459-no-beer-v1",
+      "version": "14-ar-chess-e3b8deed6459-no-beer-v1-levels-7dacee5a60c5-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 48722485,
-      "archiveSha256": "2b1425e336d4e0557068e9b2e64c431783a28b5cbcba5999fa484502569e6238",
-      "manifestSha256": "cce6ff3421e22fe10c87bc85baf7c9b7cf26d88dc02a9220f4243f233d0a024d",
-      "installedBytes": 52866172,
+      "downloadBytes": 48708715,
+      "archiveSha256": "1e3c891482489cd57fa7274d42b04dc2ffda43b2d8ecb42a1a0db129fca43e84",
+      "manifestSha256": "00e476864182d057631a9ef8901d24f1681edd056537964d9fe800233a46652d",
+      "installedBytes": 52852516,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1743,
-      "activeWordCount": 1467,
+      "wordCount": 1742,
+      "activeWordCount": 1466,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -584,28 +584,28 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/ar-amal-v4/ledger.json"
       },
-      "assetArchive": "ar-2b1425e336d4e0557068e9b2e64c431783a28b5cbcba5999fa484502569e6238.zip"
+      "assetArchive": "ar-1e3c891482489cd57fa7274d42b04dc2ffda43b2d8ecb42a1a0db129fca43e84.zip"
     },
     {
       "packageId": "learning.ru",
       "language": "ru",
       "nativeName": "Русский",
-      "version": "14-ru-chess-2dcc1230d2e9-no-beer-v1",
+      "version": "14-ru-chess-2dcc1230d2e9-no-beer-v1-levels-61c2551e28e9-no-wine-v1",
       "availability": "draft",
       "downloadUrl": null,
-      "downloadBytes": 45436932,
-      "archiveSha256": "a91406d973a6d5a57570030370a5981e0466fd55317ba1729647001f8a9ddc43",
-      "manifestSha256": "df8be6a4c3a526378df011e3eae7f72fa499a5bdfb23ddb3fe7a998cf4bd40ae",
-      "installedBytes": 49429407,
+      "downloadBytes": 45423213,
+      "archiveSha256": "dc039145bd1b63ad87f3b6edf8182d1cd3f75730cd6126da6d421d6c8259d586",
+      "manifestSha256": "0d10c9add450afd29e25f7e7ea3cc2a89b1551e93af04753bf9f29a1bf26fee5",
+      "installedBytes": 49415751,
       "dependencies": [
         {
           "language": "base",
-          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-          "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+          "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+          "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
         }
       ],
-      "wordCount": 1732,
-      "activeWordCount": 1456,
+      "wordCount": 1731,
+      "activeWordCount": 1455,
       "missingAudioCount": 0,
       "missingImageCount": 0,
       "reviewRecordCount": 0,
@@ -638,7 +638,7 @@
         "allPronunciationsHumanReviewed": false,
         "source": "production/ru-larisa-v4/ledger.json"
       },
-      "assetArchive": "ru-a91406d973a6d5a57570030370a5981e0466fd55317ba1729647001f8a9ddc43.zip"
+      "assetArchive": "ru-dc039145bd1b63ad87f3b6edf8182d1cd3f75730cd6126da6d421d6c8259d586.zip"
     }
   ]
 }

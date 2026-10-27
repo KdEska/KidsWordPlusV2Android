@@ -8,7 +8,7 @@ plugins {
     id("org.jetbrains.kotlin.plugin.compose")
 }
 val bundleLocalPackages = providers.gradleProperty("bundleLocalPackages").map(String::toBoolean).orElse(true)
-val prepareLocalPackageAssets = tasks.register<Copy>("prepareLocalPackageAssets") {
+val prepareLocalPackageAssets = tasks.register<Sync>("prepareLocalPackageAssets") {
     onlyIf { bundleLocalPackages.get() }
     if (bundleLocalPackages.get()) {
         val referenceRoot = rootProject.file("../language-packs-v2")

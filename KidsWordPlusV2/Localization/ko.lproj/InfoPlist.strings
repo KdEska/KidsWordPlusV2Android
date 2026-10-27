@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "프로필 사진을 촬영하기 위해 카메라를 사용해요.";
+"NSMicrophoneUsageDescription" = "단어 연습 중 이 기기에서 아이의 목소리를 녹음하고 재생하기 위해 마이크를 사용해요.";
+"NSSpeechRecognitionUsageDescription" = "아이가 말한 단어를 이 기기에서만 인식해요. 음성은 업로드하지 않아요.";

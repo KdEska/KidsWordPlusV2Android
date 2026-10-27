@@ -37,6 +37,7 @@ import kotlinx.coroutines.withContext
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable internal fun ColumnScope.ChessScreen(state: AppState, model: AppModel, tablet: Boolean, initialDestination:String="world") {
     val audio = LocalChessAudio.current
+    val audioLifecycle=androidx.lifecycle.compose.LocalLifecycleOwner.current.lifecycle
     ChessStopSpeechOnChange(state.ui)
     val adBreak = LocalGameAdBreak.current
     val tr = state.ui == "tr"
@@ -72,6 +73,7 @@ import kotlinx.coroutines.withContext
     if (academyPage.isNotEmpty()) {
         BackHandler { academyPage = "" }
         if (academyPage == "custom") ChessCustomScreen(state, model, tablet, { academyPage = "" }) { academyPage = ""; boardPage = true }
+        else if (academyPage == "secrets") ChessSecretsScreen(state, tablet) { academyPage = "" }
         else if (academyPage == "openings") ChessOpeningsScreen(state, model, tablet) { academyPage = "" }
         else if (academyPage == "puzzles" || academyPage == "mate") ChessPuzzlesScreen(state, model, tablet, academyPage == "mate") { academyPage = "" }
         else ChessAcademyScreen(state, model, tablet, academyPage) { academyPage = "" }
@@ -102,7 +104,10 @@ import kotlinx.coroutines.withContext
     var narratedCount by remember(game?.id) { mutableStateOf(game?.history?.size ?: 0) }
     LaunchedEffect(game?.id, game?.history?.size) {
         val count = game?.history?.size ?: 0
-        if (boardPage && count > narratedCount && audio?.automatic == true && game != null) audio.playMove(state.ui, game, enqueue = true)
+        if(boardPage && audioLifecycle.currentState.isAtLeast(androidx.lifecycle.Lifecycle.State.RESUMED) && count>narratedCount && game!=null) {
+            if(game.position.inCheck(game.position.whiteTurn) && game.position.outcome()==null)audio?.playCheck(state.ui)
+            else if(audio?.automatic==true)audio.playMove(state.ui,game,enqueue=true)
+        }
         if (count < narratedCount) audio?.stop()
         narratedCount = count
     }
@@ -159,7 +164,7 @@ import kotlinx.coroutines.withContext
                 } else {
                     TextButton(onClick = { showGuide = true }) { Text(InterfaceStrings.text(state.ui, "İlk satranç adımlarım · Yeniden göster", "My first chess steps · Show again")) }
                 }
-                val entries=listOf("learn" to t("Genel Bilgiler","General Information"),"pieces" to t("Taşları Tanı","Meet the Pieces"),"setup" to t("Tahtayı Hazırla","Set Up the Board"),"practice" to t("Alıştırma Yap","Practise"),"openings" to t("Açılışları öğren","Learn openings"),"safety" to t("Şahını Koru","Protect Your King"),"endings" to t("Mat ve Pat","Checkmate and Stalemate"),"mate" to t("Tek Hamlede Mat","Mate in One"),"computer" to t("Bilgisayara Karşı","Play the Computer"),"custom" to t("Kendi Oyununu Kur","Create Your Game"))
+                val entries=listOf("learn" to t("Genel Bilgiler","General Information"),"pieces" to t("Taşları Tanı","Meet the Pieces"),"setup" to t("Tahtayı Hazırla","Set Up the Board"),"secrets" to t("Satranç Sırları","Chess secrets"),"practice" to t("Alıştırma Yap","Practise"),"openings" to t("Açılışları öğren","Learn openings"),"safety" to t("Şahını Koru","Protect Your King"),"endings" to t("Mat ve Pat","Checkmate and Stalemate"),"mate" to t("Tek Hamlede Mat","Mate in One"),"computer" to t("Bilgisayara Karşı","Play the Computer"),"custom" to t("Kendi Oyununu Kur","Create Your Game"))
                 BoxWithConstraints(Modifier.fillMaxWidth()) {
                     val density=LocalDensity.current
                     val measurer=rememberTextMeasurer()
@@ -225,7 +230,13 @@ import kotlinx.coroutines.withContext
                 }
                 Text(t("Saat yalnız bu tahta açık ve uygulama öndeyken işler; menüde ve arka planda durur.", "The clock runs only with this board open and the app in front; it pauses in menus and the background."))
             }
-            if (position!!.inCheck(position.whiteTurn) && outcome == null) Text(t("Şah!", "Check!"), color = MaterialTheme.colorScheme.error)
+            if (position!!.inCheck(position.whiteTurn) && outcome == null) {
+                Row(Modifier.fillMaxWidth().background(Color(0xFFFFE8E5),RoundedCornerShape(20.dp)).border(2.dp,Color(0xFFB42318),RoundedCornerShape(20.dp)).padding(18.dp),verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.Center) {
+                    Text("⚠",fontSize=32.sp,color=Color(0xFFB42318))
+                    Spacer(Modifier.width(12.dp))
+                    Text(t("Şah!","Check!").uppercase(java.util.Locale.forLanguageTag(state.ui)),style=MaterialTheme.typography.headlineLarge,fontWeight=FontWeight.ExtraBold,color=Color(0xFFB42318))
+                }
+            }
             if (game.computerTurn) Text(t("Bilgisayar düşünüyor…", "Computer is thinking…"))
             IosChessBoard(position!!.board,tablet,tr,selected,legal=choices.map{it.to}.toSet(),last=game.history.lastOrNull()?.let{setOf(it.from,it.to)}?:emptySet(),flipped=flipped,enabled=!state.busy&&!animating&&!game.computerTurn&&outcome==null,animation=matchAnimation,drag={from,to ->
                 val candidates=position.movesFrom(from).filter{it.to==to}
@@ -285,8 +296,24 @@ import kotlinx.coroutines.withContext
         }
     }
     if (promotion.isNotEmpty()) AlertDialog(onDismissRequest = { promotion = emptyList() }, title = { Text(t("Piyonun hangi taş olsun?", "Choose a promotion piece")) }, text = {
-        Column { promotion.forEach { move -> TextButton(onClick = { model.chessMove(move); promotion = emptyList() }) { Text(pieceTitle(move.promotion!!, tr)) } } }
-    }, confirmButton = {})
+        Column(Modifier.fillMaxWidth().heightIn(max=440.dp).verticalScroll(rememberScrollState()),verticalArrangement=Arrangement.spacedBy(12.dp)) {
+            promotion.chunked(2).forEach {row ->
+                Row(horizontalArrangement=Arrangement.spacedBy(12.dp)) {
+                    row.forEach { move ->
+                        Card(onClick={model.chessMove(move);promotion=emptyList()},modifier=Modifier.weight(1f),
+                            shape=RoundedCornerShape(18.dp),
+                            colors=CardDefaults.cardColors(containerColor=Color.White),
+                            border=androidx.compose.foundation.BorderStroke(1.dp,KidHeading.copy(alpha=.20f))) {
+                            Column(Modifier.fillMaxWidth().heightIn(min=140.dp).padding(12.dp),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(10.dp)) {
+                                Box(Modifier.size(76.dp)) {ChessPieceImage(Piece(move.promotion!!,game?.position?.whiteTurn ?: true),4.dp)}
+                                Text(pieceTitle(move.promotion!!,tr),style=MaterialTheme.typography.titleMedium,color=KidHeading,textAlign=androidx.compose.ui.text.style.TextAlign.Center)
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }, confirmButton = {}, dismissButton={TextButton(onClick={promotion=emptyList()}){Text(t("Vazgeç","Cancel"))}})
     if (confirmNew) AlertDialog(onDismissRequest = { confirmNew = false }, title = { Text(t("Yeni oyun başlatılsın mı?", "Start a new game?")) }, text = { Text(t("Devam eden oyunun yerini yeni oyun alacak.", "This will replace the game in progress.")) }, confirmButton = {
         TextButton(onClick = { confirmNew = false; model.newChess(computer, playerWhite, minutes, difficulty); boardPage = true;optionsPage=false }) { Text(t("Yeni oyun", "New game")) }
     }, dismissButton = { TextButton(onClick = { confirmNew = false }) { Text(t("Vazgeç", "Cancel")) } })

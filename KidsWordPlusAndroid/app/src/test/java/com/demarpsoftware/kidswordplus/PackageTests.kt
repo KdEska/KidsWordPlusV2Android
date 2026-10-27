@@ -78,13 +78,31 @@ class PackageTests {
         assertFalse("tr" in store.installedDetails())
         assertEquals(details["base"],store.installedDetails()["base"])
     }
+    @Test fun legacyWineIsExcludedBeforeCheckingItsRemovedMedia() {
+        val sources = File(requireNotNull(System.getProperty("kwp.packages")))
+        val source = File(sources,"packages/en")
+        val db = JSONObject(File(source,"database.json").readText())
+        val first = db.getJSONArray("words").getJSONObject(0)
+        val wine = JSONObject(first.toString()).put("conceptId","food:830").put("displayText","Wine")
+        wine.getJSONObject("image").put("path","images/removed-wine.jpg").remove("overridePath")
+        db.put("words",org.json.JSONArray().put(first).put(wine));db.remove("curricula")
+        val temporary = java.nio.file.Files.createTempDirectory("kwp-wine-filter").toFile()
+        try {
+            File(temporary,"manifest.json").writeText(JSONObject().put("databasePath","database.json").toString())
+            File(temporary,"database.json").writeText(db.toString())
+            val audio = first.getJSONObject("audio").getString("path")
+            File(temporary,audio).apply {parentFile!!.mkdirs();File(source,audio).copyTo(this)}
+            val loaded = LearningPack.load(temporary,File(sources,"packages/base"),"en")
+            assertEquals(listOf(first.getString("conceptId")),loaded.words.map {it.id})
+        } finally {temporary.deleteRecursively()}
+    }
     @Test fun realDatabasesRespectIosLessonLayoutWithoutCopyingContent() {
         val sources = File(requireNotNull(System.getProperty("kwp.packages")))
         val base = File(sources, "packages/base")
         val tr = LearningPack.load(File(sources, "packages/tr"), base, "tr")
         val en = LearningPack.load(File(sources, "packages/en"), base, "en")
-        assertEquals(1702, tr.words.size)
-        assertEquals(1699, en.words.size)
+        assertEquals(1701, tr.words.size)
+        assertEquals(1698, en.words.size)
         for (pack in listOf(tr, en)) {
             assertEquals(pack.words.size, pack.lessons.sumOf { it.words.size })
             assertEquals(pack.words.map { it.id }.toSet(), pack.lessons.flatMap { it.words }.map { it.id }.toSet())
@@ -109,8 +127,8 @@ class PackageTests {
         store.install("en", catalog, {}, { _, _ -> })
         val tr = store.load("tr")!!
         val en = store.load("en")!!
-        assertEquals(1702, tr.words.size)
-        assertEquals(1699, en.words.size)
+        assertEquals(1701, tr.words.size)
+        assertEquals(1698, en.words.size)
         assertEquals(17, tr.words.map { it.category }.distinct().size)
         assertEquals(tr.words.size, tr.lessons.sumOf { it.words.size })
         assertTrue(tr.lessons.all { it.words.size in 1..10 })

@@ -54,7 +54,7 @@ import kotlin.random.Random
                 if (friend.id != "nova" || unlocked) CompanionImage(friend.id, 120)
                 Text(if (friend.id == "nova" && !unlocked) "???" else friend.name, style = MaterialTheme.typography.titleLarge)
                 if (unlocked) {
-                    Text(if (tr) friend.tr else friend.en)
+                    Text(InterfaceStrings.text(tr,friend.tr,friend.en))
                     IosButton(enabled = !state.busy && state.companion != friend.id, onClick = { model.selectCompanion(friend.id) }) { Text(if (state.companion == friend.id) { InterfaceStrings.text(tr,"Seçili","Selected") } else InterfaceStrings.text(tr,"Beni seç","Choose me")) }
                 } else Text(Companions.requirement(friend, tr))
             } }
@@ -103,7 +103,7 @@ import kotlin.random.Random
             }, color = Color.White, textAlign = TextAlign.Center)
         OutlinedButton(onClick = { challenge = !challenge; model.releaseParentHold() }) { Text(InterfaceStrings.text(tr,"Alternatif doğrulama","Alternative verification")) }
         if (challenge) {
-            Text(InterfaceStrings.text(tr,"Lütfen işlemin sonucunu yazın: $a + $b","Enter the answer: $a + $b"))
+            Text(InterfaceStrings.render(tr, "Lütfen işlemin sonucunu yazın: {0} + {1}", "Enter the answer: {0} + {1}", (a).toString(), (b).toString()))
             OutlinedTextField(answer, { answer = it.take(4); wrong = false }, label = { Text(InterfaceStrings.text(tr,"Yanıt","Answer")) })
             IosButton(onClick = { wrong = !model.answerParentChallenge(a, b, answer) }) { Text(InterfaceStrings.text(tr,"Doğrula","Verify")) }
             if (wrong) Text(InterfaceStrings.text(tr,"Yeniden deneyin.","Try again."))

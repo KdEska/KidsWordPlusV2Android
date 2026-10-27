@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.3",
   "packageId": "learning.ko",
-  "packageVersion": "14-ko-chess-1f7359190823-no-beer-v1",
+  "packageVersion": "14-ko-chess-1f7359190823-no-beer-v1-levels-6515594ed652-no-wine-v1",
   "language": "ko",
   "locale": "ko-KR",
   "minimumReaderSchemaVersion": "2.3",
@@ -10,15 +10,15 @@
   "dependencies": [
     {
       "language": "base",
-      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-      "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+      "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
     }
   ],
   "releaseReady": false,
   "releaseBlockers": [
     "audio_review_required"
   ],
-  "installedPayloadBytes": 40644478,
+  "installedPayloadBytes": 40632677,
   "files": [
     {
       "path": "audio/CAT-001-001_ko.mp3",
@@ -6536,11 +6536,6 @@
       "sha256": "180b732323d3321ac45fd3cddd8e3288607f77ed180344b1c798558771ad3295"
     },
     {
-      "path": "audio/slide_my_home_wine_ko.mp3",
-      "bytes": 13836,
-      "sha256": "e63c599b0cf7bebcc5fd9881d19de351e6ad0617017a8072ef69e39dacc2f015"
-    },
-    {
       "path": "audio/slide_my_home_yoyo_ko.mp3",
       "bytes": 13836,
       "sha256": "3c9883b55e90f6ec73cf5ff12b2cbf99c84b8ed0d1b80678fa9b2abc9ab8e147"
@@ -8977,8 +8972,8 @@
     },
     {
       "path": "database.json",
-      "bytes": 1258828,
-      "sha256": "85290024de16fade754877df81b1dff0309f6e1c6af44e75b9e84aea8ca45768"
+      "bytes": 1260863,
+      "sha256": "77fbb089c5b80cc1669fd4af794fa5b73846da07397676f57bf48b81dff4796c"
     },
     {
       "path": "images/alphabet/3131.jpg",

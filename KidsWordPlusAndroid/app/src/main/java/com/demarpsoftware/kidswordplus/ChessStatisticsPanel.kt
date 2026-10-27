@@ -25,6 +25,6 @@ import com.demarpsoftware.kidswordplus.chess.*
             }
         }
         val legacy=games.count {it.playerWhite==null && it.outcome in listOf(ChessOutcome.WHITE_WON,ChessOutcome.BLACK_WON)}
-        if(legacy>0) Text(InterfaceStrings.text(tr,"$legacy eski oyunda oyuncu rengi kayıtlı değil.","Player color is unavailable for $legacy older games."),style=MaterialTheme.typography.bodySmall,color=KidSecondary)
+        if(legacy>0) Text(InterfaceStrings.render(tr, "{0} eski oyunda oyuncu rengi kayıtlı değil.", "Player color is unavailable for {0} older games.", (legacy).toString()),style=MaterialTheme.typography.bodySmall,color=KidSecondary)
     }
 }

@@ -7,6 +7,21 @@ import org.junit.Test
 import java.io.File
 
 class LanguageSupportTests {
+    @Test fun openingLessonCopyLoadsAllThirteenInterfacesWithoutVoicePackDependency() {
+        val root=File(requireNotNull(System.getProperty("kwp.packages"))).parentFile
+        val json=File(root,"KidsWordPlusAndroid/app/src/main/assets/chess/reference-content.json").readText()
+        val english=openingTexts(json,"en")
+        assertEquals(27,english.size)
+        for(language in InterfaceStrings.codes) {
+            val copy=openingTexts(json,language)
+            assertEquals(language,english.keys,copy.keys)
+            assertTrue(copy.values.all{it.isNotBlank()})
+            if(language!="en") for(key in english.keys.filter{it.endsWith(".body")}) {
+                assertNotEquals("$language $key",english[key],copy[key])
+            }
+        }
+    }
+
     @Test fun recentPortalAndChessSentencesCoverAllThirteenLanguages() {
         val root=File(requireNotNull(System.getProperty("kwp.packages"))).parentFile
         val manifest=JSONObject(File(root,"planning/portal-refresh/localization-keys.json").readText())

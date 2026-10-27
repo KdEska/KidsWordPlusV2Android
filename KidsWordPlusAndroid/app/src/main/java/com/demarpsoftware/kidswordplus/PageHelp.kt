@@ -102,7 +102,7 @@ internal val LocalPageHelp=staticCompositionLocalOf<PageHelpState?>{null}
         }}
     }
     Text(InterfaceStrings.text(tr,"Örnek: birbirine uyan iki kartı bul.","Example: find two matching cards."),color=KidHeading,textAlign=TextAlign.Center,style=MaterialTheme.typography.titleSmall)
-    TextButton(onClick={played=!played}) {Text(if(tr){if(played)"Örneği başa al"else "Örneği göster"}else{if(played)"Reset example"else "Show example"})}
+    TextButton(onClick={played=!played}) {Text(if(played) InterfaceStrings.text(tr,"Örneği başa al","Reset example") else InterfaceStrings.text(tr,"Örneği göster","Show example"))}
 }
 @Composable private fun HelpSoundDemo(tr:Boolean) {
     val motion=LocalKidMotion.current
@@ -143,6 +143,6 @@ internal val LocalPageHelp=staticCompositionLocalOf<PageHelpState?>{null}
             }
         }
         Text(InterfaceStrings.text(tr,"Örnek: taşı seç, hedef kareye dokun.","Example: select the piece, then tap the target square."),color=KidHeading)
-        TextButton(onClick={played=!played}){Text(if(tr){if(played)"Örneği başa al"else "Örneği göster"}else{if(played)"Reset example"else "Show example"})}
+        TextButton(onClick={played=!played}){Text(if(played) InterfaceStrings.text(tr,"Örneği başa al","Reset example") else InterfaceStrings.text(tr,"Örneği göster","Show example"))}
     }
 }

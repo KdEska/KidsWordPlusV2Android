@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.3",
   "packageId": "shared.base",
-  "packageVersion": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
+  "packageVersion": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
   "language": "base",
   "minimumReaderSchemaVersion": "2.3",
   "standalone": true,
@@ -10,7 +10,7 @@
   "releaseBlockers": [
     "editorial_review_required"
   ],
-  "installedPayloadBytes": 102283365,
+  "installedPayloadBytes": 102274091,
   "files": [
     {
       "path": "images/slide_animals_ant.jpg",
@@ -6051,11 +6051,6 @@
       "path": "images/slide_my_home_window.jpg",
       "bytes": 28192,
       "sha256": "9d784def42110016e8a3943f542517d5d226e4786a3e4c5fd56d5af1d4d87bea"
-    },
-    {
-      "path": "images/slide_my_home_wine.jpg",
-      "bytes": 9274,
-      "sha256": "297c94c4299296350f1501e2a11b564248a49c4d0005ef36774398bfbc2767a0"
     },
     {
       "path": "images/slide_my_home_yoyo.jpg",

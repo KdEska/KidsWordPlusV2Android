@@ -18,6 +18,7 @@ import kotlinx.coroutines.flow.update
 import java.io.File
 
 data class AppState(
+    val vocabularyLevel:String = "beginner", val vocabularyLevelChanging:Boolean = false,
     val helpEnabled: Boolean = true, val speakingEnabled: Boolean = false,
     val soundEnabled:Boolean=true, val animationsEnabled:Boolean=true,
     val customUndo:List<ChessCustomPosition> = emptyList(),
@@ -25,7 +26,7 @@ data class AppState(
     val name: String = "", val ui: String = "tr", val language: String = "tr", val ready: Boolean = false,
     val pack: LearningPack? = null, val entries: List<PackEntry> = emptyList(), val installed: Set<String> = emptySet(),
     val installedDetails:Map<String,com.demarpsoftware.kidswordplus.content.InstalledPackage> = emptyMap(),
-    val localCatalog: Boolean = false, val busy: Boolean = false, val operationLanguage: String? = null,
+    val contentLoading: Boolean = true, val localCatalog: Boolean = false, val busy: Boolean = false, val operationLanguage: String? = null,
     val progress: Float = 0f, val message: String? = null, val completed: Set<String> = emptySet(),
     val lastLesson: String? = null, val lastConcept: String? = null,
     val gameProgress: GameProgress = GameProgress(), val game: GameSession? = null, val today: LocalDate = LocalDate.now(),
@@ -51,6 +52,7 @@ class AppModel(application: Application) : AndroidViewModel(application) {
             else if (BuildConfig.DEBUG && external.isFile) external.inputStream()
             else application.assets.open(path)
         })
+    private val vocabularyLevels = org.json.JSONObject(getApplication<Application>().assets.open("localization/vocabulary-levels.json").bufferedReader().use {it.readText()}).getJSONObject("levels").let {json -> json.keys().asSequence().associateWith {json.getString(it)} }
     private val cache = File(application.filesDir, "catalog-cache.json")
     private var progressReadable = true
     private val initialGameProgress = runCatching {
@@ -59,6 +61,7 @@ class AppModel(application: Application) : AndroidViewModel(application) {
     private val initialCustom = runCatching { prefs.getString("chess.custom.v1", null)?.let(ChessCustomPosition::decode) ?: ChessCustomPosition.standard() }
     private val initialOpenings = runCatching { prefs.getString("chess.openings.v1", null)?.let(ChessOpeningProgress::decode) ?: ChessOpeningProgress() }
     private val mutable = MutableStateFlow(AppState(
+        vocabularyLevel = prefs.getString("vocabulary.level","beginner")?.takeIf {it in listOf("beginner","intermediate","advanced")} ?: "beginner",
         helpEnabled = prefs.getBoolean("help.enabled", true),
         speakingEnabled = prefs.getBoolean("speech.practice.enabled", false),
         soundEnabled=prefs.getBoolean("sound.enabled",true),animationsEnabled=prefs.getBoolean("animations.enabled",true),
@@ -83,7 +86,10 @@ class AppModel(application: Application) : AndroidViewModel(application) {
 
     init { runOperation {
         withContext(Dispatchers.IO) { store.clearStaging() }
-        try { loadChess(); reload(); refreshDayInternal() } finally { loadCatalog(remote = !BuildConfig.DEBUG) }
+        try { loadChess(); reload(); refreshDayInternal() } finally {
+            mutable.update { it.copy(contentLoading = false) }
+            loadCatalog(remote = !BuildConfig.DEBUG)
+        }
     } }
     fun clearMessage() = mutable.update { it.copy(message = null) }
     private fun runOperation(indicateBusy: Boolean = true, block: suspend () -> Unit) {
@@ -100,15 +106,17 @@ class AppModel(application: Application) : AndroidViewModel(application) {
                 AppTelemetry.operationFailed(e)
                 mutable.update { it.copy(message = localized("İşlem tamamlanamadı. Bağlantını ve boş depolama alanını kontrol edip yeniden deneyebilirsin.", "Could not complete. Check your connection and free storage, then try again.")) }
             }
-            finally { if(indicateBusy) mutable.update { it.copy(busy = false, operationLanguage = null) } }
+            finally { if(indicateBusy) mutable.update { it.copy(busy = false, operationLanguage = null, vocabularyLevelChanging = false) } }
         }
     }
     private fun localized(tr: String, en: String) = InterfaceStrings.text(mutable.value.ui,tr,en)
     private suspend fun reload() {
         val language = mutable.value.language
         val result = withContext(Dispatchers.IO) { Triple(store.load(language),store.installedLanguages().toSet(),store.installedDetails()) }
-        mutable.update { it.copy(pack = result.first, installed = result.second, installedDetails=result.third, game = it.game?.takeIf { game -> game.language == language },
-            lastLesson = result.first?.lessons?.find { lesson -> lesson.words.any { word -> word.id == prefs.getString("concept_$language", null) } }?.id ?: prefs.getString("lesson_$language", null), lastConcept = prefs.getString("concept_$language", null)) }
+        val level = mutable.value.vocabularyLevel
+        val selected = withContext(Dispatchers.Default) { result.first?.atLevel(level,vocabularyLevels) }
+        mutable.update { it.copy(pack = selected, installed = result.second, installedDetails=result.third, game = it.game?.takeIf { game -> game.language == language },
+            lastLesson = selected?.lessons?.find { lesson -> lesson.words.any { word -> word.id == prefs.getString("concept_$language", null) } }?.id ?: prefs.getString("lesson_$language", null), lastConcept = prefs.getString("concept_$language", null)) }
     }
     private suspend fun loadCatalog(remote: Boolean) {
         val result = withContext(Dispatchers.IO) {
@@ -181,6 +189,15 @@ class AppModel(application: Application) : AndroidViewModel(application) {
         mutable.update{it.copy(gameProgress=progress,today=date)}
         after()
     }
+    fun setVocabularyLevel(level:String)=runOperation {
+        requireParentIfReady()
+        require(level in listOf("beginner","intermediate","advanced"))
+        if(level==mutable.value.vocabularyLevel)return@runOperation
+        mutable.update {it.copy(vocabularyLevelChanging=true)}
+        withContext(Dispatchers.IO){check(prefs.edit().putString("vocabulary.level",level).commit())}
+        mutable.update {it.copy(vocabularyLevel=level,game=null)}
+        reload()
+    }
     fun setSoundEnabled(enabled:Boolean)=runOperation {
         requireParentIfReady()
         withContext(Dispatchers.IO){check(prefs.edit().putBoolean("sound.enabled",enabled).commit())}
@@ -244,6 +261,8 @@ class AppModel(application: Application) : AndroidViewModel(application) {
         var progress = current.gameProgress.prepare(current.language, current.pack!!.words.map { it.id }.toSet(), current.completed, today)
         progress=progress.prepareLessonRewards(current.language,current.pack.lessons.filter { candidate -> candidate.words.all {LearningRules.progressKey(current.language,it.id) in current.completed} }.map {it.id}.toSet())
         if (complete) progress = progress.study(current.language, word.id, LearningRules.progressKey(current.language, word.id) !in current.completed, today)
+        val originalId=lesson.id.substringBefore('@')
+        if(originalId in (current.gameProgress.lessonRewards[current.language] ?: emptySet()) || lesson.words.all {LearningRules.progressKey(current.language,it.id) in current.completed}) progress=progress.copy(lessonRewards=progress.lessonRewards+(current.language to ((progress.lessonRewards[current.language] ?: emptySet())+lesson.id)))
         if(complete && word.id==lesson.words.last().id && lesson.words.all {LearningRules.progressKey(current.language,it.id) in next}) progress=progress.finishLesson(current.language,lesson.id)
         val encoded = progress.encode()
         withContext(Dispatchers.IO) {

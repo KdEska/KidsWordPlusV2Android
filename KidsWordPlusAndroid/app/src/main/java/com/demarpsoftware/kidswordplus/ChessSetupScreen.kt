@@ -33,15 +33,29 @@ import com.demarpsoftware.kidswordplus.chess.*
     PageHelp("setup");ScreenTitle(t("Tahtayı Hazırla","Set Up the Board"))
     ChessStopSpeechOnChange(state.chessSetupCount,state.ui)
     ChessPageNavigation(back,reset={if(!state.busy){audio?.stop();chosen=PieceKind.ROOK.name;feedback=0;model.restartChessSetup()}})
+    var observedCount by rememberSaveable(state.ui) {mutableIntStateOf(state.chessSetupCount)}
+    LaunchedEffect(state.chessSetupCount) {
+        if(state.chessSetupCount>observedCount) {
+            if(state.chessSetupCount==32)audio?.celebrate(state.ui)
+            audio?.touch()
+        }
+        observedCount=state.chessSetupCount
+    }
+    val scroll=rememberScrollState()
+    LaunchedEffect(next==null) {if(next==null){if(state.animationsEnabled)scroll.animateScrollTo(0)else scroll.scrollTo(0)}}
     val complete=t("Tahta hazır! İki tarafta da 16 taş var. Oyuna beyaz başlar.","The board is ready! Each side has 16 pieces. White moves first.")
     val instruction=next?.let{InterfaceStrings.named(tr,"{piece} taşını {square} karesine yerleştir.","Place the {piece} on {square}.",mapOf("piece" to pieceTitle(it.second.kind,tr),"square" to squareName(it.first)))} ?: complete
     Box(Modifier.fillMaxWidth(),contentAlignment=Alignment.TopCenter) {
-        Column(Modifier.widthIn(max=if(tablet)820.dp else 600.dp).fillMaxWidth().verticalScroll(rememberScrollState()),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(12.dp)) {
+        Column(Modifier.widthIn(max=if(tablet)820.dp else 600.dp).fillMaxWidth().verticalScroll(scroll),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(12.dp)) {
             Row(Modifier.fillMaxWidth(),horizontalArrangement=Arrangement.SpaceBetween) {
                 Text(if(next==null)t("✓ Tamamlandı","✓ Done")else if(next.second.white)"○ "+t("Beyaz taşlar","White pieces")else "● "+t("Siyah taşlar","Black pieces"),style=MaterialTheme.typography.titleMedium)
                 Text("${state.chessSetupCount} / 32",style=MaterialTheme.typography.titleMedium)
             }
             LinearProgressIndicator(progress={state.chessSetupCount/32f},modifier=Modifier.fillMaxWidth(),color=KidHeading,drawStopIndicator={})
+            if(next==null) KidSurface {
+                Text("✓ "+complete,style=MaterialTheme.typography.titleLarge,color=KidSuccess)
+                KidAction(t("Yeniden tahtayı hazırla","Set up the board again"),enabled=!state.busy,tone=2){audio?.stop();chosen=PieceKind.ROOK.name;feedback=0;model.restartChessSetup()}
+            }
             if(next!=null)Text(chessDragInstruction(tr),style=MaterialTheme.typography.bodySmall,textAlign=TextAlign.Center)
             KidSurface {
                 Row(verticalAlignment=Alignment.CenterVertically,horizontalArrangement=Arrangement.spacedBy(12.dp)) {

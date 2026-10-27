@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Mit der Kamera kannst du ein Profilbild aufnehmen.";
+"NSMicrophoneUsageDescription" = "Das Mikrofon wird benötigt, um die Stimme deines Kindes bei Wortübungen auf diesem Gerät aufzunehmen und abzuspielen.";
+"NSSpeechRecognitionUsageDescription" = "Gesprochene Wörter deines Kindes werden nur auf diesem Gerät erkannt. Audio wird nicht hochgeladen.";

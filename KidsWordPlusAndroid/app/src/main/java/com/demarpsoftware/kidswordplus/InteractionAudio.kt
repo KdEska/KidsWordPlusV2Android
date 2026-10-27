@@ -23,7 +23,7 @@ internal class InteractionAudio(context:Context,private val allowed:()->Boolean)
         pool.setOnLoadCompleteListener {_,id,status ->
             if(status==0){loaded.add(id);pending?.takeIf {sounds[it]==id}?.let {pending=null;play(it)}}
         }
-        listOf("tap","page","welcome","start","success","retry","train","category","success2","success3","celebration","unlock").forEach {name ->
+        listOf("tap","page","welcome","start","success","retry","train","category","success2","success3","celebration","unlock","coin").forEach {name ->
             context.assets.openFd("interaction/$name.wav").use {sounds[name]=pool.load(it,1)}
         }
     }

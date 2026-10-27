@@ -6,7 +6,7 @@ from pathlib import Path
 root=Path(__file__).resolve().parents[1]
 source=root/'app/src/main/java/com/demarpsoftware/kidswordplus'
 dictionaries=json.loads((root/'app/src/main/assets/localization/interface.json').read_text())
-locales=['de','fr','es','zh','ja','ko','it','pt','hi']
+locales=['de','fr','es','zh','ja','ko','it','pt','hi','ar','ru']
 quoted=r'"((?:[^"\\]|\\.)*)"'
 pattern=re.compile(r'(?:\bt|InterfaceStrings\.text)\(\s*(?:tr\s*,\s*)?'+quoted+r'\s*,\s*'+quoted)
 def resolved(values,key):

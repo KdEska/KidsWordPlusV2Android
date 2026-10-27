@@ -3,6 +3,7 @@ from pathlib import Path
 import math,struct,wave
 ROOT=Path(__file__).resolve().parents[1]
 CUES={'tap':[(700,.055),(1050,.055)],'page':[(440,.07),(660,.08)],'welcome':[(523.25,.10),(659.25,.10),(783.99,.18)],'start':[(659.25,.07),(783.99,.07),(1046.5,.13)],'success':[(783.99,.08),(1046.5,.13)],'retry':[(392,.08),(349.23,.12)]}
+CUES['chessTouch']=[(880,.045),(1174,.045)]
 CUES.update({'category':[(880,.04),(1174,.055)],'success2':[(659,.07),(880,.07),(1318,.12)],'success3':[(1046,.06),(1318,.06),(1568,.13)],'celebration':[(523,.09),(659,.09),(784,.09),(1046,.22)],'unlock':[(392,.10),(523,.10),(659,.10),(1046,.25)]})
 for folder in [ROOT/'KidsWordPlusV2/InteractionAudio',ROOT/'KidsWordPlusAndroid/app/src/main/assets/interaction']:
  folder.mkdir(parents=True,exist_ok=True)
@@ -37,3 +38,30 @@ for folder in [ROOT/'KidsWordPlusV2/InteractionAudio',ROOT/'KidsWordPlusAndroid/
  with wave.open(str(folder/'train.wav'),'wb') as w:
   w.setnchannels(1);w.setsampwidth(2);w.setframerate(rate);w.writeframes(struct.pack('<'+'h'*len(train),*train))
 print('Original 4.8-second train departure generated for both platforms.')
+
+# Bright original bell alternatives; each fits the 250 ms star cadence.
+rate=44100
+previews=ROOT/'planning/interaction-audio/star-sounds'
+previews.mkdir(parents=True,exist_ok=True)
+variants={'ting':[(1568,0,1)],'bling':[(1318.51,0,.82),(2093,.065,1)],'chime':[(1046.5,0,.72),(1318.51,.045,.80),(1568,.09,1)]}
+for name,notes in variants.items():
+ samples=[]
+ for i in range(int(rate*.24)):
+  t=i/rate
+  sample=0
+  for frequency,onset,weight in notes:
+   u=t-onset
+   if u<0:continue
+   attack=min(1,u/.0012)
+   ring=sum(gain*math.sin(2*math.pi*frequency*ratio*u)*math.exp(-decay*u)
+            for ratio,gain,decay in [(1,1,12),(2,.38,18),(2.756,.15,24),(5.404,.05,40)])
+   sample+=weight*attack*ring
+  samples.append(sample*min(1,max(0,(.24-t)/.025)))
+ peak=max(abs(x) for x in samples)
+ pcm=struct.pack('<'+'h'*len(samples),*(int(32767*.72*x/peak) for x in samples))
+ targets=[previews/f'{name}.wav']
+ if name=='bling':targets += [ROOT/'KidsWordPlusV2/InteractionAudio/coin.wav',ROOT/'KidsWordPlusAndroid/app/src/main/assets/interaction/coin.wav']
+ for target in targets:
+  with wave.open(str(target),'wb') as w:
+   w.setnchannels(1);w.setsampwidth(2);w.setframerate(rate);w.writeframes(pcm)
+print('Ting, bling and chime previews generated; bling installed as the star-arrival cue on both platforms.')

@@ -13,6 +13,20 @@ import kotlinx.coroutines.*
 
 internal val LocalChessAudio = staticCompositionLocalOf<ChessAudioPlayer?> { null }
 internal class ChessAudioPlayer(private val context: Context, private val beforePlay: () -> Unit,private val soundEnabled:()->Boolean={true},private val soundDisabled:()->Unit={}) {
+    private val touchPool=android.media.SoundPool.Builder().setMaxStreams(1).setAudioAttributes(
+        AudioAttributes.Builder().setUsage(AudioAttributes.USAGE_GAME).setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION).build()).build()
+    private var touchReady=false
+    private var touchStream=0
+    private val touchSound:Int
+    init {
+        touchPool.setOnLoadCompleteListener {_,_,status ->touchReady=status==0}
+        touchSound=context.assets.openFd("interaction/chessTouch.wav").use {touchPool.load(it,1)}
+    }
+    fun touch() {
+        if(!soundEnabled() || !touchReady)return
+        if(touchStream!=0)touchPool.stop(touchStream)
+        touchStream=touchPool.play(touchSound,.28f,.28f,1,0,1f)
+    }
     private val scope = CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)
     private val catalogs = java.util.concurrent.ConcurrentHashMap<String, ChessSpeechCatalog>()
     private val manager = context.getSystemService(AudioManager::class.java)
@@ -49,6 +63,11 @@ internal class ChessAudioPlayer(private val context: Context, private val before
     fun playKey(language: String, key: String, values: Map<String, String> = emptyMap()) = request(language, false) { it.prompt(key, values) }
     fun playSetup(language:String,kind:PieceKind,square:Int)=request(language,false) {catalog ->
         catalog.prompt("setup.place",mapOf("piece" to kind.name.lowercase(),"square" to squareName(square)))
+    }
+    fun playCheck(language:String) {
+        if(soundEnabled())request(language,false) {catalog ->
+            catalog.text(if(language=="tr")"king.name"else "ending.check.name")
+        }
     }
     fun playMove(language: String, game: ChessGame, enqueue: Boolean) {if(soundEnabled())request(language, enqueue) { it.lastMove(game) ?: error("No move") }}
     private fun request(requestedLanguage: String, enqueue: Boolean, text: (ChessSpeechCatalog) -> String) {
@@ -103,23 +122,24 @@ internal class ChessAudioPlayer(private val context: Context, private val before
         } catch (_: Exception) { fail() }
     }
     private fun abandonFocus() { if (focused) manager.abandonAudioFocusRequest(focus); focused = false }
-    private fun fail() { stop(); error = if (language == "tr") "Ses oynatılamadı. Yeniden deneyebilirsin." else "Audio could not play. Try again." }
+    private fun fail() { stop(); error = InterfaceStrings.text(InterfaceStrings.language,"Ses oynatılamadı. Yeniden deneyebilirsin.","Audio could not play. Try again.") }
     fun stop() {
+        if(touchStream!=0)touchPool.stop(touchStream);touchStream=0
         generation++; requestJob?.cancel(); requestJob = null
         pending.clear(); current.clear(); player?.release(); player = null
         playing = false; transcript = ""; error = null; abandonFocus()
     }
-    fun release() { stop(); scope.cancel() }
+    fun release() { stop(); touchPool.release(); scope.cancel() }
 }
 @Composable internal fun ChessListenButton(language: String, key: String, values: Map<String, String> = emptyMap(), label: String? = null) {
     val audio = LocalChessAudio.current ?: return
-    KidAction(label ?: if (language == "tr") "Dinle" else "Listen", tone = 1) { audio.playKey(language, key, values) }
+    KidAction(label ?: InterfaceStrings.text(InterfaceStrings.language,"Dinle","Listen"), tone = 1) { audio.playKey(language, key, values) }
 }
 @Composable internal fun ChessAudioStatus(language: String) {
     val audio = LocalChessAudio.current ?: return
     // The original recording transcript remains visible while listening.
     if (audio.playing && audio.transcript.isNotEmpty()) Text(audio.transcript)
-    if (audio.playing) TextButton(onClick = { audio.stop() }) { Text(if (language == "tr") "Sesi durdur" else "Stop audio") }
+    if (audio.playing) TextButton(onClick = { audio.stop() }) { Text(InterfaceStrings.text(InterfaceStrings.language,"Sesi durdur","Stop audio")) }
     audio.error?.let { Text(it) }
 }
 @Composable internal fun ChessStopSpeechOnChange(vararg keys: Any?) {

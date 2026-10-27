@@ -4,7 +4,7 @@ from pathlib import Path
 root=Path(__file__).resolve().parents[2]
 source=root/'KidsWordPlusV2/Localization/interface.json'
 data=json.loads(source.read_text())
-for code in ('de','fr','es','zh','ja','ko','it','pt','hi'):
+for code in ('de','fr','es','zh','ja','ko','it','pt','hi','ar','ru'):
     if not isinstance(data.get(code),dict) or len(data[code])<200:
         raise ValueError(f'Missing interface translations: {code}')
 # Chess has its own keyed dictionaries in iOS; expose the English text keys used by Android.
@@ -13,7 +13,10 @@ for filename in ('interface.json','content.json'):
     for code,values in chess.items():
         for key,english in chess['en'].items():
             if isinstance(english,str) and isinstance(values.get(key),str):
-                data.setdefault(code,{}).setdefault(english,values[key])
+                if filename=='interface.json' and key.startswith('guide.'):
+                    data.setdefault(code,{})[english]=values[key]
+                else:
+                    data.setdefault(code,{}).setdefault(english,values[key])
 aliases={
     'The Base language pack with shared images installs with your first language. Then you can learn offline.':'The Base language pack with shared images installs automatically with your first language. Other languages reuse those images. Then you can learn offline.',
     "Let's start learning":'Start learning',

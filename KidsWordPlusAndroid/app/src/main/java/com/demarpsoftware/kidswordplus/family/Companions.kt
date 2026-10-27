@@ -1,5 +1,7 @@
 package com.demarpsoftware.kidswordplus.family
 
+import com.demarpsoftware.kidswordplus.InterfaceStrings
+
 import com.demarpsoftware.kidswordplus.LearningRules
 import com.demarpsoftware.kidswordplus.content.LearningPack
 import com.demarpsoftware.kidswordplus.games.GameProgress
@@ -59,13 +61,13 @@ object Companions {
         ?.groupBy { it.difficulty }?.values?.any { words -> words.isNotEmpty() && words.all { LearningRules.progressKey(pack.language, it.id) in completed } } ?: false
     fun requirement(friend: Companion, tr: Boolean): String {
         val task = when (friend.task) {
-            "tenGames" -> if (tr) "10 oyun tamamla" else "Complete 10 games"
-            "perfectLesson" -> if (tr) "Dinle ve Seç'i hatasız bitir" else "Finish Listen and Choose without mistakes"
-            "sevenDays" -> if (tr) "7 gün üst üste çalış" else "Learn 7 days in a row"
-            "finishedLevel" -> if (tr) "Bir seviyeyi tamamen bitir" else "Complete a learning level"
-            "allFriends" -> if (tr) "Diğer 20 arkadaşını aç" else "Unlock all 20 other friends"
+            "tenGames" -> InterfaceStrings.text(tr,"10 oyun tamamla","Complete 10 games")
+            "perfectLesson" -> InterfaceStrings.text(tr,"Dinle ve Seç'i hatasız bitir","Finish Listen and Choose without mistakes")
+            "sevenDays" -> InterfaceStrings.text(tr,"7 gün üst üste çalış","Learn 7 days in a row")
+            "finishedLevel" -> InterfaceStrings.text(tr,"Bir seviyeyi tamamen bitir","Complete a learning level")
+            "allFriends" -> InterfaceStrings.text(tr,"Diğer 20 arkadaşını aç","Unlock all 20 other friends")
             else -> ""
         }
-        return listOfNotNull(if (friend.words > 0) "${friend.words} " + if (tr) "kelime çalış" else "words studied" else null, task.takeIf { it.isNotBlank() }).joinToString(" • ")
+        return listOfNotNull(if (friend.words > 0) "${friend.words} " + InterfaceStrings.text(tr,"kelime çalış","words studied") else null, task.takeIf { it.isNotBlank() }).joinToString(" • ")
     }
 }

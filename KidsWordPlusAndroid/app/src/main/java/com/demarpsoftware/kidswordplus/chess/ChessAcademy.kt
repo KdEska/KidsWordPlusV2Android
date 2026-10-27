@@ -24,9 +24,12 @@ object ChessBoardSetup {
 
 data class ChessSafetyTask(val id: String, val position: ChessPosition, val source: Int?, val target: Int) {
     val group get()=id.substringBefore('.')
-    val audioKey get()=if(id==group || source==null)"safety.$group"else position.board[source]!!.kind.name.lowercase()+".move"
-    fun accepts(from: Int?, to: Int): Boolean = to == target &&
-        (if (source == null) from == null else from == source && position.movesFrom(source).any { it.to == to })
+    val audioKey get()=if(source==null)"safety.$group"else position.board[source]!!.kind.name.lowercase()+".move"
+    fun accepts(from: Int?, to: Int): Boolean {
+        if(source==null)return from==null && to==target
+        if(from==null || from !in 0..63 || position.board[from]?.white!=true)return false
+        return position.play(ChessMove(from,to))?.inCheck(true)==false
+    }
     fun after(): ChessPosition = if (source == null) position else position.play(ChessMove(source, target))!!
 }
 object ChessSafety {

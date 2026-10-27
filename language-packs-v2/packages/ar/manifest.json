@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.3",
   "packageId": "learning.ar",
-  "packageVersion": "14-ar-chess-e3b8deed6459-no-beer-v1",
+  "packageVersion": "14-ar-chess-e3b8deed6459-no-beer-v1-levels-7dacee5a60c5-no-wine-v1",
   "language": "ar",
   "locale": "ar-SA",
   "textDirection": "rtl",
@@ -11,8 +11,8 @@
   "dependencies": [
     {
       "language": "base",
-      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1",
-      "manifestSha256": "62880e80201f05bbb2c4bd8ba8c080aff3ca0c2583c5b3f22c43476d0d3254da"
+      "version": "2-shared-vocabulary-c5adc8dcd48f-jpeg95-max150kb-no-beer-v1-no-wine-v1",
+      "manifestSha256": "23682668d48191f65ee10108f681e1a3f8eb9b391367998b5944a13498118158"
     }
   ],
   "releaseReady": false,
@@ -24,7 +24,7 @@
     "status": "pending",
     "scope": "learning_text_and_alphabet_images"
   },
-  "installedPayloadBytes": 52522399,
+  "installedPayloadBytes": 52508858,
   "files": [
     {
       "path": "audio/CAT-001-001_ar.mp3",
@@ -5337,11 +5337,6 @@
       "sha256": "a3c3206e49cd0c5fcd899ae7a4f0c85b4c41619df423a762e2b43c9be16531c5"
     },
     {
-      "path": "audio/food_830_ar.mp3",
-      "bytes": 15090,
-      "sha256": "1f888d40c830af3e11da2362973afcf02cd6bce4149cc760659f677ea620644d"
-    },
-    {
       "path": "audio/food_831_ar.mp3",
       "bytes": 12582,
       "sha256": "0c53e4e76ae2af44173637dad22e8a5bdbb969a291877b5e29e5c0837d0d239a"
@@ -9988,8 +9983,8 @@
     },
     {
       "path": "database.json",
-      "bytes": 1985003,
-      "sha256": "db9a6e95dfed2fd305be1be39b4d0e340840815abbadabffd0e86db9e919e828"
+      "bytes": 1986552,
+      "sha256": "5555a06535483b59da8a63152f26161471a9606dd27a26c642f73cf9e7004273"
     },
     {
       "path": "images/alphabet/0621.jpg",

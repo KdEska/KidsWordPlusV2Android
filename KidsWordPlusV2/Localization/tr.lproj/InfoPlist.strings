@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Profil fotoğrafı çekmek için kamerayı kullanabilirsiniz.";
+"NSMicrophoneUsageDescription" = "Kelime pratiğinde çocuğunuzun sesini bu cihazda kaydetmek ve dinlemek için mikrofon izni gerekir.";
+"NSSpeechRecognitionUsageDescription" = "Çocuğunuzun söylediği kelimeyi yalnızca cihaz üzerinde tanımak için kullanılır. Ses sunucuya gönderilmez.";

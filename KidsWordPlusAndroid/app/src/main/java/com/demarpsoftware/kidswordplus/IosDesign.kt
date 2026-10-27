@@ -226,7 +226,9 @@ internal val MenuTones = listOf(0xFF85C933 to 0xFF295C17,0xFFFFB033 to 0xFF9C3B0
             }
         }
         val pack=state.pack
-        if(pack!=null) {
+        if(pack==null && (state.contentLoading || state.busy)) {
+            HomeLoadingCard(state)
+        } else if(pack!=null) {
             val suggested=pack.lessons.find {it.id==state.lastLesson&&it.words.any {w->LearningRules.progressKey(state.language,w.id) !in state.completed}}
                 ?:pack.lessons.firstOrNull {it.words.any {w->LearningRules.progressKey(state.language,w.id) !in state.completed}}?:pack.lessons.first()
             val count=suggested.words.count {LearningRules.progressKey(state.language,it.id) in state.completed}
@@ -271,6 +273,21 @@ internal val MenuTones = listOf(0xFF85C933 to 0xFF295C17,0xFFFFB033 to 0xFF9C3B0
     }
 }
 
+@Composable private fun HomeLoadingCard(state:AppState) {
+    fun t(a:String,b:String)=InterfaceStrings.text(state.ui,a,b)
+    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(28.dp))
+        .background(Brush.linearGradient(listOf(Color(0xFFF0E5FF),Color.White)))
+        .border(1.dp,Color(0xFFDCC8F5),RoundedCornerShape(28.dp)).padding(24.dp),
+        horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(18.dp)) {
+        Box(Modifier.size(132.dp).background(Color.White.copy(alpha=.6f),RoundedCornerShape(66.dp)),contentAlignment=Alignment.Center) {
+            CompanionImage(state.companion,116)
+        }
+        Text(t("Dersler hazırlanıyor…","Preparing lessons…"),style=MaterialTheme.typography.titleLarge,color=KidHeading,textAlign=TextAlign.Center)
+        Text(t("Kelimelerin ve görsellerin hazırlanıyor. Birazdan başlayacağız!","Getting your words and pictures ready. We’ll start soon!"),style=MaterialTheme.typography.bodyMedium,color=KidSecondary,textAlign=TextAlign.Center)
+        LinearProgressIndicator(modifier=Modifier.fillMaxWidth().height(8.dp).clip(RoundedCornerShape(50)),color=KidHeading,trackColor=Color(0xFFE3D5F4))
+    }
+}
+
 // Shared primary action surface follows KidActionButtonStyle in HomeViews.swift.
 @Composable internal fun IosButton(onClick: ()->Unit, modifier:Modifier=Modifier, enabled:Boolean=true, content:@Composable RowScope.()->Unit) {
     val interaction = remember { MutableInteractionSource() }
@@ -295,12 +312,13 @@ internal val MenuTones = listOf(0xFF85C933 to 0xFF295C17,0xFFFFB033 to 0xFF9C3B0
     val scroll=remember(step){androidx.compose.foundation.ScrollState(0)}
     Column(Modifier.fillMaxSize(),verticalArrangement=Arrangement.spacedBy(18.dp)) {
         Row(Modifier.fillMaxWidth(),verticalAlignment=Alignment.CenterVertically) {Box(Modifier.width(80.dp)){if(step>0)TextButton({step--},enabled=!state.busy){Text(t("Geri","Back"))}};Text("KidsWordPlus",Modifier.weight(1f),textAlign=TextAlign.Center,style=MaterialTheme.typography.titleMedium);Spacer(Modifier.width(80.dp))}
-        LinearProgressIndicator(progress={(step+1)/6f},modifier=Modifier.fillMaxWidth().semantics{contentDescription=t("Kurulum adımı ${step+1} / 6","Setup step ${step+1} / 6")},color=KidHeading)
+        LinearProgressIndicator(progress={(step+1)/6f},modifier=Modifier.fillMaxWidth().semantics{contentDescription=InterfaceStrings.render(tr, "Kurulum adımı {0} / 6", "Setup step {0} / 6", (step+1).toString())},color=KidHeading)
         Column(Modifier.weight(1f).widthIn(max=800.dp).fillMaxWidth().align(Alignment.CenterHorizontally).verticalScroll(scroll),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(18.dp)) {
             if(step!=4)CompanionImage(state.companion,if(LocalDensity.current.fontScale>=1.6f)80 else 120)
             Text(titles[step],Modifier.fillMaxWidth().semantics{heading()},textAlign=TextAlign.Center,style=MaterialTheme.typography.headlineLarge,color=KidHeading)
             when(step) {
-                0,1->{Text(if(step==0)t("Ekranlarda hangi dili kullanalım?","Which language should the app use?") else t("Arayüz dilinden bağımsız olarak seçebilirsin.","Choose independently of the app language."),textAlign=TextAlign.Center)
+                0,1->{if(step==1)VocabularyLevelPicker(state,model,ui)
+                    Text(if(step==0)t("Ekranlarda hangi dili kullanalım?","Which language should the app use?") else t("Arayüz dilinden bağımsız olarak seçebilirsin.","Choose independently of the app language."),textAlign=TextAlign.Center)
                     (if(step==0)LearningLanguages.names.filterKeys{it in InterfaceStrings.codes}else LearningLanguages.names).forEach {(code,title)->
                         val selected=code==if(step==0)ui else language
                         Card(onClick={if(step==0)ui=code else language=code},enabled=!state.busy,modifier=Modifier.fillMaxWidth().semantics{this.selected=selected},shape=RoundedCornerShape(22.dp),colors=CardDefaults.cardColors(containerColor=Color.White),border=androidx.compose.foundation.BorderStroke(if(selected)3.dp else 0.dp,if(selected)KidHeading else Color.Transparent)) {
@@ -328,7 +346,7 @@ internal val MenuTones = listOf(0xFF85C933 to 0xFF295C17,0xFFFFB033 to 0xFF9C3B0
                     Text(t("Profilin bu cihazda saklanır.","Your profile stays on this device."),color=KidSecondary)
                 }
                 4->CompanionPicker(state,model,tr)
-                5->KidSurface {Text(t("Arayüz dili","App language")+": "+LearningLanguages.title(ui));Text(t("Öğrenme dili: ","Learning language: ")+LearningLanguages.title(language));Text(t("Adın: ","Name: ")+name.ifBlank{t("Keşifçi","Explorer")});Text(t("Çevrimdışı öğrenmeye hazır","Ready to learn offline"),color=KidSuccess)}
+                5->KidSurface {Text(t("Kelime seviyesi","Vocabulary level")+": "+when(state.vocabularyLevel){"beginner"->t("Basit","Simple");"intermediate"->t("Orta","Medium");else->t("Zor","Hard")});Text(t("Arayüz dili","App language")+": "+LearningLanguages.title(ui));Text(t("Öğrenme dili: ","Learning language: ")+LearningLanguages.title(language));Text(t("Adın: ","Name: ")+name.ifBlank{t("Keşifçi","Explorer")});Text(t("Çevrimdışı öğrenmeye hazır","Ready to learn offline"),color=KidSuccess)}
             }
         }
         KidAction(if(step==5)t("Öğrenmeye başla","Start learning") else t("Devam","Continue"),!state.busy&&(step!=2||language in state.installed)) {

@@ -18,7 +18,7 @@ for relative in ['KidsWordPlusV2/Localization/interface.json','KidsWordPlusAndro
         for tip in tips:catalog[language][tip['text']['en']]=tip['text'][language]
     path.write_text(json.dumps(catalog,ensure_ascii=False,sort_keys=True,indent=2)+'\n')
 def quoted(value):return json.dumps(value,ensure_ascii=False)
-swift='// BEGIN GENERATED CHESS SECRETS\nprivate enum ChessSecretCatalog {\n    static let all:[(id:String,turkish:String,english:String)] = [\n'
+swift='// BEGIN GENERATED CHESS SECRETS\nenum ChessSecretCatalog {\n    static let all:[(id:String,turkish:String,english:String)] = [\n'
 swift+=',\n'.join('        ('+','.join(quoted(v) for v in [tip['id'],tip['text']['tr'],tip['text']['en']])+')' for tip in tips)
 swift+='''
     ]

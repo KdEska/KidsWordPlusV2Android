@@ -72,6 +72,9 @@ import kotlin.math.cos
     }
     val elapsed=progress.value*(2000+earned*350)
     val arrived=if(progress.value>=1f)earned else if(elapsed<1850)0 else (1+((elapsed-1850)/350).toInt()).coerceIn(0,earned)
+    LaunchedEffect(arrived) {
+        if(active && motion && arrived>0 && progress.value<1f) feedback("coin")
+    }
     val visibleTotal=total-earned+arrived
     Box(Modifier.fillMaxWidth()) {
         Column(Modifier.fillMaxWidth(),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(6.dp)) {
@@ -82,7 +85,7 @@ import kotlin.math.cos
                 }
             }
             DesignArt("companions/$character.png",Modifier.height(150.dp).fillMaxWidth().graphicsLayer {translationY=if(motion)(-7).dp.toPx()*sin(progress.value*Math.PI).toFloat()else 0f},decodeLimit=512)
-            if(earned>0)Text(InterfaceStrings.text(tr,"+$earned yıldız!","+$earned stars!"),style=MaterialTheme.typography.titleMedium,color=KidHeading)
+            if(earned>0)Text(InterfaceStrings.render(tr, "+{0} yıldız!", "+{0} stars!", (earned).toString()),style=MaterialTheme.typography.titleMedium,color=KidHeading)
         }
         if(motion)Canvas(Modifier.matchParentSize().clearAndSetSemantics {}) {
             val p=progress.value

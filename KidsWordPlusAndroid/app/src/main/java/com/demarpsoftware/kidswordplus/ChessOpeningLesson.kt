@@ -43,7 +43,7 @@ private data class OpeningMotion(val count: Int, val practice: Boolean, val move
     fun t(a:String,b:String)=InterfaceStrings.text(tr,a,b)
     val copy by openingCopy(state.ui)
     val audio = LocalChessAudio.current
-    ScreenTitle(if (tr) opening.tr else opening.en)
+    ScreenTitle(copy["opening.${opening.id}.name"] ?: t(opening.tr,opening.en))
     var practice by rememberSaveable(opening.id) { mutableStateOf(false) }
     var watchCount by rememberSaveable(opening.id) { mutableIntStateOf(0) }
     val count = if (practice) state.chessOpeningProgress.count(opening.id) else watchCount

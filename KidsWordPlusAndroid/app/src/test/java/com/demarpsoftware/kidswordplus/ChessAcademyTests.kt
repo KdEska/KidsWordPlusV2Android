@@ -46,6 +46,20 @@ class ChessAcademyTests {
             }
         }
     }
+    @Test fun everyLegalCheckEscapeIsAcceptedAndUnsafeMovesAreRejected() {
+        for(task in ChessSafety.tasks.filter {it.source!=null}) {
+            for(move in task.position.legalMoves()) {
+                assertTrue("${task.id}: $move",task.accepts(move.from,move.to))
+                assertFalse(task.position.play(move)!!.inCheck(true))
+            }
+        }
+        val escape=ChessSafety.byId.getValue("escape")
+        assertTrue(escape.accepts(square("e1"),square("f1")))
+        assertTrue(escape.accepts(square("e1"),square("d2")))
+        assertFalse(escape.accepts(square("e1"),square("e2")))
+        assertEquals(setOf("escape"),ChessSafety.finish(emptySet(),"escape",square("e1"),square("f1")))
+        assertTrue(ChessSafety.byId.getValue("block").accepts(square("e1"),square("d1")))
+    }
     @Test fun safetyCreditIsCorrectAndIdempotent() {
         val task = ChessSafety.baseTasks.last()
         assertTrue(ChessSafety.finish(emptySet(), task.id, square("e1"), task.target).isEmpty())

@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "Use the camera to take a profile photo.";
+"NSMicrophoneUsageDescription" = "Record and replay your child’s voice on this device during word practice.";
+"NSSpeechRecognitionUsageDescription" = "Recognize your child’s spoken word only on this device. Audio is not uploaded.";

@@ -200,10 +200,10 @@ class MainActivity : ComponentActivity() {
         var parentDestination by rememberSaveable { mutableIntStateOf(0) }
         var focusSpeechSettings by rememberSaveable { mutableStateOf(false) }
         LaunchedEffect(parentArea) {if(!parentArea)focusSpeechSettings=false}
-        var category by rememberSaveable(state.language) { mutableStateOf<String?>(null) }
-        var subcategory by rememberSaveable(state.language) { mutableStateOf<String?>(null) }
-        var lessonId by rememberSaveable(state.language) { mutableStateOf<String?>(null) }
-        var card by rememberSaveable(state.language) { mutableIntStateOf(0) }
+        var category by rememberSaveable(state.language,state.vocabularyLevel) { mutableStateOf<String?>(null) }
+        var subcategory by rememberSaveable(state.language,state.vocabularyLevel) { mutableStateOf<String?>(null) }
+        var lessonId by rememberSaveable(state.language,state.vocabularyLevel) { mutableStateOf<String?>(null) }
+        var card by rememberSaveable(state.language,state.vocabularyLevel) { mutableIntStateOf(0) }
         var finished by rememberSaveable(lessonId) { mutableStateOf(false) }
         var completionEarned by rememberSaveable(lessonId) { mutableIntStateOf(0) }
         var completionCelebrated by rememberSaveable(state.language, lessonId) { mutableStateOf(false) }

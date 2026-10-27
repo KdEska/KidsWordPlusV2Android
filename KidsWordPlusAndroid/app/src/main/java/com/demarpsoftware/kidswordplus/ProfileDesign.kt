@@ -131,7 +131,7 @@ import kotlin.math.*
             if(chosen)DesignArt("ui/navigation/green-tick.webp",Modifier.size(22.dp),decodeLimit=96)
             else if(!unlocked)Text("🔒",fontSize=12.sp)
         }
-        Text(if(tr)friend.tr else friend.en,style=MaterialTheme.typography.bodyMedium,color=KidBody,textAlign=TextAlign.Center)
+        Text(InterfaceStrings.text(tr,friend.tr,friend.en),style=MaterialTheme.typography.bodyMedium,color=KidBody,textAlign=TextAlign.Center)
         if(unlocked)Text(if(chosen)t("Yol arkadaşın","Your companion")else t("Beni seç","Choose me"),Modifier.background(KidSuccess.copy(alpha=.1f),RoundedCornerShape(50)).padding(horizontal=12.dp,vertical=6.dp),fontSize=12.sp,fontWeight=FontWeight.Bold,color=KidSuccess,textAlign=TextAlign.Center)
         else Column(Modifier.fillMaxWidth().background(KidHeading.copy(alpha=.06f),RoundedCornerShape(12.dp)).padding(8.dp),horizontalAlignment=Alignment.CenterHorizontally,verticalArrangement=Arrangement.spacedBy(5.dp)) {
             if(friend.words>0) {

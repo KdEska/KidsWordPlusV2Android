@@ -22,7 +22,7 @@ import com.demarpsoftware.kidswordplus.chess.*
         if(expanded && rows.isNotEmpty())scroll.scrollToItem(rows.lastIndex)
     }
     KidSurface {
-        TextButton(onClick={expanded=!expanded},modifier=Modifier.fillMaxWidth().semantics {stateDescription=if(tr){if(expanded)"Açık"else "Kapalı"}else{if(expanded)"Expanded"else "Collapsed"}}) {
+        TextButton(onClick={expanded=!expanded},modifier=Modifier.fillMaxWidth().semantics {stateDescription=if(expanded) InterfaceStrings.text(tr,"Açık","Expanded") else InterfaceStrings.text(tr,"Kapalı","Collapsed")}) {
             Text(InterfaceStrings.text(tr,"Hamleler","Moves"),Modifier.weight(1f),style=MaterialTheme.typography.titleMedium,color=KidHeading)
             Text(if(expanded)"⌃"else "⌄",color=KidHeading)
         }
@@ -42,7 +42,7 @@ import com.demarpsoftware.kidswordplus.chess.*
 }
 @Composable private fun HistoryCell(entry:ChessHistoryEntry?,tr:Boolean) {
     if(entry==null){Text("—",color=KidSecondary);return}
-    val side=if(tr){if(entry.actor.white)"Beyaz"else "Siyah"}else{if(entry.actor.white)"White"else "Black"}
+    val side=if(entry.actor.white) InterfaceStrings.text(tr,"Beyaz","White") else InterfaceStrings.text(tr,"Siyah","Black")
     val name=pieceTitle(entry.actor.kind,tr)+(entry.move.promotion?.let {" → "+pieceTitle(it,tr)} ?: "")
     val notation="${squareName(entry.move.from)} → ${squareName(entry.move.to)}"
     Column(Modifier.clearAndSetSemantics {contentDescription="$side, $name, $notation"},verticalArrangement=Arrangement.spacedBy(6.dp)) {

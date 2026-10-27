@@ -200,7 +200,8 @@
     "guide.random.stage.1": "Rakip taşlarla hareket et",
     "guide.random.stage.2": "Rakip taşları al",
     "guide.random.intro": "Taşları hareket ettirelim, rakip taşları tanıyalım ve taş almayı öğrenelim!",
-    "guide.random.success": "Tebrikler! Taşları hareket ettirdin ve rakip taşları aldın!"
+    "guide.random.success": "Tebrikler! Taşları hareket ettirdin ve rakip taşları aldın!",
+    "secrets": "Satranç Sırları"
   },
   "en": {
     "world": "Chess World",
@@ -403,7 +404,8 @@
     "guide.random.stage.1": "Move around opposing pieces",
     "guide.random.stage.2": "Capture opposing pieces",
     "guide.random.intro": "Let’s move the pieces, meet opposing pieces and learn to capture!",
-    "guide.random.success": "Well done! You moved the pieces and captured opposing pieces!"
+    "guide.random.success": "Well done! You moved the pieces and captured opposing pieces!",
+    "secrets": "Chess secrets"
   },
   "de": {
     "world": "Schachwelt",
@@ -606,7 +608,8 @@
     "guide.random.stage.1": "Mit gegnerischen Figuren auf dem Brett ziehen",
     "guide.random.stage.2": "Gegnerische Figuren schlagen",
     "guide.random.intro": "Bewegen wir die Figuren, lernen die gegnerischen Figuren kennen und üben das Schlagen!",
-    "guide.random.success": "Prima! Du hast Figuren bewegt und gegnerische Figuren geschlagen!"
+    "guide.random.success": "Prima! Du hast Figuren bewegt und gegnerische Figuren geschlagen!",
+    "secrets": "Schachgeheimnisse"
   },
   "fr": {
     "world": "Le monde des échecs",
@@ -809,7 +812,8 @@
     "guide.random.stage.1": "Se déplacer parmi les pièces adverses",
     "guide.random.stage.2": "Capturer les pièces adverses",
     "guide.random.intro": "Déplaçons les pièces, découvrons les pièces adverses et apprenons à capturer !",
-    "guide.random.success": "Bravo ! Tu as déplacé les pièces et capturé des pièces adverses !"
+    "guide.random.success": "Bravo ! Tu as déplacé les pièces et capturé des pièces adverses !",
+    "secrets": "Les secrets des échecs"
   },
   "es": {
     "world": "Mundo del Ajedrez",
@@ -1012,7 +1016,8 @@
     "guide.random.stage.1": "Moverse entre piezas rivales",
     "guide.random.stage.2": "Capturar piezas rivales",
     "guide.random.intro": "¡Movamos las piezas, conozcamos las piezas rivales y aprendamos a capturar!",
-    "guide.random.success": "¡Muy bien! ¡Moviste las piezas y capturaste piezas rivales!"
+    "guide.random.success": "¡Muy bien! ¡Moviste las piezas y capturaste piezas rivales!",
+    "secrets": "Secretos del ajedrez"
   },
   "pt": {
     "world": "Mundo do Xadrez",
@@ -1215,7 +1220,8 @@
     "guide.random.stage.1": "Mover entre peças adversárias",
     "guide.random.stage.2": "Capturar peças adversárias",
     "guide.random.intro": "Vamos mover as peças, conhecer as peças adversárias e aprender a capturar!",
-    "guide.random.success": "Muito bem! Moveste as peças e capturaste peças adversárias!"
+    "guide.random.success": "Muito bem! Moveste as peças e capturaste peças adversárias!",
+    "secrets": "Segredos do xadrez"
   },
   "it": {
     "world": "Il mondo degli scacchi",
@@ -1418,7 +1424,8 @@
     "guide.random.stage.1": "Muoversi tra i pezzi avversari",
     "guide.random.stage.2": "Catturare i pezzi avversari",
     "guide.random.intro": "Muoviamo i pezzi, conosciamo quelli avversari e impariamo a catturarli!",
-    "guide.random.success": "Bravo! Hai mosso i pezzi e catturato pezzi avversari!"
+    "guide.random.success": "Bravo! Hai mosso i pezzi e catturato pezzi avversari!",
+    "secrets": "I segreti degli scacchi"
   },
   "zh": {
     "world": "国际象棋世界",
@@ -1621,7 +1628,8 @@
     "guide.random.stage.1": "在对方棋子之间移动",
     "guide.random.stage.2": "吃掉对方棋子",
     "guide.random.intro": "一起移动棋子，认识对方的棋子，学习吃子吧！",
-    "guide.random.success": "真棒！你移动了棋子，还吃掉了对方的棋子！"
+    "guide.random.success": "真棒！你移动了棋子，还吃掉了对方的棋子！",
+    "secrets": "国际象棋小秘诀"
   },
   "ja": {
     "world": "チェスの世界",
@@ -1824,7 +1832,8 @@
     "guide.random.stage.1": "相手の駒がある盤で動かそう",
     "guide.random.stage.2": "相手の駒を取ろう",
     "guide.random.intro": "駒を動かし、相手の駒を知り、駒の取り方を学ぼう！",
-    "guide.random.success": "よくできたね！駒を動かして、相手の駒も取れたね！"
+    "guide.random.success": "よくできたね！駒を動かして、相手の駒も取れたね！",
+    "secrets": "チェスのひみつ"
   },
   "ko": {
     "world": "체스 세계",
@@ -2027,7 +2036,8 @@
     "guide.random.stage.1": "상대 말 사이에서 움직이기",
     "guide.random.stage.2": "상대 말 잡기",
     "guide.random.intro": "말을 움직이고, 상대 말을 알아보고, 잡는 방법을 배워 봐요!",
-    "guide.random.success": "잘했어요! 말을 움직이고 상대 말도 잡았어요!"
+    "guide.random.success": "잘했어요! 말을 움직이고 상대 말도 잡았어요!",
+    "secrets": "체스의 비밀"
   },
   "hi": {
     "world": "शतरंज की दुनिया",
@@ -2230,7 +2240,8 @@
     "guide.random.stage.1": "विरोधी मोहरों के बीच चलो",
     "guide.random.stage.2": "विरोधी मोहरे मारो",
     "guide.random.intro": "चलो मोहरे चलाएँ, विरोधी मोहरों को जानें और उन्हें मारना सीखें!",
-    "guide.random.success": "शाबाश! तुमने मोहरे चलाए और विरोधी मोहरे मारे!"
+    "guide.random.success": "शाबाश! तुमने मोहरे चलाए और विरोधी मोहरे मारे!",
+    "secrets": "शतरंज के रहस्य"
   },
   "ar": {
     "world": "عالم الشطرنج",
@@ -2433,7 +2444,8 @@
     "guide.random.stage.1": "تحرّك بين قطع الخصم",
     "guide.random.stage.2": "خذ قطع الخصم",
     "guide.random.intro": "لنحرّك القطع ونتعرّف إلى قطع الخصم ونتعلّم أخذها!",
-    "guide.random.success": "أحسنت! حرّكت القطع وأخذت قطع الخصم!"
+    "guide.random.success": "أحسنت! حرّكت القطع وأخذت قطع الخصم!",
+    "secrets": "أسرار الشطرنج"
   },
   "ru": {
     "world": "Мир шахмат",
@@ -2636,6 +2648,7 @@
     "guide.random.stage.1": "Двигаемся среди фигур соперника",
     "guide.random.stage.2": "Берём фигуры соперника",
     "guide.random.intro": "Давай двигать фигуры, знакомиться с фигурами соперника и учиться их брать!",
-    "guide.random.success": "Молодец! Ты передвигал фигуры и брал фигуры соперника!"
+    "guide.random.success": "Молодец! Ты передвигал фигуры и брал фигуры соперника!",
+    "secrets": "Секреты шахмат"
   }
 }
